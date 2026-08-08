@@ -1,0 +1,288 @@
+[
+  {
+    "id": "svq_catedral_giralda",
+    "categoryId": "sevilla",
+    "city": "sevilla",
+    "name": "Catedral de Sevilla e Giralda",
+    "tagline": "A maior catedral gótica do mundo",
+    "description": "Erguida sobre a antiga mesquita almóada, é a maior catedral gótica do planeta e guarda o túmulo de Cristóvão Colombo, sustentado por quatro alegorias dos reinos de Espanha. Sua nave central sobe a 42 metros e o retábulo-mor dourado é o maior do mundo. Ao lado, a Giralda — antigo minarete do século XII coroado por um campanário renascentista — se sobe por 35 rampas, sem degraus.",
+    "lat": 37.38614,
+    "lng": -5.99263,
+    "durationLabel": "1,5–2 h",
+    "fit": "INDOOR",
+    "mapQuery": "Catedral de Sevilla, Sevilla",
+    "kingTip": "Compre o ingresso online com horário marcado e vá logo na abertura, às 10h30 — a Giralda esquenta e lota ao meio-dia. O mesmo bilhete dá acesso à Igreja do Salvador, que você pode visitar noutro momento sem nova fila.",
+    "priceLevel": "€€ (cerca de 13€; Giralda incluída)",
+    "hours": {
+      "openDays": "Todos os dias",
+      "openHour": "10:30",
+      "closeHour": "18:00",
+      "note": "Domingos abre mais tarde; horários de culto alteram o acesso. Confirme no site."
+    },
+    "links": [
+      { "label": "Site oficial e ingressos", "url": "https://www.catedraldesevilla.es" }
+    ],
+    "history": "Construída entre 1401 e 1528 sobre a mesquita aljama almóada, cujo pátio das abluções sobrevive como o Patio de los Naranjos; a Giralda, minarete de 1198, ganhou o corpo de sinos e o cata-vento El Giraldillo em 1568. É Patrimônio Mundial desde 1987."
+  },
+  {
+    "id": "svq_real_alcazar",
+    "categoryId": "sevilla",
+    "city": "sevilla",
+    "name": "Real Alcázar",
+    "tagline": "O palácio real em uso mais antigo da Europa",
+    "description": "Um deslumbrante conjunto de palácios de mil anos onde o mudéjar, o gótico e o renascentista se sobrepõem em pátios, azulejos e tetos de madeira lavrada. O Palácio de Pedro I, com o Patio de las Doncellas, é o ápice da arte mudéjar; ao redor estendem-se jardins de laranjeiras, fontes e o labirinto. Cenário de Game of Thrones, segue sendo residência oficial da família real em Sevilha.",
+    "lat": 37.38316,
+    "lng": -5.99106,
+    "durationLabel": "2–3 h",
+    "fit": "INDOOR",
+    "mapQuery": "Real Alcazar de Sevilla, Sevilla",
+    "kingTip": "Reserve online com dias de antecedência: os ingressos por franja horária esgotam, sobretudo no verão. Entre às 9h30 na abertura e refugie-se nos jardins e no fresco Salón de Embajadores nas horas de mais calor.",
+    "priceLevel": "€€ (cerca de 14,50€)",
+    "hours": {
+      "openDays": "Todos os dias",
+      "openHour": "09:30",
+      "closeHour": "19:00",
+      "note": "Fecha 1 e 6 de jan, Sexta-Feira Santa e 25 dez. Última entrada 1 h antes."
+    },
+    "links": [
+      { "label": "Site oficial e ingressos", "url": "https://www.alcazarsevilla.org" }
+    ],
+    "history": "Iniciado como fortaleza omíada no século X, foi ampliado pelos almóadas e reconstruído como palácio mudéjar por Pedro I de Castela a partir de 1364, com sucessivas intervenções até o século XIX. É Patrimônio Mundial desde 1987 e residência real desde então."
+  },
+  {
+    "id": "svq_plaza_espana",
+    "categoryId": "sevilla",
+    "city": "sevilla",
+    "name": "Plaza de España",
+    "tagline": "O grande semicírculo de azulejos e canais",
+    "description": "Joia da Exposição Ibero-Americana de 1929, é um monumental semicírculo de 200 metros que abraça um canal navegável cruzado por quatro pontes de cerâmica. Ao longo da base, 48 bancos de azulejo representam cada província espanhola em ordem alfabética. Mistura regionalismo, art déco e ecos mudéjares e renascentistas; serviu de cenário a Star Wars e Lawrence da Arábia.",
+    "lat": 37.37727,
+    "lng": -5.98716,
+    "durationLabel": "45 min – 1 h",
+    "fit": "CLEAR_SKY",
+    "mapQuery": "Plaza de Espana, Sevilla",
+    "kingTip": "Vá bem cedo ou no fim da tarde: ao meio-dia o sol bate em cheio na praça aberta e não há sombra. Procure o banco 'Málaga' entre os 48 azulejos para a foto de casa. Alugar um barquinho no canal dura só uns minutos e vale pelas fotos.",
+    "priceLevel": "Gratuito (barcos à parte)",
+    "history": "Projetada por Aníbal González para a Exposição Ibero-Americana de 1929, foi concebida como abraço simbólico de Espanha às suas antigas colônias, com as pontes representando os quatro reinos históricos da península; hoje abriga sedes de órgãos públicos."
+  },
+  {
+    "id": "svq_barrio_santa_cruz",
+    "categoryId": "sevilla",
+    "city": "sevilla",
+    "name": "Barrio de Santa Cruz",
+    "tagline": "O labirinto branco da antiga judiaria",
+    "description": "A antiga judiaria de Sevilha é um emaranhado de vielas estreitas, casas caiadas de branco, pátios floridos e pracinhas com laranjeiras, encravado entre a Catedral e o Alcázar. Ruas como a Calle Agua e a lendária Calleja del Beso, largos como a Plaza de Doña Elvira e a Plaza de Santa Cruz condensam o imaginário mais romântico da cidade. Some-se as sombras e o frescor dos becos.",
+    "lat": 37.38509,
+    "lng": -5.99010,
+    "durationLabel": "1–2 h a pé",
+    "fit": "ANY",
+    "mapQuery": "Barrio de Santa Cruz, Sevilla",
+    "kingTip": "Perca-se de propósito pelas vielas na hora da sesta, quando os becos ficam vazios e frescos. Espie os pátios abertos e busque a Plaza de Doña Elvira à sombra dos laranjais — um dos recantos mais fotogênicos e tranquilos do bairro.",
+    "priceLevel": "Gratuito",
+    "history": "Foi a judiaria de Sevilha desde a conquista cristã de 1248 até o pogrom de 1391, que a esvaziou; o traçado atual, de ruas propositalmente estreitas para dar sombra e frescor, foi remodelado e romantizado nas reformas urbanas do início do século XX."
+  },
+  {
+    "id": "svq_setas_metropol",
+    "categoryId": "sevilla",
+    "city": "sevilla",
+    "name": "Metropol Parasol — Las Setas",
+    "tagline": "O maior monumento de madeira do mundo",
+    "description": "Apelidada de 'Las Setas' (os cogumelos), esta ondulante estrutura de madeira de 2011, projetada por Jürgen Mayer, cobre a Plaza de la Encarnación e é a maior obra de madeira do mundo. No térreo, o Antiquarium exibe ruínas romanas e islâmicas descobertas na obra. No alto, uma passarela sinuosa oferece uma das melhores vistas panorâmicas de Sevilha, num contraste ousado com o casco antigo.",
+    "lat": 37.39335,
+    "lng": -5.99213,
+    "durationLabel": "45 min – 1 h",
+    "fit": "CLEAR_SKY",
+    "mapQuery": "Setas de Sevilla, Plaza de la Encarnacion, Sevilla",
+    "kingTip": "Suba ao mirante ao pôr do sol: a passarela pega a Giralda e a Catedral recortadas na luz dourada, e o ingresso costuma dar direito a uma bebida no bar do topo. Compre online para evitar a fila do elevador.",
+    "priceLevel": "€ (mirante cerca de 15€ com consumo)",
+    "hours": {
+      "openDays": "Todos os dias",
+      "openHour": "09:30",
+      "closeHour": "00:00",
+      "note": "Mirante aberto até tarde; o Antiquarium tem horário próprio. Confirme no site."
+    },
+    "links": [
+      { "label": "Site oficial e ingressos", "url": "https://www.setasdesevilla.com" }
+    ],
+    "history": "Inaugurada em 2011 após um projeto de Jürgen Mayer vencedor de concurso de 2004, ergueu-se sobre o antigo mercado da Encarnación; as escavações revelaram um bairro romano e almóada, hoje preservado no Antiquarium sob a praça."
+  },
+  {
+    "id": "svq_triana_puente_isabel",
+    "categoryId": "sevilla",
+    "city": "sevilla",
+    "name": "Triana e Puente de Isabel II",
+    "tagline": "O bairro marinheiro do outro lado do rio",
+    "description": "Do outro lado do Guadalquivir, Triana é o berço do flamenco, da cerâmica e dos marinheiros que partiram para as Américas. A Puente de Isabel II, de 1852 e a mais antiga ponte de ferro conservada da Espanha, leva ao Mercado de Triana, à Capilla del Carmen e à Calle Betis, cuja fileira de casas coloridas se reflete no rio. Ateliês de azulejos mantêm viva a tradição oleira do bairro.",
+    "lat": 37.38468,
+    "lng": -6.00191,
+    "durationLabel": "1,5–2 h a pé",
+    "fit": "ANY",
+    "mapQuery": "Puente de Isabel II, Triana, Sevilla",
+    "kingTip": "Cruze a ponte no fim da tarde e caminhe pela Calle Betis com o rio à direita: é a vista clássica da Torre del Oro e da Giralda ao pôr do sol, do lado de Triana. O Mercado de Triana esconde o Castillo de San Jorge, sede da Inquisição, no subsolo.",
+    "priceLevel": "Gratuito",
+    "history": "Bairro extramuros desde a época romana, Triana foi lar de oleiros, ceramistas e navegadores dos séculos XV-XVI; a Puente de Isabel II, também chamada Puente de Triana, foi inaugurada em 1852 inspirada na parisiense do Carrousel, substituindo a antiga ponte de barcas almóada."
+  },
+  {
+    "id": "svq_torre_del_oro",
+    "categoryId": "sevilla",
+    "city": "sevilla",
+    "name": "Torre del Oro",
+    "tagline": "A torre albarrã à beira do Guadalquivir",
+    "description": "Sentinela dodecagonal do século XIII à margem do Guadalquivir, integrava a muralha almóada e controlava o acesso fluvial ao porto de Sevilha. Deve o nome ao brilho dourado que a luz arrancava de seus antigos revestimentos. Hoje abriga um pequeno Museu Naval, e seu terraço superior oferece uma vista aberta do rio, de Triana e da Plaza de Toros logo ao lado.",
+    "lat": 37.38263,
+    "lng": -5.99631,
+    "durationLabel": "30–45 min",
+    "fit": "CLEAR_SKY",
+    "mapQuery": "Torre del Oro, Sevilla",
+    "kingTip": "É uma das visitas mais baratas da cidade e às segundas costuma ser gratuita. Suba ao terraço para a vista do rio, mas o melhor mesmo é fotografá-la de fora, do lado de Triana, com o Guadalquivir em primeiro plano ao entardecer.",
+    "priceLevel": "€ (cerca de 3€; segundas grátis)",
+    "hours": {
+      "openDays": "Todos os dias",
+      "openHour": "09:30",
+      "closeHour": "18:45",
+      "note": "Fins de semana com horário reduzido; confirme antes de ir."
+    },
+    "history": "Erguida por volta de 1220-1221 pelos almóadas como torre albarrã da muralha, fechava com uma corrente sobre o rio a passagem de navios inimigos; serviu de prisão e capela e, desde 1944, abriga o Museu Marítimo da Marinha espanhola."
+  },
+  {
+    "id": "svq_plaza_toros_maestranza",
+    "categoryId": "sevilla",
+    "city": "sevilla",
+    "name": "Plaza de Toros de la Maestranza",
+    "tagline": "A praça de touros mais antiga do país",
+    "description": "Considerada a mais monumental praça de touros da Espanha, sua construção arrastou-se de 1749 a 1881, o que lhe deu a forma ovalada irregular e a fachada barroca branca e ocre da Puerta del Príncipe. A visita guiada percorre a arena, os curros, a capela dos toureiros e o museu taurino, com trajes, cartazes e obras de Goya. Um marco histórico e arquitetônico à beira do rio, para além da tourada.",
+    "lat": 37.38636,
+    "lng": -5.99862,
+    "durationLabel": "1 h (visita guiada)",
+    "fit": "INDOOR",
+    "mapQuery": "Plaza de Toros de la Real Maestranza, Sevilla",
+    "kingTip": "A visita guiada com o museu roda em espanhol e inglês a cada 30 minutos e é interessante mesmo para quem não liga para touradas — pela arquitetura e pelas telas de Goya. Evite os dias de corrida (domingos da primavera), quando a visita não abre.",
+    "priceLevel": "€€ (visita guiada cerca de 12€)",
+    "hours": {
+      "openDays": "Todos os dias",
+      "openHour": "09:30",
+      "closeHour": "21:00",
+      "note": "Em dias de espetáculo o horário de visita muda ou é suspenso. Confirme no site."
+    },
+    "links": [
+      { "label": "Site oficial", "url": "https://www.realmaestranza.com" }
+    ],
+    "history": "A Real Maestranza de Caballería de Sevilha começou a levantá-la em 1749 substituindo uma praça de madeira; a obra prolongou-se até 1881, resultando no formato oval assimétrico. É a mais antiga praça de touros monumental da Espanha ainda em uso."
+  },
+  {
+    "id": "svq_archivo_de_indias",
+    "categoryId": "sevilla",
+    "city": "sevilla",
+    "name": "Archivo General de Indias",
+    "tagline": "A memória documental de todo um império",
+    "description": "Instalado na antiga Lonja de Mercaderes, sereno edifício renascentista de Juan de Herrera junto à Catedral, guarda o mais completo arquivo da administração espanhola nas Américas e Filipinas: 43 mil legajos e 80 milhões de páginas, do diário de bordo de Colombo aos mapas do Novo Mundo. A entrada é gratuita e permite ver a monumental escadaria de mármore e as salas com exposições rotativas.",
+    "lat": 37.38455,
+    "lng": -5.99268,
+    "durationLabel": "30–45 min",
+    "fit": "INDOOR",
+    "mapQuery": "Archivo General de Indias, Sevilla",
+    "kingTip": "Entrada livre e a poucos passos da Catedral e do Alcázar — um refúgio fresco e climatizado, quase vazio, para as horas de mais calor. Suba a escadaria de jaspe e veja as vitrines com documentos originais dos descobrimentos.",
+    "priceLevel": "Gratuito",
+    "hours": {
+      "openDays": "Ter a dom",
+      "openHour": "09:30",
+      "closeHour": "17:00",
+      "note": "Domingos e feriados só de manhã; fecha às segundas. Confirme no site."
+    },
+    "links": [
+      { "label": "Cultura — Archivo de Indias", "url": "https://www.cultura.gob.es/archivos/mc/agi/portada.html" }
+    ],
+    "history": "O edifício, obra de Juan de Herrera concluída em 1598 como bolsa de comércio, passou a arquivo em 1785 por ordem de Carlos III, que reuniu ali a documentação colonial antes dispersa. Integra o conjunto Patrimônio Mundial de Sevilha desde 1987."
+  },
+  {
+    "id": "svq_basilica_macarena",
+    "categoryId": "sevilla",
+    "city": "sevilla",
+    "name": "Basílica de la Macarena",
+    "tagline": "O templo da Virgem mais amada de Sevilha",
+    "description": "No bairro popular da Macarena, esta basílica de meados do século XX guarda a Esperanza Macarena, a imagem mariana mais venerada de Sevilha, obra anônima do século XVII de rosto lacrimoso e cinco lágrimas de cristal. Coberta de mantos bordados a ouro e joias, é o centro emocional da Semana Santa sevilhana. Ao lado ergue-se o melhor trecho conservado da muralha almóada, com o Arco da Macarena.",
+    "lat": 37.40119,
+    "lng": -5.98903,
+    "durationLabel": "30–45 min",
+    "fit": "INDOOR",
+    "mapQuery": "Basilica de la Macarena, Sevilla",
+    "kingTip": "Combine a visita com o trecho de muralha almóada e o Arco da Macarena, logo em frente — o melhor lençol de muralha árabe da cidade. O tesouro da Virgem, com mantos e o manto de tabaco, tem entrada à parte e vale a pena.",
+    "priceLevel": "Gratuito (museu do tesouro à parte)",
+    "hours": {
+      "openDays": "Todos os dias",
+      "openHour": "09:00",
+      "closeHour": "19:00",
+      "note": "Fecha ao meio-dia; horários de culto alteram o acesso. Confirme no site."
+    },
+    "links": [
+      { "label": "Site oficial", "url": "https://www.hermandaddelamacarena.es" }
+    ],
+    "history": "A basílica atual foi construída entre 1941 e 1949 para abrigar a imagem, antes venerada na paróquia de San Gil; a Esperanza Macarena, atribuída a fins do século XVII, tornou-se símbolo da cidade e é levada em procissão na madrugada da Sexta-Feira Santa."
+  },
+  {
+    "id": "svq_casa_de_pilatos",
+    "categoryId": "sevilla",
+    "city": "sevilla",
+    "name": "Casa de Pilatos",
+    "tagline": "Palácio-jardim mudéjar e renascentista",
+    "description": "O mais belo palácio senhorial de Sevilha, residência dos duques de Medinaceli, funde o mudéjar, o gótico e o renascimento italiano numa harmonia rara. Seu pátio principal reúne azulejos, estuques mudéjares e uma coleção de estátuas clássicas e bustos de imperadores romanos. Jardins com fontes e loggias completam o conjunto, cujo nome evoca a suposta casa de Pilatos em Jerusalém.",
+    "lat": 37.38953,
+    "lng": -5.98745,
+    "durationLabel": "1–1,5 h",
+    "fit": "INDOOR",
+    "mapQuery": "Casa de Pilatos, Sevilla",
+    "kingTip": "Menos disputada que o Alcázar e igualmente deslumbrante — ótima alternativa se os ingressos do Alcázar esgotaram. O andar térreo pode ser visitado por conta própria; o andar nobre, ainda habitado, só com visita guiada, que sai de tempos em tempos.",
+    "priceLevel": "€€ (cerca de 12€ térreo; 15€ com andar nobre)",
+    "hours": {
+      "openDays": "Todos os dias",
+      "openHour": "09:00",
+      "closeHour": "18:00",
+      "note": "Última entrada 1 h antes; horário pode estender no verão. Confirme no site."
+    },
+    "links": [
+      { "label": "Fundación Medinaceli", "url": "https://www.fundacionmedinaceli.org/monumentos/pilatos/" }
+    ],
+    "history": "Iniciado no fim do século XV por Pedro Enríquez e sua mulher Catalina de Ribera, foi transformado após a peregrinação de Fadrique Enríquez a Jerusalém em 1519, que inspirou o nome e a devoção do Via-Crúcis; é sede da Fundación Casa de Medinaceli."
+  },
+  {
+    "id": "svq_palacio_las_duenas",
+    "categoryId": "sevilla",
+    "city": "sevilla",
+    "name": "Palacio de las Dueñas",
+    "tagline": "A casa sevilhana da duquesa de Alba",
+    "description": "Residência sevilhana da Casa de Alba e casa natal do poeta Antonio Machado, cujo pai era administrador da propriedade. Este palácio dos séculos XV-XVI mistura gótico-mudéjar e renascentista em torno de pátios com laranjeiras, buganvílias e fontes. Aberto ao público desde 2016, revela salões repletos de arte, tapeçarias e objetos pessoais da célebre duquesa Cayetana, num ambiente ainda muito habitado.",
+    "lat": 37.39468,
+    "lng": -5.99000,
+    "durationLabel": "45 min – 1 h",
+    "fit": "INDOOR",
+    "mapQuery": "Palacio de las Duenas, Sevilla",
+    "kingTip": "Menos turístico e delicioso de percorrer com o audioguia incluído, que conta as histórias da duquesa Cayetana de Alba. Os pátios floridos rendem fotos lindas e ficam à sombra — respiro fresco entre a Macarena e o centro. Feche 'Las Setas' na mesma caminhada.",
+    "priceLevel": "€€ (cerca de 12€, audioguia incluído)",
+    "hours": {
+      "openDays": "Todos os dias",
+      "openHour": "10:00",
+      "closeHour": "18:00",
+      "note": "Verão pode ter horário estendido; fecha em eventos privados. Confirme no site."
+    },
+    "links": [
+      { "label": "Site oficial", "url": "https://www.lasduenas.es" }
+    ],
+    "history": "Documentado desde o século XV e ampliado pelos Ribera e depois pela Casa de Alba, deve o nome ao extinto convento de Santa María de las Dueñas; ali nasceu Antonio Machado em 1875, e foi lar predileto de Cayetana Fitz-James Stuart, 18.ª duquesa de Alba."
+  },
+  {
+    "id": "svq_plaza_nueva_ayuntamiento",
+    "categoryId": "sevilla",
+    "city": "sevilla",
+    "name": "Plaza Nueva e Ayuntamiento",
+    "tagline": "O salão urbano no coração de Sevilha",
+    "description": "Ampla praça ajardinada com palmeiras e o monumento equestre a Fernando III, o Santo, é o marco-zero da Sevilha moderna e ponto de partida dos bondes. Fecha-a a leste a fachada plateresca do Ayuntamiento, joia do renascimento espanhol lavrada em pedra por Diego de Riaño no século XVI, com medalhões, grutescos e emblemas mitológicos. Dali arranca a movimentada rua comercial Sierpes.",
+    "lat": 37.38914,
+    "lng": -5.99553,
+    "durationLabel": "20–30 min",
+    "fit": "CLEAR_SKY",
+    "mapQuery": "Plaza Nueva, Sevilla",
+    "kingTip": "Rodeie o Ayuntamiento até a Plaza de San Francisco para ver a fachada plateresca mais rica, esculpida em detalhe. Daqui a Calle Sierpes leva, à sombra de toldos no verão, direto às lojas e ao centro histórico.",
+    "priceLevel": "Gratuito",
+    "history": "A praça abriu-se em 1852 sobre o solar do convento de San Francisco, demolido pela desamortização; o Ayuntamiento, obra plateresca de Diego de Riaño iniciada em 1527, foi ampliado com fachada neoclássica sobre a Plaza Nueva no século XIX."
+  }
+]

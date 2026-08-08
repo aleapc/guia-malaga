@@ -1,5 +1,5 @@
 // AUTO-GERADO por scripts/build-extra.mjs — não editar à mão.
-// 385 locais (pesquisa por zona). Fonte: scripts/data/*.json
+// 447 locais (pesquisa por zona). Fonte: scripts/data/*.json
 import type { Attraction, LinkRef } from './content';
 
 export const extraAttractions: Attraction[] = [
@@ -3815,7 +3815,8 @@ export const extraAttractions: Attraction[] = [
     "mapQuery": "Café con Libros, Plaza de la Merced 19, Málaga",
     "whatToDo": "Pegue um livro da estante, peça um café com um pedaço de bolo caseiro e sente-se na esplanada de frente para a praça.",
     "kingTip": "Confira a programação: em muitas noites há música ao vivo ou micro-teatro no salão interno.",
-    "priceLevel": "€€"
+    "priceLevel": "€€",
+    "image": "mlg_cafe_con_libros.jpg"
   },
   {
     "id": "mlg_recyclo_bike_cafe",
@@ -6082,7 +6083,8 @@ export const extraAttractions: Attraction[] = [
         "label": "Site oficial",
         "url": "https://grupocasalola.com"
       }
-    ]
+    ],
+    "image": "mlg_casa_lola.jpg"
   },
   {
     "id": "mlg_el_yerno",
@@ -6103,7 +6105,8 @@ export const extraAttractions: Attraction[] = [
       "openHour": "10:00",
       "closeHour": "16:00",
       "note": "Segue o horário do mercado; fecha à tarde e aos domingos. Melhor pela manhã e no aperitivo do meio-dia."
-    }
+    },
+    "image": "mlg_el_yerno.jpg"
   },
   {
     "id": "mlg_barra_zapata",
@@ -6511,6 +6514,1432 @@ export const extraAttractions: Attraction[] = [
     "mapQuery": "Canillas de Albaida, Málaga",
     "kingTip": "Combine no mesmo roteiro com Cómpeta, a 2 km, e com o alminar de Árchez: as três ficam encadeadas pela estrada do vale.",
     "priceLevel": "Gratuito"
+  },
+  {
+    "id": "cdz_catedral",
+    "categoryId": "cadiz",
+    "city": "cadiz",
+    "name": "Catedral de Cádiz",
+    "tagline": "A catedral dourada de frente para o Atlântico",
+    "description": "Erguida ao longo de mais de um século, a \"Catedral Nueva\" mistura barroco e neoclássico e é coroada por uma cúpula de telhas amarelas que reluz sobre a cidade e o mar. O interior guarda a cripta onde repousa o compositor Manuel de Falla, e a subida à Torre del Reloj abre um dos melhores panoramas do casco antigo. Fica na Plaza de la Catedral, coração da Cádiz monumental.",
+    "lat": 36.5296,
+    "lng": -6.2985,
+    "durationLabel": "1–1,5 h",
+    "fit": "INDOOR",
+    "mapQuery": "Catedral de Cádiz",
+    "kingTip": "Pague o ingresso da Torre del Reloj: do alto se vê a cúpula amarela e o casario branco emoldurados pelo Atlântico dos dois lados.",
+    "priceLevel": "€€ (entrada com torre)",
+    "links": [
+      {
+        "label": "Catedral de Cádiz – site oficial",
+        "url": "https://catedraldecadiz.com/"
+      }
+    ]
+  },
+  {
+    "id": "cdz_torre_tavira",
+    "categoryId": "cadiz",
+    "city": "cadiz",
+    "name": "Torre Tavira & Câmara Escura",
+    "tagline": "A torre-vigia com a câmara escura da cidade",
+    "description": "A mais alta das antigas torres-vigia de Cádiz, a 45 metros sobre o nível do mar, foi ponto de observação dos navios no auge do comércio com as Américas. Hoje abriga uma câmara escura que projeta imagens ao vivo da cidade em tempo real numa tela côncava, guiada por um narrador. Do terraço, vê-se todo o labirinto de torres-miradouro que marcam o casco antigo.",
+    "lat": 36.5306,
+    "lng": -6.2971,
+    "durationLabel": "45 min – 1 h",
+    "fit": "INDOOR",
+    "mapQuery": "Torre Tavira, Cádiz",
+    "kingTip": "As sessões da câmara escura têm horário marcado e lotam: chegue cedo e reserve a sessão antes de subir ao terraço.",
+    "priceLevel": "€€",
+    "links": [
+      {
+        "label": "Torre Tavira – site oficial",
+        "url": "https://www.torretavira.com/"
+      }
+    ]
+  },
+  {
+    "id": "cdz_barrio_populo",
+    "categoryId": "cadiz",
+    "city": "cadiz",
+    "name": "Barrio del Pópulo",
+    "tagline": "O núcleo medieval mais antigo da cidade",
+    "description": "O Pópulo é o bairro mais antigo de Cádiz, o único que conserva o traçado medieval dentro dos antigos muros, com três arcos que sobreviveram das portas da cidade. Entre becos estreitos afloram o Teatro Romano, escondido sob as casas, e a Casa del Obispo, além de esplanadas animadas ao redor da catedral. É o coração histórico da cidade, ideal de se percorrer a pé sem pressa.",
+    "lat": 36.5292,
+    "lng": -6.2955,
+    "durationLabel": "1 h",
+    "fit": "ANY",
+    "mapQuery": "Barrio del Pópulo, Cádiz",
+    "kingTip": "Entre pelo Arco de la Rosa, junto à catedral, e procure a entrada do Teatro Romano: a visita às ruínas é gratuita.",
+    "priceLevel": "Gratuito (passeio)"
+  },
+  {
+    "id": "cdz_caleta_san_sebastian",
+    "categoryId": "cadiz",
+    "city": "cadiz",
+    "name": "La Caleta & Castillo de San Sebastián",
+    "tagline": "A praia enseada entre dois castelos",
+    "description": "Encaixada entre os castelos de Santa Catalina e San Sebastián, La Caleta é a praia urbana mais fotogênica de Cádiz, uma pequena enseada de areia dourada com o balneário modernista La Palma ao centro. Do castelo de San Sebastián, alcançado por um longo molhe sobre o mar, descortina-se toda a baía e o casario. É cenário de filmes e o ponto mais celebrado para o pôr do sol atlântico da cidade.",
+    "lat": 36.529,
+    "lng": -6.3053,
+    "durationLabel": "1–1,5 h",
+    "fit": "CLEAR_SKY",
+    "mapQuery": "Playa de La Caleta, Cádiz",
+    "kingTip": "Percorra o molhe até o Castillo de San Sebastián ao entardecer: é dali, com o mar dos dois lados, que sai o melhor pôr do sol da cidade.",
+    "priceLevel": "Gratuito"
+  },
+  {
+    "id": "cdz_playa_victoria",
+    "categoryId": "cadiz",
+    "city": "cadiz",
+    "name": "Playa de la Victoria",
+    "tagline": "O extenso areal urbano da cidade nova",
+    "description": "Estendendo-se por cerca de 3 km ao longo da Cádiz moderna, a Playa de la Victoria é uma das melhores praias urbanas da Espanha, de areia fina e clara e águas atlânticas abertas. Bem estruturada, com calçadão, chiringuitos e serviços, é onde a cidade toma sol e joga futebol de praia. O vento e a maré mais fortes que os do Mediterrâneo dão o tom autenticamente atlântico do banho.",
+    "lat": 36.5093,
+    "lng": -6.2657,
+    "durationLabel": "2–3 h",
+    "fit": "CLEAR_SKY",
+    "mapQuery": "Playa de la Victoria, Cádiz",
+    "kingTip": "Fica na cidade nova, longe do casco antigo: vá de ônibus ou táxi e emende com um almoço de pescado num chiringuito do calçadão.",
+    "priceLevel": "Gratuito"
+  },
+  {
+    "id": "jrz_alcazar",
+    "categoryId": "cadiz",
+    "city": "cadiz",
+    "name": "Alcázar de Jerez",
+    "tagline": "A fortaleza almóada com câmara escura",
+    "description": "Fortaleza-palácio do século XII erguida pelos almóadas, o Alcázar de Jerez é um dos exemplos mais bem conservados da arquitetura militar islâmica da Andaluzia. Dentro das muralhas guardam-se uma mesquita convertida em capela, banhos árabes, jardins perfumados e um moinho de azeite. A torre octogonal abriga outra câmara escura, com vistas em tempo real sobre a colegiata e os telhados de Jerez.",
+    "lat": 36.6789,
+    "lng": -6.1409,
+    "durationLabel": "1–1,5 h",
+    "fit": "ANY",
+    "mapQuery": "Alcázar de Jerez de la Frontera",
+    "kingTip": "O ingresso pode incluir a câmara escura da torre: confira os horários das sessões na bilheteria ao entrar.",
+    "priceLevel": "€€"
+  },
+  {
+    "id": "jrz_bodega_tio_pepe",
+    "categoryId": "cadiz",
+    "city": "cadiz",
+    "name": "Bodegas Tío Pepe (González Byass)",
+    "tagline": "As catedrais do vinho onde nasce o xerez",
+    "description": "No coração de Jerez, as históricas Bodegas González Byass abrigam a marca Tío Pepe, ícone mundial do fino. A visita guiada percorre as \"catedrais do vinho\", naves altíssimas de barris empilhados assinados por celebridades, o famoso trenzinho entre as adegas e a degustação de xerez direto do tonel. É a forma mais completa de entender a criança do vinho fortificado que só existe neste triângulo.",
+    "lat": 36.6798,
+    "lng": -6.1428,
+    "durationLabel": "1,5–2 h",
+    "fit": "INDOOR",
+    "mapQuery": "Bodegas Tío Pepe, Jerez de la Frontera",
+    "kingTip": "Reserve a visita com degustação online e escolha a sessão em português ou espanhol: as guiadas incluem prova de vários tipos de xerez.",
+    "priceLevel": "€€–€€€",
+    "links": [
+      {
+        "label": "Bodegas Tío Pepe – visitas",
+        "url": "https://www.bodegastiopepe.com/"
+      }
+    ]
+  },
+  {
+    "id": "jrz_real_escuela_ecuestre",
+    "categoryId": "cadiz",
+    "city": "cadiz",
+    "name": "Real Escuela Andaluza del Arte Ecuestre",
+    "tagline": "O balé equestre dos cavalos que dançam",
+    "description": "Instituição de fama mundial, a Real Escuela é onde se preserva a arte do cavalo andaluz de pura raça espanhola. O espetáculo \"Cómo bailan los caballos andaluces\" leva cavalos e cavaleiros a uma coreografia de doma clássica ao som de música espanhola, num picadeiro palaciano. Nos dias sem show, visitam-se os treinos, as cavalariças, a guarnição de arreios e os jardins da fundação.",
+    "lat": 36.6873,
+    "lng": -6.1362,
+    "durationLabel": "2–2,5 h",
+    "fit": "INDOOR",
+    "mapQuery": "Real Escuela Andaluza del Arte Ecuestre, Jerez",
+    "kingTip": "O espetáculo com os cavalos dançantes é só em dias marcados (em geral terças e quintas): confira o calendário e reserve com antecedência.",
+    "priceLevel": "€€–€€€",
+    "links": [
+      {
+        "label": "Real Escuela – site oficial",
+        "url": "https://www.realescuela.org/"
+      }
+    ]
+  },
+  {
+    "id": "trf_casco_puerta_jerez",
+    "categoryId": "cadiz",
+    "city": "cadiz",
+    "name": "Casco Antiguo & Puerta de Jerez de Tarifa",
+    "tagline": "A vila murada onde dois mares se encontram",
+    "description": "Tarifa é o ponto continental mais ao sul da Europa, e seu casco antigo mourisco de ruas estreitas e caiadas se entra pela monumental Puerta de Jerez, único acesso que resta das antigas muralhas. Dentro, becos floridos, a igreja de San Mateo e um clima de kitesurf e ventos convivem com a herança medieval. A cidade olha ao mesmo tempo para o Atlântico e o Mediterrâneo, com a costa africana no horizonte.",
+    "lat": 36.0128,
+    "lng": -5.6063,
+    "durationLabel": "1,5–2 h",
+    "fit": "ANY",
+    "mapQuery": "Puerta de Jerez, Tarifa",
+    "kingTip": "Entre pela Puerta de Jerez e siga até o Mirador del Estrecho, na muralha: em dias claros a costa de Marrocos aparece nítida do outro lado.",
+    "priceLevel": "Gratuito (passeio)"
+  },
+  {
+    "id": "trf_bolonia_baelo_claudia",
+    "categoryId": "cadiz",
+    "city": "cadiz",
+    "name": "Playa de Bolonia & Baelo Claudia",
+    "tagline": "Ruínas romanas ao pé de uma duna gigante",
+    "description": "Uma das praias mais espetaculares do sul, Bolonia combina areal virgem, águas transparentes e uma enorme duna de areia branca, monumento natural, que se pode subir. Ao lado, o conjunto arqueológico de Baelo Claudia preserva uma cidade romana quase completa — fórum, basílica, teatro e as fábricas de garum — de frente para o mar. Natureza e história num dos cenários mais fotogênicos da província de Cádiz.",
+    "lat": 36.0897,
+    "lng": -5.7745,
+    "durationLabel": "2–3 h",
+    "fit": "CLEAR_SKY",
+    "mapQuery": "Conjunto Arqueológico Baelo Claudia, Bolonia",
+    "kingTip": "A entrada em Baelo Claudia é gratuita para cidadãos da UE; para brasileiros costuma ser paga e barata. Leve água: não há sombra entre as ruínas.",
+    "priceLevel": "€ (sítio); praia gratuita",
+    "links": [
+      {
+        "label": "Conjunto Arqueológico Baelo Claudia",
+        "url": "https://www.juntadeandalucia.es/cultura/enclaves/conjunto-arqueologico-baelo-claudia"
+      }
+    ]
+  },
+  {
+    "id": "trf_isla_palomas",
+    "categoryId": "cadiz",
+    "city": "cadiz",
+    "name": "Isla de las Palomas",
+    "tagline": "O ponto mais ao sul da Europa continental",
+    "description": "Ligada a Tarifa por um istmo artificial, a Isla de las Palomas marca o extremo sul do continente europeu, exatamente onde o Atlântico e o Mediterrâneo se tocam. O istmo separa duas praias, e uma placa assinala a divisa simbólica dos dois mares. A ilha em si é recinto militar de acesso restrito, mas o passeio pelo istmo e o marco geográfico rendem a foto obrigatória de Tarifa.",
+    "lat": 36.0024,
+    "lng": -5.6086,
+    "durationLabel": "30–45 min",
+    "fit": "CLEAR_SKY",
+    "mapQuery": "Isla de las Palomas, Tarifa",
+    "kingTip": "Caminhe pelo istmo até a placa que separa Atlântico e Mediterrâneo: a ilha fortificada não se visita, mas o marco dos dois mares é livre.",
+    "priceLevel": "Gratuito"
+  },
+  {
+    "id": "vejer_frontera",
+    "categoryId": "cadiz",
+    "city": "cadiz",
+    "name": "Vejer de la Frontera",
+    "tagline": "A vila branca no alto da colina",
+    "description": "Considerada uma das vilas mais bonitas da Espanha, Vejer se agarra a uma colina numa massa compacta de casas caiadas, coroada por muralhas e por um castelo mourisco. Seu labirinto de becos, arcos e pátios andaluzes esconde miradouros que se abrem sobre a campina de La Janda até o mar. O casco preserva a Judería, a igreja gótico-mudéjar do Salvador e um ambiente pausado de doçarias e restaurantes de charme.",
+    "lat": 36.2517,
+    "lng": -5.9663,
+    "durationLabel": "2–3 h",
+    "fit": "ANY",
+    "mapQuery": "Vejer de la Frontera, Cádiz",
+    "kingTip": "Estacione fora das muralhas e suba a pé: o casco é íngreme e de ruas estreitíssimas. Procure os miradouros da Cobijada para as melhores vistas.",
+    "priceLevel": "Gratuito (passeio)"
+  },
+  {
+    "id": "puerto_santa_maria",
+    "categoryId": "cadiz",
+    "city": "cadiz",
+    "name": "El Puerto de Santa María",
+    "tagline": "A cidade das adegas e do castelo templário",
+    "description": "Do outro lado da baía de Cádiz, El Puerto de Santa María foi porto das Índias e terra de adegas centenárias, entre elas a icônica Osborne, do touro-símbolo. O Castillo de San Marcos, fortaleza-igreja de origem medieval, e a Plaza de Toros monumental dividem o roteiro com o barrio das bodegas e as marisquerías da Ribera del Marisco. Chega-se de Cádiz pelo tradicional catamarã ou vapor que cruza a baía.",
+    "lat": 36.5983,
+    "lng": -6.2331,
+    "durationLabel": "2–3 h",
+    "fit": "ANY",
+    "mapQuery": "Castillo de San Marcos, El Puerto de Santa María",
+    "kingTip": "Vá de Cádiz no catamarã da baía: são cerca de 30 minutos de travessia e desembarca-se a poucos passos do centro e das bodegas.",
+    "priceLevel": "Gratuito (passeio); adegas €€"
+  },
+  {
+    "id": "sanlucar_barrameda",
+    "categoryId": "cadiz",
+    "city": "cadiz",
+    "name": "Sanlúcar de Barrameda",
+    "tagline": "A manzanilla e as corridas na praia",
+    "description": "Na foz do Guadalquivir, de frente para o parque de Doñana, Sanlúcar é a pátria da manzanilla, o xerez seco que só amadurece neste ar salino. O Barrio Alto guarda o palácio dos duques de Medina Sidonia e bodegas históricas, enquanto a Bajo de Guía enfileira marisquerías célebres pelos langostinos. No verão, a praia recebe as tradicionais corridas de cavalos, patrimônio único da cidade.",
+    "lat": 36.7785,
+    "lng": -6.353,
+    "durationLabel": "2–3 h",
+    "fit": "ANY",
+    "mapQuery": "Sanlúcar de Barrameda, Cádiz",
+    "kingTip": "Almoce langostinos na Bajo de Guía com vista para Doñana e prove a manzanilla local: o vinho combina de propósito com o marisco da foz.",
+    "priceLevel": "Gratuito (passeio); adegas €€"
+  },
+  {
+    "id": "gib_upper_rock",
+    "categoryId": "gibraltar",
+    "city": "gibraltar",
+    "name": "Upper Rock Nature Reserve",
+    "tagline": "O coração selvagem do Rochedo",
+    "description": "A reserva natural que ocupa o alto do Rochedo reúne quase todas as atrações icônicas de Gibraltar num só bilhete: cavernas, túneis, o castelo mouro, miradouros e os famosos macacos. Trilhas e estradinhas ligam os pontos entre penhascos calcários com vista para dois continentes. É o passeio-âncora de qualquer bate-volta ao território britânico.",
+    "lat": 36.135,
+    "lng": -5.345,
+    "durationLabel": "3–4 h",
+    "fit": "CLEAR_SKY",
+    "mapQuery": "Upper Rock Nature Reserve, Gibraltar",
+    "kingTip": "Leve o passaporte: cruzar a fronteira do Reino Unido é obrigatório, e a pé você atravessa a própria pista do aeroporto. O bilhete único da reserva já cobre gruta, túneis e castelo, então compre uma vez e aproveite tudo.",
+    "priceLevel": "£19 adulto (estimativa; bilhete único da reserva)",
+    "hours": {
+      "note": "Verão (mai–set) ~9:30–19:00; confirmar no acesso"
+    },
+    "links": [
+      {
+        "label": "Visit Gibraltar (oficial)",
+        "url": "https://www.visitgibraltar.gi/see-and-do/upper-rock-nature-reserve"
+      }
+    ]
+  },
+  {
+    "id": "gib_apes_den",
+    "categoryId": "gibraltar",
+    "city": "gibraltar",
+    "name": "Apes' Den & Macacos de Berbéria",
+    "tagline": "Os únicos macacos selvagens da Europa",
+    "description": "Gibraltar é o único lugar da Europa onde vivem macacos em liberdade: cerca de 230 macacos-de-berbéria habitam o Rochedo, e o Apes' Den é o ponto clássico para vê-los de perto. Ágeis e curiosos, transitam entre muretas e turistas sem qualquer cerca. Um encontro divertido, mas que pede respeito à distância.",
+    "lat": 36.1339,
+    "lng": -5.3475,
+    "durationLabel": "30–45 min",
+    "fit": "ANY",
+    "mapQuery": "Apes' Den, Gibraltar",
+    "kingTip": "Nunca alimente nem mostre comida: os macacos abrem mochilas e sacolas em segundos, e alimentá-los dá multa. Guarde óculos, celular e lanches antes de chegar perto.",
+    "priceLevel": "Incluído no bilhete da reserva",
+    "links": [
+      {
+        "label": "Visit Gibraltar (oficial)",
+        "url": "https://www.visitgibraltar.gi/see-and-do/apes-den-barbary-macaques"
+      }
+    ]
+  },
+  {
+    "id": "gib_st_michaels_cave",
+    "categoryId": "gibraltar",
+    "city": "gibraltar",
+    "name": "St. Michael's Cave",
+    "tagline": "A catedral de estalactites do Rochedo",
+    "description": "Esta gruta calcária no interior do Rochedo impressiona pelo salão principal, tomado por estalactites e estalagmites e iluminado por um espetáculo de luzes coloridas. Usado como auditório de concertos desde os anos 1950, o espaço tem acústica notável e é a atração fechada mais visitada de Gibraltar. Refúgio perfeito quando o tempo fecha lá fora.",
+    "lat": 36.1246,
+    "lng": -5.3436,
+    "durationLabel": "45 min",
+    "fit": "INDOOR",
+    "mapQuery": "St. Michael's Cave, Gibraltar",
+    "kingTip": "Como é abrigada e fresca, deixe a gruta para as horas de mais calor ou de céu nublado, aproveitando os miradouros ao ar livre quando o sol estiver aberto.",
+    "priceLevel": "Incluído no bilhete da reserva",
+    "hours": {
+      "note": "Verão ~9:30–19:00 (via reserva); confirmar"
+    },
+    "links": [
+      {
+        "label": "Visit Gibraltar (oficial)",
+        "url": "https://www.visitgibraltar.gi/see-and-do/st-michaels-cave"
+      }
+    ]
+  },
+  {
+    "id": "gib_europa_point",
+    "categoryId": "gibraltar",
+    "city": "gibraltar",
+    "name": "Europa Point",
+    "tagline": "A ponta sul, com a África no horizonte",
+    "description": "No extremo meridional de Gibraltar, o Estreito estreita-se a apenas 14 km e, em dias claros, revela em detalhe as montanhas do Rif marroquino do outro lado do mar. O promontório reúne o farol da Trinity House, a mesquita Ibrahim-al-Ibrahim e uma esplanada aberta ao vento onde Mediterrâneo e Atlântico se encontram. Um dos panoramas mais dramáticos do território.",
+    "lat": 36.1088,
+    "lng": -5.3435,
+    "durationLabel": "30–45 min",
+    "fit": "CLEAR_SKY",
+    "mapQuery": "Europa Point, Gibraltar",
+    "kingTip": "Vá num dia limpo e sem bruma: é a diferença entre ver a costa africana nitidamente ou apenas uma linha no horizonte. De manhã cedo o ar costuma estar mais transparente.",
+    "priceLevel": "Gratuito (acesso livre)",
+    "links": [
+      {
+        "label": "Visit Gibraltar (oficial)",
+        "url": "https://www.visitgibraltar.gi/see-and-do/europa-point"
+      }
+    ]
+  },
+  {
+    "id": "gib_great_siege_tunnels",
+    "categoryId": "gibraltar",
+    "city": "gibraltar",
+    "name": "Great Siege Tunnels",
+    "tagline": "A fortaleza escavada dentro da rocha",
+    "description": "Escavados na rocha viva durante o Grande Cerco de 1779–1783, com pouco mais que pólvora e ferramentas simples, estes túneis foram cravados para posicionar canhões contra as tropas franco-espanholas. Percorrer as galerias com aberturas voltadas para o norte é uma aula de engenharia militar e um dos capítulos mais fascinantes da história de Gibraltar. Fresco e abrigado o ano todo.",
+    "lat": 36.1452,
+    "lng": -5.345,
+    "durationLabel": "45 min",
+    "fit": "INDOOR",
+    "mapQuery": "Great Siege Tunnels, Gibraltar",
+    "kingTip": "Das seteiras dos canhões abre-se uma vista rasante sobre o istmo e o aeroporto: bom lugar para entender, de cima, por que a pista corta a única estrada de acesso ao território.",
+    "priceLevel": "Incluído no bilhete da reserva",
+    "links": [
+      {
+        "label": "Visit Gibraltar (oficial)",
+        "url": "https://www.visitgibraltar.gi/see-and-do/great-siege-tunnels"
+      }
+    ]
+  },
+  {
+    "id": "gib_moorish_castle",
+    "categoryId": "gibraltar",
+    "city": "gibraltar",
+    "name": "Castelo Mouro (Moorish Castle)",
+    "tagline": "A Torre da Homenagem sobre a cidade",
+    "description": "Erguido a partir do século XII, o Castelo Mouro domina a encosta norte com sua imponente Torre da Homenagem, ainda marcada por impactos de antigos cercos. É a mais antiga estrutura mourisca visível de Gibraltar e um dos símbolos do território. Da muralha, a vista alcança a baía, o istmo e a Espanha logo ali.",
+    "lat": 36.1443,
+    "lng": -5.3513,
+    "durationLabel": "30–40 min",
+    "fit": "ANY",
+    "mapQuery": "Moorish Castle, Gibraltar",
+    "kingTip": "Combine com os Great Siege Tunnels: ambos ficam na encosta norte da reserva e se visitam na mesma subida, sem retorno até o centro.",
+    "priceLevel": "Incluído no bilhete da reserva",
+    "links": [
+      {
+        "label": "Visit Gibraltar (oficial)",
+        "url": "https://www.visitgibraltar.gi/see-and-do/moorish-castle"
+      }
+    ]
+  },
+  {
+    "id": "gib_main_street",
+    "categoryId": "gibraltar",
+    "city": "gibraltar",
+    "name": "Main Street",
+    "tagline": "Compras duty-free entre cabines vermelhas",
+    "description": "A artéria comercial de Gibraltar é um pedaço de Reino Unido no Mediterrâneo: pubs, cabines telefônicas vermelhas, fachadas georgianas e lojas isentas de impostos que atraem quem busca perfumes, eletrônicos, tabaco e bebidas a preços vantajosos. A Casemates Square, numa ponta, concentra restaurantes e mesas ao ar livre. Passeio ideal para começar ou fechar o dia.",
+    "lat": 36.1408,
+    "lng": -5.3535,
+    "durationLabel": "1–2 h",
+    "fit": "ANY",
+    "mapQuery": "Main Street, Gibraltar",
+    "kingTip": "As lojas são duty-free, mas a moeda oficial é a libra (£); o euro é aceito, só que o câmbio no balcão costuma ser pior. Pague em libra ou no cartão para não perder na conversão.",
+    "priceLevel": "Variável (£/GBP; compras isentas de imposto)",
+    "hours": {
+      "note": "Lojas geralmente seg–sáb ~10:00–19:00; domingos reduzido; confirmar"
+    },
+    "links": [
+      {
+        "label": "Visit Gibraltar (oficial)",
+        "url": "https://www.visitgibraltar.gi/see-and-do/shopping"
+      }
+    ]
+  },
+  {
+    "id": "gib_skywalk",
+    "categoryId": "gibraltar",
+    "city": "gibraltar",
+    "name": "Skywalk Gibraltar",
+    "tagline": "Piso de vidro a 340 metros de altura",
+    "description": "Encravada no alto do Rochedo, esta plataforma de vidro projeta o visitante sobre o vazio a 340 metros acima do mar, com vista de 360 graus que alcança Espanha, o Estreito e a África em dias claros. Construída sobre uma antiga posição militar, é uma das atrações mais recentes e vertiginosas do território. Emoção garantida para quem não teme altura.",
+    "lat": 36.1288,
+    "lng": -5.3448,
+    "durationLabel": "20–30 min",
+    "fit": "CLEAR_SKY",
+    "mapQuery": "Skywalk Gibraltar",
+    "kingTip": "Vá cedo, antes dos ônibus de excursão: a plataforma é compacta e, cheia, fica difícil conseguir a foto sobre o vidro com a paisagem limpa ao fundo.",
+    "priceLevel": "Incluído no bilhete da reserva",
+    "links": [
+      {
+        "label": "Visit Gibraltar (oficial)",
+        "url": "https://www.visitgibraltar.gi/see-and-do/skywalk"
+      }
+    ]
+  },
+  {
+    "id": "gib_ohara_battery",
+    "categoryId": "gibraltar",
+    "city": "gibraltar",
+    "name": "O'Hara's Battery",
+    "tagline": "O ponto mais alto do Rochedo",
+    "description": "No cume de Gibraltar, a 426 metros, esta bateria de artilharia guarda um enorme canhão que outrora defendia o Estreito. É o ponto mais alto acessível do Rochedo, com panorama absoluto sobre a cidade, a baía, o Mediterrâneo e o Atlântico ao mesmo tempo. Vista de tirar o fôlego, literalmente, dado o vento constante no topo.",
+    "lat": 36.1238,
+    "lng": -5.3429,
+    "durationLabel": "30 min",
+    "fit": "CLEAR_SKY",
+    "mapQuery": "O'Hara's Battery, Gibraltar",
+    "kingTip": "Leve corta-vento mesmo no verão: no cume o vento é forte e a temperatura cai bastante em relação ao nível do mar.",
+    "priceLevel": "Incluído no bilhete da reserva",
+    "links": [
+      {
+        "label": "Visit Gibraltar (oficial)",
+        "url": "https://www.visitgibraltar.gi/see-and-do/oharas-battery"
+      }
+    ]
+  },
+  {
+    "id": "gib_windsor_bridge",
+    "categoryId": "gibraltar",
+    "city": "gibraltar",
+    "name": "Windsor Suspension Bridge",
+    "tagline": "A ponte suspensa sobre a ravina",
+    "description": "Esta passarela suspensa de 71 metros cruza uma profunda ravina no flanco do Rochedo, oferecendo uma travessia balançante com vista para a baía e a costa espanhola. Rodeada de vegetação mediterrânea, integra o circuito de trilhas da reserva e liga-se facilmente ao Skywalk. Curta, mas memorável para quem gosta de emoção com paisagem.",
+    "lat": 36.1298,
+    "lng": -5.3458,
+    "durationLabel": "15–20 min",
+    "fit": "CLEAR_SKY",
+    "mapQuery": "Windsor Suspension Bridge, Gibraltar",
+    "kingTip": "Emende com o Skywalk, a poucos minutos de caminhada: os dois ficam no mesmo trecho da encosta oeste e rendem as melhores fotos com a baía ao fundo.",
+    "priceLevel": "Incluído no bilhete da reserva",
+    "links": [
+      {
+        "label": "Visit Gibraltar (oficial)",
+        "url": "https://www.visitgibraltar.gi/see-and-do/windsor-bridge"
+      }
+    ]
+  },
+  {
+    "id": "gib_alameda_gardens",
+    "categoryId": "gibraltar",
+    "city": "gibraltar",
+    "name": "Alameda Botanic Gardens",
+    "tagline": "O jardim botânico junto ao centro",
+    "description": "Desenhados em 1816 e ligados historicamente aos Kew Gardens de Londres, os Jardins Botânicos da Alameda são um oásis de espécies mediterrâneas e subtropicais a poucos passos do centro. Caminhos sombreados, esculturas e miradouros fazem dele uma pausa tranquila e gratuita, longe das filas das atrações do alto. Bom para descansar as pernas entre um passeio e outro.",
+    "lat": 36.1358,
+    "lng": -5.3502,
+    "durationLabel": "45 min–1 h",
+    "fit": "ANY",
+    "mapQuery": "Gibraltar Botanic Gardens, The Alameda",
+    "kingTip": "Fica na parte baixa, perto da estação inferior do teleférico e do centro: encaixa bem no fim do dia, antes de voltar à fronteira, sem precisar subir o Rochedo de novo.",
+    "priceLevel": "Gratuito (entrada livre)",
+    "hours": {
+      "note": "Diariamente ~8:00 ao anoitecer; confirmar"
+    },
+    "links": [
+      {
+        "label": "The Alameda (oficial)",
+        "url": "https://www.gibraltargardens.gi/"
+      }
+    ]
+  },
+  {
+    "id": "mlg_ac_palacio_atico",
+    "categoryId": "tapas",
+    "city": "malaga",
+    "name": "Ático — AC Hotel Málaga Palacio",
+    "tagline": "rooftop mais alto, vista do porto",
+    "description": "No 15º andar do histórico AC Hotel Málaga Palacio, este é o rooftop mais alto da cidade, com vista de 360° sobre a catedral, o porto e o Mediterrâneo. À noite, o terraço com piscina vira palco de coquetéis de autor e música ambiente, num dos pores do sol mais concorridos de Málaga. Ambiente elegante e adulto, ideal para abrir a noite com calma.",
+    "lat": 36.719173,
+    "lng": -4.419542,
+    "durationLabel": "a noite",
+    "fit": "CLEAR_SKY",
+    "mapQuery": "Ático Rooftop AC Hotel Málaga Palacio, Calle Cortina del Muelle 1, Málaga",
+    "kingTip": "Suba antes do pôr do sol e peça um gin-tônica de autor no parapeito voltado para a catedral; nos fins de semana vale reservar mesa.",
+    "priceLevel": "€€€ (coquetel ~€14 est.)",
+    "hours": {
+      "openDays": "Todos os dias",
+      "openHour": "13:00",
+      "closeHour": "01:00",
+      "note": "Aberto ao público, não só a hóspedes. Horários encurtam fora da alta temporada; confirme na hora."
+    }
+  },
+  {
+    "id": "mlg_the_top_molina_lario",
+    "categoryId": "tapas",
+    "city": "malaga",
+    "name": "The Top — Molina Lario",
+    "tagline": "coquetéis frente à catedral",
+    "description": "Rooftop do elegante Hotel Molina Lario, a poucos passos da catedral, com terraço no alto e vista aberta sobre a Manquita, o porto e os telhados do centro. A casa é conhecida pelos coquetéis criativos, cheios de texturas e aromas, servidos com tapas finas e música ao vivo em noites selecionadas. Um clássico sofisticado para brindar com a catedral iluminada ao fundo.",
+    "lat": 36.719151,
+    "lng": -4.42021,
+    "durationLabel": "a noite",
+    "fit": "CLEAR_SKY",
+    "mapQuery": "The Top Rooftop, Hotel Molina Lario, Calle Molina Lario 22, Málaga",
+    "kingTip": "Peça um coquetel de autor da carta e garanta lugar no lado voltado para a catedral, o melhor ângulo da casa.",
+    "priceLevel": "€€€ (coquetel ~€14 est.)",
+    "hours": {
+      "openDays": "Todos os dias",
+      "openHour": "13:00",
+      "closeHour": "01:00",
+      "note": "Terraço disputado ao entardecer; reserve nos fins de semana. Confirme os horários na baixa temporada."
+    },
+    "links": [
+      {
+        "label": "Hotel Molina Lario",
+        "url": "https://www.cataloniahotels.com/en/hotel/catalonia-molina-lario"
+      }
+    ]
+  },
+  {
+    "id": "mlg_batik_terraza_alcazaba",
+    "categoryId": "tapas",
+    "city": "malaga",
+    "name": "Batik — Terraza de Alcazaba",
+    "tagline": "rooftop com vista da Alcazaba",
+    "description": "No último andar do Alcazaba Premium Hotel, na Calle Alcazabilla, o terraço chill-out do Batik tem uma das melhores vistas panorâmicas da Alcazaba, do Teatro Romano e do castelo de Gibralfaro. Dividido em dois níveis, serve coquetéis preparados por bartenders e petiscos mediterrâneos num clima descontraído e sofisticado. É o ponto certo para prolongar a noite com um dos cenários mais bonitos do centro histórico.",
+    "lat": 36.722263,
+    "lng": -4.417045,
+    "durationLabel": "a noite",
+    "fit": "CLEAR_SKY",
+    "mapQuery": "Batik Terraza de Alcazaba, Calle Alcazabilla 12, Málaga",
+    "kingTip": "Peça um coquetel e fique no nível superior voltado para a Alcazaba iluminada; o pôr do sol sobre a fortaleza é o momento a não perder.",
+    "priceLevel": "€€€ (coquetel ~€13 est.)",
+    "hours": {
+      "openDays": "Todos os dias",
+      "openHour": "13:00",
+      "closeHour": "00:00",
+      "note": "Terraço pequeno e muito procurado; reserve no verão. Horários variam com a estação."
+    },
+    "links": [
+      {
+        "label": "Hotel Alcazaba Premium",
+        "url": "https://www.hotelalcazabapremium.com/en/malaga-restaurant/"
+      }
+    ]
+  },
+  {
+    "id": "mlg_terraza_larios",
+    "categoryId": "tapas",
+    "city": "malaga",
+    "name": "La Terraza de Larios",
+    "tagline": "rooftop no topo da Calle Larios",
+    "description": "No alto do Hotel Larios, na famosa Calle Marqués de Larios, este rooftop estiloso tem bar de mosaico, teto retrátil e vista para a catedral e os telhados do centro. Coquetéis bem executados, som ambiente e um público animado fazem dele uma das varandas mais glamourosas de Málaga. O teto móvel garante o programa em qualquer época do ano.",
+    "lat": 36.720658,
+    "lng": -4.42186,
+    "durationLabel": "a noite",
+    "fit": "CLEAR_SKY",
+    "mapQuery": "La Terraza de Larios, Calle Marqués de Larios 2, Málaga",
+    "kingTip": "Entre pela recepção do hotel na Calle Larios e suba de elevador; peça a mesa junto ao parapeito com vista para a catedral.",
+    "priceLevel": "€€€ (coquetel ~€14 est.)",
+    "hours": {
+      "openDays": "Todos os dias",
+      "openHour": "14:00",
+      "closeHour": "02:00",
+      "note": "Fecha mais cedo de domingo a quinta (por volta de 00:30–01:00). Aberto ao público, walk-ins bem-vindos."
+    }
+  },
+  {
+    "id": "mlg_the_pharmacy_speakeasy",
+    "categoryId": "tapas",
+    "city": "malaga",
+    "name": "The Pharmacy — Speakeasy",
+    "tagline": "coctelería de autor semiescondida",
+    "description": "Speakeasy semiescondido no centro de Málaga, com estética de botica antiga e uma carta de coquetéis de autor organizada como um herbário, cheia de destilados botânicos e criações fora do comum. Premiado como uma das melhores coctelerías novas da Espanha no concurso World Class, é um espaço íntimo, com jazz de fundo e mixologia levada a sério. Não aceita reservas: chega-se e espera-se por um lugar no balcão.",
+    "lat": 36.721019,
+    "lng": -4.424886,
+    "durationLabel": "a noite",
+    "fit": "ANY",
+    "mapQuery": "Speakeasy The Pharmacy, Calle García Briz 3, Málaga",
+    "kingTip": "Deixe o bartender guiar pela carta-herbário em vez de escolher às cegas; chegue cedo, pois não há reservas e enche rápido.",
+    "priceLevel": "€€€ (coquetel ~€12 est.)",
+    "hours": {
+      "openDays": "Todos os dias",
+      "openHour": "18:00",
+      "closeHour": "02:00",
+      "note": "Não aceita reservas. Espaço pequeno e intimista; confirme o dia de descanso na baixa temporada."
+    },
+    "links": [
+      {
+        "label": "Site oficial",
+        "url": "https://www.thepharmacy.es"
+      }
+    ]
+  },
+  {
+    "id": "mrb_la_suite_puente_romano",
+    "categoryId": "tapas",
+    "city": "marbella",
+    "name": "La Suite — Puente Romano",
+    "tagline": "sala icônica da Milha de Ouro",
+    "description": "Sala noturna íntima dentro do resort Puente Romano, na Milha de Ouro, com decoração que cruza loft de Manhattan e estilo Marbella. Uma das baladas mais exclusivas da cidade, reúne um público seleto com programação de DJs internacionais, código de vestimenta apertado e serviço de mesa impecável. Abre depois da meia-noite e é reduto histórico da noite chic marbellí.",
+    "lat": 36.503664,
+    "lng": -4.925582,
+    "durationLabel": "a noite",
+    "fit": "ANY",
+    "mapQuery": "La Suite Club, Puente Romano Beach Resort, Bulevar Príncipe Alfonso von Hohenlohe, Marbella",
+    "kingTip": "Reserve mesa com serviço de garrafa com antecedência e respeite o dress code (nada de bermuda ou chinelo); a casa costuma abrir só depois da meia-noite.",
+    "priceLevel": "€€€",
+    "hours": {
+      "openDays": "Qui–Sáb",
+      "openHour": "00:00",
+      "closeHour": "06:00",
+      "note": "Programação concentrada de quinta a sábado e no verão; funcionamento sazonal. Confirme a agenda antes de ir."
+    },
+    "links": [
+      {
+        "label": "Puente Romano",
+        "url": "https://www.puenteromano.com"
+      }
+    ]
+  },
+  {
+    "id": "mrb_olivia_valere",
+    "categoryId": "tapas",
+    "city": "marbella",
+    "name": "Olivia Valère",
+    "tagline": "sala-mito com jardins mouros",
+    "description": "Instituição da noite marbellí desde os anos 1990, num cenário deslumbrante inspirado num palácio de estilo mouro, com pátios, jardins e fontes na estrada de Istán. Referência de badalação da Costa del Sol, mistura restaurante, lounge e balada com DJs e público internacional cosmopolita. É a sala-mito onde a alta temporada de Marbella atinge o auge.",
+    "lat": 36.505062,
+    "lng": -4.940957,
+    "durationLabel": "a noite",
+    "fit": "ANY",
+    "mapQuery": "Olivia Valère, Carretera de Istán Km 0.8, Marbella",
+    "kingTip": "Fica fora do centro, na estrada de Istán: vá de táxi. Para garantir entrada nas noites cheias de agosto, reserve mesa antecipadamente.",
+    "priceLevel": "€€€",
+    "hours": {
+      "openDays": "Qua–Dom",
+      "openHour": "00:00",
+      "closeHour": "06:00",
+      "note": "Auge no verão; funcionamento sazonal e agenda variável. Dress code exigente; confirme a programação da semana."
+    },
+    "links": [
+      {
+        "label": "Site oficial",
+        "url": "https://olivia-valere.com"
+      }
+    ]
+  },
+  {
+    "id": "mrb_nikki_beach",
+    "categoryId": "tapas",
+    "city": "marbella",
+    "name": "Nikki Beach Marbella",
+    "tagline": "beach club chic ao anoitecer",
+    "description": "Beach club de luxo em Elviria, à beira-mar, com piscina, camas VIP, restaurante ao ar livre e o icônico bar octogonal ao centro. Aberto desde 2003, é famoso pelas festas temáticas, do champanhe à lua cheia, que embalam a tarde e deslizam para a noite com DJs e clima de festa. Um dos endereços mais exclusivos (e caros) da Costa del Sol.",
+    "lat": 36.489687,
+    "lng": -4.773009,
+    "durationLabel": "a noite",
+    "fit": "CLEAR_SKY",
+    "mapQuery": "Nikki Beach Marbella, Playa Hotel Don Carlos, Elviria, Marbella",
+    "kingTip": "O forte é a virada tarde-noite: reserve cama ou mesa e mire nos dias de festa temática, quando a casa ferve com DJ.",
+    "priceLevel": "€€€ (coquetel ~€18 est.)",
+    "hours": {
+      "openDays": "Todos os dias (temporada)",
+      "openHour": "11:00",
+      "closeHour": "00:00",
+      "note": "Fica em Elviria, a leste do centro de Marbella. Opera na temporada (primavera–outono); confirme calendário e eventos."
+    }
+  },
+  {
+    "id": "mrb_belvue_amare",
+    "categoryId": "tapas",
+    "city": "marbella",
+    "name": "Belvue Rooftop — Amàre Beach",
+    "tagline": "rooftop com coquetéis de Diego Cabrera",
+    "description": "No 9º andar do Amàre Beach Hotel (só adultos), no paseo marítimo de Marbella, este rooftop tem vista de 360° sobre o mar e a serra, alcançando Gibraltar e a África em dias claros. A carta de coquetéis assinada pelo premiado mixólogo Diego Cabrera é o grande trunfo, com DJs residentes e shows ao vivo à noite. Do drink romântico ao pôr do sol à balada animada, é dos rooftops mais refinados da cidade.",
+    "lat": 36.508237,
+    "lng": -4.881168,
+    "durationLabel": "a noite",
+    "fit": "CLEAR_SKY",
+    "mapQuery": "Belvue Rooftop Bar, Amàre Beach Hotel Marbella, Av. Severo Ochoa, Marbella",
+    "kingTip": "Peça um dos coquetéis de assinatura de Diego Cabrera ao entardecer; hotel só para adultos, ótimo para uma noite sem pressa a dois.",
+    "priceLevel": "€€€ (coquetel ~€16 est.)",
+    "hours": {
+      "openDays": "Todos os dias (temporada)",
+      "openHour": "13:00",
+      "closeHour": "01:00",
+      "note": "No centro de Marbella, junto à praia. Funciona na temporada; horários e agenda de DJ variam. Confirme antes."
+    },
+    "links": [
+      {
+        "label": "Site oficial",
+        "url": "https://www.amarehotels.com/amare-marbella/belvue-rooftop-bar/"
+      }
+    ]
+  },
+  {
+    "id": "grn_b_heaven_carmen",
+    "categoryId": "tapas",
+    "city": "granada",
+    "name": "B-Heaven — Barceló Carmen",
+    "tagline": "rooftop com a Alhambra ao fundo",
+    "description": "Rooftop amplo e elegante no alto do hotel Barceló Carmen, com vista de 360° sobre Granada, a Sierra Nevada e a Torre de la Vela da Alhambra. À noite, vira lounge de coquetéis com a Alhambra iluminada no horizonte, gastronomia de forno a carvão e programação de música ao vivo e shows de flamenco em dias fixos. Um dos melhores mirantes da cidade para brindar depois do pôr do sol.",
+    "lat": 37.17052,
+    "lng": -3.598312,
+    "durationLabel": "a noite",
+    "fit": "CLEAR_SKY",
+    "mapQuery": "B-Heaven, Barceló Carmen Granada, Acera del Darro 62, Granada",
+    "kingTip": "Vá ao anoitecer para ver a Alhambra ganhar tons alaranjados; peça um coquetel e confira a agenda (flamenco às quartas, música ao vivo em outras noites).",
+    "priceLevel": "€€€ (coquetel ~€13 est.)",
+    "hours": {
+      "openDays": "Todos os dias (temporada)",
+      "openHour": "12:00",
+      "closeHour": "00:00",
+      "note": "Terraço sazonal, mais ativo de primavera a outono. Aberto ao público; confirme horários e programação."
+    },
+    "links": [
+      {
+        "label": "Site oficial",
+        "url": "https://bheavengranada.com"
+      }
+    ]
+  },
+  {
+    "id": "sev_terraza_eme",
+    "categoryId": "tapas",
+    "city": "sevilla",
+    "name": "La Terraza del EME",
+    "tagline": "rooftop coladinho na Giralda",
+    "description": "Rooftop sofisticado no alto do EME Catedral Hotel, no bairro de Santa Cruz, a poucos metros da catedral e com a Giralda praticamente ao alcance da mão. Distribuído em dois níveis de decoração moderna, oferece coquetéis icônicos assinados por Javier de las Muelas (Dry Martini) e petiscos num ambiente urbano e vibrante. É dos rooftops mais deslumbrantes de Sevilha para brindar com a Giralda iluminada.",
+    "lat": 37.386865,
+    "lng": -5.992736,
+    "durationLabel": "a noite",
+    "fit": "CLEAR_SKY",
+    "mapQuery": "La Terraza del EME, EME Catedral Hotel, Calle Alemanes 27, Sevilla",
+    "kingTip": "Peça um dos coquetéis de assinatura de Javier de las Muelas e garanta lugar no parapeito de frente para a Giralda; enche muito ao pôr do sol.",
+    "priceLevel": "€€€ (coquetel ~€15 est.)",
+    "hours": {
+      "openDays": "Todos os dias",
+      "openHour": "13:00",
+      "closeHour": "02:00",
+      "note": "Muito procurado ao entardecer; considere reservar. Horários encurtam fora da alta temporada."
+    },
+    "links": [
+      {
+        "label": "Site oficial",
+        "url": "https://www.laterrazadeleme.com"
+      }
+    ]
+  },
+  {
+    "id": "sev_terraza_dona_maria",
+    "categoryId": "tapas",
+    "city": "sevilla",
+    "name": "Terraza Doña María",
+    "tagline": "a vista mais frontal da Giralda",
+    "description": "Terraço do histórico Hotel Doña María, em Santa Cruz, com vários níveis, piscina e o ângulo mais frontal e próximo da Giralda em toda Sevilha. De atmosfera clássica e charmosa, é o lugar perfeito para um aperitivo ou um drink ao entardecer, envolvido pela silhueta iluminada da torre. Menos badalado que os rooftops de hotel de design, ganha no cenário puro.",
+    "lat": 37.386395,
+    "lng": -5.99161,
+    "durationLabel": "a noite",
+    "fit": "CLEAR_SKY",
+    "mapQuery": "Terraza Doña María, Hotel Doña María, Calle Don Remondo 19, Sevilla",
+    "kingTip": "Chegue perto do pôr do sol para pegar mesa de frente para a Giralda; o drink ali é mais sobre a vista do que sobre a coctelaria.",
+    "priceLevel": "€€€ (coquetel ~€13 est.)",
+    "hours": {
+      "openDays": "Todos os dias (temporada)",
+      "openHour": "17:00",
+      "closeHour": "00:00",
+      "note": "Terraço sazonal (primavera–outono) e dependente do tempo. Confirme abertura antes de subir."
+    },
+    "links": [
+      {
+        "label": "Site oficial",
+        "url": "https://www.terrazadonamaria.es"
+      }
+    ]
+  },
+  {
+    "id": "svq_abantal",
+    "categoryId": "gastronomia",
+    "city": "sevilla",
+    "name": "Abantal",
+    "tagline": "Estrela Michelin, alta cozinha sevillana",
+    "description": "A única mesa do centro de Sevilha a manter estrela Michelin ininterrupta desde 2009, sob o chef Julio Fernández Quintero. A cozinha parte da despensa andaluza e das receitas da região para construir menus-degustação de traço contemporâneo e sazonal, com profundo trabalho de vinhos de Jerez. Sala sóbria e serviço preciso fazem dela o endereço de referência para uma noite de fine dining na cidade.",
+    "lat": 37.38793,
+    "lng": -5.98371,
+    "durationLabel": "2,5–3 h",
+    "fit": "ANY",
+    "mapQuery": "Restaurante Abantal, Calle Alcalde José de la Bandera 7, Sevilla",
+    "kingTip": "Só funciona com menu-degustação e reserva antecipada; peça o pareamento de vinhos de Jerez, a grande especialidade da casa.",
+    "priceLevel": "€€€€",
+    "hours": {
+      "openDays": "Ter–Sáb",
+      "openHour": "13:30",
+      "closeHour": "22:30",
+      "note": "Fecha à tarde entre serviços e descansa dom/seg. Reserva obrigatória; confirme horários na alta temporada."
+    },
+    "links": [
+      {
+        "label": "Abantal – site oficial e reservas",
+        "url": "https://abantalrestaurante.es/"
+      }
+    ]
+  },
+  {
+    "id": "svq_canabota",
+    "categoryId": "gastronomia",
+    "city": "sevilla",
+    "name": "Cañabota",
+    "tagline": "Estrela Michelin do mar, produto ao natural",
+    "description": "Estrela Michelin desde 2022, a Cañabota fez fama tratando peixe e marisco do Atlântico andaluz com respeito quase absoluto ao produto: brasa, sal e pouco mais. Tem ambiente de gastro-bar, com peixaria e cozinha abertas à vista, e trabalha só proteína do mar — não há carne na carta. Ao lado, a informal La Barra de Cañabota serve a mesma matéria-prima em preparos simples e diretos.",
+    "lat": 37.39343,
+    "lng": -5.99363,
+    "durationLabel": "2–2,5 h",
+    "fit": "ANY",
+    "mapQuery": "Cañabota, Calle Orfila 1, Sevilla",
+    "kingTip": "Sem reserva, tente a barra da La Barra de Cañabota (Orfila 5); para o menu-degustação completo, reserve o restaurante principal com antecedência.",
+    "priceLevel": "€€€–€€€€",
+    "hours": {
+      "openDays": "Ter–Sáb",
+      "openHour": "13:30",
+      "closeHour": "23:00",
+      "note": "Fecha à tarde entre serviços e descansa dom/seg. Só peixe e marisco; confirme na reserva."
+    },
+    "links": [
+      {
+        "label": "Cañabota – site oficial e reservas",
+        "url": "https://canabota.es/"
+      }
+    ]
+  },
+  {
+    "id": "svq_ispal",
+    "categoryId": "gastronomia",
+    "city": "sevilla",
+    "name": "Ispal",
+    "tagline": "Recomendado Michelin, 100% sevillano",
+    "description": "Recomendado pela Guia Michelin, o Ispal faz da província de Sevilha o seu único território: cada ingrediente principal vem da terra sevillana, sob o selo \"ADN Sevilla\" do chef executivo. A proposta resgata receitas tradicionais — arroces de marisma, gaspachos, guisos — em versão elegante e atual, com menus-degustação e uma carta cuidada. Fica na Plaza de San Sebastián, junto ao Prado, num ambiente contemporâneo.",
+    "lat": 37.38151,
+    "lng": -5.98658,
+    "durationLabel": "2–2,5 h",
+    "fit": "ANY",
+    "mapQuery": "Restaurante Ispal, Plaza de San Sebastián 1, Sevilla",
+    "kingTip": "Não é estrelado, mas entrega alta cozinha por preço mais amável: o menu \"100% Sevilla\" é a porta de entrada perfeita à despensa local.",
+    "priceLevel": "€€€",
+    "hours": {
+      "openDays": "Ter–Sáb",
+      "openHour": "13:30",
+      "closeHour": "23:00",
+      "note": "Fecha à tarde entre serviços e descansa dom/seg. Confirme dias e menus na reserva."
+    },
+    "links": [
+      {
+        "label": "Ispal – site oficial e reservas",
+        "url": "https://restauranteispal.com/"
+      }
+    ]
+  },
+  {
+    "id": "svq_rinconcillo",
+    "categoryId": "tapas",
+    "city": "sevilla",
+    "name": "El Rinconcillo",
+    "tagline": "A taberna mais antiga de Sevilha, desde 1670",
+    "description": "Aberta em 1670, é a taberna mais antiga de Sevilha e uma das mais veneráveis da Espanha, ainda tocada pela mesma família há gerações. O balcão de mogno onde o garçom anota a conta a giz sobre a madeira, as prateleiras de garrafas antigas e os azulejos guardam intacto o rito do tapeo sevillano. Espinacas con garbanzos, croquetes e ibéricos regados a fino são o cânone da casa.",
+    "lat": 37.39334,
+    "lng": -5.98829,
+    "durationLabel": "45 min–1,5 h",
+    "fit": "ANY",
+    "mapQuery": "El Rinconcillo, Calle Gerona 40, Sevilla",
+    "kingTip": "Peça as espinacas con garbanzos e um fino; a conta é somada a giz na barra de madeira, como há séculos.",
+    "priceLevel": "€€",
+    "hours": {
+      "openDays": "Todos os dias",
+      "openHour": "13:00",
+      "closeHour": "01:30",
+      "note": "Costuma descansar às quartas em baixa temporada e enche muito à noite; confirme o dia de folga."
+    },
+    "links": [
+      {
+        "label": "El Rinconcillo – site oficial",
+        "url": "https://www.elrinconcillo.es/"
+      }
+    ]
+  },
+  {
+    "id": "svq_las_teresas",
+    "categoryId": "tapas",
+    "city": "sevilla",
+    "name": "Las Teresas",
+    "tagline": "Jamón de Jabugo na barra de Santa Cruz",
+    "description": "Bar histórico do bairro de Santa Cruz, com origem no século XIX, de barra estreita em L pintada de vermelho e presuntos pendurados no teto. É um dos melhores endereços da cidade para o jamón ibérico de bellota de Jabugo, cortado à faca, ao lado das clássicas espinacas con garbanzos e de bons guisos. O corredor de mesinhas na viela caiada é um dos cenários mais fotogênicos do tapeo sevillano.",
+    "lat": 37.38598,
+    "lng": -5.98932,
+    "durationLabel": "45 min–1 h",
+    "fit": "ANY",
+    "mapQuery": "Bar Las Teresas, Calle Santa Teresa 2, Sevilla",
+    "kingTip": "Peça uma tábua de jamón de Jabugo cortado à faca com um fino; as mesinhas da viela são disputadas, mas a barra rende mais conversa.",
+    "priceLevel": "€€",
+    "hours": {
+      "openDays": "Todos os dias",
+      "openHour": "10:00",
+      "closeHour": "00:00",
+      "note": "No coração turístico de Santa Cruz; costuma lotar no meio-dia e no fim da tarde."
+    },
+    "links": [
+      {
+        "label": "Las Teresas – site oficial",
+        "url": "http://www.lasteresas.es/"
+      }
+    ]
+  },
+  {
+    "id": "svq_eslava",
+    "categoryId": "tapas",
+    "city": "sevilla",
+    "name": "Eslava",
+    "tagline": "Tapas premiadas junto a San Lorenzo",
+    "description": "Culto entre sevillanos e viajantes, o Eslava fica no bairro de San Lorenzo e é referência da tapa moderna desde 1988. A cozinha andaluza com técnica renovada rendeu prêmios famosos, como o \"huevo sobre bizcocho de boletus\" com redução de vinho de Jerez, campeão da melhor tapa da cidade. Barra sempre cheia e sala nos fundos para quem prefere sentar; vale a espera.",
+    "lat": 37.39755,
+    "lng": -5.99692,
+    "durationLabel": "1–1,5 h",
+    "fit": "ANY",
+    "mapQuery": "Bar Eslava, Calle Eslava 3, Sevilla",
+    "kingTip": "Peça o ovo sobre bolo de boletus com redução de Jerez, a tapa que ganhou prêmios; não aceita reserva na barra, chegue cedo.",
+    "priceLevel": "€€",
+    "hours": {
+      "openDays": "Ter–Dom",
+      "openHour": "12:30",
+      "closeHour": "23:30",
+      "note": "Descansa às segundas e fecha à tarde entre serviços; a barra não reserva e forma fila."
+    }
+  },
+  {
+    "id": "svq_el_comercio",
+    "categoryId": "cafe",
+    "city": "sevilla",
+    "name": "Bar El Comercio",
+    "tagline": "Churros clássicos de Sevilha desde 1904",
+    "description": "Aberto em 1904 e ainda tocado pela família fundadora, é a churrería mais querida do centro de Sevilha. Serve os churros grossos em roda, fritos na hora e acompanhados de chocolate espesso ou café, ao balcão ou nas mesinhas de azulejo. Diferentemente da maioria, mantém a fritura o dia todo, o que o torna parada certa também no fim da tarde, entre os becos da Alfalfa.",
+    "lat": 37.39081,
+    "lng": -5.99236,
+    "durationLabel": "30–45 min",
+    "fit": "ANY",
+    "mapQuery": "Bar El Comercio, Calle Lineros 9, Sevilla",
+    "kingTip": "Peça churros com chocolate quente no café da manhã; aqui, ao contrário de quase toda a Espanha, também se fritam churros à tarde.",
+    "priceLevel": "€",
+    "hours": {
+      "openDays": "Seg–Sáb",
+      "openHour": "07:30",
+      "closeHour": "21:00",
+      "note": "Costuma fechar aos domingos e no meio da tarde; melhor no café da manhã ou na merienda."
+    }
+  },
+  {
+    "id": "cdz_aponiente",
+    "categoryId": "gastronomia",
+    "city": "cadiz",
+    "name": "Aponiente",
+    "tagline": "Três estrelas Michelin, o Chef do Mar",
+    "description": "Instalado num antigo moinho de maré junto às salinas de El Puerto de Santa María, o Aponiente de Ángel León é a primeira mesa da Andaluzia a conquistar três estrelas Michelin. O \"Chef do Mar\" transforma o menu num laboratório do oceano: embutidos marinhos, plâncton, bioluminescência, peixes de descarte e sal marinho conduzem uma experiência de vanguarda ligada à sustentabilidade. É destino gastronômico de primeira grandeza, a cerca de meia hora de Cádiz.",
+    "lat": 36.60334,
+    "lng": -6.21669,
+    "durationLabel": "3–3,5 h",
+    "fit": "ANY",
+    "mapQuery": "Aponiente, El Puerto de Santa María, Cádiz",
+    "kingTip": "As datas esgotam com meses de antecedência: reserve assim que a agenda abrir. Fica em El Puerto de Santa María, não em Cádiz capital — programe o deslocamento.",
+    "priceLevel": "€€€€",
+    "hours": {
+      "openDays": "Ter–Sáb",
+      "openHour": "13:30",
+      "closeHour": "22:00",
+      "note": "Temporada costuma ir da primavera ao fim do outono, com fechamento no inverno. Só menu-degustação e reserva antecipada."
+    },
+    "links": [
+      {
+        "label": "Aponiente – site oficial e reservas",
+        "url": "https://www.aponiente.com/"
+      }
+    ]
+  },
+  {
+    "id": "cdz_lu_cocina_alma",
+    "categoryId": "gastronomia",
+    "city": "cadiz",
+    "name": "LÚ Cocina y Alma",
+    "tagline": "Duas estrelas Michelin em Jerez",
+    "description": "Em Jerez, o chef Juanlu Fernández aplica técnica francesa clássica a ingredientes andaluzes de estação, elevando pratos humildes gaditanos a obras refinadas — um estilo que ele chama de \"vanguarda de retaguarda\", hoje com duas estrelas Michelin. A cozinha ocupa o centro da sala, e os comensais quase se sentam à mesa do chef, entre uma cenografia inspirada em Alice no País das Maravilhas. Dois menus-degustação, Duende e Duxo, conduzem a experiência.",
+    "lat": 36.68814,
+    "lng": -6.13449,
+    "durationLabel": "2,5–3 h",
+    "fit": "ANY",
+    "mapQuery": "LÚ Cocina y Alma, Calle Zaragoza 2, Jerez de la Frontera",
+    "kingTip": "Fica em Jerez, ideal de emendar com uma visita às bodegas de xerez no mesmo dia; reserve o menu com boa antecedência.",
+    "priceLevel": "€€€€",
+    "hours": {
+      "openDays": "Ter–Sáb",
+      "openHour": "13:30",
+      "closeHour": "22:30",
+      "note": "Fecha à tarde entre serviços e descansa dom/seg. Só menu-degustação e reserva antecipada."
+    },
+    "links": [
+      {
+        "label": "Universo LÚ – site oficial e reservas",
+        "url": "https://universolu.com/restaurantes/"
+      }
+    ]
+  },
+  {
+    "id": "cdz_codigo_de_barra",
+    "categoryId": "gastronomia",
+    "city": "cadiz",
+    "name": "Código de Barra",
+    "tagline": "A primeira estrela Michelin de Cádiz capital",
+    "description": "Pequena mesa no casco antigo, foi o primeiro restaurante de Cádiz capital a ganhar estrela Michelin, sob o chef neerlandês León Griffioen e Paqui Márquez. Os menus-degustação narram a história gastronômica da cidade a partir de um olhar contemporâneo, com pratos como tortilla de camarones, babeta de choco e crocante de cañaílla. Ambiente minimalista e cozinha à vista, a poucos passos da Torre Tavira.",
+    "lat": 36.53373,
+    "lng": -6.29547,
+    "durationLabel": "2–2,5 h",
+    "fit": "ANY",
+    "mapQuery": "Código de Barra, Calle San Francisco 7, Cádiz",
+    "kingTip": "É intimista e lota rápido: reserve com antecedência e escolha o menu mais longo para a viagem completa pela cozinha gaditana.",
+    "priceLevel": "€€€",
+    "hours": {
+      "openDays": "Ter–Sáb",
+      "openHour": "13:30",
+      "closeHour": "22:30",
+      "note": "Fecha à tarde entre serviços e descansa dom/seg. Poucas mesas; reserva recomendada."
+    },
+    "links": [
+      {
+        "label": "Código de Barra – site oficial",
+        "url": "https://restaurantecodigodebarracadiz.com/"
+      }
+    ]
+  },
+  {
+    "id": "cdz_casa_manteca",
+    "categoryId": "tapas",
+    "city": "cadiz",
+    "name": "Taberna Casa Manteca",
+    "tagline": "Chicharrones e solera no bairro La Viña",
+    "description": "Fundada em 1953 por José \"Pepe El Manteca\", é a taberna mais emblemática do bairro carnavalesco de La Viña, um antigo armazém que virou templo do tapeo gaditano. As paredes cobertas de cartazes de toureiros e do Carnaval emolduram o balcão de onde saem os famosos chicharrones de Chiclana e o atum em conserva servidos sobre papel kraft. Autêntica e sem concessões, é uma imersão na Cádiz mais popular.",
+    "lat": 36.53005,
+    "lng": -6.30359,
+    "durationLabel": "45 min–1 h",
+    "fit": "ANY",
+    "mapQuery": "Taberna Casa Manteca, Corralón de los Carros 66, Cádiz",
+    "kingTip": "Peça os chicharrones especiales com um fino da Baía; servidos no papel, comem-se em pé, no melhor estilo de La Viña.",
+    "priceLevel": "€€",
+    "hours": {
+      "openDays": "Todos os dias",
+      "openHour": "12:00",
+      "closeHour": "00:00",
+      "note": "Costuma fechar à tarde entre serviços; enche muito à noite e nas datas do Carnaval."
+    }
+  },
+  {
+    "id": "cdz_el_faro",
+    "categoryId": "tapas",
+    "city": "cadiz",
+    "name": "El Faro de Cádiz",
+    "tagline": "Tortillitas de camarão desde 1964",
+    "description": "Casa familiar aberta em 1964 por Gonzalo Córdoba no bairro de La Viña, marco do renascimento da cozinha gaditana. A barra da frente é uma das mais célebres de Cádiz para tapear pescado — as tortillitas de camarones aqui são referência —, enquanto as salas ao fundo servem carta e menus mais elaborados de peixe fresco. Duas experiências no mesmo endereço, da tapa clássica ao almoço com toalha.",
+    "lat": 36.52858,
+    "lng": -6.30382,
+    "durationLabel": "1–1,5 h",
+    "fit": "ANY",
+    "mapQuery": "El Faro de Cádiz, Calle San Félix 15, Cádiz",
+    "kingTip": "Fique na barra e peça as tortillitas de camarones, finas e crocantes; é a versão que virou padrão-ouro da cidade.",
+    "priceLevel": "€€–€€€",
+    "hours": {
+      "openDays": "Todos os dias",
+      "openHour": "12:00",
+      "closeHour": "00:00",
+      "note": "A barra de tapas e o restaurante têm ritmos distintos; para a sala, reserve na alta temporada."
+    },
+    "links": [
+      {
+        "label": "El Faro de Cádiz – site oficial",
+        "url": "https://www.elfarodecadiz.com/"
+      }
+    ]
+  },
+  {
+    "id": "cdz_cafe_la_marina",
+    "categoryId": "cafe",
+    "city": "cadiz",
+    "name": "Café-Bar La Marina",
+    "tagline": "Churros e café na Plaza de las Flores",
+    "description": "Clássico café-bar gaditano na colorida Plaza de las Flores (Plaza Topete), entre o casario e o Mercado Central. De manhã serve o café da manhã de churros e tostadas com azeite ao balcão ou nas mesinhas da praça florida; ao meio-dia, vira ponto de pescaíto frito. É o lugar para viver o vaivém matinal da cidade com um café con leche e churros diante das bancas de flores.",
+    "lat": 36.53099,
+    "lng": -6.29733,
+    "durationLabel": "30–45 min",
+    "fit": "ANY",
+    "mapQuery": "Café-Bar La Marina, Plaza de las Flores, Cádiz",
+    "kingTip": "Sente-se na esplanada da Plaza de las Flores para o café da manhã de churros; ao meio-dia, o mesmo balcão vira parada de pescaíto frito.",
+    "priceLevel": "€",
+    "hours": {
+      "openDays": "Todos os dias",
+      "openHour": "08:00",
+      "closeHour": "20:00",
+      "note": "Melhor no café da manhã e no aperitivo do meio-dia; a esplanada na praça é o lugar mais disputado."
+    }
+  },
+  {
+    "id": "svq_catedral_giralda",
+    "categoryId": "sevilla",
+    "city": "sevilla",
+    "name": "Catedral de Sevilla e Giralda",
+    "tagline": "A maior catedral gótica do mundo",
+    "description": "Erguida sobre a antiga mesquita almóada, é a maior catedral gótica do planeta e guarda o túmulo de Cristóvão Colombo, sustentado por quatro alegorias dos reinos de Espanha. Sua nave central sobe a 42 metros e o retábulo-mor dourado é o maior do mundo. Ao lado, a Giralda — antigo minarete do século XII coroado por um campanário renascentista — se sobe por 35 rampas, sem degraus.",
+    "lat": 37.38614,
+    "lng": -5.99263,
+    "durationLabel": "1,5–2 h",
+    "fit": "INDOOR",
+    "mapQuery": "Catedral de Sevilla, Sevilla",
+    "kingTip": "Compre o ingresso online com horário marcado e vá logo na abertura, às 10h30 — a Giralda esquenta e lota ao meio-dia. O mesmo bilhete dá acesso à Igreja do Salvador, que você pode visitar noutro momento sem nova fila.",
+    "priceLevel": "€€ (cerca de 13€; Giralda incluída)",
+    "hours": {
+      "openDays": "Todos os dias",
+      "openHour": "10:30",
+      "closeHour": "18:00",
+      "note": "Domingos abre mais tarde; horários de culto alteram o acesso. Confirme no site."
+    },
+    "links": [
+      {
+        "label": "Site oficial e ingressos",
+        "url": "https://www.catedraldesevilla.es"
+      }
+    ],
+    "history": "Construída entre 1401 e 1528 sobre a mesquita aljama almóada, cujo pátio das abluções sobrevive como o Patio de los Naranjos; a Giralda, minarete de 1198, ganhou o corpo de sinos e o cata-vento El Giraldillo em 1568. É Patrimônio Mundial desde 1987."
+  },
+  {
+    "id": "svq_real_alcazar",
+    "categoryId": "sevilla",
+    "city": "sevilla",
+    "name": "Real Alcázar",
+    "tagline": "O palácio real em uso mais antigo da Europa",
+    "description": "Um deslumbrante conjunto de palácios de mil anos onde o mudéjar, o gótico e o renascentista se sobrepõem em pátios, azulejos e tetos de madeira lavrada. O Palácio de Pedro I, com o Patio de las Doncellas, é o ápice da arte mudéjar; ao redor estendem-se jardins de laranjeiras, fontes e o labirinto. Cenário de Game of Thrones, segue sendo residência oficial da família real em Sevilha.",
+    "lat": 37.38316,
+    "lng": -5.99106,
+    "durationLabel": "2–3 h",
+    "fit": "INDOOR",
+    "mapQuery": "Real Alcazar de Sevilla, Sevilla",
+    "kingTip": "Reserve online com dias de antecedência: os ingressos por franja horária esgotam, sobretudo no verão. Entre às 9h30 na abertura e refugie-se nos jardins e no fresco Salón de Embajadores nas horas de mais calor.",
+    "priceLevel": "€€ (cerca de 14,50€)",
+    "hours": {
+      "openDays": "Todos os dias",
+      "openHour": "09:30",
+      "closeHour": "19:00",
+      "note": "Fecha 1 e 6 de jan, Sexta-Feira Santa e 25 dez. Última entrada 1 h antes."
+    },
+    "links": [
+      {
+        "label": "Site oficial e ingressos",
+        "url": "https://www.alcazarsevilla.org"
+      }
+    ],
+    "history": "Iniciado como fortaleza omíada no século X, foi ampliado pelos almóadas e reconstruído como palácio mudéjar por Pedro I de Castela a partir de 1364, com sucessivas intervenções até o século XIX. É Patrimônio Mundial desde 1987 e residência real desde então."
+  },
+  {
+    "id": "svq_plaza_espana",
+    "categoryId": "sevilla",
+    "city": "sevilla",
+    "name": "Plaza de España",
+    "tagline": "O grande semicírculo de azulejos e canais",
+    "description": "Joia da Exposição Ibero-Americana de 1929, é um monumental semicírculo de 200 metros que abraça um canal navegável cruzado por quatro pontes de cerâmica. Ao longo da base, 48 bancos de azulejo representam cada província espanhola em ordem alfabética. Mistura regionalismo, art déco e ecos mudéjares e renascentistas; serviu de cenário a Star Wars e Lawrence da Arábia.",
+    "lat": 37.37727,
+    "lng": -5.98716,
+    "durationLabel": "45 min – 1 h",
+    "fit": "CLEAR_SKY",
+    "mapQuery": "Plaza de Espana, Sevilla",
+    "kingTip": "Vá bem cedo ou no fim da tarde: ao meio-dia o sol bate em cheio na praça aberta e não há sombra. Procure o banco 'Málaga' entre os 48 azulejos para a foto de casa. Alugar um barquinho no canal dura só uns minutos e vale pelas fotos.",
+    "priceLevel": "Gratuito (barcos à parte)",
+    "history": "Projetada por Aníbal González para a Exposição Ibero-Americana de 1929, foi concebida como abraço simbólico de Espanha às suas antigas colônias, com as pontes representando os quatro reinos históricos da península; hoje abriga sedes de órgãos públicos."
+  },
+  {
+    "id": "svq_barrio_santa_cruz",
+    "categoryId": "sevilla",
+    "city": "sevilla",
+    "name": "Barrio de Santa Cruz",
+    "tagline": "O labirinto branco da antiga judiaria",
+    "description": "A antiga judiaria de Sevilha é um emaranhado de vielas estreitas, casas caiadas de branco, pátios floridos e pracinhas com laranjeiras, encravado entre a Catedral e o Alcázar. Ruas como a Calle Agua e a lendária Calleja del Beso, largos como a Plaza de Doña Elvira e a Plaza de Santa Cruz condensam o imaginário mais romântico da cidade. Some-se as sombras e o frescor dos becos.",
+    "lat": 37.38509,
+    "lng": -5.9901,
+    "durationLabel": "1–2 h a pé",
+    "fit": "ANY",
+    "mapQuery": "Barrio de Santa Cruz, Sevilla",
+    "kingTip": "Perca-se de propósito pelas vielas na hora da sesta, quando os becos ficam vazios e frescos. Espie os pátios abertos e busque a Plaza de Doña Elvira à sombra dos laranjais — um dos recantos mais fotogênicos e tranquilos do bairro.",
+    "priceLevel": "Gratuito",
+    "history": "Foi a judiaria de Sevilha desde a conquista cristã de 1248 até o pogrom de 1391, que a esvaziou; o traçado atual, de ruas propositalmente estreitas para dar sombra e frescor, foi remodelado e romantizado nas reformas urbanas do início do século XX."
+  },
+  {
+    "id": "svq_setas_metropol",
+    "categoryId": "sevilla",
+    "city": "sevilla",
+    "name": "Metropol Parasol — Las Setas",
+    "tagline": "O maior monumento de madeira do mundo",
+    "description": "Apelidada de 'Las Setas' (os cogumelos), esta ondulante estrutura de madeira de 2011, projetada por Jürgen Mayer, cobre a Plaza de la Encarnación e é a maior obra de madeira do mundo. No térreo, o Antiquarium exibe ruínas romanas e islâmicas descobertas na obra. No alto, uma passarela sinuosa oferece uma das melhores vistas panorâmicas de Sevilha, num contraste ousado com o casco antigo.",
+    "lat": 37.39335,
+    "lng": -5.99213,
+    "durationLabel": "45 min – 1 h",
+    "fit": "CLEAR_SKY",
+    "mapQuery": "Setas de Sevilla, Plaza de la Encarnacion, Sevilla",
+    "kingTip": "Suba ao mirante ao pôr do sol: a passarela pega a Giralda e a Catedral recortadas na luz dourada, e o ingresso costuma dar direito a uma bebida no bar do topo. Compre online para evitar a fila do elevador.",
+    "priceLevel": "€ (mirante cerca de 15€ com consumo)",
+    "hours": {
+      "openDays": "Todos os dias",
+      "openHour": "09:30",
+      "closeHour": "00:00",
+      "note": "Mirante aberto até tarde; o Antiquarium tem horário próprio. Confirme no site."
+    },
+    "links": [
+      {
+        "label": "Site oficial e ingressos",
+        "url": "https://www.setasdesevilla.com"
+      }
+    ],
+    "history": "Inaugurada em 2011 após um projeto de Jürgen Mayer vencedor de concurso de 2004, ergueu-se sobre o antigo mercado da Encarnación; as escavações revelaram um bairro romano e almóada, hoje preservado no Antiquarium sob a praça."
+  },
+  {
+    "id": "svq_triana_puente_isabel",
+    "categoryId": "sevilla",
+    "city": "sevilla",
+    "name": "Triana e Puente de Isabel II",
+    "tagline": "O bairro marinheiro do outro lado do rio",
+    "description": "Do outro lado do Guadalquivir, Triana é o berço do flamenco, da cerâmica e dos marinheiros que partiram para as Américas. A Puente de Isabel II, de 1852 e a mais antiga ponte de ferro conservada da Espanha, leva ao Mercado de Triana, à Capilla del Carmen e à Calle Betis, cuja fileira de casas coloridas se reflete no rio. Ateliês de azulejos mantêm viva a tradição oleira do bairro.",
+    "lat": 37.38468,
+    "lng": -6.00191,
+    "durationLabel": "1,5–2 h a pé",
+    "fit": "ANY",
+    "mapQuery": "Puente de Isabel II, Triana, Sevilla",
+    "kingTip": "Cruze a ponte no fim da tarde e caminhe pela Calle Betis com o rio à direita: é a vista clássica da Torre del Oro e da Giralda ao pôr do sol, do lado de Triana. O Mercado de Triana esconde o Castillo de San Jorge, sede da Inquisição, no subsolo.",
+    "priceLevel": "Gratuito",
+    "history": "Bairro extramuros desde a época romana, Triana foi lar de oleiros, ceramistas e navegadores dos séculos XV-XVI; a Puente de Isabel II, também chamada Puente de Triana, foi inaugurada em 1852 inspirada na parisiense do Carrousel, substituindo a antiga ponte de barcas almóada."
+  },
+  {
+    "id": "svq_torre_del_oro",
+    "categoryId": "sevilla",
+    "city": "sevilla",
+    "name": "Torre del Oro",
+    "tagline": "A torre albarrã à beira do Guadalquivir",
+    "description": "Sentinela dodecagonal do século XIII à margem do Guadalquivir, integrava a muralha almóada e controlava o acesso fluvial ao porto de Sevilha. Deve o nome ao brilho dourado que a luz arrancava de seus antigos revestimentos. Hoje abriga um pequeno Museu Naval, e seu terraço superior oferece uma vista aberta do rio, de Triana e da Plaza de Toros logo ao lado.",
+    "lat": 37.38263,
+    "lng": -5.99631,
+    "durationLabel": "30–45 min",
+    "fit": "CLEAR_SKY",
+    "mapQuery": "Torre del Oro, Sevilla",
+    "kingTip": "É uma das visitas mais baratas da cidade e às segundas costuma ser gratuita. Suba ao terraço para a vista do rio, mas o melhor mesmo é fotografá-la de fora, do lado de Triana, com o Guadalquivir em primeiro plano ao entardecer.",
+    "priceLevel": "€ (cerca de 3€; segundas grátis)",
+    "hours": {
+      "openDays": "Todos os dias",
+      "openHour": "09:30",
+      "closeHour": "18:45",
+      "note": "Fins de semana com horário reduzido; confirme antes de ir."
+    },
+    "history": "Erguida por volta de 1220-1221 pelos almóadas como torre albarrã da muralha, fechava com uma corrente sobre o rio a passagem de navios inimigos; serviu de prisão e capela e, desde 1944, abriga o Museu Marítimo da Marinha espanhola."
+  },
+  {
+    "id": "svq_plaza_toros_maestranza",
+    "categoryId": "sevilla",
+    "city": "sevilla",
+    "name": "Plaza de Toros de la Maestranza",
+    "tagline": "A praça de touros mais antiga do país",
+    "description": "Considerada a mais monumental praça de touros da Espanha, sua construção arrastou-se de 1749 a 1881, o que lhe deu a forma ovalada irregular e a fachada barroca branca e ocre da Puerta del Príncipe. A visita guiada percorre a arena, os curros, a capela dos toureiros e o museu taurino, com trajes, cartazes e obras de Goya. Um marco histórico e arquitetônico à beira do rio, para além da tourada.",
+    "lat": 37.38636,
+    "lng": -5.99862,
+    "durationLabel": "1 h (visita guiada)",
+    "fit": "INDOOR",
+    "mapQuery": "Plaza de Toros de la Real Maestranza, Sevilla",
+    "kingTip": "A visita guiada com o museu roda em espanhol e inglês a cada 30 minutos e é interessante mesmo para quem não liga para touradas — pela arquitetura e pelas telas de Goya. Evite os dias de corrida (domingos da primavera), quando a visita não abre.",
+    "priceLevel": "€€ (visita guiada cerca de 12€)",
+    "hours": {
+      "openDays": "Todos os dias",
+      "openHour": "09:30",
+      "closeHour": "21:00",
+      "note": "Em dias de espetáculo o horário de visita muda ou é suspenso. Confirme no site."
+    },
+    "links": [
+      {
+        "label": "Site oficial",
+        "url": "https://www.realmaestranza.com"
+      }
+    ],
+    "history": "A Real Maestranza de Caballería de Sevilha começou a levantá-la em 1749 substituindo uma praça de madeira; a obra prolongou-se até 1881, resultando no formato oval assimétrico. É a mais antiga praça de touros monumental da Espanha ainda em uso."
+  },
+  {
+    "id": "svq_archivo_de_indias",
+    "categoryId": "sevilla",
+    "city": "sevilla",
+    "name": "Archivo General de Indias",
+    "tagline": "A memória documental de todo um império",
+    "description": "Instalado na antiga Lonja de Mercaderes, sereno edifício renascentista de Juan de Herrera junto à Catedral, guarda o mais completo arquivo da administração espanhola nas Américas e Filipinas: 43 mil legajos e 80 milhões de páginas, do diário de bordo de Colombo aos mapas do Novo Mundo. A entrada é gratuita e permite ver a monumental escadaria de mármore e as salas com exposições rotativas.",
+    "lat": 37.38455,
+    "lng": -5.99268,
+    "durationLabel": "30–45 min",
+    "fit": "INDOOR",
+    "mapQuery": "Archivo General de Indias, Sevilla",
+    "kingTip": "Entrada livre e a poucos passos da Catedral e do Alcázar — um refúgio fresco e climatizado, quase vazio, para as horas de mais calor. Suba a escadaria de jaspe e veja as vitrines com documentos originais dos descobrimentos.",
+    "priceLevel": "Gratuito",
+    "hours": {
+      "openDays": "Ter a dom",
+      "openHour": "09:30",
+      "closeHour": "17:00",
+      "note": "Domingos e feriados só de manhã; fecha às segundas. Confirme no site."
+    },
+    "links": [
+      {
+        "label": "Cultura — Archivo de Indias",
+        "url": "https://www.cultura.gob.es/archivos/mc/agi/portada.html"
+      }
+    ],
+    "history": "O edifício, obra de Juan de Herrera concluída em 1598 como bolsa de comércio, passou a arquivo em 1785 por ordem de Carlos III, que reuniu ali a documentação colonial antes dispersa. Integra o conjunto Patrimônio Mundial de Sevilha desde 1987."
+  },
+  {
+    "id": "svq_basilica_macarena",
+    "categoryId": "sevilla",
+    "city": "sevilla",
+    "name": "Basílica de la Macarena",
+    "tagline": "O templo da Virgem mais amada de Sevilha",
+    "description": "No bairro popular da Macarena, esta basílica de meados do século XX guarda a Esperanza Macarena, a imagem mariana mais venerada de Sevilha, obra anônima do século XVII de rosto lacrimoso e cinco lágrimas de cristal. Coberta de mantos bordados a ouro e joias, é o centro emocional da Semana Santa sevilhana. Ao lado ergue-se o melhor trecho conservado da muralha almóada, com o Arco da Macarena.",
+    "lat": 37.40119,
+    "lng": -5.98903,
+    "durationLabel": "30–45 min",
+    "fit": "INDOOR",
+    "mapQuery": "Basilica de la Macarena, Sevilla",
+    "kingTip": "Combine a visita com o trecho de muralha almóada e o Arco da Macarena, logo em frente — o melhor lençol de muralha árabe da cidade. O tesouro da Virgem, com mantos e o manto de tabaco, tem entrada à parte e vale a pena.",
+    "priceLevel": "Gratuito (museu do tesouro à parte)",
+    "hours": {
+      "openDays": "Todos os dias",
+      "openHour": "09:00",
+      "closeHour": "19:00",
+      "note": "Fecha ao meio-dia; horários de culto alteram o acesso. Confirme no site."
+    },
+    "links": [
+      {
+        "label": "Site oficial",
+        "url": "https://www.hermandaddelamacarena.es"
+      }
+    ],
+    "history": "A basílica atual foi construída entre 1941 e 1949 para abrigar a imagem, antes venerada na paróquia de San Gil; a Esperanza Macarena, atribuída a fins do século XVII, tornou-se símbolo da cidade e é levada em procissão na madrugada da Sexta-Feira Santa."
+  },
+  {
+    "id": "svq_casa_de_pilatos",
+    "categoryId": "sevilla",
+    "city": "sevilla",
+    "name": "Casa de Pilatos",
+    "tagline": "Palácio-jardim mudéjar e renascentista",
+    "description": "O mais belo palácio senhorial de Sevilha, residência dos duques de Medinaceli, funde o mudéjar, o gótico e o renascimento italiano numa harmonia rara. Seu pátio principal reúne azulejos, estuques mudéjares e uma coleção de estátuas clássicas e bustos de imperadores romanos. Jardins com fontes e loggias completam o conjunto, cujo nome evoca a suposta casa de Pilatos em Jerusalém.",
+    "lat": 37.38953,
+    "lng": -5.98745,
+    "durationLabel": "1–1,5 h",
+    "fit": "INDOOR",
+    "mapQuery": "Casa de Pilatos, Sevilla",
+    "kingTip": "Menos disputada que o Alcázar e igualmente deslumbrante — ótima alternativa se os ingressos do Alcázar esgotaram. O andar térreo pode ser visitado por conta própria; o andar nobre, ainda habitado, só com visita guiada, que sai de tempos em tempos.",
+    "priceLevel": "€€ (cerca de 12€ térreo; 15€ com andar nobre)",
+    "hours": {
+      "openDays": "Todos os dias",
+      "openHour": "09:00",
+      "closeHour": "18:00",
+      "note": "Última entrada 1 h antes; horário pode estender no verão. Confirme no site."
+    },
+    "links": [
+      {
+        "label": "Fundación Medinaceli",
+        "url": "https://www.fundacionmedinaceli.org/monumentos/pilatos/"
+      }
+    ],
+    "history": "Iniciado no fim do século XV por Pedro Enríquez e sua mulher Catalina de Ribera, foi transformado após a peregrinação de Fadrique Enríquez a Jerusalém em 1519, que inspirou o nome e a devoção do Via-Crúcis; é sede da Fundación Casa de Medinaceli."
+  },
+  {
+    "id": "svq_palacio_las_duenas",
+    "categoryId": "sevilla",
+    "city": "sevilla",
+    "name": "Palacio de las Dueñas",
+    "tagline": "A casa sevilhana da duquesa de Alba",
+    "description": "Residência sevilhana da Casa de Alba e casa natal do poeta Antonio Machado, cujo pai era administrador da propriedade. Este palácio dos séculos XV-XVI mistura gótico-mudéjar e renascentista em torno de pátios com laranjeiras, buganvílias e fontes. Aberto ao público desde 2016, revela salões repletos de arte, tapeçarias e objetos pessoais da célebre duquesa Cayetana, num ambiente ainda muito habitado.",
+    "lat": 37.39468,
+    "lng": -5.99,
+    "durationLabel": "45 min – 1 h",
+    "fit": "INDOOR",
+    "mapQuery": "Palacio de las Duenas, Sevilla",
+    "kingTip": "Menos turístico e delicioso de percorrer com o audioguia incluído, que conta as histórias da duquesa Cayetana de Alba. Os pátios floridos rendem fotos lindas e ficam à sombra — respiro fresco entre a Macarena e o centro. Feche 'Las Setas' na mesma caminhada.",
+    "priceLevel": "€€ (cerca de 12€, audioguia incluído)",
+    "hours": {
+      "openDays": "Todos os dias",
+      "openHour": "10:00",
+      "closeHour": "18:00",
+      "note": "Verão pode ter horário estendido; fecha em eventos privados. Confirme no site."
+    },
+    "links": [
+      {
+        "label": "Site oficial",
+        "url": "https://www.lasduenas.es"
+      }
+    ],
+    "history": "Documentado desde o século XV e ampliado pelos Ribera e depois pela Casa de Alba, deve o nome ao extinto convento de Santa María de las Dueñas; ali nasceu Antonio Machado em 1875, e foi lar predileto de Cayetana Fitz-James Stuart, 18.ª duquesa de Alba."
+  },
+  {
+    "id": "svq_plaza_nueva_ayuntamiento",
+    "categoryId": "sevilla",
+    "city": "sevilla",
+    "name": "Plaza Nueva e Ayuntamiento",
+    "tagline": "O salão urbano no coração de Sevilha",
+    "description": "Ampla praça ajardinada com palmeiras e o monumento equestre a Fernando III, o Santo, é o marco-zero da Sevilha moderna e ponto de partida dos bondes. Fecha-a a leste a fachada plateresca do Ayuntamiento, joia do renascimento espanhol lavrada em pedra por Diego de Riaño no século XVI, com medalhões, grutescos e emblemas mitológicos. Dali arranca a movimentada rua comercial Sierpes.",
+    "lat": 37.38914,
+    "lng": -5.99553,
+    "durationLabel": "20–30 min",
+    "fit": "CLEAR_SKY",
+    "mapQuery": "Plaza Nueva, Sevilla",
+    "kingTip": "Rodeie o Ayuntamiento até a Plaza de San Francisco para ver a fachada plateresca mais rica, esculpida em detalhe. Daqui a Calle Sierpes leva, à sombra de toldos no verão, direto às lojas e ao centro histórico.",
+    "priceLevel": "Gratuito",
+    "history": "A praça abriu-se em 1852 sobre o solar do convento de San Francisco, demolido pela desamortização; o Ayuntamiento, obra plateresca de Diego de Riaño iniciada em 1527, foi ampliado com fachada neoclássica sobre a Plaza Nueva no século XIX."
   },
   {
     "id": "mlg_jose_carlos_garcia",
@@ -8025,7 +9454,8 @@ export const extraAttractions: Attraction[] = [
         "url": "https://malagacatedral.com/"
       }
     ],
-    "history": "Iniciada em 1528 sobre a antiga mesquita e concluída em grande parte no século XVIII, com dinheiro que, segundo a lenda, teria ido para a segunda torre e acabou desviado para outras causas."
+    "history": "Iniciada em 1528 sobre a antiga mesquita e concluída em grande parte no século XVIII, com dinheiro que, segundo a lenda, teria ido para a segunda torre e acabou desviado para outras causas.",
+    "image": "mlg_catedral.jpg"
   },
   {
     "id": "mlg_teatro_romano",
@@ -8377,31 +9807,6 @@ export const extraAttractions: Attraction[] = [
       {
         "label": "Puente Romano (site oficial)",
         "url": "https://www.puenteromano.com/"
-      }
-    ]
-  },
-  {
-    "id": "mrb_nikki_beach",
-    "categoryId": "praias",
-    "city": "marbella",
-    "name": "Nikki Beach Marbella",
-    "tagline": "O beach club festa por excelência, em Elviria",
-    "description": "A filial marbellí da marca global de \"barefoot luxury\", aberta desde 2003 no Hotel Don Carlos, em Elviria. Camas brancas em torno da piscina, música de DJ, champanhe e um clima de festa diurna que é a assinatura da casa. Vá para o espetáculo tanto quanto para o mar — é o beach club mais icônico da Costa del Sol.",
-    "lat": 36.4843,
-    "lng": -4.8067,
-    "durationLabel": "diária inteira",
-    "fit": "CLEAR_SKY",
-    "windSensitive": true,
-    "mapQuery": "Nikki Beach Marbella, Elviria",
-    "priceLevel": "~€100–150 mín. consumo por cama (est.)",
-    "kingTip": "Os \"Amazing Sundays\" são o programa clássico da casa: reserve mesa ou cama com dias de antecedência e vá disposto a ficar até o fim da tarde.",
-    "hours": {
-      "note": "Temporada de verão; festas diurnas aos fins de semana"
-    },
-    "links": [
-      {
-        "label": "Nikki Beach Marbella (oficial)",
-        "url": "https://nikkibeach.com/marbella/"
       }
     ]
   },

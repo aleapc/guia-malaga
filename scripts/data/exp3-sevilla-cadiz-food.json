@@ -1,0 +1,302 @@
+[
+  {
+    "id": "svq_abantal",
+    "categoryId": "gastronomia",
+    "city": "sevilla",
+    "name": "Abantal",
+    "tagline": "Estrela Michelin, alta cozinha sevillana",
+    "description": "A única mesa do centro de Sevilha a manter estrela Michelin ininterrupta desde 2009, sob o chef Julio Fernández Quintero. A cozinha parte da despensa andaluza e das receitas da região para construir menus-degustação de traço contemporâneo e sazonal, com profundo trabalho de vinhos de Jerez. Sala sóbria e serviço preciso fazem dela o endereço de referência para uma noite de fine dining na cidade.",
+    "lat": 37.38793,
+    "lng": -5.98371,
+    "durationLabel": "2,5–3 h",
+    "fit": "ANY",
+    "mapQuery": "Restaurante Abantal, Calle Alcalde José de la Bandera 7, Sevilla",
+    "kingTip": "Só funciona com menu-degustação e reserva antecipada; peça o pareamento de vinhos de Jerez, a grande especialidade da casa.",
+    "priceLevel": "€€€€",
+    "hours": {
+      "openDays": "Ter–Sáb",
+      "openHour": "13:30",
+      "closeHour": "22:30",
+      "note": "Fecha à tarde entre serviços e descansa dom/seg. Reserva obrigatória; confirme horários na alta temporada."
+    },
+    "links": [
+      { "label": "Abantal – site oficial e reservas", "url": "https://abantalrestaurante.es/" }
+    ]
+  },
+  {
+    "id": "svq_canabota",
+    "categoryId": "gastronomia",
+    "city": "sevilla",
+    "name": "Cañabota",
+    "tagline": "Estrela Michelin do mar, produto ao natural",
+    "description": "Estrela Michelin desde 2022, a Cañabota fez fama tratando peixe e marisco do Atlântico andaluz com respeito quase absoluto ao produto: brasa, sal e pouco mais. Tem ambiente de gastro-bar, com peixaria e cozinha abertas à vista, e trabalha só proteína do mar — não há carne na carta. Ao lado, a informal La Barra de Cañabota serve a mesma matéria-prima em preparos simples e diretos.",
+    "lat": 37.39343,
+    "lng": -5.99363,
+    "durationLabel": "2–2,5 h",
+    "fit": "ANY",
+    "mapQuery": "Cañabota, Calle Orfila 1, Sevilla",
+    "kingTip": "Sem reserva, tente a barra da La Barra de Cañabota (Orfila 5); para o menu-degustação completo, reserve o restaurante principal com antecedência.",
+    "priceLevel": "€€€–€€€€",
+    "hours": {
+      "openDays": "Ter–Sáb",
+      "openHour": "13:30",
+      "closeHour": "23:00",
+      "note": "Fecha à tarde entre serviços e descansa dom/seg. Só peixe e marisco; confirme na reserva."
+    },
+    "links": [
+      { "label": "Cañabota – site oficial e reservas", "url": "https://canabota.es/" }
+    ]
+  },
+  {
+    "id": "svq_ispal",
+    "categoryId": "gastronomia",
+    "city": "sevilla",
+    "name": "Ispal",
+    "tagline": "Recomendado Michelin, 100% sevillano",
+    "description": "Recomendado pela Guia Michelin, o Ispal faz da província de Sevilha o seu único território: cada ingrediente principal vem da terra sevillana, sob o selo \"ADN Sevilla\" do chef executivo. A proposta resgata receitas tradicionais — arroces de marisma, gaspachos, guisos — em versão elegante e atual, com menus-degustação e uma carta cuidada. Fica na Plaza de San Sebastián, junto ao Prado, num ambiente contemporâneo.",
+    "lat": 37.38151,
+    "lng": -5.98658,
+    "durationLabel": "2–2,5 h",
+    "fit": "ANY",
+    "mapQuery": "Restaurante Ispal, Plaza de San Sebastián 1, Sevilla",
+    "kingTip": "Não é estrelado, mas entrega alta cozinha por preço mais amável: o menu \"100% Sevilla\" é a porta de entrada perfeita à despensa local.",
+    "priceLevel": "€€€",
+    "hours": {
+      "openDays": "Ter–Sáb",
+      "openHour": "13:30",
+      "closeHour": "23:00",
+      "note": "Fecha à tarde entre serviços e descansa dom/seg. Confirme dias e menus na reserva."
+    },
+    "links": [
+      { "label": "Ispal – site oficial e reservas", "url": "https://restauranteispal.com/" }
+    ]
+  },
+  {
+    "id": "svq_rinconcillo",
+    "categoryId": "tapas",
+    "city": "sevilla",
+    "name": "El Rinconcillo",
+    "tagline": "A taberna mais antiga de Sevilha, desde 1670",
+    "description": "Aberta em 1670, é a taberna mais antiga de Sevilha e uma das mais veneráveis da Espanha, ainda tocada pela mesma família há gerações. O balcão de mogno onde o garçom anota a conta a giz sobre a madeira, as prateleiras de garrafas antigas e os azulejos guardam intacto o rito do tapeo sevillano. Espinacas con garbanzos, croquetes e ibéricos regados a fino são o cânone da casa.",
+    "lat": 37.39334,
+    "lng": -5.98829,
+    "durationLabel": "45 min–1,5 h",
+    "fit": "ANY",
+    "mapQuery": "El Rinconcillo, Calle Gerona 40, Sevilla",
+    "kingTip": "Peça as espinacas con garbanzos e um fino; a conta é somada a giz na barra de madeira, como há séculos.",
+    "priceLevel": "€€",
+    "hours": {
+      "openDays": "Todos os dias",
+      "openHour": "13:00",
+      "closeHour": "01:30",
+      "note": "Costuma descansar às quartas em baixa temporada e enche muito à noite; confirme o dia de folga."
+    },
+    "links": [
+      { "label": "El Rinconcillo – site oficial", "url": "https://www.elrinconcillo.es/" }
+    ]
+  },
+  {
+    "id": "svq_las_teresas",
+    "categoryId": "tapas",
+    "city": "sevilla",
+    "name": "Las Teresas",
+    "tagline": "Jamón de Jabugo na barra de Santa Cruz",
+    "description": "Bar histórico do bairro de Santa Cruz, com origem no século XIX, de barra estreita em L pintada de vermelho e presuntos pendurados no teto. É um dos melhores endereços da cidade para o jamón ibérico de bellota de Jabugo, cortado à faca, ao lado das clássicas espinacas con garbanzos e de bons guisos. O corredor de mesinhas na viela caiada é um dos cenários mais fotogênicos do tapeo sevillano.",
+    "lat": 37.38598,
+    "lng": -5.98932,
+    "durationLabel": "45 min–1 h",
+    "fit": "ANY",
+    "mapQuery": "Bar Las Teresas, Calle Santa Teresa 2, Sevilla",
+    "kingTip": "Peça uma tábua de jamón de Jabugo cortado à faca com um fino; as mesinhas da viela são disputadas, mas a barra rende mais conversa.",
+    "priceLevel": "€€",
+    "hours": {
+      "openDays": "Todos os dias",
+      "openHour": "10:00",
+      "closeHour": "00:00",
+      "note": "No coração turístico de Santa Cruz; costuma lotar no meio-dia e no fim da tarde."
+    },
+    "links": [
+      { "label": "Las Teresas – site oficial", "url": "http://www.lasteresas.es/" }
+    ]
+  },
+  {
+    "id": "svq_eslava",
+    "categoryId": "tapas",
+    "city": "sevilla",
+    "name": "Eslava",
+    "tagline": "Tapas premiadas junto a San Lorenzo",
+    "description": "Culto entre sevillanos e viajantes, o Eslava fica no bairro de San Lorenzo e é referência da tapa moderna desde 1988. A cozinha andaluza com técnica renovada rendeu prêmios famosos, como o \"huevo sobre bizcocho de boletus\" com redução de vinho de Jerez, campeão da melhor tapa da cidade. Barra sempre cheia e sala nos fundos para quem prefere sentar; vale a espera.",
+    "lat": 37.39755,
+    "lng": -5.99692,
+    "durationLabel": "1–1,5 h",
+    "fit": "ANY",
+    "mapQuery": "Bar Eslava, Calle Eslava 3, Sevilla",
+    "kingTip": "Peça o ovo sobre bolo de boletus com redução de Jerez, a tapa que ganhou prêmios; não aceita reserva na barra, chegue cedo.",
+    "priceLevel": "€€",
+    "hours": {
+      "openDays": "Ter–Dom",
+      "openHour": "12:30",
+      "closeHour": "23:30",
+      "note": "Descansa às segundas e fecha à tarde entre serviços; a barra não reserva e forma fila."
+    }
+  },
+  {
+    "id": "svq_el_comercio",
+    "categoryId": "cafe",
+    "city": "sevilla",
+    "name": "Bar El Comercio",
+    "tagline": "Churros clássicos de Sevilha desde 1904",
+    "description": "Aberto em 1904 e ainda tocado pela família fundadora, é a churrería mais querida do centro de Sevilha. Serve os churros grossos em roda, fritos na hora e acompanhados de chocolate espesso ou café, ao balcão ou nas mesinhas de azulejo. Diferentemente da maioria, mantém a fritura o dia todo, o que o torna parada certa também no fim da tarde, entre os becos da Alfalfa.",
+    "lat": 37.39081,
+    "lng": -5.99236,
+    "durationLabel": "30–45 min",
+    "fit": "ANY",
+    "mapQuery": "Bar El Comercio, Calle Lineros 9, Sevilla",
+    "kingTip": "Peça churros com chocolate quente no café da manhã; aqui, ao contrário de quase toda a Espanha, também se fritam churros à tarde.",
+    "priceLevel": "€",
+    "hours": {
+      "openDays": "Seg–Sáb",
+      "openHour": "07:30",
+      "closeHour": "21:00",
+      "note": "Costuma fechar aos domingos e no meio da tarde; melhor no café da manhã ou na merienda."
+    }
+  },
+  {
+    "id": "cdz_aponiente",
+    "categoryId": "gastronomia",
+    "city": "cadiz",
+    "name": "Aponiente",
+    "tagline": "Três estrelas Michelin, o Chef do Mar",
+    "description": "Instalado num antigo moinho de maré junto às salinas de El Puerto de Santa María, o Aponiente de Ángel León é a primeira mesa da Andaluzia a conquistar três estrelas Michelin. O \"Chef do Mar\" transforma o menu num laboratório do oceano: embutidos marinhos, plâncton, bioluminescência, peixes de descarte e sal marinho conduzem uma experiência de vanguarda ligada à sustentabilidade. É destino gastronômico de primeira grandeza, a cerca de meia hora de Cádiz.",
+    "lat": 36.60334,
+    "lng": -6.21669,
+    "durationLabel": "3–3,5 h",
+    "fit": "ANY",
+    "mapQuery": "Aponiente, El Puerto de Santa María, Cádiz",
+    "kingTip": "As datas esgotam com meses de antecedência: reserve assim que a agenda abrir. Fica em El Puerto de Santa María, não em Cádiz capital — programe o deslocamento.",
+    "priceLevel": "€€€€",
+    "hours": {
+      "openDays": "Ter–Sáb",
+      "openHour": "13:30",
+      "closeHour": "22:00",
+      "note": "Temporada costuma ir da primavera ao fim do outono, com fechamento no inverno. Só menu-degustação e reserva antecipada."
+    },
+    "links": [
+      { "label": "Aponiente – site oficial e reservas", "url": "https://www.aponiente.com/" }
+    ]
+  },
+  {
+    "id": "cdz_lu_cocina_alma",
+    "categoryId": "gastronomia",
+    "city": "cadiz",
+    "name": "LÚ Cocina y Alma",
+    "tagline": "Duas estrelas Michelin em Jerez",
+    "description": "Em Jerez, o chef Juanlu Fernández aplica técnica francesa clássica a ingredientes andaluzes de estação, elevando pratos humildes gaditanos a obras refinadas — um estilo que ele chama de \"vanguarda de retaguarda\", hoje com duas estrelas Michelin. A cozinha ocupa o centro da sala, e os comensais quase se sentam à mesa do chef, entre uma cenografia inspirada em Alice no País das Maravilhas. Dois menus-degustação, Duende e Duxo, conduzem a experiência.",
+    "lat": 36.68814,
+    "lng": -6.13449,
+    "durationLabel": "2,5–3 h",
+    "fit": "ANY",
+    "mapQuery": "LÚ Cocina y Alma, Calle Zaragoza 2, Jerez de la Frontera",
+    "kingTip": "Fica em Jerez, ideal de emendar com uma visita às bodegas de xerez no mesmo dia; reserve o menu com boa antecedência.",
+    "priceLevel": "€€€€",
+    "hours": {
+      "openDays": "Ter–Sáb",
+      "openHour": "13:30",
+      "closeHour": "22:30",
+      "note": "Fecha à tarde entre serviços e descansa dom/seg. Só menu-degustação e reserva antecipada."
+    },
+    "links": [
+      { "label": "Universo LÚ – site oficial e reservas", "url": "https://universolu.com/restaurantes/" }
+    ]
+  },
+  {
+    "id": "cdz_codigo_de_barra",
+    "categoryId": "gastronomia",
+    "city": "cadiz",
+    "name": "Código de Barra",
+    "tagline": "A primeira estrela Michelin de Cádiz capital",
+    "description": "Pequena mesa no casco antigo, foi o primeiro restaurante de Cádiz capital a ganhar estrela Michelin, sob o chef neerlandês León Griffioen e Paqui Márquez. Os menus-degustação narram a história gastronômica da cidade a partir de um olhar contemporâneo, com pratos como tortilla de camarones, babeta de choco e crocante de cañaílla. Ambiente minimalista e cozinha à vista, a poucos passos da Torre Tavira.",
+    "lat": 36.53373,
+    "lng": -6.29547,
+    "durationLabel": "2–2,5 h",
+    "fit": "ANY",
+    "mapQuery": "Código de Barra, Calle San Francisco 7, Cádiz",
+    "kingTip": "É intimista e lota rápido: reserve com antecedência e escolha o menu mais longo para a viagem completa pela cozinha gaditana.",
+    "priceLevel": "€€€",
+    "hours": {
+      "openDays": "Ter–Sáb",
+      "openHour": "13:30",
+      "closeHour": "22:30",
+      "note": "Fecha à tarde entre serviços e descansa dom/seg. Poucas mesas; reserva recomendada."
+    },
+    "links": [
+      { "label": "Código de Barra – site oficial", "url": "https://restaurantecodigodebarracadiz.com/" }
+    ]
+  },
+  {
+    "id": "cdz_casa_manteca",
+    "categoryId": "tapas",
+    "city": "cadiz",
+    "name": "Taberna Casa Manteca",
+    "tagline": "Chicharrones e solera no bairro La Viña",
+    "description": "Fundada em 1953 por José \"Pepe El Manteca\", é a taberna mais emblemática do bairro carnavalesco de La Viña, um antigo armazém que virou templo do tapeo gaditano. As paredes cobertas de cartazes de toureiros e do Carnaval emolduram o balcão de onde saem os famosos chicharrones de Chiclana e o atum em conserva servidos sobre papel kraft. Autêntica e sem concessões, é uma imersão na Cádiz mais popular.",
+    "lat": 36.53005,
+    "lng": -6.30359,
+    "durationLabel": "45 min–1 h",
+    "fit": "ANY",
+    "mapQuery": "Taberna Casa Manteca, Corralón de los Carros 66, Cádiz",
+    "kingTip": "Peça os chicharrones especiales com um fino da Baía; servidos no papel, comem-se em pé, no melhor estilo de La Viña.",
+    "priceLevel": "€€",
+    "hours": {
+      "openDays": "Todos os dias",
+      "openHour": "12:00",
+      "closeHour": "00:00",
+      "note": "Costuma fechar à tarde entre serviços; enche muito à noite e nas datas do Carnaval."
+    }
+  },
+  {
+    "id": "cdz_el_faro",
+    "categoryId": "tapas",
+    "city": "cadiz",
+    "name": "El Faro de Cádiz",
+    "tagline": "Tortillitas de camarão desde 1964",
+    "description": "Casa familiar aberta em 1964 por Gonzalo Córdoba no bairro de La Viña, marco do renascimento da cozinha gaditana. A barra da frente é uma das mais célebres de Cádiz para tapear pescado — as tortillitas de camarones aqui são referência —, enquanto as salas ao fundo servem carta e menus mais elaborados de peixe fresco. Duas experiências no mesmo endereço, da tapa clássica ao almoço com toalha.",
+    "lat": 36.52858,
+    "lng": -6.30382,
+    "durationLabel": "1–1,5 h",
+    "fit": "ANY",
+    "mapQuery": "El Faro de Cádiz, Calle San Félix 15, Cádiz",
+    "kingTip": "Fique na barra e peça as tortillitas de camarones, finas e crocantes; é a versão que virou padrão-ouro da cidade.",
+    "priceLevel": "€€–€€€",
+    "hours": {
+      "openDays": "Todos os dias",
+      "openHour": "12:00",
+      "closeHour": "00:00",
+      "note": "A barra de tapas e o restaurante têm ritmos distintos; para a sala, reserve na alta temporada."
+    },
+    "links": [
+      { "label": "El Faro de Cádiz – site oficial", "url": "https://www.elfarodecadiz.com/" }
+    ]
+  },
+  {
+    "id": "cdz_cafe_la_marina",
+    "categoryId": "cafe",
+    "city": "cadiz",
+    "name": "Café-Bar La Marina",
+    "tagline": "Churros e café na Plaza de las Flores",
+    "description": "Clássico café-bar gaditano na colorida Plaza de las Flores (Plaza Topete), entre o casario e o Mercado Central. De manhã serve o café da manhã de churros e tostadas com azeite ao balcão ou nas mesinhas da praça florida; ao meio-dia, vira ponto de pescaíto frito. É o lugar para viver o vaivém matinal da cidade com um café con leche e churros diante das bancas de flores.",
+    "lat": 36.53099,
+    "lng": -6.29733,
+    "durationLabel": "30–45 min",
+    "fit": "ANY",
+    "mapQuery": "Café-Bar La Marina, Plaza de las Flores, Cádiz",
+    "kingTip": "Sente-se na esplanada da Plaza de las Flores para o café da manhã de churros; ao meio-dia, o mesmo balcão vira parada de pescaíto frito.",
+    "priceLevel": "€",
+    "hours": {
+      "openDays": "Todos os dias",
+      "openHour": "08:00",
+      "closeHour": "20:00",
+      "note": "Melhor no café da manhã e no aperitivo do meio-dia; a esplanada na praça é o lugar mais disputado."
+    }
+  }
+]

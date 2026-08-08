@@ -16,7 +16,7 @@ const OUT = path.join(ROOT, 'src', 'lib', 'contentExtra.ts');
 const EXCLUDE_IDS = new Set();
 const VALID_FIT = new Set(['CLEAR_SKY', 'RAIN_OK', 'INDOOR', 'ANY']);
 // Zonas/bases da viagem (ids batem com as categorias-destino).
-const CITIES = ['malaga', 'axarquia', 'antequera', 'ronda', 'marbella', 'granada', 'cordoba'];
+const CITIES = ['malaga', 'axarquia', 'antequera', 'ronda', 'marbella', 'granada', 'cordoba', 'sevilla', 'cadiz', 'gibraltar'];
 const DEST_CATS = new Set(CITIES);
 const VALID_CITY = new Set(CITIES);
 
@@ -41,6 +41,9 @@ function cityOf(it) {
   if (/marbella|ban[uú]s|puerto ban|mijas|milla de oro|fuengirola|estepona/.test(q)) return 'marbella';
   if (/nerja|frigiliana|maro|axarqu[ií]a|torrox|c[oó]mpeta|burriana/.test(q)) return 'axarquia';
   if (/antequera|torcal|caminito|el chorro|d[oó]lmen/.test(q)) return 'antequera';
+  if (/sevilla|giralda|triana|alc[aá]zar de sevilla|plaza de espa/.test(q)) return 'sevilla';
+  if (/c[aá]diz|jerez|tarifa|vejer|bolonia|sanl[uú]car|el puerto/.test(q)) return 'cadiz';
+  if (/gibraltar|the rock|pe[nñ][oó]n|europa point|main street/.test(q)) return 'gibraltar';
   fellBackCity.push(`${it.categoryId}/${it.name} → malaga (sem city; fallback)`);
   return 'malaga';
 }

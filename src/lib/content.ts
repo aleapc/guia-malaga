@@ -81,6 +81,9 @@ export const categories: Category[] = [
   { id: 'marbella', title: 'Marbella & Costa del Sol', emoji: '🏖️', summary: 'O oeste glamouroso: casco antiguo florido, a Milla de Oro, Puerto Banús e os beach clubs. Onde a Costa del Sol veste gala.', gradient: ['#1E6E5A', '#6FB89A'], image: 'marbella.jpg' },
   { id: 'granada', title: 'Granada & Alhambra', emoji: '🏯', summary: 'A joia nazari: a Alhambra e o Generalife, o Albaicín, o pôr do sol do Mirador San Nicolás e as cuevas do Sacromonte. Vale dormir.', gradient: ['#8A2E4E', '#C77A9A'], image: 'granada.jpg' },
   { id: 'cordoba', title: 'Córdoba', emoji: '🕌', summary: 'A grande alternativa de bate-volta: a Mesquita-Catedral, a Judería e os pátios floridos. Chega-se de AVE em ~1h de Málaga.', gradient: ['#6A4C93', '#A084C7'], image: 'cordoba.jpg' },
+  { id: 'sevilla', title: 'Sevilla', emoji: '🌇', summary: 'A capital andaluza: a catedral e a Giralda, o Real Alcázar, a Plaza de España e Triana. ~2h40 de AVE — bate-volta puxado ou uma noite.', gradient: ['#B5372A', '#E0894A'], image: 'sevilla.jpg' },
+  { id: 'cadiz', title: 'Cádiz & província', emoji: '⚓', summary: 'O sul atlântico: a milenar Cádiz, o xerez de Jerez, o vento de Tarifa e a vila branca de Vejer. Ar de oceano, do outro lado da montanha.', gradient: ['#1C6E86', '#5FB2C4'], image: 'cadiz.jpg' },
+  { id: 'gibraltar', title: 'Gibraltar', emoji: '🐒', summary: 'O Rochedo britânico na ponta da Espanha: os macacos, a St. Michael’s Cave, o Skywalk e a Main Street duty-free. Leve o passaporte.', gradient: ['#565A62', '#9AA0AA'], image: 'gibraltar.jpg' },
 
   // ——— Categorias temáticas (cruzam as zonas; filtráveis por chip de zona) ———
   { id: 'gastronomia', title: 'Restaurantes & Michelin', emoji: '🍽️', summary: 'Da estrela de José Carlos García aos dois sóis de Bardal, passando por tabernas históricas e chiringuitos de espeto. Reserve os premiados cedo.', gradient: ['#9A2617', '#D96C4A'], image: 'gastronomia.jpg' },
@@ -107,7 +110,10 @@ export const cities: City[] = [
   { id: 'ronda', label: 'Ronda', emoji: '⛰️' },
   { id: 'marbella', label: 'Marbella', emoji: '🏖️' },
   { id: 'granada', label: 'Granada', emoji: '🏯' },
-  { id: 'cordoba', label: 'Córdoba', emoji: '🕌' }
+  { id: 'cordoba', label: 'Córdoba', emoji: '🕌' },
+  { id: 'sevilla', label: 'Sevilla', emoji: '🌇' },
+  { id: 'cadiz', label: 'Cádiz & província', emoji: '⚓' },
+  { id: 'gibraltar', label: 'Gibraltar', emoji: '🐒' }
 ];
 export const isDestinationCategory = (id: string) => cities.some((c) => c.id === id);
 export const cityById = (id?: string) => cities.find((c) => c.id === id);

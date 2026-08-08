@@ -49,6 +49,27 @@
     "prompt": "Gere uma imagem no formato horizontal 16:9 (paisagem), estilo pôster de viagem, pintura digital cinematográfica, sem pessoas, sem texto e sem marca dagua: Córdoba, Espanha — os arcos vermelho-e-branco da Mesquita-Catedral. Luz mediterrânea dourada, paleta elegante e vibrante, composição limpa."
   },
   {
+    "id": "sevilla",
+    "city": "sevilla",
+    "categoryId": "_cover",
+    "name": "sevilla",
+    "prompt": "Gere uma imagem no formato horizontal 16:9 (paisagem), estilo pôster de viagem, pintura digital cinematográfica, sem pessoas, sem texto e sem marca dagua: Sevilla, Espanha — a Giralda e a catedral, com a Plaza de España ao sol. Luz mediterrânea dourada, paleta elegante e vibrante, composição limpa."
+  },
+  {
+    "id": "cadiz",
+    "city": "cadiz",
+    "categoryId": "_cover",
+    "name": "cadiz",
+    "prompt": "Gere uma imagem no formato horizontal 16:9 (paisagem), estilo pôster de viagem, pintura digital cinematográfica, sem pessoas, sem texto e sem marca dagua: Cádiz, Espanha — a cidade atlântica cercada de mar, catedral dourada e ondas. Luz mediterrânea dourada, paleta elegante e vibrante, composição limpa."
+  },
+  {
+    "id": "gibraltar",
+    "city": "gibraltar",
+    "categoryId": "_cover",
+    "name": "gibraltar",
+    "prompt": "Gere uma imagem no formato horizontal 16:9 (paisagem), estilo pôster de viagem, pintura digital cinematográfica, sem pessoas, sem texto e sem marca dagua: Gibraltar — o Rochedo imponente sobre o mar, com um macaco de Berbéria em primeiro plano. Luz mediterrânea dourada, paleta elegante e vibrante, composição limpa."
+  },
+  {
     "id": "gastronomia",
     "city": "gastronomia",
     "categoryId": "_cover",
@@ -2044,6 +2065,447 @@
     "prompt": "Gere uma imagem no formato horizontal 16:9 (paisagem), estilo pôster de viagem, pintura digital cinematográfica, sem pessoas, sem texto e sem marca d'água: Canillas de Albaida, em Nerja / Axarquía, Espanha — Casario branco no portal da Almijara. Luz mediterrânea dourada, paleta elegante e vibrante, composição limpa."
   },
   {
+    "id": "cdz_catedral",
+    "city": "cadiz",
+    "categoryId": "cadiz",
+    "name": "Catedral de Cádiz",
+    "prompt": "Gere uma imagem no formato horizontal 16:9 (paisagem), estilo pôster de viagem, pintura digital cinematográfica, sem pessoas, sem texto e sem marca d'água: Catedral de Cádiz, em Cádiz / Tarifa / Jerez, Espanha — A catedral dourada de frente para o Atlântico. Luz mediterrânea dourada, paleta elegante e vibrante, composição limpa."
+  },
+  {
+    "id": "cdz_torre_tavira",
+    "city": "cadiz",
+    "categoryId": "cadiz",
+    "name": "Torre Tavira & Câmara Escura",
+    "prompt": "Gere uma imagem no formato horizontal 16:9 (paisagem), estilo pôster de viagem, pintura digital cinematográfica, sem pessoas, sem texto e sem marca d'água: Torre Tavira & Câmara Escura, em Cádiz / Tarifa / Jerez, Espanha — A torre-vigia com a câmara escura da cidade. Luz mediterrânea dourada, paleta elegante e vibrante, composição limpa."
+  },
+  {
+    "id": "cdz_barrio_populo",
+    "city": "cadiz",
+    "categoryId": "cadiz",
+    "name": "Barrio del Pópulo",
+    "prompt": "Gere uma imagem no formato horizontal 16:9 (paisagem), estilo pôster de viagem, pintura digital cinematográfica, sem pessoas, sem texto e sem marca d'água: Barrio del Pópulo, em Cádiz / Tarifa / Jerez, Espanha — O núcleo medieval mais antigo da cidade. Luz mediterrânea dourada, paleta elegante e vibrante, composição limpa."
+  },
+  {
+    "id": "cdz_caleta_san_sebastian",
+    "city": "cadiz",
+    "categoryId": "cadiz",
+    "name": "La Caleta & Castillo de San Sebastián",
+    "prompt": "Gere uma imagem no formato horizontal 16:9 (paisagem), estilo pôster de viagem, pintura digital cinematográfica, sem pessoas, sem texto e sem marca d'água: La Caleta & Castillo de San Sebastián, em Cádiz / Tarifa / Jerez, Espanha — A praia enseada entre dois castelos. Luz mediterrânea dourada, paleta elegante e vibrante, composição limpa."
+  },
+  {
+    "id": "cdz_playa_victoria",
+    "city": "cadiz",
+    "categoryId": "cadiz",
+    "name": "Playa de la Victoria",
+    "prompt": "Gere uma imagem no formato horizontal 16:9 (paisagem), estilo pôster de viagem, pintura digital cinematográfica, sem pessoas, sem texto e sem marca d'água: Playa de la Victoria, em Cádiz / Tarifa / Jerez, Espanha — O extenso areal urbano da cidade nova. Luz mediterrânea dourada, paleta elegante e vibrante, composição limpa."
+  },
+  {
+    "id": "jrz_alcazar",
+    "city": "cadiz",
+    "categoryId": "cadiz",
+    "name": "Alcázar de Jerez",
+    "prompt": "Gere uma imagem no formato horizontal 16:9 (paisagem), estilo pôster de viagem, pintura digital cinematográfica, sem pessoas, sem texto e sem marca d'água: Alcázar de Jerez, em Cádiz / Tarifa / Jerez, Espanha — A fortaleza almóada com câmara escura. Luz mediterrânea dourada, paleta elegante e vibrante, composição limpa."
+  },
+  {
+    "id": "jrz_bodega_tio_pepe",
+    "city": "cadiz",
+    "categoryId": "cadiz",
+    "name": "Bodegas Tío Pepe (González Byass)",
+    "prompt": "Gere uma imagem no formato horizontal 16:9 (paisagem), estilo pôster de viagem, pintura digital cinematográfica, sem pessoas, sem texto e sem marca d'água: Bodegas Tío Pepe (González Byass), em Cádiz / Tarifa / Jerez, Espanha — As catedrais do vinho onde nasce o xerez. Luz mediterrânea dourada, paleta elegante e vibrante, composição limpa."
+  },
+  {
+    "id": "jrz_real_escuela_ecuestre",
+    "city": "cadiz",
+    "categoryId": "cadiz",
+    "name": "Real Escuela Andaluza del Arte Ecuestre",
+    "prompt": "Gere uma imagem no formato horizontal 16:9 (paisagem), estilo pôster de viagem, pintura digital cinematográfica, sem pessoas, sem texto e sem marca d'água: Real Escuela Andaluza del Arte Ecuestre, em Cádiz / Tarifa / Jerez, Espanha — O balé equestre dos cavalos que dançam. Luz mediterrânea dourada, paleta elegante e vibrante, composição limpa."
+  },
+  {
+    "id": "trf_casco_puerta_jerez",
+    "city": "cadiz",
+    "categoryId": "cadiz",
+    "name": "Casco Antiguo & Puerta de Jerez de Tarifa",
+    "prompt": "Gere uma imagem no formato horizontal 16:9 (paisagem), estilo pôster de viagem, pintura digital cinematográfica, sem pessoas, sem texto e sem marca d'água: Casco Antiguo & Puerta de Jerez de Tarifa, em Cádiz / Tarifa / Jerez, Espanha — A vila murada onde dois mares se encontram. Luz mediterrânea dourada, paleta elegante e vibrante, composição limpa."
+  },
+  {
+    "id": "trf_bolonia_baelo_claudia",
+    "city": "cadiz",
+    "categoryId": "cadiz",
+    "name": "Playa de Bolonia & Baelo Claudia",
+    "prompt": "Gere uma imagem no formato horizontal 16:9 (paisagem), estilo pôster de viagem, pintura digital cinematográfica, sem pessoas, sem texto e sem marca d'água: Playa de Bolonia & Baelo Claudia, em Cádiz / Tarifa / Jerez, Espanha — Ruínas romanas ao pé de uma duna gigante. Luz mediterrânea dourada, paleta elegante e vibrante, composição limpa."
+  },
+  {
+    "id": "trf_isla_palomas",
+    "city": "cadiz",
+    "categoryId": "cadiz",
+    "name": "Isla de las Palomas",
+    "prompt": "Gere uma imagem no formato horizontal 16:9 (paisagem), estilo pôster de viagem, pintura digital cinematográfica, sem pessoas, sem texto e sem marca d'água: Isla de las Palomas, em Cádiz / Tarifa / Jerez, Espanha — O ponto mais ao sul da Europa continental. Luz mediterrânea dourada, paleta elegante e vibrante, composição limpa."
+  },
+  {
+    "id": "vejer_frontera",
+    "city": "cadiz",
+    "categoryId": "cadiz",
+    "name": "Vejer de la Frontera",
+    "prompt": "Gere uma imagem no formato horizontal 16:9 (paisagem), estilo pôster de viagem, pintura digital cinematográfica, sem pessoas, sem texto e sem marca d'água: Vejer de la Frontera, em Cádiz / Tarifa / Jerez, Espanha — A vila branca no alto da colina. Luz mediterrânea dourada, paleta elegante e vibrante, composição limpa."
+  },
+  {
+    "id": "puerto_santa_maria",
+    "city": "cadiz",
+    "categoryId": "cadiz",
+    "name": "El Puerto de Santa María",
+    "prompt": "Gere uma imagem no formato horizontal 16:9 (paisagem), estilo pôster de viagem, pintura digital cinematográfica, sem pessoas, sem texto e sem marca d'água: El Puerto de Santa María, em Cádiz / Tarifa / Jerez, Espanha — A cidade das adegas e do castelo templário. Luz mediterrânea dourada, paleta elegante e vibrante, composição limpa."
+  },
+  {
+    "id": "sanlucar_barrameda",
+    "city": "cadiz",
+    "categoryId": "cadiz",
+    "name": "Sanlúcar de Barrameda",
+    "prompt": "Gere uma imagem no formato horizontal 16:9 (paisagem), estilo pôster de viagem, pintura digital cinematográfica, sem pessoas, sem texto e sem marca d'água: Sanlúcar de Barrameda, em Cádiz / Tarifa / Jerez, Espanha — A manzanilla e as corridas na praia. Luz mediterrânea dourada, paleta elegante e vibrante, composição limpa."
+  },
+  {
+    "id": "gib_upper_rock",
+    "city": "gibraltar",
+    "categoryId": "gibraltar",
+    "name": "Upper Rock Nature Reserve",
+    "prompt": "Gere uma imagem no formato horizontal 16:9 (paisagem), estilo pôster de viagem, pintura digital cinematográfica, sem pessoas, sem texto e sem marca d'água: Upper Rock Nature Reserve, em Gibraltar, Espanha — O coração selvagem do Rochedo. Luz mediterrânea dourada, paleta elegante e vibrante, composição limpa."
+  },
+  {
+    "id": "gib_apes_den",
+    "city": "gibraltar",
+    "categoryId": "gibraltar",
+    "name": "Apes' Den & Macacos de Berbéria",
+    "prompt": "Gere uma imagem no formato horizontal 16:9 (paisagem), estilo pôster de viagem, pintura digital cinematográfica, sem pessoas, sem texto e sem marca d'água: Apes' Den & Macacos de Berbéria, em Gibraltar, Espanha — Os únicos macacos selvagens da Europa. Luz mediterrânea dourada, paleta elegante e vibrante, composição limpa."
+  },
+  {
+    "id": "gib_st_michaels_cave",
+    "city": "gibraltar",
+    "categoryId": "gibraltar",
+    "name": "St. Michael's Cave",
+    "prompt": "Gere uma imagem no formato horizontal 16:9 (paisagem), estilo pôster de viagem, pintura digital cinematográfica, sem pessoas, sem texto e sem marca d'água: St. Michael's Cave, em Gibraltar, Espanha — A catedral de estalactites do Rochedo. Luz mediterrânea dourada, paleta elegante e vibrante, composição limpa."
+  },
+  {
+    "id": "gib_europa_point",
+    "city": "gibraltar",
+    "categoryId": "gibraltar",
+    "name": "Europa Point",
+    "prompt": "Gere uma imagem no formato horizontal 16:9 (paisagem), estilo pôster de viagem, pintura digital cinematográfica, sem pessoas, sem texto e sem marca d'água: Europa Point, em Gibraltar, Espanha — A ponta sul, com a África no horizonte. Luz mediterrânea dourada, paleta elegante e vibrante, composição limpa."
+  },
+  {
+    "id": "gib_great_siege_tunnels",
+    "city": "gibraltar",
+    "categoryId": "gibraltar",
+    "name": "Great Siege Tunnels",
+    "prompt": "Gere uma imagem no formato horizontal 16:9 (paisagem), estilo pôster de viagem, pintura digital cinematográfica, sem pessoas, sem texto e sem marca d'água: Great Siege Tunnels, em Gibraltar, Espanha — A fortaleza escavada dentro da rocha. Luz mediterrânea dourada, paleta elegante e vibrante, composição limpa."
+  },
+  {
+    "id": "gib_moorish_castle",
+    "city": "gibraltar",
+    "categoryId": "gibraltar",
+    "name": "Castelo Mouro (Moorish Castle)",
+    "prompt": "Gere uma imagem no formato horizontal 16:9 (paisagem), estilo pôster de viagem, pintura digital cinematográfica, sem pessoas, sem texto e sem marca d'água: Castelo Mouro (Moorish Castle), em Gibraltar, Espanha — A Torre da Homenagem sobre a cidade. Luz mediterrânea dourada, paleta elegante e vibrante, composição limpa."
+  },
+  {
+    "id": "gib_main_street",
+    "city": "gibraltar",
+    "categoryId": "gibraltar",
+    "name": "Main Street",
+    "prompt": "Gere uma imagem no formato horizontal 16:9 (paisagem), estilo pôster de viagem, pintura digital cinematográfica, sem pessoas, sem texto e sem marca d'água: Main Street, em Gibraltar, Espanha — Compras duty-free entre cabines vermelhas. Luz mediterrânea dourada, paleta elegante e vibrante, composição limpa."
+  },
+  {
+    "id": "gib_skywalk",
+    "city": "gibraltar",
+    "categoryId": "gibraltar",
+    "name": "Skywalk Gibraltar",
+    "prompt": "Gere uma imagem no formato horizontal 16:9 (paisagem), estilo pôster de viagem, pintura digital cinematográfica, sem pessoas, sem texto e sem marca d'água: Skywalk Gibraltar, em Gibraltar, Espanha — Piso de vidro a 340 metros de altura. Luz mediterrânea dourada, paleta elegante e vibrante, composição limpa."
+  },
+  {
+    "id": "gib_ohara_battery",
+    "city": "gibraltar",
+    "categoryId": "gibraltar",
+    "name": "O'Hara's Battery",
+    "prompt": "Gere uma imagem no formato horizontal 16:9 (paisagem), estilo pôster de viagem, pintura digital cinematográfica, sem pessoas, sem texto e sem marca d'água: O'Hara's Battery, em Gibraltar, Espanha — O ponto mais alto do Rochedo. Luz mediterrânea dourada, paleta elegante e vibrante, composição limpa."
+  },
+  {
+    "id": "gib_windsor_bridge",
+    "city": "gibraltar",
+    "categoryId": "gibraltar",
+    "name": "Windsor Suspension Bridge",
+    "prompt": "Gere uma imagem no formato horizontal 16:9 (paisagem), estilo pôster de viagem, pintura digital cinematográfica, sem pessoas, sem texto e sem marca d'água: Windsor Suspension Bridge, em Gibraltar, Espanha — A ponte suspensa sobre a ravina. Luz mediterrânea dourada, paleta elegante e vibrante, composição limpa."
+  },
+  {
+    "id": "gib_alameda_gardens",
+    "city": "gibraltar",
+    "categoryId": "gibraltar",
+    "name": "Alameda Botanic Gardens",
+    "prompt": "Gere uma imagem no formato horizontal 16:9 (paisagem), estilo pôster de viagem, pintura digital cinematográfica, sem pessoas, sem texto e sem marca d'água: Alameda Botanic Gardens, em Gibraltar, Espanha — O jardim botânico junto ao centro. Luz mediterrânea dourada, paleta elegante e vibrante, composição limpa."
+  },
+  {
+    "id": "mlg_ac_palacio_atico",
+    "city": "malaga",
+    "categoryId": "tapas",
+    "name": "Ático — AC Hotel Málaga Palacio",
+    "prompt": "Gere uma imagem no formato horizontal 16:9 (paisagem), estilo pôster de viagem, pintura digital cinematográfica, sem pessoas, sem texto e sem marca d'água: Ático — AC Hotel Málaga Palacio, em Málaga, Espanha — rooftop mais alto, vista do porto. Mostre tapas e uma taça de vinho sobre o balcão de azulejos, clima de taberna andaluza ao entardecer. Luz mediterrânea dourada, paleta elegante e vibrante, composição limpa."
+  },
+  {
+    "id": "mlg_the_top_molina_lario",
+    "city": "malaga",
+    "categoryId": "tapas",
+    "name": "The Top — Molina Lario",
+    "prompt": "Gere uma imagem no formato horizontal 16:9 (paisagem), estilo pôster de viagem, pintura digital cinematográfica, sem pessoas, sem texto e sem marca d'água: The Top — Molina Lario, em Málaga, Espanha — coquetéis frente à catedral. Mostre tapas e uma taça de vinho sobre o balcão de azulejos, clima de taberna andaluza ao entardecer. Luz mediterrânea dourada, paleta elegante e vibrante, composição limpa."
+  },
+  {
+    "id": "mlg_batik_terraza_alcazaba",
+    "city": "malaga",
+    "categoryId": "tapas",
+    "name": "Batik — Terraza de Alcazaba",
+    "prompt": "Gere uma imagem no formato horizontal 16:9 (paisagem), estilo pôster de viagem, pintura digital cinematográfica, sem pessoas, sem texto e sem marca d'água: Batik — Terraza de Alcazaba, em Málaga, Espanha — rooftop com vista da Alcazaba. Mostre tapas e uma taça de vinho sobre o balcão de azulejos, clima de taberna andaluza ao entardecer. Luz mediterrânea dourada, paleta elegante e vibrante, composição limpa."
+  },
+  {
+    "id": "mlg_terraza_larios",
+    "city": "malaga",
+    "categoryId": "tapas",
+    "name": "La Terraza de Larios",
+    "prompt": "Gere uma imagem no formato horizontal 16:9 (paisagem), estilo pôster de viagem, pintura digital cinematográfica, sem pessoas, sem texto e sem marca d'água: La Terraza de Larios, em Málaga, Espanha — rooftop no topo da Calle Larios. Mostre tapas e uma taça de vinho sobre o balcão de azulejos, clima de taberna andaluza ao entardecer. Luz mediterrânea dourada, paleta elegante e vibrante, composição limpa."
+  },
+  {
+    "id": "mlg_the_pharmacy_speakeasy",
+    "city": "malaga",
+    "categoryId": "tapas",
+    "name": "The Pharmacy — Speakeasy",
+    "prompt": "Gere uma imagem no formato horizontal 16:9 (paisagem), estilo pôster de viagem, pintura digital cinematográfica, sem pessoas, sem texto e sem marca d'água: The Pharmacy — Speakeasy, em Málaga, Espanha — coctelería de autor semiescondida. Mostre tapas e uma taça de vinho sobre o balcão de azulejos, clima de taberna andaluza ao entardecer. Luz mediterrânea dourada, paleta elegante e vibrante, composição limpa."
+  },
+  {
+    "id": "mrb_la_suite_puente_romano",
+    "city": "marbella",
+    "categoryId": "tapas",
+    "name": "La Suite — Puente Romano",
+    "prompt": "Gere uma imagem no formato horizontal 16:9 (paisagem), estilo pôster de viagem, pintura digital cinematográfica, sem pessoas, sem texto e sem marca d'água: La Suite — Puente Romano, em Marbella / Costa del Sol, Espanha — sala icônica da Milha de Ouro. Mostre tapas e uma taça de vinho sobre o balcão de azulejos, clima de taberna andaluza ao entardecer. Luz mediterrânea dourada, paleta elegante e vibrante, composição limpa."
+  },
+  {
+    "id": "mrb_olivia_valere",
+    "city": "marbella",
+    "categoryId": "tapas",
+    "name": "Olivia Valère",
+    "prompt": "Gere uma imagem no formato horizontal 16:9 (paisagem), estilo pôster de viagem, pintura digital cinematográfica, sem pessoas, sem texto e sem marca d'água: Olivia Valère, em Marbella / Costa del Sol, Espanha — sala-mito com jardins mouros. Mostre tapas e uma taça de vinho sobre o balcão de azulejos, clima de taberna andaluza ao entardecer. Luz mediterrânea dourada, paleta elegante e vibrante, composição limpa."
+  },
+  {
+    "id": "mrb_nikki_beach",
+    "city": "marbella",
+    "categoryId": "tapas",
+    "name": "Nikki Beach Marbella",
+    "prompt": "Gere uma imagem no formato horizontal 16:9 (paisagem), estilo pôster de viagem, pintura digital cinematográfica, sem pessoas, sem texto e sem marca d'água: Nikki Beach Marbella, em Marbella / Costa del Sol, Espanha — beach club chic ao anoitecer. Mostre tapas e uma taça de vinho sobre o balcão de azulejos, clima de taberna andaluza ao entardecer. Luz mediterrânea dourada, paleta elegante e vibrante, composição limpa."
+  },
+  {
+    "id": "mrb_belvue_amare",
+    "city": "marbella",
+    "categoryId": "tapas",
+    "name": "Belvue Rooftop — Amàre Beach",
+    "prompt": "Gere uma imagem no formato horizontal 16:9 (paisagem), estilo pôster de viagem, pintura digital cinematográfica, sem pessoas, sem texto e sem marca d'água: Belvue Rooftop — Amàre Beach, em Marbella / Costa del Sol, Espanha — rooftop com coquetéis de Diego Cabrera. Mostre tapas e uma taça de vinho sobre o balcão de azulejos, clima de taberna andaluza ao entardecer. Luz mediterrânea dourada, paleta elegante e vibrante, composição limpa."
+  },
+  {
+    "id": "grn_b_heaven_carmen",
+    "city": "granada",
+    "categoryId": "tapas",
+    "name": "B-Heaven — Barceló Carmen",
+    "prompt": "Gere uma imagem no formato horizontal 16:9 (paisagem), estilo pôster de viagem, pintura digital cinematográfica, sem pessoas, sem texto e sem marca d'água: B-Heaven — Barceló Carmen, em Granada, Espanha — rooftop com a Alhambra ao fundo. Mostre tapas e uma taça de vinho sobre o balcão de azulejos, clima de taberna andaluza ao entardecer. Luz mediterrânea dourada, paleta elegante e vibrante, composição limpa."
+  },
+  {
+    "id": "sev_terraza_eme",
+    "city": "sevilla",
+    "categoryId": "tapas",
+    "name": "La Terraza del EME",
+    "prompt": "Gere uma imagem no formato horizontal 16:9 (paisagem), estilo pôster de viagem, pintura digital cinematográfica, sem pessoas, sem texto e sem marca d'água: La Terraza del EME, em Sevilla, Espanha — rooftop coladinho na Giralda. Mostre tapas e uma taça de vinho sobre o balcão de azulejos, clima de taberna andaluza ao entardecer. Luz mediterrânea dourada, paleta elegante e vibrante, composição limpa."
+  },
+  {
+    "id": "sev_terraza_dona_maria",
+    "city": "sevilla",
+    "categoryId": "tapas",
+    "name": "Terraza Doña María",
+    "prompt": "Gere uma imagem no formato horizontal 16:9 (paisagem), estilo pôster de viagem, pintura digital cinematográfica, sem pessoas, sem texto e sem marca d'água: Terraza Doña María, em Sevilla, Espanha — a vista mais frontal da Giralda. Mostre tapas e uma taça de vinho sobre o balcão de azulejos, clima de taberna andaluza ao entardecer. Luz mediterrânea dourada, paleta elegante e vibrante, composição limpa."
+  },
+  {
+    "id": "svq_abantal",
+    "city": "sevilla",
+    "categoryId": "gastronomia",
+    "name": "Abantal",
+    "prompt": "Gere uma imagem no formato horizontal 16:9 (paisagem), estilo pôster de viagem, pintura digital cinematográfica, sem pessoas, sem texto e sem marca d'água: Abantal, em Sevilla, Espanha — Estrela Michelin, alta cozinha sevillana. Mostre um prato andaluz/espanhol lindamente servido, apetitoso, num restaurante elegante. Luz mediterrânea dourada, paleta elegante e vibrante, composição limpa."
+  },
+  {
+    "id": "svq_canabota",
+    "city": "sevilla",
+    "categoryId": "gastronomia",
+    "name": "Cañabota",
+    "prompt": "Gere uma imagem no formato horizontal 16:9 (paisagem), estilo pôster de viagem, pintura digital cinematográfica, sem pessoas, sem texto e sem marca d'água: Cañabota, em Sevilla, Espanha — Estrela Michelin do mar, produto ao natural. Mostre um prato andaluz/espanhol lindamente servido, apetitoso, num restaurante elegante. Luz mediterrânea dourada, paleta elegante e vibrante, composição limpa."
+  },
+  {
+    "id": "svq_ispal",
+    "city": "sevilla",
+    "categoryId": "gastronomia",
+    "name": "Ispal",
+    "prompt": "Gere uma imagem no formato horizontal 16:9 (paisagem), estilo pôster de viagem, pintura digital cinematográfica, sem pessoas, sem texto e sem marca d'água: Ispal, em Sevilla, Espanha — Recomendado Michelin, 100% sevillano. Mostre um prato andaluz/espanhol lindamente servido, apetitoso, num restaurante elegante. Luz mediterrânea dourada, paleta elegante e vibrante, composição limpa."
+  },
+  {
+    "id": "svq_rinconcillo",
+    "city": "sevilla",
+    "categoryId": "tapas",
+    "name": "El Rinconcillo",
+    "prompt": "Gere uma imagem no formato horizontal 16:9 (paisagem), estilo pôster de viagem, pintura digital cinematográfica, sem pessoas, sem texto e sem marca d'água: El Rinconcillo, em Sevilla, Espanha — A taberna mais antiga de Sevilha, desde 1670. Mostre tapas e uma taça de vinho sobre o balcão de azulejos, clima de taberna andaluza ao entardecer. Luz mediterrânea dourada, paleta elegante e vibrante, composição limpa."
+  },
+  {
+    "id": "svq_las_teresas",
+    "city": "sevilla",
+    "categoryId": "tapas",
+    "name": "Las Teresas",
+    "prompt": "Gere uma imagem no formato horizontal 16:9 (paisagem), estilo pôster de viagem, pintura digital cinematográfica, sem pessoas, sem texto e sem marca d'água: Las Teresas, em Sevilla, Espanha — Jamón de Jabugo na barra de Santa Cruz. Mostre tapas e uma taça de vinho sobre o balcão de azulejos, clima de taberna andaluza ao entardecer. Luz mediterrânea dourada, paleta elegante e vibrante, composição limpa."
+  },
+  {
+    "id": "svq_eslava",
+    "city": "sevilla",
+    "categoryId": "tapas",
+    "name": "Eslava",
+    "prompt": "Gere uma imagem no formato horizontal 16:9 (paisagem), estilo pôster de viagem, pintura digital cinematográfica, sem pessoas, sem texto e sem marca d'água: Eslava, em Sevilla, Espanha — Tapas premiadas junto a San Lorenzo. Mostre tapas e uma taça de vinho sobre o balcão de azulejos, clima de taberna andaluza ao entardecer. Luz mediterrânea dourada, paleta elegante e vibrante, composição limpa."
+  },
+  {
+    "id": "svq_el_comercio",
+    "city": "sevilla",
+    "categoryId": "cafe",
+    "name": "Bar El Comercio",
+    "prompt": "Gere uma imagem no formato horizontal 16:9 (paisagem), estilo pôster de viagem, pintura digital cinematográfica, sem pessoas, sem texto e sem marca d'água: Bar El Comercio, em Sevilla, Espanha — Churros clássicos de Sevilha desde 1904. Mostre uma xícara de café (ou churros com chocolate) e o ambiente aconchegante do café. Luz mediterrânea dourada, paleta elegante e vibrante, composição limpa."
+  },
+  {
+    "id": "cdz_aponiente",
+    "city": "cadiz",
+    "categoryId": "gastronomia",
+    "name": "Aponiente",
+    "prompt": "Gere uma imagem no formato horizontal 16:9 (paisagem), estilo pôster de viagem, pintura digital cinematográfica, sem pessoas, sem texto e sem marca d'água: Aponiente, em Cádiz / Tarifa / Jerez, Espanha — Três estrelas Michelin, o Chef do Mar. Mostre um prato andaluz/espanhol lindamente servido, apetitoso, num restaurante elegante. Luz mediterrânea dourada, paleta elegante e vibrante, composição limpa."
+  },
+  {
+    "id": "cdz_lu_cocina_alma",
+    "city": "cadiz",
+    "categoryId": "gastronomia",
+    "name": "LÚ Cocina y Alma",
+    "prompt": "Gere uma imagem no formato horizontal 16:9 (paisagem), estilo pôster de viagem, pintura digital cinematográfica, sem pessoas, sem texto e sem marca d'água: LÚ Cocina y Alma, em Cádiz / Tarifa / Jerez, Espanha — Duas estrelas Michelin em Jerez. Mostre um prato andaluz/espanhol lindamente servido, apetitoso, num restaurante elegante. Luz mediterrânea dourada, paleta elegante e vibrante, composição limpa."
+  },
+  {
+    "id": "cdz_codigo_de_barra",
+    "city": "cadiz",
+    "categoryId": "gastronomia",
+    "name": "Código de Barra",
+    "prompt": "Gere uma imagem no formato horizontal 16:9 (paisagem), estilo pôster de viagem, pintura digital cinematográfica, sem pessoas, sem texto e sem marca d'água: Código de Barra, em Cádiz / Tarifa / Jerez, Espanha — A primeira estrela Michelin de Cádiz capital. Mostre um prato andaluz/espanhol lindamente servido, apetitoso, num restaurante elegante. Luz mediterrânea dourada, paleta elegante e vibrante, composição limpa."
+  },
+  {
+    "id": "cdz_casa_manteca",
+    "city": "cadiz",
+    "categoryId": "tapas",
+    "name": "Taberna Casa Manteca",
+    "prompt": "Gere uma imagem no formato horizontal 16:9 (paisagem), estilo pôster de viagem, pintura digital cinematográfica, sem pessoas, sem texto e sem marca d'água: Taberna Casa Manteca, em Cádiz / Tarifa / Jerez, Espanha — Chicharrones e solera no bairro La Viña. Mostre tapas e uma taça de vinho sobre o balcão de azulejos, clima de taberna andaluza ao entardecer. Luz mediterrânea dourada, paleta elegante e vibrante, composição limpa."
+  },
+  {
+    "id": "cdz_el_faro",
+    "city": "cadiz",
+    "categoryId": "tapas",
+    "name": "El Faro de Cádiz",
+    "prompt": "Gere uma imagem no formato horizontal 16:9 (paisagem), estilo pôster de viagem, pintura digital cinematográfica, sem pessoas, sem texto e sem marca d'água: El Faro de Cádiz, em Cádiz / Tarifa / Jerez, Espanha — Tortillitas de camarão desde 1964. Mostre tapas e uma taça de vinho sobre o balcão de azulejos, clima de taberna andaluza ao entardecer. Luz mediterrânea dourada, paleta elegante e vibrante, composição limpa."
+  },
+  {
+    "id": "cdz_cafe_la_marina",
+    "city": "cadiz",
+    "categoryId": "cafe",
+    "name": "Café-Bar La Marina",
+    "prompt": "Gere uma imagem no formato horizontal 16:9 (paisagem), estilo pôster de viagem, pintura digital cinematográfica, sem pessoas, sem texto e sem marca d'água: Café-Bar La Marina, em Cádiz / Tarifa / Jerez, Espanha — Churros e café na Plaza de las Flores. Mostre uma xícara de café (ou churros com chocolate) e o ambiente aconchegante do café. Luz mediterrânea dourada, paleta elegante e vibrante, composição limpa."
+  },
+  {
+    "id": "svq_catedral_giralda",
+    "city": "sevilla",
+    "categoryId": "sevilla",
+    "name": "Catedral de Sevilla e Giralda",
+    "prompt": "Gere uma imagem no formato horizontal 16:9 (paisagem), estilo pôster de viagem, pintura digital cinematográfica, sem pessoas, sem texto e sem marca d'água: Catedral de Sevilla e Giralda, em Sevilla, Espanha — A maior catedral gótica do mundo. Luz mediterrânea dourada, paleta elegante e vibrante, composição limpa."
+  },
+  {
+    "id": "svq_real_alcazar",
+    "city": "sevilla",
+    "categoryId": "sevilla",
+    "name": "Real Alcázar",
+    "prompt": "Gere uma imagem no formato horizontal 16:9 (paisagem), estilo pôster de viagem, pintura digital cinematográfica, sem pessoas, sem texto e sem marca d'água: Real Alcázar, em Sevilla, Espanha — O palácio real em uso mais antigo da Europa. Luz mediterrânea dourada, paleta elegante e vibrante, composição limpa."
+  },
+  {
+    "id": "svq_plaza_espana",
+    "city": "sevilla",
+    "categoryId": "sevilla",
+    "name": "Plaza de España",
+    "prompt": "Gere uma imagem no formato horizontal 16:9 (paisagem), estilo pôster de viagem, pintura digital cinematográfica, sem pessoas, sem texto e sem marca d'água: Plaza de España, em Sevilla, Espanha — O grande semicírculo de azulejos e canais. Luz mediterrânea dourada, paleta elegante e vibrante, composição limpa."
+  },
+  {
+    "id": "svq_barrio_santa_cruz",
+    "city": "sevilla",
+    "categoryId": "sevilla",
+    "name": "Barrio de Santa Cruz",
+    "prompt": "Gere uma imagem no formato horizontal 16:9 (paisagem), estilo pôster de viagem, pintura digital cinematográfica, sem pessoas, sem texto e sem marca d'água: Barrio de Santa Cruz, em Sevilla, Espanha — O labirinto branco da antiga judiaria. Luz mediterrânea dourada, paleta elegante e vibrante, composição limpa."
+  },
+  {
+    "id": "svq_setas_metropol",
+    "city": "sevilla",
+    "categoryId": "sevilla",
+    "name": "Metropol Parasol — Las Setas",
+    "prompt": "Gere uma imagem no formato horizontal 16:9 (paisagem), estilo pôster de viagem, pintura digital cinematográfica, sem pessoas, sem texto e sem marca d'água: Metropol Parasol — Las Setas, em Sevilla, Espanha — O maior monumento de madeira do mundo. Luz mediterrânea dourada, paleta elegante e vibrante, composição limpa."
+  },
+  {
+    "id": "svq_triana_puente_isabel",
+    "city": "sevilla",
+    "categoryId": "sevilla",
+    "name": "Triana e Puente de Isabel II",
+    "prompt": "Gere uma imagem no formato horizontal 16:9 (paisagem), estilo pôster de viagem, pintura digital cinematográfica, sem pessoas, sem texto e sem marca d'água: Triana e Puente de Isabel II, em Sevilla, Espanha — O bairro marinheiro do outro lado do rio. Luz mediterrânea dourada, paleta elegante e vibrante, composição limpa."
+  },
+  {
+    "id": "svq_torre_del_oro",
+    "city": "sevilla",
+    "categoryId": "sevilla",
+    "name": "Torre del Oro",
+    "prompt": "Gere uma imagem no formato horizontal 16:9 (paisagem), estilo pôster de viagem, pintura digital cinematográfica, sem pessoas, sem texto e sem marca d'água: Torre del Oro, em Sevilla, Espanha — A torre albarrã à beira do Guadalquivir. Luz mediterrânea dourada, paleta elegante e vibrante, composição limpa."
+  },
+  {
+    "id": "svq_plaza_toros_maestranza",
+    "city": "sevilla",
+    "categoryId": "sevilla",
+    "name": "Plaza de Toros de la Maestranza",
+    "prompt": "Gere uma imagem no formato horizontal 16:9 (paisagem), estilo pôster de viagem, pintura digital cinematográfica, sem pessoas, sem texto e sem marca d'água: Plaza de Toros de la Maestranza, em Sevilla, Espanha — A praça de touros mais antiga do país. Luz mediterrânea dourada, paleta elegante e vibrante, composição limpa."
+  },
+  {
+    "id": "svq_archivo_de_indias",
+    "city": "sevilla",
+    "categoryId": "sevilla",
+    "name": "Archivo General de Indias",
+    "prompt": "Gere uma imagem no formato horizontal 16:9 (paisagem), estilo pôster de viagem, pintura digital cinematográfica, sem pessoas, sem texto e sem marca d'água: Archivo General de Indias, em Sevilla, Espanha — A memória documental de todo um império. Luz mediterrânea dourada, paleta elegante e vibrante, composição limpa."
+  },
+  {
+    "id": "svq_basilica_macarena",
+    "city": "sevilla",
+    "categoryId": "sevilla",
+    "name": "Basílica de la Macarena",
+    "prompt": "Gere uma imagem no formato horizontal 16:9 (paisagem), estilo pôster de viagem, pintura digital cinematográfica, sem pessoas, sem texto e sem marca d'água: Basílica de la Macarena, em Sevilla, Espanha — O templo da Virgem mais amada de Sevilha. Luz mediterrânea dourada, paleta elegante e vibrante, composição limpa."
+  },
+  {
+    "id": "svq_casa_de_pilatos",
+    "city": "sevilla",
+    "categoryId": "sevilla",
+    "name": "Casa de Pilatos",
+    "prompt": "Gere uma imagem no formato horizontal 16:9 (paisagem), estilo pôster de viagem, pintura digital cinematográfica, sem pessoas, sem texto e sem marca d'água: Casa de Pilatos, em Sevilla, Espanha — Palácio-jardim mudéjar e renascentista. Luz mediterrânea dourada, paleta elegante e vibrante, composição limpa."
+  },
+  {
+    "id": "svq_palacio_las_duenas",
+    "city": "sevilla",
+    "categoryId": "sevilla",
+    "name": "Palacio de las Dueñas",
+    "prompt": "Gere uma imagem no formato horizontal 16:9 (paisagem), estilo pôster de viagem, pintura digital cinematográfica, sem pessoas, sem texto e sem marca d'água: Palacio de las Dueñas, em Sevilla, Espanha — A casa sevilhana da duquesa de Alba. Luz mediterrânea dourada, paleta elegante e vibrante, composição limpa."
+  },
+  {
+    "id": "svq_plaza_nueva_ayuntamiento",
+    "city": "sevilla",
+    "categoryId": "sevilla",
+    "name": "Plaza Nueva e Ayuntamiento",
+    "prompt": "Gere uma imagem no formato horizontal 16:9 (paisagem), estilo pôster de viagem, pintura digital cinematográfica, sem pessoas, sem texto e sem marca d'água: Plaza Nueva e Ayuntamiento, em Sevilla, Espanha — O salão urbano no coração de Sevilha. Luz mediterrânea dourada, paleta elegante e vibrante, composição limpa."
+  },
+  {
     "id": "mlg_jose_carlos_garcia",
     "city": "malaga",
     "categoryId": "gastronomia",
@@ -2532,13 +2994,6 @@
     "categoryId": "praias",
     "name": "Puente Romano Beach Club",
     "prompt": "Gere uma imagem no formato horizontal 16:9 (paisagem), estilo pôster de viagem, pintura digital cinematográfica, sem pessoas, sem texto e sem marca d'água: Puente Romano Beach Club, em Marbella / Costa del Sol, Espanha — Beach club 5 estrelas na Milla de Oro. Mostre a praia mediterrânea com areia dourada, um chiringuito e o mar azul-turquesa. Luz mediterrânea dourada, paleta elegante e vibrante, composição limpa."
-  },
-  {
-    "id": "mrb_nikki_beach",
-    "city": "marbella",
-    "categoryId": "praias",
-    "name": "Nikki Beach Marbella",
-    "prompt": "Gere uma imagem no formato horizontal 16:9 (paisagem), estilo pôster de viagem, pintura digital cinematográfica, sem pessoas, sem texto e sem marca d'água: Nikki Beach Marbella, em Marbella / Costa del Sol, Espanha — O beach club festa por excelência, em Elviria. Mostre a praia mediterrânea com areia dourada, um chiringuito e o mar azul-turquesa. Luz mediterrânea dourada, paleta elegante e vibrante, composição limpa."
   },
   {
     "id": "mrb_ocean_club",

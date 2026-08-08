@@ -13,7 +13,10 @@ const cityLabel = {
   ronda: 'Ronda',
   marbella: 'Marbella / Costa del Sol',
   granada: 'Granada',
-  cordoba: 'Córdoba'
+  cordoba: 'Córdoba',
+  sevilla: 'Sevilla',
+  cadiz: 'Cádiz / Tarifa / Jerez',
+  gibraltar: 'Gibraltar'
 };
 
 // Dica de CENA por categoria temática (as de destino já são visuais pelo nome).

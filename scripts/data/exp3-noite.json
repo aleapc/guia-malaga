@@ -1,0 +1,281 @@
+[
+  {
+    "id": "mlg_ac_palacio_atico",
+    "categoryId": "tapas",
+    "city": "malaga",
+    "name": "Ático — AC Hotel Málaga Palacio",
+    "tagline": "rooftop mais alto, vista do porto",
+    "description": "No 15º andar do histórico AC Hotel Málaga Palacio, este é o rooftop mais alto da cidade, com vista de 360° sobre a catedral, o porto e o Mediterrâneo. À noite, o terraço com piscina vira palco de coquetéis de autor e música ambiente, num dos pores do sol mais concorridos de Málaga. Ambiente elegante e adulto, ideal para abrir a noite com calma.",
+    "lat": 36.719173,
+    "lng": -4.419542,
+    "durationLabel": "a noite",
+    "fit": "CLEAR_SKY",
+    "mapQuery": "Ático Rooftop AC Hotel Málaga Palacio, Calle Cortina del Muelle 1, Málaga",
+    "kingTip": "Suba antes do pôr do sol e peça um gin-tônica de autor no parapeito voltado para a catedral; nos fins de semana vale reservar mesa.",
+    "priceLevel": "€€€ (coquetel ~€14 est.)",
+    "hours": {
+      "openDays": "Todos os dias",
+      "openHour": "13:00",
+      "closeHour": "01:00",
+      "note": "Aberto ao público, não só a hóspedes. Horários encurtam fora da alta temporada; confirme na hora."
+    }
+  },
+  {
+    "id": "mlg_the_top_molina_lario",
+    "categoryId": "tapas",
+    "city": "malaga",
+    "name": "The Top — Molina Lario",
+    "tagline": "coquetéis frente à catedral",
+    "description": "Rooftop do elegante Hotel Molina Lario, a poucos passos da catedral, com terraço no alto e vista aberta sobre a Manquita, o porto e os telhados do centro. A casa é conhecida pelos coquetéis criativos, cheios de texturas e aromas, servidos com tapas finas e música ao vivo em noites selecionadas. Um clássico sofisticado para brindar com a catedral iluminada ao fundo.",
+    "lat": 36.719151,
+    "lng": -4.42021,
+    "durationLabel": "a noite",
+    "fit": "CLEAR_SKY",
+    "mapQuery": "The Top Rooftop, Hotel Molina Lario, Calle Molina Lario 22, Málaga",
+    "kingTip": "Peça um coquetel de autor da carta e garanta lugar no lado voltado para a catedral, o melhor ângulo da casa.",
+    "priceLevel": "€€€ (coquetel ~€14 est.)",
+    "hours": {
+      "openDays": "Todos os dias",
+      "openHour": "13:00",
+      "closeHour": "01:00",
+      "note": "Terraço disputado ao entardecer; reserve nos fins de semana. Confirme os horários na baixa temporada."
+    },
+    "links": [
+      { "label": "Hotel Molina Lario", "url": "https://www.cataloniahotels.com/en/hotel/catalonia-molina-lario" }
+    ]
+  },
+  {
+    "id": "mlg_batik_terraza_alcazaba",
+    "categoryId": "tapas",
+    "city": "malaga",
+    "name": "Batik — Terraza de Alcazaba",
+    "tagline": "rooftop com vista da Alcazaba",
+    "description": "No último andar do Alcazaba Premium Hotel, na Calle Alcazabilla, o terraço chill-out do Batik tem uma das melhores vistas panorâmicas da Alcazaba, do Teatro Romano e do castelo de Gibralfaro. Dividido em dois níveis, serve coquetéis preparados por bartenders e petiscos mediterrâneos num clima descontraído e sofisticado. É o ponto certo para prolongar a noite com um dos cenários mais bonitos do centro histórico.",
+    "lat": 36.722263,
+    "lng": -4.417045,
+    "durationLabel": "a noite",
+    "fit": "CLEAR_SKY",
+    "mapQuery": "Batik Terraza de Alcazaba, Calle Alcazabilla 12, Málaga",
+    "kingTip": "Peça um coquetel e fique no nível superior voltado para a Alcazaba iluminada; o pôr do sol sobre a fortaleza é o momento a não perder.",
+    "priceLevel": "€€€ (coquetel ~€13 est.)",
+    "hours": {
+      "openDays": "Todos os dias",
+      "openHour": "13:00",
+      "closeHour": "00:00",
+      "note": "Terraço pequeno e muito procurado; reserve no verão. Horários variam com a estação."
+    },
+    "links": [
+      { "label": "Hotel Alcazaba Premium", "url": "https://www.hotelalcazabapremium.com/en/malaga-restaurant/" }
+    ]
+  },
+  {
+    "id": "mlg_terraza_larios",
+    "categoryId": "tapas",
+    "city": "malaga",
+    "name": "La Terraza de Larios",
+    "tagline": "rooftop no topo da Calle Larios",
+    "description": "No alto do Hotel Larios, na famosa Calle Marqués de Larios, este rooftop estiloso tem bar de mosaico, teto retrátil e vista para a catedral e os telhados do centro. Coquetéis bem executados, som ambiente e um público animado fazem dele uma das varandas mais glamourosas de Málaga. O teto móvel garante o programa em qualquer época do ano.",
+    "lat": 36.720658,
+    "lng": -4.42186,
+    "durationLabel": "a noite",
+    "fit": "CLEAR_SKY",
+    "mapQuery": "La Terraza de Larios, Calle Marqués de Larios 2, Málaga",
+    "kingTip": "Entre pela recepção do hotel na Calle Larios e suba de elevador; peça a mesa junto ao parapeito com vista para a catedral.",
+    "priceLevel": "€€€ (coquetel ~€14 est.)",
+    "hours": {
+      "openDays": "Todos os dias",
+      "openHour": "14:00",
+      "closeHour": "02:00",
+      "note": "Fecha mais cedo de domingo a quinta (por volta de 00:30–01:00). Aberto ao público, walk-ins bem-vindos."
+    }
+  },
+  {
+    "id": "mlg_the_pharmacy_speakeasy",
+    "categoryId": "tapas",
+    "city": "malaga",
+    "name": "The Pharmacy — Speakeasy",
+    "tagline": "coctelería de autor semiescondida",
+    "description": "Speakeasy semiescondido no centro de Málaga, com estética de botica antiga e uma carta de coquetéis de autor organizada como um herbário, cheia de destilados botânicos e criações fora do comum. Premiado como uma das melhores coctelerías novas da Espanha no concurso World Class, é um espaço íntimo, com jazz de fundo e mixologia levada a sério. Não aceita reservas: chega-se e espera-se por um lugar no balcão.",
+    "lat": 36.721019,
+    "lng": -4.424886,
+    "durationLabel": "a noite",
+    "fit": "ANY",
+    "mapQuery": "Speakeasy The Pharmacy, Calle García Briz 3, Málaga",
+    "kingTip": "Deixe o bartender guiar pela carta-herbário em vez de escolher às cegas; chegue cedo, pois não há reservas e enche rápido.",
+    "priceLevel": "€€€ (coquetel ~€12 est.)",
+    "hours": {
+      "openDays": "Todos os dias",
+      "openHour": "18:00",
+      "closeHour": "02:00",
+      "note": "Não aceita reservas. Espaço pequeno e intimista; confirme o dia de descanso na baixa temporada."
+    },
+    "links": [
+      { "label": "Site oficial", "url": "https://www.thepharmacy.es" }
+    ]
+  },
+  {
+    "id": "mrb_la_suite_puente_romano",
+    "categoryId": "tapas",
+    "city": "marbella",
+    "name": "La Suite — Puente Romano",
+    "tagline": "sala icônica da Milha de Ouro",
+    "description": "Sala noturna íntima dentro do resort Puente Romano, na Milha de Ouro, com decoração que cruza loft de Manhattan e estilo Marbella. Uma das baladas mais exclusivas da cidade, reúne um público seleto com programação de DJs internacionais, código de vestimenta apertado e serviço de mesa impecável. Abre depois da meia-noite e é reduto histórico da noite chic marbellí.",
+    "lat": 36.503664,
+    "lng": -4.925582,
+    "durationLabel": "a noite",
+    "fit": "ANY",
+    "mapQuery": "La Suite Club, Puente Romano Beach Resort, Bulevar Príncipe Alfonso von Hohenlohe, Marbella",
+    "kingTip": "Reserve mesa com serviço de garrafa com antecedência e respeite o dress code (nada de bermuda ou chinelo); a casa costuma abrir só depois da meia-noite.",
+    "priceLevel": "€€€",
+    "hours": {
+      "openDays": "Qui–Sáb",
+      "openHour": "00:00",
+      "closeHour": "06:00",
+      "note": "Programação concentrada de quinta a sábado e no verão; funcionamento sazonal. Confirme a agenda antes de ir."
+    },
+    "links": [
+      { "label": "Puente Romano", "url": "https://www.puenteromano.com" }
+    ]
+  },
+  {
+    "id": "mrb_olivia_valere",
+    "categoryId": "tapas",
+    "city": "marbella",
+    "name": "Olivia Valère",
+    "tagline": "sala-mito com jardins mouros",
+    "description": "Instituição da noite marbellí desde os anos 1990, num cenário deslumbrante inspirado num palácio de estilo mouro, com pátios, jardins e fontes na estrada de Istán. Referência de badalação da Costa del Sol, mistura restaurante, lounge e balada com DJs e público internacional cosmopolita. É a sala-mito onde a alta temporada de Marbella atinge o auge.",
+    "lat": 36.505062,
+    "lng": -4.940957,
+    "durationLabel": "a noite",
+    "fit": "ANY",
+    "mapQuery": "Olivia Valère, Carretera de Istán Km 0.8, Marbella",
+    "kingTip": "Fica fora do centro, na estrada de Istán: vá de táxi. Para garantir entrada nas noites cheias de agosto, reserve mesa antecipadamente.",
+    "priceLevel": "€€€",
+    "hours": {
+      "openDays": "Qua–Dom",
+      "openHour": "00:00",
+      "closeHour": "06:00",
+      "note": "Auge no verão; funcionamento sazonal e agenda variável. Dress code exigente; confirme a programação da semana."
+    },
+    "links": [
+      { "label": "Site oficial", "url": "https://olivia-valere.com" }
+    ]
+  },
+  {
+    "id": "mrb_nikki_beach",
+    "categoryId": "tapas",
+    "city": "marbella",
+    "name": "Nikki Beach Marbella",
+    "tagline": "beach club chic ao anoitecer",
+    "description": "Beach club de luxo em Elviria, à beira-mar, com piscina, camas VIP, restaurante ao ar livre e o icônico bar octogonal ao centro. Aberto desde 2003, é famoso pelas festas temáticas, do champanhe à lua cheia, que embalam a tarde e deslizam para a noite com DJs e clima de festa. Um dos endereços mais exclusivos (e caros) da Costa del Sol.",
+    "lat": 36.489687,
+    "lng": -4.773009,
+    "durationLabel": "a noite",
+    "fit": "CLEAR_SKY",
+    "mapQuery": "Nikki Beach Marbella, Playa Hotel Don Carlos, Elviria, Marbella",
+    "kingTip": "O forte é a virada tarde-noite: reserve cama ou mesa e mire nos dias de festa temática, quando a casa ferve com DJ.",
+    "priceLevel": "€€€ (coquetel ~€18 est.)",
+    "hours": {
+      "openDays": "Todos os dias (temporada)",
+      "openHour": "11:00",
+      "closeHour": "00:00",
+      "note": "Fica em Elviria, a leste do centro de Marbella. Opera na temporada (primavera–outono); confirme calendário e eventos."
+    }
+  },
+  {
+    "id": "mrb_belvue_amare",
+    "categoryId": "tapas",
+    "city": "marbella",
+    "name": "Belvue Rooftop — Amàre Beach",
+    "tagline": "rooftop com coquetéis de Diego Cabrera",
+    "description": "No 9º andar do Amàre Beach Hotel (só adultos), no paseo marítimo de Marbella, este rooftop tem vista de 360° sobre o mar e a serra, alcançando Gibraltar e a África em dias claros. A carta de coquetéis assinada pelo premiado mixólogo Diego Cabrera é o grande trunfo, com DJs residentes e shows ao vivo à noite. Do drink romântico ao pôr do sol à balada animada, é dos rooftops mais refinados da cidade.",
+    "lat": 36.508237,
+    "lng": -4.881168,
+    "durationLabel": "a noite",
+    "fit": "CLEAR_SKY",
+    "mapQuery": "Belvue Rooftop Bar, Amàre Beach Hotel Marbella, Av. Severo Ochoa, Marbella",
+    "kingTip": "Peça um dos coquetéis de assinatura de Diego Cabrera ao entardecer; hotel só para adultos, ótimo para uma noite sem pressa a dois.",
+    "priceLevel": "€€€ (coquetel ~€16 est.)",
+    "hours": {
+      "openDays": "Todos os dias (temporada)",
+      "openHour": "13:00",
+      "closeHour": "01:00",
+      "note": "No centro de Marbella, junto à praia. Funciona na temporada; horários e agenda de DJ variam. Confirme antes."
+    },
+    "links": [
+      { "label": "Site oficial", "url": "https://www.amarehotels.com/amare-marbella/belvue-rooftop-bar/" }
+    ]
+  },
+  {
+    "id": "grn_b_heaven_carmen",
+    "categoryId": "tapas",
+    "city": "granada",
+    "name": "B-Heaven — Barceló Carmen",
+    "tagline": "rooftop com a Alhambra ao fundo",
+    "description": "Rooftop amplo e elegante no alto do hotel Barceló Carmen, com vista de 360° sobre Granada, a Sierra Nevada e a Torre de la Vela da Alhambra. À noite, vira lounge de coquetéis com a Alhambra iluminada no horizonte, gastronomia de forno a carvão e programação de música ao vivo e shows de flamenco em dias fixos. Um dos melhores mirantes da cidade para brindar depois do pôr do sol.",
+    "lat": 37.17052,
+    "lng": -3.598312,
+    "durationLabel": "a noite",
+    "fit": "CLEAR_SKY",
+    "mapQuery": "B-Heaven, Barceló Carmen Granada, Acera del Darro 62, Granada",
+    "kingTip": "Vá ao anoitecer para ver a Alhambra ganhar tons alaranjados; peça um coquetel e confira a agenda (flamenco às quartas, música ao vivo em outras noites).",
+    "priceLevel": "€€€ (coquetel ~€13 est.)",
+    "hours": {
+      "openDays": "Todos os dias (temporada)",
+      "openHour": "12:00",
+      "closeHour": "00:00",
+      "note": "Terraço sazonal, mais ativo de primavera a outono. Aberto ao público; confirme horários e programação."
+    },
+    "links": [
+      { "label": "Site oficial", "url": "https://bheavengranada.com" }
+    ]
+  },
+  {
+    "id": "sev_terraza_eme",
+    "categoryId": "tapas",
+    "city": "sevilla",
+    "name": "La Terraza del EME",
+    "tagline": "rooftop coladinho na Giralda",
+    "description": "Rooftop sofisticado no alto do EME Catedral Hotel, no bairro de Santa Cruz, a poucos metros da catedral e com a Giralda praticamente ao alcance da mão. Distribuído em dois níveis de decoração moderna, oferece coquetéis icônicos assinados por Javier de las Muelas (Dry Martini) e petiscos num ambiente urbano e vibrante. É dos rooftops mais deslumbrantes de Sevilha para brindar com a Giralda iluminada.",
+    "lat": 37.386865,
+    "lng": -5.992736,
+    "durationLabel": "a noite",
+    "fit": "CLEAR_SKY",
+    "mapQuery": "La Terraza del EME, EME Catedral Hotel, Calle Alemanes 27, Sevilla",
+    "kingTip": "Peça um dos coquetéis de assinatura de Javier de las Muelas e garanta lugar no parapeito de frente para a Giralda; enche muito ao pôr do sol.",
+    "priceLevel": "€€€ (coquetel ~€15 est.)",
+    "hours": {
+      "openDays": "Todos os dias",
+      "openHour": "13:00",
+      "closeHour": "02:00",
+      "note": "Muito procurado ao entardecer; considere reservar. Horários encurtam fora da alta temporada."
+    },
+    "links": [
+      { "label": "Site oficial", "url": "https://www.laterrazadeleme.com" }
+    ]
+  },
+  {
+    "id": "sev_terraza_dona_maria",
+    "categoryId": "tapas",
+    "city": "sevilla",
+    "name": "Terraza Doña María",
+    "tagline": "a vista mais frontal da Giralda",
+    "description": "Terraço do histórico Hotel Doña María, em Santa Cruz, com vários níveis, piscina e o ângulo mais frontal e próximo da Giralda em toda Sevilha. De atmosfera clássica e charmosa, é o lugar perfeito para um aperitivo ou um drink ao entardecer, envolvido pela silhueta iluminada da torre. Menos badalado que os rooftops de hotel de design, ganha no cenário puro.",
+    "lat": 37.386395,
+    "lng": -5.99161,
+    "durationLabel": "a noite",
+    "fit": "CLEAR_SKY",
+    "mapQuery": "Terraza Doña María, Hotel Doña María, Calle Don Remondo 19, Sevilla",
+    "kingTip": "Chegue perto do pôr do sol para pegar mesa de frente para a Giralda; o drink ali é mais sobre a vista do que sobre a coctelaria.",
+    "priceLevel": "€€€ (coquetel ~€13 est.)",
+    "hours": {
+      "openDays": "Todos os dias (temporada)",
+      "openHour": "17:00",
+      "closeHour": "00:00",
+      "note": "Terraço sazonal (primavera–outono) e dependente do tempo. Confirme abertura antes de subir."
+    },
+    "links": [
+      { "label": "Site oficial", "url": "https://www.terrazadonamaria.es" }
+    ]
+  }
+]
