@@ -1,0 +1,186 @@
+[
+  {
+    "id": "ant_arco_de_los_gigantes",
+    "categoryId": "antequera",
+    "city": "antequera",
+    "name": "Arco de los Gigantes",
+    "tagline": "Pórtico renascentista da Antequera romana",
+    "description": "Portal monumental erguido em 1585 para substituir uma entrada em cotovelo da muralha muçulmana, evocando os arcos de triunfo clássicos. Nos seus dois metros de espessura foram encravadas lápides e inscrições latinas da Antikaria romana e das cidades vizinhas, além de um brasão de Filipe II. Emoldura, ao fundo, a Colegiata e a Alcazaba.",
+    "lat": 37.01522,
+    "lng": -4.55694,
+    "durationLabel": "15–20 min",
+    "fit": "CLEAR_SKY",
+    "mapQuery": "Arco de los Gigantes, Antequera",
+    "kingTip": "Atravesse o arco e vire-se: o vão de meio-ponto enquadra a torre da Colegiata numa das fotos mais clássicas de Antequera.",
+    "priceLevel": "Gratuito",
+    "links": [
+      { "label": "Turismo Antequera", "url": "https://turismo.antequera.es/puntos-de-interes/arco-de-los-gigantes/" }
+    ]
+  },
+  {
+    "id": "ant_iglesia_del_carmen",
+    "categoryId": "antequera",
+    "city": "antequera",
+    "name": "Iglesia del Carmen",
+    "tagline": "Retábulos barrocos sob teto mudéjar",
+    "description": "Antiga igreja dos carmelitas descalços, construída entre os séculos XVI e XVII em estilo mudéjar, com magnífico artesoado de madeira. Guarda um dos conjuntos de retábulos barrocos mais importantes da província: o retábulo-mor, anterior a 1747, dispensa o dourado e exibe a cor natural da madeira, com colunas, nichos e mais de cinquenta imagens. Peça única da Andaluzia.",
+    "lat": 37.01607,
+    "lng": -4.55350,
+    "durationLabel": "20–30 min",
+    "fit": "INDOOR",
+    "mapQuery": "Iglesia del Carmen, Antequera",
+    "kingTip": "Fica no ponto mais alto do casco: combine a visita com a subida à Alcazaba e ao Arco, todos a poucos passos.",
+    "priceLevel": "€2",
+    "hours": "Ter–Sex 11:00–13:30 e 16:30–17:45; Sáb–Dom 11:00–14:00",
+    "links": [
+      { "label": "Turismo Antequera", "url": "https://turismo.antequera.es/puntos-de-interes/iglesia-del-carmen/" }
+    ]
+  },
+  {
+    "id": "ant_museo_ciudad_mvca",
+    "categoryId": "antequera",
+    "city": "antequera",
+    "name": "Museo de la Ciudad de Antequera (MVCA)",
+    "tagline": "O Efebo romano no Palácio de Nájera",
+    "description": "Museu municipal instalado no Palácio de Nájera, casa senhorial setecentista da Plaza del Coso Viejo. Percorre a história local da pré-história aos dias de hoje, com epigrafia romana, obras de Pedro de Mena e pintura barroca. A joia é o Efebo de Antequera, escultura romana em bronce do século I, um dos melhores exemplares do gênero na Hispânia.",
+    "lat": 37.01610,
+    "lng": -4.55817,
+    "durationLabel": "1–1,5 h",
+    "fit": "INDOOR",
+    "mapQuery": "Museo de la Ciudad de Antequera, Palacio de Nájera",
+    "kingTip": "Suba à torre-mirador do palácio ao fim da visita: abre uma vista rara sobre os telhados e campanários do centro histórico.",
+    "priceLevel": "€",
+    "hours": "Seg–Dom 10:00–18:00",
+    "links": [
+      { "label": "Turismo Antequera", "url": "https://turismo.antequera.es/puntos-de-interes/museo-de-la-ciudad-de-antequera/" },
+      { "label": "Museo Antequera", "url": "https://museoantequera.es/" }
+    ]
+  },
+  {
+    "id": "ant_termas_romanas_santa_maria",
+    "categoryId": "antequera",
+    "city": "antequera",
+    "name": "Termas Romanas de Santa María",
+    "tagline": "Os banhos da Antikaria sob a Colegiata",
+    "description": "Termas romanas descobertas por acaso em 1988 aos pés da Real Colegiata de Santa María, a primeira prova conclusiva da cidade de Antikaria sob o casco atual. Estiveram em uso da segunda metade do século I até o século V, e conservam a sequência clássica de salas frias, mornas e quentes — frigidarium, tepidarium e caldarium. Painéis recriam em 3D o estado original.",
+    "lat": 37.01850,
+    "lng": -4.55810,
+    "durationLabel": "20–30 min",
+    "fit": "CLEAR_SKY",
+    "mapQuery": "Termas Romanas de Santa María, Antequera",
+    "kingTip": "Estão coladas à Colegiata e ao Arco dos Gigantes: encadeie os três num único passeio pela parte alta.",
+    "priceLevel": "Gratuito",
+    "links": [
+      { "label": "Turismo Antequera", "url": "https://turismo.antequera.es/puntos-de-interes/termas-romanas/" }
+    ]
+  },
+  {
+    "id": "ant_mirador_almenillas",
+    "categoryId": "antequera",
+    "city": "antequera",
+    "name": "Mirador de las Almenillas",
+    "tagline": "As torres de Antequera num só olhar",
+    "description": "Balcão panorâmico junto ao Arco de los Gigantes e às muralhas da Alcazaba. De costas para a fortaleza, abre-se uma das vistas mais emblemáticas da vila, com o rosário de igrejas, torres, campanários e palácios erguidos ao longo de quatro séculos. Em dias limpos, a Peña de los Enamorados recorta-se no horizonte.",
+    "lat": 37.01530,
+    "lng": -4.55750,
+    "durationLabel": "10–15 min",
+    "fit": "CLEAR_SKY",
+    "mapQuery": "Mirador de las Almenillas, Antequera",
+    "kingTip": "Venha ao entardecer: a luz rasante acende os campanários de tijolo e dá o melhor recorte da Peña de los Enamorados ao fundo.",
+    "priceLevel": "Gratuito",
+    "links": [
+      { "label": "Turismo Antequera", "url": "https://turismo.antequera.es/puntos-de-interes/mirador-almenillas/" }
+    ]
+  },
+  {
+    "id": "ant_plaza_de_san_sebastian",
+    "categoryId": "antequera",
+    "city": "antequera",
+    "name": "Plaza de San Sebastián",
+    "tagline": "Fonte renascentista no coração da vila",
+    "description": "Um dos conjuntos urbanos mais belos de Antequera, com origem em 1508. No centro está a fonte renascentista lavrada por Baltasar de Godros em 1545, coroada por um anjo. Preside a praça a Real Colegiata de San Sebastián, com fachada plateresca de 1548 e um esbelto campanário barroco de tijolo rematado por veleta, ponto de encontro da cidade.",
+    "lat": 37.01646,
+    "lng": -4.56144,
+    "durationLabel": "20–30 min",
+    "fit": "CLEAR_SKY",
+    "mapQuery": "Plaza de San Sebastián, Antequera",
+    "kingTip": "É o marco-zero para caminhar a rua Infante Don Fernando: comece aqui e deixe a praça se abrir das mesas dos cafés ao campanário.",
+    "priceLevel": "Gratuito",
+    "links": [
+      { "label": "Turismo Antequera", "url": "https://turismo.antequera.es/puntos-de-interes/plaza-de-san-sebastian/" }
+    ]
+  },
+  {
+    "id": "ant_iglesia_de_los_remedios",
+    "categoryId": "antequera",
+    "city": "antequera",
+    "name": "Iglesia de Nuestra Señora de los Remedios",
+    "tagline": "A padroeira sob colunas salomônicas",
+    "description": "Antigo convento franciscano na rua Infante Don Fernando, iniciado em 1628 e declarado Monumento Histórico-Artístico Nacional. Abriga a Virgen de los Remedios, padroeira de Antequera desde 1546. O altar-mor é dominado por um enorme retábulo barroco de colunas salomônicas douradas, um dos mais teatrais da cidade.",
+    "lat": 37.01960,
+    "lng": -4.56282,
+    "durationLabel": "20–30 min",
+    "fit": "INDOOR",
+    "mapQuery": "Iglesia de los Remedios, Antequera",
+    "kingTip": "Fica sobre a artéria principal da vila: entre para um respiro do calor e admire o dourado do retábulo antes de seguir a pé.",
+    "priceLevel": "Gratuito",
+    "links": [
+      { "label": "Turismo Antequera", "url": "https://turismo.antequera.es/puntos-de-interes/iglesia-de-nuestra-senora-de-los-remedios/" }
+    ]
+  },
+  {
+    "id": "ant_dolmen_del_romeral",
+    "categoryId": "antequera",
+    "city": "antequera",
+    "name": "Dolmen del Romeral (Tholos de El Romeral)",
+    "tagline": "O tholos megalítico da Idade do Bronze",
+    "description": "O terceiro grande megálito de Antequera, a cerca de 2,5 km do centro e distinto de Menga e Viera. Construído por volta de 1800 a.C., é um sepulcro de falsa cúpula do tipo tholos: um longo corredor de lajes conduz a uma câmara funerária circular coberta por aproximação de fiadas. Integra, com os outros dolmens, o conjunto Patrimônio Mundial da UNESCO desde 2016.",
+    "lat": 37.03444,
+    "lng": -4.53556,
+    "durationLabel": "30–45 min",
+    "fit": "ANY",
+    "mapQuery": "Tholos de El Romeral, Antequera",
+    "kingTip": "Fica fora do centro de visitantes principal e exige carro: some 15 min ao trajeto de Menga e feche a trilogia megalítica no mesmo dia.",
+    "priceLevel": "Gratuito",
+    "hours": "Ter–Sáb (horário varia por estação); dom e feriados 09:00–15:00; seg fechado",
+    "links": [
+      { "label": "Turismo Antequera", "url": "https://turismo.antequera.es/puntos-de-interes/tholos-de-el-romeral/" }
+    ]
+  },
+  {
+    "id": "ant_plaza_ochavada_archidona",
+    "categoryId": "antequera",
+    "city": "antequera",
+    "name": "Plaza Ochavada (Archidona)",
+    "tagline": "A praça octogonal do barroco andaluz",
+    "description": "Joia do urbanismo barroco andaluz na vizinha Archidona, construída entre 1780 e 1789 sobre uma zona insalubre. De planta octogonal, cada uma das oito fachadas recebeu decoração distinta em alvenaria de tijolo e cal, obra dos alarifes González Sevillano e Astorga Frías. Foi centro administrativo e palco de touradas, e é hoje um dos cartões-postais da província.",
+    "lat": 37.09456,
+    "lng": -4.39053,
+    "durationLabel": "20–30 min",
+    "fit": "CLEAR_SKY",
+    "mapQuery": "Plaza Ochavada, Archidona",
+    "kingTip": "Archidona fica a ~20 min de carro de Antequera: combine a praça com a subida ao castelo e à ermita da Virgen de Gracia.",
+    "priceLevel": "Gratuito",
+    "links": [
+      { "label": "La Provincia — Diputación de Málaga", "url": "https://www.malaga.es/en/laprovincia/patrimonio/lis_cd-5079/plaza-ochavada-octagonal-square" }
+    ]
+  },
+  {
+    "id": "ant_ermita_virgen_de_gracia_archidona",
+    "categoryId": "antequera",
+    "city": "antequera",
+    "name": "Castillo y Ermita de la Virgen de Gracia (Archidona)",
+    "tagline": "Mesquita mourisca no alto do castelo",
+    "description": "No ponto mais alto de Archidona, dentro do antigo castelo árabe, ergue-se uma das duas únicas mesquitas conservadas na província, de origem almóada, consagrada como igreja no século XV. Guarda arcos em ferradura, um antigo minarete convertido em campanário e cúpula setecentista. Do recinto — com torre de menagem, cisterna e a Puerta del Sol — abre-se o mirante mais espetacular sobre a vila.",
+    "lat": 37.10010,
+    "lng": -4.38610,
+    "durationLabel": "45–60 min",
+    "fit": "ANY",
+    "mapQuery": "Ermita de la Virgen de Gracia, Archidona",
+    "kingTip": "A subida à sierra se faz de carro ou a pé; guarde a chegada ao mirante para o fim da tarde, quando a planície de Archidona ganha luz dourada.",
+    "priceLevel": "Gratuito",
+    "links": [
+      { "label": "Andalucía.org", "url": "https://www.andalucia.org/es/archidona-turismo-cultural-mezquita-ermita-de-la-virgen-de-gracia" }
+    ]
+  }
+]

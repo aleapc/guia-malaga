@@ -182,6 +182,1056 @@
     "prompt": "Gere uma imagem no formato horizontal 16:9 (paisagem), estilo pôster de viagem, pintura digital cinematográfica, sem pessoas, sem texto e sem marca d'água: Museo del Bandolero, em Ronda, Espanha — A lenda dos bandoleiros da serrania. Mostre a arquitetura ou o interior do museu/monumento, com luz elegante. Luz mediterrânea dourada, paleta elegante e vibrante, composição limpa."
   },
   {
+    "id": "mlg_mia_coffee",
+    "city": "malaga",
+    "categoryId": "cafe",
+    "name": "Mia Coffee",
+    "prompt": "Gere uma imagem no formato horizontal 16:9 (paisagem), estilo pôster de viagem, pintura digital cinematográfica, sem pessoas, sem texto e sem marca d'água: Mia Coffee, em Málaga, Espanha — Café de especialidade na fachada amarela. Mostre uma xícara de café (ou churros com chocolate) e o ambiente aconchegante do café. Luz mediterrânea dourada, paleta elegante e vibrante, composição limpa."
+  },
+  {
+    "id": "mlg_next_level_coffee",
+    "city": "malaga",
+    "categoryId": "cafe",
+    "name": "Next Level Specialty Coffee",
+    "prompt": "Gere uma imagem no formato horizontal 16:9 (paisagem), estilo pôster de viagem, pintura digital cinematográfica, sem pessoas, sem texto e sem marca d'água: Next Level Specialty Coffee, em Málaga, Espanha — Espresso de especialidade na Calle San Juan. Mostre uma xícara de café (ou churros com chocolate) e o ambiente aconchegante do café. Luz mediterrânea dourada, paleta elegante e vibrante, composição limpa."
+  },
+  {
+    "id": "mlg_el_ultimo_mono",
+    "city": "malaga",
+    "categoryId": "cafe",
+    "name": "El Último Mono Juice & Coffee",
+    "prompt": "Gere uma imagem no formato horizontal 16:9 (paisagem), estilo pôster de viagem, pintura digital cinematográfica, sem pessoas, sem texto e sem marca d'água: El Último Mono Juice & Coffee, em Málaga, Espanha — Sucos naturais e brunch com café de origem. Mostre uma xícara de café (ou churros com chocolate) e o ambiente aconchegante do café. Luz mediterrânea dourada, paleta elegante e vibrante, composição limpa."
+  },
+  {
+    "id": "mlg_julia_bakery",
+    "city": "malaga",
+    "categoryId": "cafe",
+    "name": "Julia Bakery",
+    "prompt": "Gere uma imagem no formato horizontal 16:9 (paisagem), estilo pôster de viagem, pintura digital cinematográfica, sem pessoas, sem texto e sem marca d'água: Julia Bakery, em Málaga, Espanha — Padaria-cafeteria de inspiração anglo-saxã. Mostre uma xícara de café (ou churros com chocolate) e o ambiente aconchegante do café. Luz mediterrânea dourada, paleta elegante e vibrante, composição limpa."
+  },
+  {
+    "id": "mlg_eccolo_gelato",
+    "city": "malaga",
+    "categoryId": "cafe",
+    "name": "Eccolo Gelato",
+    "prompt": "Gere uma imagem no formato horizontal 16:9 (paisagem), estilo pôster de viagem, pintura digital cinematográfica, sem pessoas, sem texto e sem marca d'água: Eccolo Gelato, em Málaga, Espanha — Gelato italiano premiado na Calle San Juan. Mostre uma xícara de café (ou churros com chocolate) e o ambiente aconchegante do café. Luz mediterrânea dourada, paleta elegante e vibrante, composição limpa."
+  },
+  {
+    "id": "mlg_levi_angelo_gelato",
+    "city": "malaga",
+    "categoryId": "cafe",
+    "name": "Levi Angelo Gelato",
+    "prompt": "Gere uma imagem no formato horizontal 16:9 (paisagem), estilo pôster de viagem, pintura digital cinematográfica, sem pessoas, sem texto e sem marca d'água: Levi Angelo Gelato, em Málaga, Espanha — Gelato artesanal cremoso no bairro Soho. Mostre uma xícara de café (ou churros com chocolate) e o ambiente aconchegante do café. Luz mediterrânea dourada, paleta elegante e vibrante, composição limpa."
+  },
+  {
+    "id": "grn_gran_cafe_bib_rambla",
+    "city": "granada",
+    "categoryId": "cafe",
+    "name": "Gran Café Bib-Rambla",
+    "prompt": "Gere uma imagem no formato horizontal 16:9 (paisagem), estilo pôster de viagem, pintura digital cinematográfica, sem pessoas, sem texto e sem marca d'água: Gran Café Bib-Rambla, em Granada, Espanha — Churros com chocolate na praça, desde 1907. Mostre uma xícara de café (ou churros com chocolate) e o ambiente aconchegante do café. Luz mediterrânea dourada, paleta elegante e vibrante, composição limpa."
+  },
+  {
+    "id": "grn_los_italianos",
+    "city": "granada",
+    "categoryId": "cafe",
+    "name": "Heladería Los Italianos",
+    "prompt": "Gere uma imagem no formato horizontal 16:9 (paisagem), estilo pôster de viagem, pintura digital cinematográfica, sem pessoas, sem texto e sem marca d'água: Heladería Los Italianos, em Granada, Espanha — Sorvetes e cassata italiana desde 1936. Mostre uma xícara de café (ou churros com chocolate) e o ambiente aconchegante do café. Luz mediterrânea dourada, paleta elegante e vibrante, composição limpa."
+  },
+  {
+    "id": "rnd_confiteria_daver",
+    "city": "ronda",
+    "categoryId": "cafe",
+    "name": "Confitería Daver",
+    "prompt": "Gere uma imagem no formato horizontal 16:9 (paisagem), estilo pôster de viagem, pintura digital cinematográfica, sem pessoas, sem texto e sem marca d'água: Confitería Daver, em Ronda, Espanha — Yemas del Tajo e doçaria típica de Ronda. Mostre uma xícara de café (ou churros com chocolate) e o ambiente aconchegante do café. Luz mediterrânea dourada, paleta elegante e vibrante, composição limpa."
+  },
+  {
+    "id": "ant_la_antequerana",
+    "city": "antequera",
+    "categoryId": "cafe",
+    "name": "Cafetería-Obrador La Antequerana",
+    "prompt": "Gere uma imagem no formato horizontal 16:9 (paisagem), estilo pôster de viagem, pintura digital cinematográfica, sem pessoas, sem texto e sem marca d'água: Cafetería-Obrador La Antequerana, em Antequera, Espanha — Mantecados e bienmesabe no obrador local. Mostre uma xícara de café (ou churros com chocolate) e o ambiente aconchegante do café. Luz mediterrânea dourada, paleta elegante e vibrante, composição limpa."
+  },
+  {
+    "id": "cor_the_coffee_club",
+    "city": "cordoba",
+    "categoryId": "cafe",
+    "name": "The Coffee Club",
+    "prompt": "Gere uma imagem no formato horizontal 16:9 (paisagem), estilo pôster de viagem, pintura digital cinematográfica, sem pessoas, sem texto e sem marca d'água: The Coffee Club, em Córdoba, Espanha — Café de especialidade no coração da Judería. Mostre uma xícara de café (ou churros com chocolate) e o ambiente aconchegante do café. Luz mediterrânea dourada, paleta elegante e vibrante, composição limpa."
+  },
+  {
+    "id": "mrb_kafein_coffee",
+    "city": "marbella",
+    "categoryId": "cafe",
+    "name": "Kafein Coffee & Kitchen",
+    "prompt": "Gere uma imagem no formato horizontal 16:9 (paisagem), estilo pôster de viagem, pintura digital cinematográfica, sem pessoas, sem texto e sem marca d'água: Kafein Coffee & Kitchen, em Marbella / Costa del Sol, Espanha — Café e croissants no casco antiguo. Mostre uma xícara de café (ou churros com chocolate) e o ambiente aconchegante do café. Luz mediterrânea dourada, paleta elegante e vibrante, composição limpa."
+  },
+  {
+    "id": "mlg_mercado_salamanca",
+    "city": "malaga",
+    "categoryId": "compras",
+    "name": "Mercado de Salamanca",
+    "prompt": "Gere uma imagem no formato horizontal 16:9 (paisagem), estilo pôster de viagem, pintura digital cinematográfica, sem pessoas, sem texto e sem marca d'água: Mercado de Salamanca, em Málaga, Espanha — Mercado neoárabe de 1925 no Molinillo. Mostre bancas coloridas do mercado ou a rua comercial andaluza, viva e ensolarada. Luz mediterrânea dourada, paleta elegante e vibrante, composição limpa."
+  },
+  {
+    "id": "mlg_mercado_merced",
+    "city": "malaga",
+    "categoryId": "compras",
+    "name": "Mercado de la Merced",
+    "prompt": "Gere uma imagem no formato horizontal 16:9 (paisagem), estilo pôster de viagem, pintura digital cinematográfica, sem pessoas, sem texto e sem marca d'água: Mercado de la Merced, em Málaga, Espanha — Mercado gourmet ao lado da casa de Picasso. Mostre bancas coloridas do mercado ou a rua comercial andaluza, viva e ensolarada. Luz mediterrânea dourada, paleta elegante e vibrante, composição limpa."
+  },
+  {
+    "id": "mlg_libreria_luces",
+    "city": "malaga",
+    "categoryId": "compras",
+    "name": "Librería Luces",
+    "prompt": "Gere uma imagem no formato horizontal 16:9 (paisagem), estilo pôster de viagem, pintura digital cinematográfica, sem pessoas, sem texto e sem marca d'água: Librería Luces, em Málaga, Espanha — Livraria independente na Alameda Principal. Mostre bancas coloridas do mercado ou a rua comercial andaluza, viva e ensolarada. Luz mediterrânea dourada, paleta elegante e vibrante, composição limpa."
+  },
+  {
+    "id": "mlg_la_mallorquina",
+    "city": "malaga",
+    "categoryId": "compras",
+    "name": "La Mallorquina",
+    "prompt": "Gere uma imagem no formato horizontal 16:9 (paisagem), estilo pôster de viagem, pintura digital cinematográfica, sem pessoas, sem texto e sem marca d'água: La Mallorquina, em Málaga, Espanha — Ultramarinos histórico de frutos secos. Mostre bancas coloridas do mercado ou a rua comercial andaluza, viva e ensolarada. Luz mediterrânea dourada, paleta elegante e vibrante, composição limpa."
+  },
+  {
+    "id": "grn_ceramica_fajalauza",
+    "city": "granada",
+    "categoryId": "compras",
+    "name": "Cerámica Fajalauza",
+    "prompt": "Gere uma imagem no formato horizontal 16:9 (paisagem), estilo pôster de viagem, pintura digital cinematográfica, sem pessoas, sem texto e sem marca d'água: Cerámica Fajalauza, em Granada, Espanha — Cerâmica granadina desde 1517 no Albaicín. Mostre bancas coloridas do mercado ou a rua comercial andaluza, viva e ensolarada. Luz mediterrânea dourada, paleta elegante e vibrante, composição limpa."
+  },
+  {
+    "id": "grn_mercado_san_agustin",
+    "city": "granada",
+    "categoryId": "compras",
+    "name": "Mercado de San Agustín",
+    "prompt": "Gere uma imagem no formato horizontal 16:9 (paisagem), estilo pôster de viagem, pintura digital cinematográfica, sem pessoas, sem texto e sem marca d'água: Mercado de San Agustín, em Granada, Espanha — Mercado gourmet de 1881 junto à catedral. Mostre bancas coloridas do mercado ou a rua comercial andaluza, viva e ensolarada. Luz mediterrânea dourada, paleta elegante e vibrante, composição limpa."
+  },
+  {
+    "id": "grn_casa_ferrer",
+    "city": "granada",
+    "categoryId": "compras",
+    "name": "Guitarrería Casa Ferrer",
+    "prompt": "Gere uma imagem no formato horizontal 16:9 (paisagem), estilo pôster de viagem, pintura digital cinematográfica, sem pessoas, sem texto e sem marca d'água: Guitarrería Casa Ferrer, em Granada, Espanha — Luthier de guitarras desde 1875. Mostre bancas coloridas do mercado ou a rua comercial andaluza, viva e ensolarada. Luz mediterrânea dourada, paleta elegante e vibrante, composição limpa."
+  },
+  {
+    "id": "grn_bib_rambla_flores",
+    "city": "granada",
+    "categoryId": "compras",
+    "name": "Flores de Bib-Rambla",
+    "prompt": "Gere uma imagem no formato horizontal 16:9 (paisagem), estilo pôster de viagem, pintura digital cinematográfica, sem pessoas, sem texto e sem marca d'água: Flores de Bib-Rambla, em Granada, Espanha — Bancas de flores na praça mais alegre. Mostre bancas coloridas do mercado ou a rua comercial andaluza, viva e ensolarada. Luz mediterrânea dourada, paleta elegante e vibrante, composição limpa."
+  },
+  {
+    "id": "grn_laguna_taracea",
+    "city": "granada",
+    "categoryId": "compras",
+    "name": "Laguna Taller de Taracea",
+    "prompt": "Gere uma imagem no formato horizontal 16:9 (paisagem), estilo pôster de viagem, pintura digital cinematográfica, sem pessoas, sem texto e sem marca d'água: Laguna Taller de Taracea, em Granada, Espanha — Marchetaria nazari desde 1877. Mostre bancas coloridas do mercado ou a rua comercial andaluza, viva e ensolarada. Luz mediterrânea dourada, paleta elegante e vibrante, composição limpa."
+  },
+  {
+    "id": "mrb_la_canada",
+    "city": "marbella",
+    "categoryId": "compras",
+    "name": "La Cañada Shopping",
+    "prompt": "Gere uma imagem no formato horizontal 16:9 (paisagem), estilo pôster de viagem, pintura digital cinematográfica, sem pessoas, sem texto e sem marca d'água: La Cañada Shopping, em Marbella / Costa del Sol, Espanha — Maior centro comercial da Costa del Sol. Mostre bancas coloridas do mercado ou a rua comercial andaluza, viva e ensolarada. Luz mediterrânea dourada, paleta elegante e vibrante, composição limpa."
+  },
+  {
+    "id": "cor_zoco_artesania",
+    "city": "cordoba",
+    "categoryId": "compras",
+    "name": "Zoco Municipal de la Artesanía",
+    "prompt": "Gere uma imagem no formato horizontal 16:9 (paisagem), estilo pôster de viagem, pintura digital cinematográfica, sem pessoas, sem texto e sem marca d'água: Zoco Municipal de la Artesanía, em Córdoba, Espanha — Pátio de oficinas artesanais na Judería. Mostre bancas coloridas do mercado ou a rua comercial andaluza, viva e ensolarada. Luz mediterrânea dourada, paleta elegante e vibrante, composição limpa."
+  },
+  {
+    "id": "cor_meryan",
+    "city": "cordoba",
+    "categoryId": "compras",
+    "name": "Meryan",
+    "prompt": "Gere uma imagem no formato horizontal 16:9 (paisagem), estilo pôster de viagem, pintura digital cinematográfica, sem pessoas, sem texto e sem marca d'água: Meryan, em Córdoba, Espanha — Couro cordovão e guadamecí desde 1958. Mostre bancas coloridas do mercado ou a rua comercial andaluza, viva e ensolarada. Luz mediterrânea dourada, paleta elegante e vibrante, composição limpa."
+  },
+  {
+    "id": "rnd_bodega_la_sangre",
+    "city": "ronda",
+    "categoryId": "compras",
+    "name": "Antigua Bodega La Sangre",
+    "prompt": "Gere uma imagem no formato horizontal 16:9 (paisagem), estilo pôster de viagem, pintura digital cinematográfica, sem pessoas, sem texto e sem marca d'água: Antigua Bodega La Sangre, em Ronda, Espanha — Vinhos da DO Ronda junto a Santa María. Mostre bancas coloridas do mercado ou a rua comercial andaluza, viva e ensolarada. Luz mediterrânea dourada, paleta elegante e vibrante, composição limpa."
+  },
+  {
+    "id": "mlg_revello_de_toro",
+    "city": "malaga",
+    "categoryId": "cultura",
+    "name": "Museo Revello de Toro",
+    "prompt": "Gere uma imagem no formato horizontal 16:9 (paisagem), estilo pôster de viagem, pintura digital cinematográfica, sem pessoas, sem texto e sem marca d'água: Museo Revello de Toro, em Málaga, Espanha — Retratos na casa do escultor Pedro de Mena. Mostre a arquitetura ou o interior do museu/monumento, com luz elegante. Luz mediterrânea dourada, paleta elegante e vibrante, composição limpa."
+  },
+  {
+    "id": "mlg_vidrio_y_cristal",
+    "city": "malaga",
+    "categoryId": "cultura",
+    "name": "Museo del Vidrio y Cristal",
+    "prompt": "Gere uma imagem no formato horizontal 16:9 (paisagem), estilo pôster de viagem, pintura digital cinematográfica, sem pessoas, sem texto e sem marca d'água: Museo del Vidrio y Cristal, em Málaga, Espanha — Vidro e cristal num casarão do século XVIII. Mostre a arquitetura ou o interior do museu/monumento, com luz elegante. Luz mediterrânea dourada, paleta elegante e vibrante, composição limpa."
+  },
+  {
+    "id": "mlg_museo_jorge_rando",
+    "city": "malaga",
+    "categoryId": "cultura",
+    "name": "Museo Jorge Rando",
+    "prompt": "Gere uma imagem no formato horizontal 16:9 (paisagem), estilo pôster de viagem, pintura digital cinematográfica, sem pessoas, sem texto e sem marca d'água: Museo Jorge Rando, em Málaga, Espanha — Expressionismo intenso, entrada gratuita. Mostre a arquitetura ou o interior do museu/monumento, com luz elegante. Luz mediterrânea dourada, paleta elegante e vibrante, composição limpa."
+  },
+  {
+    "id": "grn_centro_garcia_lorca",
+    "city": "granada",
+    "categoryId": "cultura",
+    "name": "Centro Federico García Lorca",
+    "prompt": "Gere uma imagem no formato horizontal 16:9 (paisagem), estilo pôster de viagem, pintura digital cinematográfica, sem pessoas, sem texto e sem marca d'água: Centro Federico García Lorca, em Granada, Espanha — O legado vivo de Federico García Lorca. Mostre a arquitetura ou o interior do museu/monumento, com luz elegante. Luz mediterrânea dourada, paleta elegante e vibrante, composição limpa."
+  },
+  {
+    "id": "grn_corral_del_carbon",
+    "city": "granada",
+    "categoryId": "cultura",
+    "name": "Corral del Carbón",
+    "prompt": "Gere uma imagem no formato horizontal 16:9 (paisagem), estilo pôster de viagem, pintura digital cinematográfica, sem pessoas, sem texto e sem marca d'água: Corral del Carbón, em Granada, Espanha — A única alhóndiga nazari da Península. Mostre a arquitetura ou o interior do museu/monumento, com luz elegante. Luz mediterrânea dourada, paleta elegante e vibrante, composição limpa."
+  },
+  {
+    "id": "grn_palacio_madraza",
+    "city": "granada",
+    "categoryId": "cultura",
+    "name": "Palacio de la Madraza",
+    "prompt": "Gere uma imagem no formato horizontal 16:9 (paisagem), estilo pôster de viagem, pintura digital cinematográfica, sem pessoas, sem texto e sem marca d'água: Palacio de la Madraza, em Granada, Espanha — A 1ª universidade nazari e seu oratório dourado. Mostre a arquitetura ou o interior do museu/monumento, com luz elegante. Luz mediterrânea dourada, paleta elegante e vibrante, composição limpa."
+  },
+  {
+    "id": "crd_sinagoga",
+    "city": "cordoba",
+    "categoryId": "cultura",
+    "name": "Sinagoga de Córdoba",
+    "prompt": "Gere uma imagem no formato horizontal 16:9 (paisagem), estilo pôster de viagem, pintura digital cinematográfica, sem pessoas, sem texto e sem marca d'água: Sinagoga de Córdoba, em Córdoba, Espanha — Rara sinagoga medieval no bairro judeu. Mostre a arquitetura ou o interior do museu/monumento, com luz elegante. Luz mediterrânea dourada, paleta elegante e vibrante, composição limpa."
+  },
+  {
+    "id": "crd_templo_romano",
+    "city": "cordoba",
+    "categoryId": "cultura",
+    "name": "Templo Romano",
+    "prompt": "Gere uma imagem no formato horizontal 16:9 (paisagem), estilo pôster de viagem, pintura digital cinematográfica, sem pessoas, sem texto e sem marca d'água: Templo Romano, em Córdoba, Espanha — Colunas de um templo romano do século I. Mostre a arquitetura ou o interior do museu/monumento, com luz elegante. Luz mediterrânea dourada, paleta elegante e vibrante, composição limpa."
+  },
+  {
+    "id": "crd_bellas_artes",
+    "city": "cordoba",
+    "categoryId": "cultura",
+    "name": "Museo de Bellas Artes de Córdoba",
+    "prompt": "Gere uma imagem no formato horizontal 16:9 (paisagem), estilo pôster de viagem, pintura digital cinematográfica, sem pessoas, sem texto e sem marca d'água: Museo de Bellas Artes de Córdoba, em Córdoba, Espanha — Pintura andaluza na Plaza del Potro cervantina. Mostre a arquitetura ou o interior do museu/monumento, com luz elegante. Luz mediterrânea dourada, paleta elegante e vibrante, composição limpa."
+  },
+  {
+    "id": "ant_museo_ciudad_najera",
+    "city": "antequera",
+    "categoryId": "cultura",
+    "name": "Museo de la Ciudad de Antequera (MVCA)",
+    "prompt": "Gere uma imagem no formato horizontal 16:9 (paisagem), estilo pôster de viagem, pintura digital cinematográfica, sem pessoas, sem texto e sem marca d'água: Museo de la Ciudad de Antequera (MVCA), em Antequera, Espanha — O Efebo romano no Palácio de Nájera. Mostre a arquitetura ou o interior do museu/monumento, com luz elegante. Luz mediterrânea dourada, paleta elegante e vibrante, composição limpa."
+  },
+  {
+    "id": "mrb_sollo",
+    "city": "marbella",
+    "categoryId": "gastronomia",
+    "name": "Sollo",
+    "prompt": "Gere uma imagem no formato horizontal 16:9 (paisagem), estilo pôster de viagem, pintura digital cinematográfica, sem pessoas, sem texto e sem marca d'água: Sollo, em Marbella / Costa del Sol, Espanha — Estrela verde do chef do caviar. Mostre um prato andaluz/espanhol lindamente servido, apetitoso, num restaurante elegante. Luz mediterrânea dourada, paleta elegante e vibrante, composição limpa."
+  },
+  {
+    "id": "mrb_kava",
+    "city": "marbella",
+    "categoryId": "gastronomia",
+    "name": "Kava",
+    "prompt": "Gere uma imagem no formato horizontal 16:9 (paisagem), estilo pôster de viagem, pintura digital cinematográfica, sem pessoas, sem texto e sem marca d'água: Kava, em Marbella / Costa del Sol, Espanha — Cinco mesas de alta cozinha pessoal. Mostre um prato andaluz/espanhol lindamente servido, apetitoso, num restaurante elegante. Luz mediterrânea dourada, paleta elegante e vibrante, composição limpa."
+  },
+  {
+    "id": "mrb_bibo",
+    "city": "marbella",
+    "categoryId": "gastronomia",
+    "name": "BiBo Marbella by Dani García",
+    "prompt": "Gere uma imagem no formato horizontal 16:9 (paisagem), estilo pôster de viagem, pintura digital cinematográfica, sem pessoas, sem texto e sem marca d'água: BiBo Marbella by Dani García, em Marbella / Costa del Sol, Espanha — A brasserie andaluza descontraída de Dani García. Mostre um prato andaluz/espanhol lindamente servido, apetitoso, num restaurante elegante. Luz mediterrânea dourada, paleta elegante e vibrante, composição limpa."
+  },
+  {
+    "id": "mrb_tragabuches",
+    "city": "marbella",
+    "categoryId": "gastronomia",
+    "name": "Tragabuches Marbella by Dani García",
+    "prompt": "Gere uma imagem no formato horizontal 16:9 (paisagem), estilo pôster de viagem, pintura digital cinematográfica, sem pessoas, sem texto e sem marca d'água: Tragabuches Marbella by Dani García, em Marbella / Costa del Sol, Espanha — A taberna honesta que voltou de Ronda. Mostre um prato andaluz/espanhol lindamente servido, apetitoso, num restaurante elegante. Luz mediterrânea dourada, paleta elegante e vibrante, composição limpa."
+  },
+  {
+    "id": "nrj_sollun",
+    "city": "axarquia",
+    "categoryId": "gastronomia",
+    "name": "Sollun",
+    "prompt": "Gere uma imagem no formato horizontal 16:9 (paisagem), estilo pôster de viagem, pintura digital cinematográfica, sem pessoas, sem texto e sem marca d'água: Sollun, em Nerja / Axarquía, Espanha — Mediterrâneo contemporâneo no centro de Nerja. Mostre um prato andaluz/espanhol lindamente servido, apetitoso, num restaurante elegante. Luz mediterrânea dourada, paleta elegante e vibrante, composição limpa."
+  },
+  {
+    "id": "nrj_chiringuito_ayo",
+    "city": "axarquia",
+    "categoryId": "gastronomia",
+    "name": "El Chiringuito de Ayo",
+    "prompt": "Gere uma imagem no formato horizontal 16:9 (paisagem), estilo pôster de viagem, pintura digital cinematográfica, sem pessoas, sem texto e sem marca d'água: El Chiringuito de Ayo, em Nerja / Axarquía, Espanha — A paella na lenha da Praia de Burriana. Mostre um prato andaluz/espanhol lindamente servido, apetitoso, num restaurante elegante. Luz mediterrânea dourada, paleta elegante e vibrante, composição limpa."
+  },
+  {
+    "id": "mlg_el_refectorium",
+    "city": "malaga",
+    "categoryId": "gastronomia",
+    "name": "El Refectorium Malagueta",
+    "prompt": "Gere uma imagem no formato horizontal 16:9 (paisagem), estilo pôster de viagem, pintura digital cinematográfica, sem pessoas, sem texto e sem marca d'água: El Refectorium Malagueta, em Málaga, Espanha — O clássico malaguenho junto à Malagueta. Mostre um prato andaluz/espanhol lindamente servido, apetitoso, num restaurante elegante. Luz mediterrânea dourada, paleta elegante e vibrante, composição limpa."
+  },
+  {
+    "id": "mlg_meson_astorga",
+    "city": "malaga",
+    "categoryId": "gastronomia",
+    "name": "Mesón Astorga",
+    "prompt": "Gere uma imagem no formato horizontal 16:9 (paisagem), estilo pôster de viagem, pintura digital cinematográfica, sem pessoas, sem texto e sem marca d'água: Mesón Astorga, em Málaga, Espanha — Cozinha tradicional malaguenha de família. Mostre um prato andaluz/espanhol lindamente servido, apetitoso, num restaurante elegante. Luz mediterrânea dourada, paleta elegante e vibrante, composição limpa."
+  },
+  {
+    "id": "rnd_almocabar",
+    "city": "ronda",
+    "categoryId": "gastronomia",
+    "name": "Almocábar",
+    "prompt": "Gere uma imagem no formato horizontal 16:9 (paisagem), estilo pôster de viagem, pintura digital cinematográfica, sem pessoas, sem texto e sem marca d'água: Almocábar, em Ronda, Espanha — Cozinha de raiz no bairro de San Francisco. Mostre um prato andaluz/espanhol lindamente servido, apetitoso, num restaurante elegante. Luz mediterrânea dourada, paleta elegante e vibrante, composição limpa."
+  },
+  {
+    "id": "grn_damasqueros",
+    "city": "granada",
+    "categoryId": "gastronomia",
+    "name": "Damasqueros",
+    "prompt": "Gere uma imagem no formato horizontal 16:9 (paisagem), estilo pôster de viagem, pintura digital cinematográfica, sem pessoas, sem texto e sem marca d'água: Damasqueros, em Granada, Espanha — A essência granadina de Lola Marín. Mostre um prato andaluz/espanhol lindamente servido, apetitoso, num restaurante elegante. Luz mediterrânea dourada, paleta elegante e vibrante, composição limpa."
+  },
+  {
+    "id": "grn_atelier_casa_comidas",
+    "city": "granada",
+    "categoryId": "gastronomia",
+    "name": "Atelier Casa de Comidas",
+    "prompt": "Gere uma imagem no formato horizontal 16:9 (paisagem), estilo pôster de viagem, pintura digital cinematográfica, sem pessoas, sem texto e sem marca d'água: Atelier Casa de Comidas, em Granada, Espanha — Alta cozinha a bom preço fora do centro. Mostre um prato andaluz/espanhol lindamente servido, apetitoso, num restaurante elegante. Luz mediterrânea dourada, paleta elegante e vibrante, composição limpa."
+  },
+  {
+    "id": "crd_recomiendo",
+    "city": "cordoba",
+    "categoryId": "gastronomia",
+    "name": "ReComiendo",
+    "prompt": "Gere uma imagem no formato horizontal 16:9 (paisagem), estilo pôster de viagem, pintura digital cinematográfica, sem pessoas, sem texto e sem marca d'água: ReComiendo, em Córdoba, Espanha — A nova estrela Michelin de Periko Ortega. Mostre um prato andaluz/espanhol lindamente servido, apetitoso, num restaurante elegante. Luz mediterrânea dourada, paleta elegante e vibrante, composição limpa."
+  },
+  {
+    "id": "crd_el_envero",
+    "city": "cordoba",
+    "categoryId": "gastronomia",
+    "name": "El Envero",
+    "prompt": "Gere uma imagem no formato horizontal 16:9 (paisagem), estilo pôster de viagem, pintura digital cinematográfica, sem pessoas, sem texto e sem marca d'água: El Envero, em Córdoba, Espanha — Bib Gourmand de mercado em Córdoba. Mostre um prato andaluz/espanhol lindamente servido, apetitoso, num restaurante elegante. Luz mediterrânea dourada, paleta elegante e vibrante, composição limpa."
+  },
+  {
+    "id": "grn_palacio_dar_al_horra",
+    "city": "granada",
+    "categoryId": "granada",
+    "name": "Palacio de Dar al-Horra",
+    "prompt": "Gere uma imagem no formato horizontal 16:9 (paisagem), estilo pôster de viagem, pintura digital cinematográfica, sem pessoas, sem texto e sem marca d'água: Palacio de Dar al-Horra, em Granada, Espanha — O palácio nazarí escondido no Albaicín. Luz mediterrânea dourada, paleta elegante e vibrante, composição limpa."
+  },
+  {
+    "id": "grn_abadia_sacromonte",
+    "city": "granada",
+    "categoryId": "granada",
+    "name": "Abadía del Sacromonte",
+    "prompt": "Gere uma imagem no formato horizontal 16:9 (paisagem), estilo pôster de viagem, pintura digital cinematográfica, sem pessoas, sem texto e sem marca d'água: Abadía del Sacromonte, em Granada, Espanha — Catacumbas e vistas no alto do vale. Luz mediterrânea dourada, paleta elegante e vibrante, composição limpa."
+  },
+  {
+    "id": "grn_basilica_san_juan_de_dios",
+    "city": "granada",
+    "categoryId": "granada",
+    "name": "Basílica de San Juan de Dios",
+    "prompt": "Gere uma imagem no formato horizontal 16:9 (paisagem), estilo pôster de viagem, pintura digital cinematográfica, sem pessoas, sem texto e sem marca d'água: Basílica de San Juan de Dios, em Granada, Espanha — Uma explosão de ouro barroco. Luz mediterrânea dourada, paleta elegante e vibrante, composição limpa."
+  },
+  {
+    "id": "grn_paseo_de_los_tristes",
+    "city": "granada",
+    "categoryId": "granada",
+    "name": "Paseo de los Tristes",
+    "prompt": "Gere uma imagem no formato horizontal 16:9 (paisagem), estilo pôster de viagem, pintura digital cinematográfica, sem pessoas, sem texto e sem marca d'água: Paseo de los Tristes, em Granada, Espanha — O passeio à beira do Darro sob a Alhambra. Luz mediterrânea dourada, paleta elegante e vibrante, composição limpa."
+  },
+  {
+    "id": "crd_medina_azahara",
+    "city": "cordoba",
+    "categoryId": "cordoba",
+    "name": "Medina Azahara",
+    "prompt": "Gere uma imagem no formato horizontal 16:9 (paisagem), estilo pôster de viagem, pintura digital cinematográfica, sem pessoas, sem texto e sem marca d'água: Medina Azahara, em Córdoba, Espanha — A cidade-palácio do califa, Patrimônio Mundial. Luz mediterrânea dourada, paleta elegante e vibrante, composição limpa."
+  },
+  {
+    "id": "crd_banos_alcazar_califal",
+    "city": "cordoba",
+    "categoryId": "cordoba",
+    "name": "Baños del Alcázar Califal",
+    "prompt": "Gere uma imagem no formato horizontal 16:9 (paisagem), estilo pôster de viagem, pintura digital cinematográfica, sem pessoas, sem texto e sem marca d'água: Baños del Alcázar Califal, em Córdoba, Espanha — As termas árabes do palácio califal. Luz mediterrânea dourada, paleta elegante e vibrante, composição limpa."
+  },
+  {
+    "id": "crd_plaza_del_potro",
+    "city": "cordoba",
+    "categoryId": "cordoba",
+    "name": "Plaza del Potro",
+    "prompt": "Gere uma imagem no formato horizontal 16:9 (paisagem), estilo pôster de viagem, pintura digital cinematográfica, sem pessoas, sem texto e sem marca d'água: Plaza del Potro, em Córdoba, Espanha — A praça imortalizada por Cervantes. Luz mediterrânea dourada, paleta elegante e vibrante, composição limpa."
+  },
+  {
+    "id": "crd_torre_malmuerta",
+    "city": "cordoba",
+    "categoryId": "cordoba",
+    "name": "Torre de la Malmuerta",
+    "prompt": "Gere uma imagem no formato horizontal 16:9 (paisagem), estilo pôster de viagem, pintura digital cinematográfica, sem pessoas, sem texto e sem marca d'água: Torre de la Malmuerta, em Córdoba, Espanha — A torre octogonal da lenda sombria. Luz mediterrânea dourada, paleta elegante e vibrante, composição limpa."
+  },
+  {
+    "id": "crd_caballerizas_reales",
+    "city": "cordoba",
+    "categoryId": "cordoba",
+    "name": "Caballerizas Reales",
+    "prompt": "Gere uma imagem no formato horizontal 16:9 (paisagem), estilo pôster de viagem, pintura digital cinematográfica, sem pessoas, sem texto e sem marca d'água: Caballerizas Reales, em Córdoba, Espanha — Berço do cavalo andaluz e palco equestre. Luz mediterrânea dourada, paleta elegante e vibrante, composição limpa."
+  },
+  {
+    "id": "mlg_montes_de_malaga",
+    "city": "malaga",
+    "categoryId": "natureza",
+    "name": "Parque Natural Montes de Málaga",
+    "prompt": "Gere uma imagem no formato horizontal 16:9 (paisagem), estilo pôster de viagem, pintura digital cinematográfica, sem pessoas, sem texto e sem marca d'água: Parque Natural Montes de Málaga, em Málaga, Espanha — Bosque e miradouros a 15 min de Málaga. Cena natural marcante da Andaluzia (desfiladeiro, mar de rochas, gruta ou jardim mediterrâneo). Luz mediterrânea dourada, paleta elegante e vibrante, composição limpa."
+  },
+  {
+    "id": "mlg_senda_litoral",
+    "city": "malaga",
+    "categoryId": "natureza",
+    "name": "Senda Litoral de Málaga",
+    "prompt": "Gere uma imagem no formato horizontal 16:9 (paisagem), estilo pôster de viagem, pintura digital cinematográfica, sem pessoas, sem texto e sem marca d'água: Senda Litoral de Málaga, em Málaga, Espanha — Passadiço à beira-mar pela orla de Málaga. Cena natural marcante da Andaluzia (desfiladeiro, mar de rochas, gruta ou jardim mediterrâneo). Luz mediterrânea dourada, paleta elegante e vibrante, composição limpa."
+  },
+  {
+    "id": "mlg_catamaran_delfines",
+    "city": "malaga",
+    "categoryId": "natureza",
+    "name": "Catamarã e golfinhos no porto de Málaga",
+    "prompt": "Gere uma imagem no formato horizontal 16:9 (paisagem), estilo pôster de viagem, pintura digital cinematográfica, sem pessoas, sem texto e sem marca d'água: Catamarã e golfinhos no porto de Málaga, em Málaga, Espanha — Catamarã e golfinhos saindo do porto. Cena natural marcante da Andaluzia (desfiladeiro, mar de rochas, gruta ou jardim mediterrâneo). Luz mediterrânea dourada, paleta elegante e vibrante, composição limpa."
+  },
+  {
+    "id": "ant_fuente_de_piedra",
+    "city": "antequera",
+    "categoryId": "natureza",
+    "name": "Laguna de Fuente de Piedra",
+    "prompt": "Gere uma imagem no formato horizontal 16:9 (paisagem), estilo pôster de viagem, pintura digital cinematográfica, sem pessoas, sem texto e sem marca d'água: Laguna de Fuente de Piedra, em Antequera, Espanha — Flamingos na maior laguna da Andaluzia. Cena natural marcante da Andaluzia (desfiladeiro, mar de rochas, gruta ou jardim mediterrâneo). Luz mediterrânea dourada, paleta elegante e vibrante, composição limpa."
+  },
+  {
+    "id": "ant_lobo_park",
+    "city": "antequera",
+    "categoryId": "natureza",
+    "name": "Lobo Park",
+    "prompt": "Gere uma imagem no formato horizontal 16:9 (paisagem), estilo pôster de viagem, pintura digital cinematográfica, sem pessoas, sem texto e sem marca d'água: Lobo Park, em Antequera, Espanha — Santuário de lobos ibéricos e árticos. Cena natural marcante da Andaluzia (desfiladeiro, mar de rochas, gruta ou jardim mediterrâneo). Luz mediterrânea dourada, paleta elegante e vibrante, composição limpa."
+  },
+  {
+    "id": "axq_rio_chillar",
+    "city": "axarquia",
+    "categoryId": "natureza",
+    "name": "Río Chíllar",
+    "prompt": "Gere uma imagem no formato horizontal 16:9 (paisagem), estilo pôster de viagem, pintura digital cinematográfica, sem pessoas, sem texto e sem marca d'água: Río Chíllar, em Nerja / Axarquía, Espanha — Caminhada dentro do rio, água até os joelhos. Cena natural marcante da Andaluzia (desfiladeiro, mar de rochas, gruta ou jardim mediterrâneo). Luz mediterrânea dourada, paleta elegante e vibrante, composição limpa."
+  },
+  {
+    "id": "axq_kayak_maro",
+    "city": "axarquia",
+    "categoryId": "natureza",
+    "name": "Caiaque nos Acantilados de Maro-Cerro Gordo",
+    "prompt": "Gere uma imagem no formato horizontal 16:9 (paisagem), estilo pôster de viagem, pintura digital cinematográfica, sem pessoas, sem texto e sem marca d'água: Caiaque nos Acantilados de Maro-Cerro Gordo, em Nerja / Axarquía, Espanha — Caiaque entre falésias e grutas marinhas. Cena natural marcante da Andaluzia (desfiladeiro, mar de rochas, gruta ou jardim mediterrâneo). Luz mediterrânea dourada, paleta elegante e vibrante, composição limpa."
+  },
+  {
+    "id": "axq_acueducto_aguila",
+    "city": "axarquia",
+    "categoryId": "natureza",
+    "name": "Acueducto del Águila",
+    "prompt": "Gere uma imagem no formato horizontal 16:9 (paisagem), estilo pôster de viagem, pintura digital cinematográfica, sem pessoas, sem texto e sem marca d'água: Acueducto del Águila, em Nerja / Axarquía, Espanha — Aqueduto de 36 arcos escondido em Maro. Cena natural marcante da Andaluzia (desfiladeiro, mar de rochas, gruta ou jardim mediterrâneo). Luz mediterrânea dourada, paleta elegante e vibrante, composição limpa."
+  },
+  {
+    "id": "rnd_sierra_nieves",
+    "city": "ronda",
+    "categoryId": "natureza",
+    "name": "Parque Nacional Sierra de las Nieves",
+    "prompt": "Gere uma imagem no formato horizontal 16:9 (paisagem), estilo pôster de viagem, pintura digital cinematográfica, sem pessoas, sem texto e sem marca d'água: Parque Nacional Sierra de las Nieves, em Ronda, Espanha — Teto da província: pinsapos e o Torrecilla. Cena natural marcante da Andaluzia (desfiladeiro, mar de rochas, gruta ou jardim mediterrâneo). Luz mediterrânea dourada, paleta elegante e vibrante, composição limpa."
+  },
+  {
+    "id": "rnd_cueva_gato",
+    "city": "ronda",
+    "categoryId": "natureza",
+    "name": "Cueva del Gato",
+    "prompt": "Gere uma imagem no formato horizontal 16:9 (paisagem), estilo pôster de viagem, pintura digital cinematográfica, sem pessoas, sem texto e sem marca d'água: Cueva del Gato, em Ronda, Espanha — Nascente esmeralda para um banho serrano. Cena natural marcante da Andaluzia (desfiladeiro, mar de rochas, gruta ou jardim mediterrâneo). Luz mediterrânea dourada, paleta elegante e vibrante, composição limpa."
+  },
+  {
+    "id": "rnd_cueva_pileta",
+    "city": "ronda",
+    "categoryId": "natureza",
+    "name": "Cueva de la Pileta",
+    "prompt": "Gere uma imagem no formato horizontal 16:9 (paisagem), estilo pôster de viagem, pintura digital cinematográfica, sem pessoas, sem texto e sem marca d'água: Cueva de la Pileta, em Ronda, Espanha — Arte rupestre paleolítica à luz de lampião. Cena natural marcante da Andaluzia (desfiladeiro, mar de rochas, gruta ou jardim mediterrâneo). Luz mediterrânea dourada, paleta elegante e vibrante, composição limpa."
+  },
+  {
+    "id": "rnd_acinipo",
+    "city": "ronda",
+    "categoryId": "natureza",
+    "name": "Acinipo (Ronda la Vieja)",
+    "prompt": "Gere uma imagem no formato horizontal 16:9 (paisagem), estilo pôster de viagem, pintura digital cinematográfica, sem pessoas, sem texto e sem marca d'água: Acinipo (Ronda la Vieja), em Ronda, Espanha — Teatro romano solitário sobre a serra. Cena natural marcante da Andaluzia (desfiladeiro, mar de rochas, gruta ou jardim mediterrâneo). Luz mediterrânea dourada, paleta elegante e vibrante, composição limpa."
+  },
+  {
+    "id": "mrb_la_concha",
+    "city": "marbella",
+    "categoryId": "natureza",
+    "name": "Subida a La Concha desde Juanar",
+    "prompt": "Gere uma imagem no formato horizontal 16:9 (paisagem), estilo pôster de viagem, pintura digital cinematográfica, sem pessoas, sem texto e sem marca d'água: Subida a La Concha desde Juanar, em Marbella / Costa del Sol, Espanha — Cume de 1.215 m com vista de 360° do mar. Cena natural marcante da Andaluzia (desfiladeiro, mar de rochas, gruta ou jardim mediterrâneo). Luz mediterrânea dourada, paleta elegante e vibrante, composição limpa."
+  },
+  {
+    "id": "mrb_charco_canalon",
+    "city": "marbella",
+    "categoryId": "natureza",
+    "name": "Charco del Canalón (Río Verde, Istán)",
+    "prompt": "Gere uma imagem no formato horizontal 16:9 (paisagem), estilo pôster de viagem, pintura digital cinematográfica, sem pessoas, sem texto e sem marca d'água: Charco del Canalón (Río Verde, Istán), em Marbella / Costa del Sol, Espanha — Poça turquesa no desfiladeiro do Río Verde. Cena natural marcante da Andaluzia (desfiladeiro, mar de rochas, gruta ou jardim mediterrâneo). Luz mediterrânea dourada, paleta elegante e vibrante, composição limpa."
+  },
+  {
+    "id": "grn_hoya_de_la_mora",
+    "city": "granada",
+    "categoryId": "natureza",
+    "name": "Hoya de la Mora, Sierra Nevada",
+    "prompt": "Gere uma imagem no formato horizontal 16:9 (paisagem), estilo pôster de viagem, pintura digital cinematográfica, sem pessoas, sem texto e sem marca d'água: Hoya de la Mora, Sierra Nevada, em Granada, Espanha — Neve eterna e ar puro a 2.500 m no verão. Cena natural marcante da Andaluzia (desfiladeiro, mar de rochas, gruta ou jardim mediterrâneo). Luz mediterrânea dourada, paleta elegante e vibrante, composição limpa."
+  },
+  {
+    "id": "mlg_el_palo",
+    "city": "malaga",
+    "categoryId": "praias",
+    "name": "Playa de El Palo",
+    "prompt": "Gere uma imagem no formato horizontal 16:9 (paisagem), estilo pôster de viagem, pintura digital cinematográfica, sem pessoas, sem texto e sem marca d'água: Playa de El Palo, em Málaga, Espanha — Espeto de sardinha na praia de bairro. Mostre a praia mediterrânea com areia dourada, um chiringuito e o mar azul-turquesa. Luz mediterrânea dourada, paleta elegante e vibrante, composição limpa."
+  },
+  {
+    "id": "mlg_misericordia",
+    "city": "malaga",
+    "categoryId": "praias",
+    "name": "Playa de la Misericordia",
+    "prompt": "Gere uma imagem no formato horizontal 16:9 (paisagem), estilo pôster de viagem, pintura digital cinematográfica, sem pessoas, sem texto e sem marca d'água: Playa de la Misericordia, em Málaga, Espanha — Areia escura e pôr do sol operário. Mostre a praia mediterrânea com areia dourada, um chiringuito e o mar azul-turquesa. Luz mediterrânea dourada, paleta elegante e vibrante, composição limpa."
+  },
+  {
+    "id": "mlg_guadalmar",
+    "city": "malaga",
+    "categoryId": "praias",
+    "name": "Playa de Guadalmar",
+    "prompt": "Gere uma imagem no formato horizontal 16:9 (paisagem), estilo pôster de viagem, pintura digital cinematográfica, sem pessoas, sem texto e sem marca d'água: Playa de Guadalmar, em Málaga, Espanha — Praia tranquila junto ao estuário. Mostre a praia mediterrânea com areia dourada, um chiringuito e o mar azul-turquesa. Luz mediterrânea dourada, paleta elegante e vibrante, composição limpa."
+  },
+  {
+    "id": "mlg_penon_cuervo",
+    "city": "malaga",
+    "categoryId": "praias",
+    "name": "Peñón del Cuervo",
+    "prompt": "Gere uma imagem no formato horizontal 16:9 (paisagem), estilo pôster de viagem, pintura digital cinematográfica, sem pessoas, sem texto e sem marca d'água: Peñón del Cuervo, em Málaga, Espanha — Rochedo partindo a areia ao meio. Mostre a praia mediterrânea com areia dourada, um chiringuito e o mar azul-turquesa. Luz mediterrânea dourada, paleta elegante e vibrante, composição limpa."
+  },
+  {
+    "id": "mlg_san_andres",
+    "city": "malaga",
+    "categoryId": "praias",
+    "name": "Playa de San Andrés",
+    "prompt": "Gere uma imagem no formato horizontal 16:9 (paisagem), estilo pôster de viagem, pintura digital cinematográfica, sem pessoas, sem texto e sem marca d'água: Playa de San Andrés, em Málaga, Espanha — Praia urbana com chiringuitos de sempre. Mostre a praia mediterrânea com areia dourada, um chiringuito e o mar azul-turquesa. Luz mediterrânea dourada, paleta elegante e vibrante, composição limpa."
+  },
+  {
+    "id": "nrj_torrecilla",
+    "city": "axarquia",
+    "categoryId": "praias",
+    "name": "Playa de la Torrecilla",
+    "prompt": "Gere uma imagem no formato horizontal 16:9 (paisagem), estilo pôster de viagem, pintura digital cinematográfica, sem pessoas, sem texto e sem marca d'água: Playa de la Torrecilla, em Nerja / Axarquía, Espanha — Bandeira Azul a passos do centro de Nerja. Mostre a praia mediterrânea com areia dourada, um chiringuito e o mar azul-turquesa. Luz mediterrânea dourada, paleta elegante e vibrante, composição limpa."
+  },
+  {
+    "id": "nrj_carabeo",
+    "city": "axarquia",
+    "categoryId": "praias",
+    "name": "Playa de Carabeo",
+    "prompt": "Gere uma imagem no formato horizontal 16:9 (paisagem), estilo pôster de viagem, pintura digital cinematográfica, sem pessoas, sem texto e sem marca d'água: Playa de Carabeo, em Nerja / Axarquía, Espanha — Cala escondida sob as falésias. Mostre a praia mediterrânea com areia dourada, um chiringuito e o mar azul-turquesa. Luz mediterrânea dourada, paleta elegante e vibrante, composição limpa."
+  },
+  {
+    "id": "nrj_el_salon",
+    "city": "axarquia",
+    "categoryId": "praias",
+    "name": "Playa El Salón",
+    "prompt": "Gere uma imagem no formato horizontal 16:9 (paisagem), estilo pôster de viagem, pintura digital cinematográfica, sem pessoas, sem texto e sem marca d'água: Playa El Salón, em Nerja / Axarquía, Espanha — Enseada urbana escondida no centro. Mostre a praia mediterrânea com areia dourada, um chiringuito e o mar azul-turquesa. Luz mediterrânea dourada, paleta elegante e vibrante, composição limpa."
+  },
+  {
+    "id": "mrb_cabopino",
+    "city": "marbella",
+    "categoryId": "praias",
+    "name": "Playa de Cabopino",
+    "prompt": "Gere uma imagem no formato horizontal 16:9 (paisagem), estilo pôster de viagem, pintura digital cinematográfica, sem pessoas, sem texto e sem marca d'água: Playa de Cabopino, em Marbella / Costa del Sol, Espanha — Dunas naturais e torre vigia do século XV. Mostre a praia mediterrânea com areia dourada, um chiringuito e o mar azul-turquesa. Luz mediterrânea dourada, paleta elegante e vibrante, composição limpa."
+  },
+  {
+    "id": "mrb_nagueles",
+    "city": "marbella",
+    "categoryId": "praias",
+    "name": "Playa de Nagüeles",
+    "prompt": "Gere uma imagem no formato horizontal 16:9 (paisagem), estilo pôster de viagem, pintura digital cinematográfica, sem pessoas, sem texto e sem marca d'água: Playa de Nagüeles, em Marbella / Costa del Sol, Espanha — Milha de Ouro com beach clubs de luxo. Mostre a praia mediterrânea com areia dourada, um chiringuito e o mar azul-turquesa. Luz mediterrânea dourada, paleta elegante e vibrante, composição limpa."
+  },
+  {
+    "id": "mrb_estrella_mar",
+    "city": "marbella",
+    "categoryId": "praias",
+    "name": "Estrella del Mar Beach Club",
+    "prompt": "Gere uma imagem no formato horizontal 16:9 (paisagem), estilo pôster de viagem, pintura digital cinematográfica, sem pessoas, sem texto e sem marca d'água: Estrella del Mar Beach Club, em Marbella / Costa del Sol, Espanha — Beach club tranquilo na Marbella leste. Mostre a praia mediterrânea com areia dourada, um chiringuito e o mar azul-turquesa. Luz mediterrânea dourada, paleta elegante e vibrante, composição limpa."
+  },
+  {
+    "id": "mlg_meson_cervantes",
+    "city": "malaga",
+    "categoryId": "tapas",
+    "name": "El Mesón de Cervantes",
+    "prompt": "Gere uma imagem no formato horizontal 16:9 (paisagem), estilo pôster de viagem, pintura digital cinematográfica, sem pessoas, sem texto e sem marca d'água: El Mesón de Cervantes, em Málaga, Espanha — Tapas de autor junto à Plaza de la Merced. Mostre tapas e uma taça de vinho sobre o balcão de azulejos, clima de taberna andaluza ao entardecer. Luz mediterrânea dourada, paleta elegante e vibrante, composição limpa."
+  },
+  {
+    "id": "mlg_uvedoble",
+    "city": "malaga",
+    "categoryId": "tapas",
+    "name": "Uvedoble Taberna",
+    "prompt": "Gere uma imagem no formato horizontal 16:9 (paisagem), estilo pôster de viagem, pintura digital cinematográfica, sem pessoas, sem texto e sem marca d'água: Uvedoble Taberna, em Málaga, Espanha — Cozinha andaluza reinventada no Teatro Romano. Mostre tapas e uma taça de vinho sobre o balcão de azulejos, clima de taberna andaluza ao entardecer. Luz mediterrânea dourada, paleta elegante e vibrante, composição limpa."
+  },
+  {
+    "id": "mlg_tapeo_cervantes",
+    "city": "malaga",
+    "categoryId": "tapas",
+    "name": "El Tapeo de Cervantes",
+    "prompt": "Gere uma imagem no formato horizontal 16:9 (paisagem), estilo pôster de viagem, pintura digital cinematográfica, sem pessoas, sem texto e sem marca d'água: El Tapeo de Cervantes, em Málaga, Espanha — Petiscos criativos junto ao Teatro Cervantes. Mostre tapas e uma taça de vinho sobre o balcão de azulejos, clima de taberna andaluza ao entardecer. Luz mediterrânea dourada, paleta elegante e vibrante, composição limpa."
+  },
+  {
+    "id": "mlg_lo_gueno",
+    "city": "malaga",
+    "categoryId": "tapas",
+    "name": "Mesón Lo Güeno",
+    "prompt": "Gere uma imagem no formato horizontal 16:9 (paisagem), estilo pôster de viagem, pintura digital cinematográfica, sem pessoas, sem texto e sem marca d'água: Mesón Lo Güeno, em Málaga, Espanha — Taberna clássica de tapas desde 1967. Mostre tapas e uma taça de vinho sobre o balcão de azulejos, clima de taberna andaluza ao entardecer. Luz mediterrânea dourada, paleta elegante e vibrante, composição limpa."
+  },
+  {
+    "id": "grn_los_diamantes",
+    "city": "granada",
+    "categoryId": "tapas",
+    "name": "Los Diamantes (Plaza Nueva)",
+    "prompt": "Gere uma imagem no formato horizontal 16:9 (paisagem), estilo pôster de viagem, pintura digital cinematográfica, sem pessoas, sem texto e sem marca d'água: Los Diamantes (Plaza Nueva), em Granada, Espanha — Pescaíto frito e tapa grátis desde 1942. Mostre tapas e uma taça de vinho sobre o balcão de azulejos, clima de taberna andaluza ao entardecer. Luz mediterrânea dourada, paleta elegante e vibrante, composição limpa."
+  },
+  {
+    "id": "rnd_bodega_san_francisco",
+    "city": "ronda",
+    "categoryId": "tapas",
+    "name": "Bodega San Francisco",
+    "prompt": "Gere uma imagem no formato horizontal 16:9 (paisagem), estilo pôster de viagem, pintura digital cinematográfica, sem pessoas, sem texto e sem marca d'água: Bodega San Francisco, em Ronda, Espanha — Tapas serranas junto à muralha de Ronda. Mostre tapas e uma taça de vinho sobre o balcão de azulejos, clima de taberna andaluza ao entardecer. Luz mediterrânea dourada, paleta elegante e vibrante, composição limpa."
+  },
+  {
+    "id": "cor_taberna_salinas",
+    "city": "cordoba",
+    "categoryId": "tapas",
+    "name": "Taberna Salinas",
+    "prompt": "Gere uma imagem no formato horizontal 16:9 (paisagem), estilo pôster de viagem, pintura digital cinematográfica, sem pessoas, sem texto e sem marca d'água: Taberna Salinas, em Córdoba, Espanha — Taberna cordovesa de 1924 com pátio. Mostre tapas e uma taça de vinho sobre o balcão de azulejos, clima de taberna andaluza ao entardecer. Luz mediterrânea dourada, paleta elegante e vibrante, composição limpa."
+  },
+  {
+    "id": "cor_casa_pepe_juderia",
+    "city": "cordoba",
+    "categoryId": "tapas",
+    "name": "Casa Pepe de la Judería",
+    "prompt": "Gere uma imagem no formato horizontal 16:9 (paisagem), estilo pôster de viagem, pintura digital cinematográfica, sem pessoas, sem texto e sem marca d'água: Casa Pepe de la Judería, em Córdoba, Espanha — Terraço com vista da Mesquita na Judería. Mostre tapas e uma taça de vinho sobre o balcão de azulejos, clima de taberna andaluza ao entardecer. Luz mediterrânea dourada, paleta elegante e vibrante, composição limpa."
+  },
+  {
+    "id": "cor_taberna_san_miguel",
+    "city": "cordoba",
+    "categoryId": "tapas",
+    "name": "Taberna San Miguel \"El Pisto\"",
+    "prompt": "Gere uma imagem no formato horizontal 16:9 (paisagem), estilo pôster de viagem, pintura digital cinematográfica, sem pessoas, sem texto e sem marca d'água: Taberna San Miguel \"El Pisto\", em Córdoba, Espanha — Montilla-Moriles numa taberna centenária. Mostre tapas e uma taça de vinho sobre o balcão de azulejos, clima de taberna andaluza ao entardecer. Luz mediterrânea dourada, paleta elegante e vibrante, composição limpa."
+  },
+  {
+    "id": "cor_bodegas_campos",
+    "city": "cordoba",
+    "categoryId": "tapas",
+    "name": "Bodegas Campos",
+    "prompt": "Gere uma imagem no formato horizontal 16:9 (paisagem), estilo pôster de viagem, pintura digital cinematográfica, sem pessoas, sem texto e sem marca d'água: Bodegas Campos, em Córdoba, Espanha — Pátios cordoveses e bodega histórica. Mostre tapas e uma taça de vinho sobre o balcão de azulejos, clima de taberna andaluza ao entardecer. Luz mediterrânea dourada, paleta elegante e vibrante, composição limpa."
+  },
+  {
+    "id": "grn_om_kalsum",
+    "city": "granada",
+    "categoryId": "tapas",
+    "name": "Om Kalsum",
+    "prompt": "Gere uma imagem no formato horizontal 16:9 (paisagem), estilo pôster de viagem, pintura digital cinematográfica, sem pessoas, sem texto e sem marca d'água: Om Kalsum, em Granada, Espanha — Tapas árabes e vegetarianas em Granada. Mostre tapas e uma taça de vinho sobre o balcão de azulejos, clima de taberna andaluza ao entardecer. Luz mediterrânea dourada, paleta elegante e vibrante, composição limpa."
+  },
+  {
+    "id": "grn_bodega_la_mancha",
+    "city": "granada",
+    "categoryId": "tapas",
+    "name": "Bodega La Mancha",
+    "prompt": "Gere uma imagem no formato horizontal 16:9 (paisagem), estilo pôster de viagem, pintura digital cinematográfica, sem pessoas, sem texto e sem marca d'água: Bodega La Mancha, em Granada, Espanha — Vermute de torneira e embutidos desde 1956. Mostre tapas e uma taça de vinho sobre o balcão de azulejos, clima de taberna andaluza ao entardecer. Luz mediterrânea dourada, paleta elegante e vibrante, composição limpa."
+  },
+  {
+    "id": "mrb_casa_curro",
+    "city": "marbella",
+    "categoryId": "tapas",
+    "name": "Taberna Casa Curro",
+    "prompt": "Gere uma imagem no formato horizontal 16:9 (paisagem), estilo pôster de viagem, pintura digital cinematográfica, sem pessoas, sem texto e sem marca d'água: Taberna Casa Curro, em Marbella / Costa del Sol, Espanha — Ibéricos e gambas de Huelva no casco antigo. Mostre tapas e uma taça de vinho sobre o balcão de azulejos, clima de taberna andaluza ao entardecer. Luz mediterrânea dourada, paleta elegante e vibrante, composição limpa."
+  },
+  {
+    "id": "mrb_bar_el_estrecho",
+    "city": "marbella",
+    "categoryId": "tapas",
+    "name": "Bar El Estrecho",
+    "prompt": "Gere uma imagem no formato horizontal 16:9 (paisagem), estilo pôster de viagem, pintura digital cinematográfica, sem pessoas, sem texto e sem marca d'água: Bar El Estrecho, em Marbella / Costa del Sol, Espanha — Bar de tapas de 1954 num beco do casco antigo. Mostre tapas e uma taça de vinho sobre o balcão de azulejos, clima de taberna andaluza ao entardecer. Luz mediterrânea dourada, paleta elegante e vibrante, composição limpa."
+  },
+  {
+    "id": "axq_la_puntilla_nerja",
+    "city": "axarquia",
+    "categoryId": "tapas",
+    "name": "La Puntilla",
+    "prompt": "Gere uma imagem no formato horizontal 16:9 (paisagem), estilo pôster de viagem, pintura digital cinematográfica, sem pessoas, sem texto e sem marca d'água: La Puntilla, em Nerja / Axarquía, Espanha — Pescado fresco e tapa grátis em Nerja. Mostre tapas e uma taça de vinho sobre o balcão de azulejos, clima de taberna andaluza ao entardecer. Luz mediterrânea dourada, paleta elegante e vibrante, composição limpa."
+  },
+  {
+    "id": "ant_arte_de_cozina",
+    "city": "antequera",
+    "categoryId": "tapas",
+    "name": "Arte de Cozina",
+    "prompt": "Gere uma imagem no formato horizontal 16:9 (paisagem), estilo pôster de viagem, pintura digital cinematográfica, sem pessoas, sem texto e sem marca d'água: Arte de Cozina, em Antequera, Espanha — Cozinha antequerana de raiz e receitas locais. Mostre tapas e uma taça de vinho sobre o balcão de azulejos, clima de taberna andaluza ao entardecer. Luz mediterrânea dourada, paleta elegante e vibrante, composição limpa."
+  },
+  {
+    "id": "ant_arco_de_los_gigantes",
+    "city": "antequera",
+    "categoryId": "antequera",
+    "name": "Arco de los Gigantes",
+    "prompt": "Gere uma imagem no formato horizontal 16:9 (paisagem), estilo pôster de viagem, pintura digital cinematográfica, sem pessoas, sem texto e sem marca d'água: Arco de los Gigantes, em Antequera, Espanha — Pórtico renascentista da Antequera romana. Luz mediterrânea dourada, paleta elegante e vibrante, composição limpa."
+  },
+  {
+    "id": "ant_iglesia_del_carmen",
+    "city": "antequera",
+    "categoryId": "antequera",
+    "name": "Iglesia del Carmen",
+    "prompt": "Gere uma imagem no formato horizontal 16:9 (paisagem), estilo pôster de viagem, pintura digital cinematográfica, sem pessoas, sem texto e sem marca d'água: Iglesia del Carmen, em Antequera, Espanha — Retábulos barrocos sob teto mudéjar. Luz mediterrânea dourada, paleta elegante e vibrante, composição limpa."
+  },
+  {
+    "id": "ant_termas_romanas_santa_maria",
+    "city": "antequera",
+    "categoryId": "antequera",
+    "name": "Termas Romanas de Santa María",
+    "prompt": "Gere uma imagem no formato horizontal 16:9 (paisagem), estilo pôster de viagem, pintura digital cinematográfica, sem pessoas, sem texto e sem marca d'água: Termas Romanas de Santa María, em Antequera, Espanha — Os banhos da Antikaria sob a Colegiata. Luz mediterrânea dourada, paleta elegante e vibrante, composição limpa."
+  },
+  {
+    "id": "ant_mirador_almenillas",
+    "city": "antequera",
+    "categoryId": "antequera",
+    "name": "Mirador de las Almenillas",
+    "prompt": "Gere uma imagem no formato horizontal 16:9 (paisagem), estilo pôster de viagem, pintura digital cinematográfica, sem pessoas, sem texto e sem marca d'água: Mirador de las Almenillas, em Antequera, Espanha — As torres de Antequera num só olhar. Luz mediterrânea dourada, paleta elegante e vibrante, composição limpa."
+  },
+  {
+    "id": "ant_plaza_de_san_sebastian",
+    "city": "antequera",
+    "categoryId": "antequera",
+    "name": "Plaza de San Sebastián",
+    "prompt": "Gere uma imagem no formato horizontal 16:9 (paisagem), estilo pôster de viagem, pintura digital cinematográfica, sem pessoas, sem texto e sem marca d'água: Plaza de San Sebastián, em Antequera, Espanha — Fonte renascentista no coração da vila. Luz mediterrânea dourada, paleta elegante e vibrante, composição limpa."
+  },
+  {
+    "id": "ant_iglesia_de_los_remedios",
+    "city": "antequera",
+    "categoryId": "antequera",
+    "name": "Iglesia de Nuestra Señora de los Remedios",
+    "prompt": "Gere uma imagem no formato horizontal 16:9 (paisagem), estilo pôster de viagem, pintura digital cinematográfica, sem pessoas, sem texto e sem marca d'água: Iglesia de Nuestra Señora de los Remedios, em Antequera, Espanha — A padroeira sob colunas salomônicas. Luz mediterrânea dourada, paleta elegante e vibrante, composição limpa."
+  },
+  {
+    "id": "ant_dolmen_del_romeral",
+    "city": "antequera",
+    "categoryId": "antequera",
+    "name": "Dolmen del Romeral (Tholos de El Romeral)",
+    "prompt": "Gere uma imagem no formato horizontal 16:9 (paisagem), estilo pôster de viagem, pintura digital cinematográfica, sem pessoas, sem texto e sem marca d'água: Dolmen del Romeral (Tholos de El Romeral), em Antequera, Espanha — O tholos megalítico da Idade do Bronze. Luz mediterrânea dourada, paleta elegante e vibrante, composição limpa."
+  },
+  {
+    "id": "ant_plaza_ochavada_archidona",
+    "city": "antequera",
+    "categoryId": "antequera",
+    "name": "Plaza Ochavada (Archidona)",
+    "prompt": "Gere uma imagem no formato horizontal 16:9 (paisagem), estilo pôster de viagem, pintura digital cinematográfica, sem pessoas, sem texto e sem marca d'água: Plaza Ochavada (Archidona), em Antequera, Espanha — A praça octogonal do barroco andaluz. Luz mediterrânea dourada, paleta elegante e vibrante, composição limpa."
+  },
+  {
+    "id": "ant_ermita_virgen_de_gracia_archidona",
+    "city": "antequera",
+    "categoryId": "antequera",
+    "name": "Castillo y Ermita de la Virgen de Gracia (Archidona)",
+    "prompt": "Gere uma imagem no formato horizontal 16:9 (paisagem), estilo pôster de viagem, pintura digital cinematográfica, sem pessoas, sem texto e sem marca d'água: Castillo y Ermita de la Virgen de Gracia (Archidona), em Antequera, Espanha — Mesquita mourisca no alto do castelo. Luz mediterrânea dourada, paleta elegante e vibrante, composição limpa."
+  },
+  {
+    "id": "nrj_torre_de_maro",
+    "city": "axarquia",
+    "categoryId": "axarquia",
+    "name": "Torre Vigía de Maro",
+    "prompt": "Gere uma imagem no formato horizontal 16:9 (paisagem), estilo pôster de viagem, pintura digital cinematográfica, sem pessoas, sem texto e sem marca d'água: Torre Vigía de Maro, em Nerja / Axarquía, Espanha — Atalaia do século XVI sobre a falésia. Luz mediterrânea dourada, paleta elegante e vibrante, composição limpa."
+  },
+  {
+    "id": "axq_competa_pueblo",
+    "city": "axarquia",
+    "categoryId": "axarquia",
+    "name": "Cómpeta",
+    "prompt": "Gere uma imagem no formato horizontal 16:9 (paisagem), estilo pôster de viagem, pintura digital cinematográfica, sem pessoas, sem texto e sem marca d'água: Cómpeta, em Nerja / Axarquía, Espanha — A vila branca do vinho da Almijara. Luz mediterrânea dourada, paleta elegante e vibrante, composição limpa."
+  },
+  {
+    "id": "axq_torrox_pueblo",
+    "city": "axarquia",
+    "categoryId": "axarquia",
+    "name": "Torrox Pueblo",
+    "prompt": "Gere uma imagem no formato horizontal 16:9 (paisagem), estilo pôster de viagem, pintura digital cinematográfica, sem pessoas, sem texto e sem marca d'água: Torrox Pueblo, em Nerja / Axarquía, Espanha — Labirinto mouro sobre o vale do rio. Luz mediterrânea dourada, paleta elegante e vibrante, composição limpa."
+  },
+  {
+    "id": "axq_velez_fortaleza",
+    "city": "axarquia",
+    "categoryId": "axarquia",
+    "name": "La Fortaleza de Vélez-Málaga",
+    "prompt": "Gere uma imagem no formato horizontal 16:9 (paisagem), estilo pôster de viagem, pintura digital cinematográfica, sem pessoas, sem texto e sem marca d'água: La Fortaleza de Vélez-Málaga, em Nerja / Axarquía, Espanha — Alcáçova nasrida sobre a capital da Axarquía. Luz mediterrânea dourada, paleta elegante e vibrante, composição limpa."
+  },
+  {
+    "id": "axq_archez_alminar",
+    "city": "axarquia",
+    "categoryId": "axarquia",
+    "name": "Alminar Mudéjar de Árchez",
+    "prompt": "Gere uma imagem no formato horizontal 16:9 (paisagem), estilo pôster de viagem, pintura digital cinematográfica, sem pessoas, sem texto e sem marca d'água: Alminar Mudéjar de Árchez, em Nerja / Axarquía, Espanha — Minarete almóada de tijolo do século XIV. Luz mediterrânea dourada, paleta elegante e vibrante, composição limpa."
+  },
+  {
+    "id": "axq_salares_alminar",
+    "city": "axarquia",
+    "categoryId": "axarquia",
+    "name": "Salares e seu Alminar",
+    "prompt": "Gere uma imagem no formato horizontal 16:9 (paisagem), estilo pôster de viagem, pintura digital cinematográfica, sem pessoas, sem texto e sem marca d'água: Salares e seu Alminar, em Nerja / Axarquía, Espanha — Vila mudéjar sem carros ao pé da serra. Luz mediterrânea dourada, paleta elegante e vibrante, composição limpa."
+  },
+  {
+    "id": "axq_sayalonga_cementerio_redondo",
+    "city": "axarquia",
+    "categoryId": "axarquia",
+    "name": "Cemitério Redondo de Sayalonga",
+    "prompt": "Gere uma imagem no formato horizontal 16:9 (paisagem), estilo pôster de viagem, pintura digital cinematográfica, sem pessoas, sem texto e sem marca d'água: Cemitério Redondo de Sayalonga, em Nerja / Axarquía, Espanha — O único camposanto octogonal da Espanha. Luz mediterrânea dourada, paleta elegante e vibrante, composição limpa."
+  },
+  {
+    "id": "axq_sedella_pueblo",
+    "city": "axarquia",
+    "categoryId": "axarquia",
+    "name": "Sedella",
+    "prompt": "Gere uma imagem no formato horizontal 16:9 (paisagem), estilo pôster de viagem, pintura digital cinematográfica, sem pessoas, sem texto e sem marca d'água: Sedella, em Nerja / Axarquía, Espanha — Vila branca aos pés da Tejeda. Luz mediterrânea dourada, paleta elegante e vibrante, composição limpa."
+  },
+  {
+    "id": "mlg_cementerio_ingles",
+    "city": "malaga",
+    "categoryId": "malaga",
+    "name": "Cementerio Inglés (English Cemetery)",
+    "prompt": "Gere uma imagem no formato horizontal 16:9 (paisagem), estilo pôster de viagem, pintura digital cinematográfica, sem pessoas, sem texto e sem marca d'água: Cementerio Inglés (English Cemetery), em Málaga, Espanha — O jardim romântico dos que aqui morreram. Luz mediterrânea dourada, paleta elegante e vibrante, composição limpa."
+  },
+  {
+    "id": "mlg_plaza_constitucion_chinitas",
+    "city": "malaga",
+    "categoryId": "malaga",
+    "name": "Plaza de la Constitución e Pasaje de Chinitas",
+    "prompt": "Gere uma imagem no formato horizontal 16:9 (paisagem), estilo pôster de viagem, pintura digital cinematográfica, sem pessoas, sem texto e sem marca d'água: Plaza de la Constitución e Pasaje de Chinitas, em Málaga, Espanha — O coração histórico e seu beco lendário. Luz mediterrânea dourada, paleta elegante e vibrante, composição limpa."
+  },
+  {
+    "id": "mlg_iglesia_santiago",
+    "city": "malaga",
+    "categoryId": "malaga",
+    "name": "Iglesia de Santiago Apóstol",
+    "prompt": "Gere uma imagem no formato horizontal 16:9 (paisagem), estilo pôster de viagem, pintura digital cinematográfica, sem pessoas, sem texto e sem marca d'água: Iglesia de Santiago Apóstol, em Málaga, Espanha — A igreja mais antiga, onde Picasso foi batizado. Luz mediterrânea dourada, paleta elegante e vibrante, composição limpa."
+  },
+  {
+    "id": "mlg_basilica_victoria",
+    "city": "malaga",
+    "categoryId": "malaga",
+    "name": "Basílica de Santa María de la Victoria",
+    "prompt": "Gere uma imagem no formato horizontal 16:9 (paisagem), estilo pôster de viagem, pintura digital cinematográfica, sem pessoas, sem texto e sem marca d'água: Basílica de Santa María de la Victoria, em Málaga, Espanha — O santuário barroco da padroeira. Luz mediterrânea dourada, paleta elegante e vibrante, composição limpa."
+  },
+  {
+    "id": "mlg_paseo_del_parque",
+    "city": "malaga",
+    "categoryId": "malaga",
+    "name": "Paseo del Parque",
+    "prompt": "Gere uma imagem no formato horizontal 16:9 (paisagem), estilo pôster de viagem, pintura digital cinematográfica, sem pessoas, sem texto e sem marca d'água: Paseo del Parque, em Málaga, Espanha — A selva subtropical no meio da cidade. Luz mediterrânea dourada, paleta elegante e vibrante, composição limpa."
+  },
+  {
+    "id": "mlg_jardines_pedro_luis_alonso",
+    "city": "malaga",
+    "categoryId": "malaga",
+    "name": "Jardines de Pedro Luis Alonso",
+    "prompt": "Gere uma imagem no formato horizontal 16:9 (paisagem), estilo pôster de viagem, pintura digital cinematográfica, sem pessoas, sem texto e sem marca d'água: Jardines de Pedro Luis Alonso, em Málaga, Espanha — O roseiral de estilo latino ao lado do Ayuntamiento. Luz mediterrânea dourada, paleta elegante e vibrante, composição limpa."
+  },
+  {
+    "id": "mlg_plaza_toros_malagueta",
+    "city": "malaga",
+    "categoryId": "malaga",
+    "name": "Plaza de Toros de La Malagueta",
+    "prompt": "Gere uma imagem no formato horizontal 16:9 (paisagem), estilo pôster de viagem, pintura digital cinematográfica, sem pessoas, sem texto e sem marca d'água: Plaza de Toros de La Malagueta, em Málaga, Espanha — O hexágono de tijolo à beira-mar. Luz mediterrânea dourada, paleta elegante e vibrante, composição limpa."
+  },
+  {
+    "id": "mlg_teatro_cervantes",
+    "city": "malaga",
+    "categoryId": "malaga",
+    "name": "Teatro Cervantes",
+    "prompt": "Gere uma imagem no formato horizontal 16:9 (paisagem), estilo pôster de viagem, pintura digital cinematográfica, sem pessoas, sem texto e sem marca d'água: Teatro Cervantes, em Málaga, Espanha — O teatro oitocentista de teto pintado. Luz mediterrânea dourada, paleta elegante e vibrante, composição limpa."
+  },
+  {
+    "id": "mlg_mirador_gibralfaro",
+    "city": "malaga",
+    "categoryId": "malaga",
+    "name": "Mirador de Gibralfaro",
+    "prompt": "Gere uma imagem no formato horizontal 16:9 (paisagem), estilo pôster de viagem, pintura digital cinematográfica, sem pessoas, sem texto e sem marca d'água: Mirador de Gibralfaro, em Málaga, Espanha — A vista de cartão-postal da cidade inteira. Luz mediterrânea dourada, paleta elegante e vibrante, composição limpa."
+  },
+  {
+    "id": "mlg_perchel_trinidad",
+    "city": "malaga",
+    "categoryId": "malaga",
+    "name": "Barrios del Perchel e La Trinidad",
+    "prompt": "Gere uma imagem no formato horizontal 16:9 (paisagem), estilo pôster de viagem, pintura digital cinematográfica, sem pessoas, sem texto e sem marca d'água: Barrios del Perchel e La Trinidad, em Málaga, Espanha — A Málaga popular do outro lado do rio. Luz mediterrânea dourada, paleta elegante e vibrante, composição limpa."
+  },
+  {
+    "id": "mrb_mijas_pueblo",
+    "city": "marbella",
+    "categoryId": "marbella",
+    "name": "Mijas Pueblo",
+    "prompt": "Gere uma imagem no formato horizontal 16:9 (paisagem), estilo pôster de viagem, pintura digital cinematográfica, sem pessoas, sem texto e sem marca d'água: Mijas Pueblo, em Marbella / Costa del Sol, Espanha — A vila branca dos burro-táxis. Luz mediterrânea dourada, paleta elegante e vibrante, composição limpa."
+  },
+  {
+    "id": "mrb_plaza_toros_mijas",
+    "city": "marbella",
+    "categoryId": "marbella",
+    "name": "Plaza de Toros de Mijas",
+    "prompt": "Gere uma imagem no formato horizontal 16:9 (paisagem), estilo pôster de viagem, pintura digital cinematográfica, sem pessoas, sem texto e sem marca d'água: Plaza de Toros de Mijas, em Marbella / Costa del Sol, Espanha — A rara arena oval de 1900. Luz mediterrânea dourada, paleta elegante e vibrante, composição limpa."
+  },
+  {
+    "id": "mrb_ermita_pena_mijas",
+    "city": "marbella",
+    "categoryId": "marbella",
+    "name": "Ermita de la Virgen de la Peña",
+    "prompt": "Gere uma imagem no formato horizontal 16:9 (paisagem), estilo pôster de viagem, pintura digital cinematográfica, sem pessoas, sem texto e sem marca d'água: Ermita de la Virgen de la Peña, em Marbella / Costa del Sol, Espanha — A capela escavada na rocha. Luz mediterrânea dourada, paleta elegante e vibrante, composição limpa."
+  },
+  {
+    "id": "mrb_ojen",
+    "city": "marbella",
+    "categoryId": "marbella",
+    "name": "Ojén",
+    "prompt": "Gere uma imagem no formato horizontal 16:9 (paisagem), estilo pôster de viagem, pintura digital cinematográfica, sem pessoas, sem texto e sem marca d'água: Ojén, em Marbella / Costa del Sol, Espanha — O pueblo branco logo acima de Marbella. Luz mediterrânea dourada, paleta elegante e vibrante, composição limpa."
+  },
+  {
+    "id": "mrb_istan",
+    "city": "marbella",
+    "categoryId": "marbella",
+    "name": "Istán",
+    "prompt": "Gere uma imagem no formato horizontal 16:9 (paisagem), estilo pôster de viagem, pintura digital cinematográfica, sem pessoas, sem texto e sem marca d'água: Istán, em Marbella / Costa del Sol, Espanha — O manancial da Costa del Sol. Luz mediterrânea dourada, paleta elegante e vibrante, composição limpa."
+  },
+  {
+    "id": "mrb_benahavis",
+    "city": "marbella",
+    "categoryId": "marbella",
+    "name": "Benahavís",
+    "prompt": "Gere uma imagem no formato horizontal 16:9 (paisagem), estilo pôster de viagem, pintura digital cinematográfica, sem pessoas, sem texto e sem marca d'água: Benahavís, em Marbella / Costa del Sol, Espanha — A vila gastronômica da serra. Luz mediterrânea dourada, paleta elegante e vibrante, composição limpa."
+  },
+  {
+    "id": "mrb_basilica_vega_del_mar",
+    "city": "marbella",
+    "categoryId": "marbella",
+    "name": "Basílica Paleocristã de Vega del Mar",
+    "prompt": "Gere uma imagem no formato horizontal 16:9 (paisagem), estilo pôster de viagem, pintura digital cinematográfica, sem pessoas, sem texto e sem marca d'água: Basílica Paleocristã de Vega del Mar, em Marbella / Costa del Sol, Espanha — Ruínas cristãs do século IV à beira-mar. Luz mediterrânea dourada, paleta elegante e vibrante, composição limpa."
+  },
+  {
+    "id": "mrb_bulevar_san_pedro",
+    "city": "marbella",
+    "categoryId": "marbella",
+    "name": "Bulevar de San Pedro de Alcántara",
+    "prompt": "Gere uma imagem no formato horizontal 16:9 (paisagem), estilo pôster de viagem, pintura digital cinematográfica, sem pessoas, sem texto e sem marca d'água: Bulevar de San Pedro de Alcántara, em Marbella / Costa del Sol, Espanha — O parque suspenso sobre a autopista. Luz mediterrânea dourada, paleta elegante e vibrante, composição limpa."
+  },
+  {
+    "id": "mrb_estepona_casco_flores",
+    "city": "marbella",
+    "categoryId": "marbella",
+    "name": "Casco Antiguo de Estepona",
+    "prompt": "Gere uma imagem no formato horizontal 16:9 (paisagem), estilo pôster de viagem, pintura digital cinematográfica, sem pessoas, sem texto e sem marca d'água: Casco Antiguo de Estepona, em Marbella / Costa del Sol, Espanha — O jardim urbano da Plaza de las Flores. Luz mediterrânea dourada, paleta elegante e vibrante, composição limpa."
+  },
+  {
+    "id": "mrb_estepona_murales",
+    "city": "marbella",
+    "categoryId": "marbella",
+    "name": "Ruta de los Murales de Estepona",
+    "prompt": "Gere uma imagem no formato horizontal 16:9 (paisagem), estilo pôster de viagem, pintura digital cinematográfica, sem pessoas, sem texto e sem marca d'água: Ruta de los Murales de Estepona, em Marbella / Costa del Sol, Espanha — Um museu de arte a céu aberto. Luz mediterrânea dourada, paleta elegante e vibrante, composição limpa."
+  },
+  {
+    "id": "mrb_orquidario_estepona",
+    "city": "marbella",
+    "categoryId": "marbella",
+    "name": "Orquidario de Estepona",
+    "prompt": "Gere uma imagem no formato horizontal 16:9 (paisagem), estilo pôster de viagem, pintura digital cinematográfica, sem pessoas, sem texto e sem marca d'água: Orquidario de Estepona, em Marbella / Costa del Sol, Espanha — A cúpula tropical de mil orquídeas. Luz mediterrânea dourada, paleta elegante e vibrante, composição limpa."
+  },
+  {
+    "id": "mrb_milla_de_oro",
+    "city": "marbella",
+    "categoryId": "marbella",
+    "name": "Milla de Oro de Marbella",
+    "prompt": "Gere uma imagem no formato horizontal 16:9 (paisagem), estilo pôster de viagem, pintura digital cinematográfica, sem pessoas, sem texto e sem marca d'água: Milla de Oro de Marbella, em Marbella / Costa del Sol, Espanha — A avenida do luxo entre a cidade e Banús. Luz mediterrânea dourada, paleta elegante e vibrante, composição limpa."
+  },
+  {
+    "id": "mrb_nueva_andalucia",
+    "city": "marbella",
+    "categoryId": "marbella",
+    "name": "Nueva Andalucía",
+    "prompt": "Gere uma imagem no formato horizontal 16:9 (paisagem), estilo pôster de viagem, pintura digital cinematográfica, sem pessoas, sem texto e sem marca d'água: Nueva Andalucía, em Marbella / Costa del Sol, Espanha — O vale do golfe atrás de Puerto Banús. Luz mediterrânea dourada, paleta elegante e vibrante, composição limpa."
+  },
+  {
+    "id": "rnd_santa_maria_la_mayor",
+    "city": "ronda",
+    "categoryId": "ronda",
+    "name": "Iglesia de Santa María la Mayor",
+    "prompt": "Gere uma imagem no formato horizontal 16:9 (paisagem), estilo pôster de viagem, pintura digital cinematográfica, sem pessoas, sem texto e sem marca d'água: Iglesia de Santa María la Mayor, em Ronda, Espanha — A igreja maior sobre a antiga mesquita. Luz mediterrânea dourada, paleta elegante e vibrante, composição limpa."
+  },
+  {
+    "id": "rnd_puerta_almocabar",
+    "city": "ronda",
+    "categoryId": "ronda",
+    "name": "Puerta de Almocábar & Murallas",
+    "prompt": "Gere uma imagem no formato horizontal 16:9 (paisagem), estilo pôster de viagem, pintura digital cinematográfica, sem pessoas, sem texto e sem marca d'água: Puerta de Almocábar & Murallas, em Ronda, Espanha — O portão nasrida no flanco sul da muralha. Luz mediterrânea dourada, paleta elegante e vibrante, composição limpa."
+  },
+  {
+    "id": "rnd_iglesia_espiritu_santo",
+    "city": "ronda",
+    "categoryId": "ronda",
+    "name": "Iglesia del Espíritu Santo",
+    "prompt": "Gere uma imagem no formato horizontal 16:9 (paisagem), estilo pôster de viagem, pintura digital cinematográfica, sem pessoas, sem texto e sem marca d'água: Iglesia del Espíritu Santo, em Ronda, Espanha — A igreja-fortaleza junto à Almocábar. Luz mediterrânea dourada, paleta elegante e vibrante, composição limpa."
+  },
+  {
+    "id": "rnd_puente_viejo",
+    "city": "ronda",
+    "categoryId": "ronda",
+    "name": "Puente Viejo",
+    "prompt": "Gere uma imagem no formato horizontal 16:9 (paisagem), estilo pôster de viagem, pintura digital cinematográfica, sem pessoas, sem texto e sem marca d'água: Puente Viejo, em Ronda, Espanha — A ponte antiga sobre o Guadalevín. Luz mediterrânea dourada, paleta elegante e vibrante, composição limpa."
+  },
+  {
+    "id": "rnd_casa_don_bosco",
+    "city": "ronda",
+    "categoryId": "ronda",
+    "name": "Casa Don Bosco",
+    "prompt": "Gere uma imagem no formato horizontal 16:9 (paisagem), estilo pôster de viagem, pintura digital cinematográfica, sem pessoas, sem texto e sem marca d'água: Casa Don Bosco, em Ronda, Espanha — O jardim-mirante debruçado no Tajo. Luz mediterrânea dourada, paleta elegante e vibrante, composição limpa."
+  },
+  {
+    "id": "rnd_setenil_de_las_bodegas",
+    "city": "ronda",
+    "categoryId": "ronda",
+    "name": "Setenil de las Bodegas",
+    "prompt": "Gere uma imagem no formato horizontal 16:9 (paisagem), estilo pôster de viagem, pintura digital cinematográfica, sem pessoas, sem texto e sem marca d'água: Setenil de las Bodegas, em Ronda, Espanha — As casas encaixadas sob a rocha. Luz mediterrânea dourada, paleta elegante e vibrante, composição limpa."
+  },
+  {
+    "id": "rnd_juzcar_pueblo_azul",
+    "city": "ronda",
+    "categoryId": "ronda",
+    "name": "Júzcar (o Pueblo Azul)",
+    "prompt": "Gere uma imagem no formato horizontal 16:9 (paisagem), estilo pôster de viagem, pintura digital cinematográfica, sem pessoas, sem texto e sem marca d'água: Júzcar (o Pueblo Azul), em Ronda, Espanha — O vilarejo pintado de azul dos Smurfs. Luz mediterrânea dourada, paleta elegante e vibrante, composição limpa."
+  },
+  {
+    "id": "rnd_zahara_de_la_sierra",
+    "city": "ronda",
+    "categoryId": "ronda",
+    "name": "Zahara de la Sierra",
+    "prompt": "Gere uma imagem no formato horizontal 16:9 (paisagem), estilo pôster de viagem, pintura digital cinematográfica, sem pessoas, sem texto e sem marca d'água: Zahara de la Sierra, em Ronda, Espanha — A vila-fortaleza sobre o esmeralda do reservatório. Luz mediterrânea dourada, paleta elegante e vibrante, composição limpa."
+  },
+  {
+    "id": "rnd_grazalema",
+    "city": "ronda",
+    "categoryId": "ronda",
+    "name": "Grazalema",
+    "prompt": "Gere uma imagem no formato horizontal 16:9 (paisagem), estilo pôster de viagem, pintura digital cinematográfica, sem pessoas, sem texto e sem marca d'água: Grazalema, em Ronda, Espanha — A vila branca de manta e telha ocre. Luz mediterrânea dourada, paleta elegante e vibrante, composição limpa."
+  },
+  {
+    "id": "rnd_gaucin",
+    "city": "ronda",
+    "categoryId": "ronda",
+    "name": "Gaucín & Castillo del Águila",
+    "prompt": "Gere uma imagem no formato horizontal 16:9 (paisagem), estilo pôster de viagem, pintura digital cinematográfica, sem pessoas, sem texto e sem marca d'água: Gaucín & Castillo del Águila, em Ronda, Espanha — O balcão da serrania com vista ao mar. Luz mediterrânea dourada, paleta elegante e vibrante, composição limpa."
+  },
+  {
+    "id": "rnd_montejaque",
+    "city": "ronda",
+    "categoryId": "ronda",
+    "name": "Montejaque",
+    "prompt": "Gere uma imagem no formato horizontal 16:9 (paisagem), estilo pôster de viagem, pintura digital cinematográfica, sem pessoas, sem texto e sem marca d'água: Montejaque, em Ronda, Espanha — A vila branca no coração da serra. Luz mediterrânea dourada, paleta elegante e vibrante, composição limpa."
+  },
+  {
     "id": "mlg_jose_carlos_garcia",
     "city": "malaga",
     "categoryId": "gastronomia",

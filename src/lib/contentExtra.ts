@@ -1,5 +1,5 @@
 // AUTO-GERADO por scripts/build-extra.mjs — não editar à mão.
-// 119 locais (pesquisa por zona). Fonte: scripts/data/*.json
+// 269 locais (pesquisa por zona). Fonte: scripts/data/*.json
 import type { Attraction, LinkRef } from './content';
 
 export const extraAttractions: Attraction[] = [
@@ -403,6 +403,3370 @@ export const extraAttractions: Attraction[] = [
         "url": "https://www.museobandolero.com/"
       }
     ]
+  },
+  {
+    "id": "mlg_mia_coffee",
+    "categoryId": "cafe",
+    "city": "malaga",
+    "name": "Mia Coffee",
+    "tagline": "Café de especialidade na fachada amarela",
+    "description": "Cafeteria minúscula e cultuada de fachada amarela viva, no centro histórico, tocada por uma família de origem venezuelana. Trabalha com micro-torrefadores espanhóis e domina o espresso, o flat white e os métodos filtrados. Um dos endereços de referência do café de especialidade em Málaga.",
+    "lat": 36.72223,
+    "lng": -4.42274,
+    "durationLabel": "20–40 min",
+    "fit": "ANY",
+    "mapQuery": "Mía Coffee Shop, Plaza de los Mártires, Málaga",
+    "whatToDo": "Peça um flat white e um dos bolos caseiros na barra estreita, ou leve o café para caminhar pelo centro.",
+    "kingTip": "O espaço é pequeníssimo e enche rápido; vá em horário de baixa ou peça para viagem.",
+    "priceLevel": "€€"
+  },
+  {
+    "id": "mlg_next_level_coffee",
+    "categoryId": "cafe",
+    "city": "malaga",
+    "name": "Next Level Specialty Coffee",
+    "tagline": "Espresso de especialidade na Calle San Juan",
+    "description": "Cafeteria de especialidade moderna e luminosa na movimentada Calle San Juan, popular entre nômades digitais e amantes do bom grão. Cartas de espresso e filtrados bem executadas, com brunch leve e opções vegetais. Ambiente descontraído e Wi-Fi para uma pausa produtiva.",
+    "lat": 36.71965,
+    "lng": -4.42336,
+    "durationLabel": "30–45 min",
+    "fit": "ANY",
+    "mapQuery": "Next Level Specialty Coffee, Calle San Juan 27, Málaga",
+    "whatToDo": "Prove um filtrado do lote em destaque acompanhado de um pedaço de bolo de cenoura ou torrada de abacate.",
+    "kingTip": "Tem mais de um endereço no centro; o da Calle San Juan é o mais central para juntar com o Mercado de Atarazanas.",
+    "priceLevel": "€€",
+    "hours": {
+      "openDays": "Todos os dias",
+      "openHour": "08:00",
+      "closeHour": "17:00",
+      "note": "Fecha no fim da tarde; foco em cafés da manhã e brunch."
+    }
+  },
+  {
+    "id": "mlg_el_ultimo_mono",
+    "categoryId": "cafe",
+    "city": "malaga",
+    "name": "El Último Mono Juice & Coffee",
+    "tagline": "Sucos naturais e brunch com café de origem",
+    "description": "Cafeteria de bairro descolada perto da catedral, especializada em sucos prensados a frio e café de especialidade. Brunch generoso com torradas, ovos e bolos caseiros, muitas opções veganas e vegetarianas. Parada favorita para começar o dia sem pressa no centro histórico.",
+    "lat": 36.72113,
+    "lng": -4.42105,
+    "durationLabel": "45 min–1 h",
+    "fit": "ANY",
+    "mapQuery": "El Último Mono Juice & Coffee, Calle Santa María 9, Málaga",
+    "whatToDo": "Combine um suco verde prensado na hora com uma torrada de brunch e um cortado de especialidade.",
+    "kingTip": "Nos fins de semana o brunch enche; chegue antes das 11h para pegar mesa.",
+    "priceLevel": "€€"
+  },
+  {
+    "id": "mlg_julia_bakery",
+    "categoryId": "cafe",
+    "city": "malaga",
+    "name": "Julia Bakery",
+    "tagline": "Padaria-cafeteria de inspiração anglo-saxã",
+    "description": "Padaria, confeitaria e cafeteria na Calle Carretería, especializada em produtos de inspiração britânica e americana. Vitrines com napolitanas de framboesa, mais de dez tipos de cheesecake, cookies e pães de fermentação natural. Doçaria farta e reconfortante para um lanche no centro.",
+    "lat": 36.72294,
+    "lng": -4.42397,
+    "durationLabel": "20–40 min",
+    "fit": "ANY",
+    "mapQuery": "Julia Bakery, Calle Carretería 44, Málaga",
+    "whatToDo": "Prove uma fatia de cheesecake e leve um pão de fermentação natural ou uma napolitana quentinha.",
+    "kingTip": "A carta de cheesecakes muda; pergunte pelas fatias do dia recém-saídas do forno.",
+    "priceLevel": "€€"
+  },
+  {
+    "id": "mlg_eccolo_gelato",
+    "categoryId": "cafe",
+    "city": "malaga",
+    "name": "Eccolo Gelato",
+    "tagline": "Gelato italiano premiado na Calle San Juan",
+    "description": "Gelateria artesanal na Calle San Juan que produz o sorvete diariamente no próprio obrador, com ingredientes frescos e naturais. Seus gelati e sorbetti já foram escolhidos entre os melhores da Itália, com ampla linha sem glúten. Cremosidade de nível italiano no coração de Málaga.",
+    "lat": 36.71982,
+    "lng": -4.42345,
+    "durationLabel": "15–30 min",
+    "fit": "ANY",
+    "mapQuery": "Eccolo Gelato, Calle San Juan 32, Málaga",
+    "whatToDo": "Peça uma casquinha com pistache siciliano e um sorbetto de fruta da estação para o calor de julho.",
+    "kingTip": "Nos dias mais quentes, o sorbetto de limão ou de morango refresca mais que os cremes.",
+    "priceLevel": "€€"
+  },
+  {
+    "id": "mlg_levi_angelo_gelato",
+    "categoryId": "cafe",
+    "city": "malaga",
+    "name": "Levi Angelo Gelato",
+    "tagline": "Gelato artesanal cremoso no bairro Soho",
+    "description": "Gelateria artesanal muito bem avaliada perto do bairro Soho, entre a Alameda e o porto. Sabores clássicos italianos e criações autorais, com textura sedosa feita em pequenas fornadas. Uma das paradas geladas mais elogiadas da cidade para os dias de calor.",
+    "lat": 36.71651,
+    "lng": -4.42312,
+    "durationLabel": "15–30 min",
+    "fit": "ANY",
+    "mapQuery": "Levi Angelo Gelato, Calle Vendeja, Málaga",
+    "whatToDo": "Escolha duas bolas contrastantes, um creme e um sorbetto, e coma à sombra a caminho do Muelle Uno.",
+    "kingTip": "Fica a poucos passos do porto; ótimo fecho depois de um passeio à beira-mar ao entardecer.",
+    "priceLevel": "€€"
+  },
+  {
+    "id": "grn_gran_cafe_bib_rambla",
+    "categoryId": "cafe",
+    "city": "granada",
+    "name": "Gran Café Bib-Rambla",
+    "tagline": "Churros com chocolate na praça, desde 1907",
+    "description": "Café histórico de 1907 na animada Plaza Bib-Rambla, entre a catedral e a Alcaicería. Famoso pelos churros e pelo chocolate espesso servidos nas mesas ao ar livre, além de tapas e doces clássicos. Cenário clássico para o café da manhã granadino ao pé da praça.",
+    "lat": 37.17477,
+    "lng": -3.5999,
+    "durationLabel": "30–45 min",
+    "fit": "ANY",
+    "mapQuery": "Gran Café Bib-Rambla, Plaza Bib-Rambla 3, Granada",
+    "whatToDo": "Sente-se na esplanada da praça e peça churros ou porras com uma xícara de chocolate quente para mergulhar.",
+    "kingTip": "As mesas da praça são disputadas de manhã; no calor, prefira o café da tarde à sombra dos toldos.",
+    "priceLevel": "€€",
+    "links": [
+      {
+        "label": "Site oficial",
+        "url": "https://cafebibrambla.com"
+      }
+    ]
+  },
+  {
+    "id": "grn_los_italianos",
+    "categoryId": "cafe",
+    "city": "granada",
+    "name": "Heladería Los Italianos",
+    "tagline": "Sorvetes e cassata italiana desde 1936",
+    "description": "Heladería lendária na Gran Vía de Colón, fundada em 1936 por uma família de imigrantes italianos e frequentada por gerações de granadinos. Famosa pela cassata, pelos tartufos e pelo sorvete cremoso servido no balcão sempre cheio. Instituição da cidade, aberta na temporada de calor.",
+    "lat": 37.17619,
+    "lng": -3.5976,
+    "durationLabel": "15–30 min",
+    "fit": "ANY",
+    "mapQuery": "Heladería Los Italianos, Gran Vía de Colón 4, Granada",
+    "whatToDo": "Peça uma fatia de cassata ou um cucurucho de sorvete e coma a caminho da catedral.",
+    "kingTip": "Abre de março a outubro; em julho fica lotada à tarde, então vá no fim da manhã.",
+    "priceLevel": "€",
+    "hours": {
+      "openDays": "Todos os dias",
+      "openHour": "10:00",
+      "closeHour": "01:00",
+      "note": "Temporada de março a outubro; horário estendido nas noites de verão."
+    },
+    "links": [
+      {
+        "label": "Site oficial",
+        "url": "https://www.lositalianos.es"
+      }
+    ],
+    "history": "Fundada em 1936 por uma família de imigrantes italianos, tornou-se uma das heladerías mais queridas de Granada."
+  },
+  {
+    "id": "rnd_confiteria_daver",
+    "categoryId": "cafe",
+    "city": "ronda",
+    "name": "Confitería Daver",
+    "tagline": "Yemas del Tajo e doçaria típica de Ronda",
+    "description": "Confeitaria e pastelaria tradicional de Ronda, referência nas yemas del Tajo, docinhos de gema e açúcar típicos da cidade. Vitrines com doces artesanais, folhados e bolos que atravessaram gerações da serrania. Parada certa para provar e levar a doçaria local.",
+    "lat": 36.74232,
+    "lng": -5.16536,
+    "durationLabel": "15–30 min",
+    "fit": "ANY",
+    "mapQuery": "Confitería Daver, Calle Virgen de los Remedios 6, Ronda",
+    "whatToDo": "Prove as yemas del Tajo no balcão e leve uma caixinha como lembrança doce da serrania.",
+    "kingTip": "As yemas viajam bem fechadas; peça a embalagem para presente antes de seguir viagem.",
+    "priceLevel": "€",
+    "links": [
+      {
+        "label": "Site oficial",
+        "url": "https://confiteriadaver.es"
+      }
+    ]
+  },
+  {
+    "id": "ant_la_antequerana",
+    "categoryId": "cafe",
+    "city": "antequera",
+    "name": "Cafetería-Obrador La Antequerana",
+    "tagline": "Mantecados e bienmesabe no obrador local",
+    "description": "Cafeteria e obrador histórico no centro de Antequera, especializado na doçaria artesanal da cidade feita de modo tradicional. Vitrines com mantecados, polvorones e o célebre bienmesabe antequerano, além de café para acompanhar. Parada ideal para provar os doces típicos na origem.",
+    "lat": 37.021,
+    "lng": -4.56156,
+    "durationLabel": "20–40 min",
+    "fit": "ANY",
+    "mapQuery": "La Antequerana, Calle Merecillas 16, Antequera",
+    "whatToDo": "Peça um café com uma porção de bienmesabe e leve uma caixa de mantecados artesanais.",
+    "kingTip": "O bienmesabe local não é o do sul: aqui é um doce de amêndoa e abóbora; peça para provar antes de comprar.",
+    "priceLevel": "€",
+    "hours": {
+      "openDays": "Todos os dias",
+      "openHour": "08:30",
+      "closeHour": "21:00",
+      "note": "Fecha à tarde entre turnos nos dias de semana; fins de semana horário contínuo."
+    }
+  },
+  {
+    "id": "cor_the_coffee_club",
+    "categoryId": "cafe",
+    "city": "cordoba",
+    "name": "The Coffee Club",
+    "tagline": "Café de especialidade no coração da Judería",
+    "description": "Pequena cafeteria de especialidade no coração da Judería de Córdoba, a poucos passos da Mesquita-Catedral. Trabalha com café 100% arábica de torra artesanal andaluza, além de matcha, smoothies e bolos caseiros. Espaço enxuto, voltado sobretudo ao café para viagem enquanto se explora o bairro antigo.",
+    "lat": 37.8806,
+    "lng": -4.78032,
+    "durationLabel": "15–30 min",
+    "fit": "ANY",
+    "mapQuery": "The Coffee Club, Calle Céspedes 2, Córdoba",
+    "whatToDo": "Peça um flat white de torra andaluza e um brownie morno para levar rumo à Mesquita-Catedral.",
+    "kingTip": "Poucos lugares para sentar; pegue o café para viagem e beba passeando pelas ruelas da Judería.",
+    "priceLevel": "€€"
+  },
+  {
+    "id": "mrb_kafein_coffee",
+    "categoryId": "cafe",
+    "city": "marbella",
+    "name": "Kafein Coffee & Kitchen",
+    "tagline": "Café e croissants no casco antiguo",
+    "description": "Cafeteria acolhedora nas ruelas do casco antiguo de Marbella, de gestão italiana e muito bem avaliada. Café de qualidade, croissants espetaculares e bolos sempre frescos, com bom brunch de ingredientes selecionados. Refúgio charmoso entre as fachadas caiadas do centro histórico.",
+    "lat": 36.50981,
+    "lng": -4.88613,
+    "durationLabel": "30–45 min",
+    "fit": "ANY",
+    "mapQuery": "Kafein Coffee & Kitchen, Calle Pedraza 3, Marbella",
+    "whatToDo": "Peça um cappuccino com um croissant recheado e sente-se na ruela do casco antiguo para ver o vaivém.",
+    "kingTip": "É pequena e concorrida; chegue cedo de manhã para garantir uma das poucas mesas na rua.",
+    "priceLevel": "€€"
+  },
+  {
+    "id": "mlg_mercado_salamanca",
+    "categoryId": "compras",
+    "city": "malaga",
+    "name": "Mercado de Salamanca",
+    "tagline": "Mercado neoárabe de 1925 no Molinillo",
+    "description": "Segundo mercado mais visitado de Málaga, ergue-se num edifício neoárabe de tijolo declarado Bem de Interesse Cultural, longe do burburinho turístico de Atarazanas. As bancas guardam o ritmo de bairro: peixe da lota, frutas da vega, azeitonas, queijos e especiarias entre vizinhos que fazem a compra do dia. Uma janela autêntica sobre o comércio de mesa malaguenho.",
+    "lat": 36.7274,
+    "lng": -4.4231,
+    "durationLabel": "30–45 min",
+    "fit": "INDOOR",
+    "mapQuery": "Mercado de Salamanca, Calle San Bartolomé, Málaga",
+    "whatToDo": "Percorra as bancas de peixe e frutas e prove azeitonas aliñadas e queijos de cabra da serra malaguenha.",
+    "kingTip": "Vá pela manhã, entre 9h e 13h; aos domingos fecha e o movimento local é mais genuíno em dias de semana.",
+    "priceLevel": "€€",
+    "hours": {
+      "openDays": "Seg–Sáb",
+      "openHour": "08:00",
+      "closeHour": "15:00",
+      "note": "Domingos fechado."
+    },
+    "links": [
+      {
+        "label": "Mercados de Málaga",
+        "url": "https://mercados.malagacomercio.es/mercados/mercado-de-salamanca/"
+      }
+    ],
+    "history": "Projetado pelo arquiteto Daniel Rubio Sánchez e construído entre 1922 e 1925, no bairro do Molinillo."
+  },
+  {
+    "id": "mlg_mercado_merced",
+    "categoryId": "compras",
+    "city": "malaga",
+    "name": "Mercado de la Merced",
+    "tagline": "Mercado gourmet ao lado da casa de Picasso",
+    "description": "A poucos passos da praça onde nasceu Picasso, este mercado foi reconvertido em 2015 num espaço gastronômico coberto com cerca de vinte bancas. Ostras, presunto ibérico, sushi, queijos, doces e vinhos convivem em balcões de degustação onde se compra e se prova no mesmo gesto. Um ponto de encontro descontraído no coração do centro histórico.",
+    "lat": 36.7245,
+    "lng": -4.4178,
+    "durationLabel": "45 min–1 h",
+    "fit": "INDOOR",
+    "mapQuery": "Mercado de la Merced, Calle Merced 1, Málaga",
+    "whatToDo": "Monte um percurso de bancas: uma dúzia de ostras num balcão, presunto cortado à faca noutro e uma taça de vinho de Ronda para fechar.",
+    "kingTip": "Ao contrário dos mercados tradicionais, funciona até à noite, com ambiente animado a partir do fim da tarde.",
+    "priceLevel": "€€",
+    "hours": {
+      "openDays": "Seg–Sáb",
+      "openHour": "08:00",
+      "closeHour": "24:00",
+      "note": "Bancas gastronômicas prolongam-se até tarde; domingos com horário reduzido."
+    },
+    "links": [
+      {
+        "label": "Mercados de Málaga",
+        "url": "https://mercados.malagacomercio.es/mercados/mercado-de-la-merced/"
+      }
+    ]
+  },
+  {
+    "id": "mlg_libreria_luces",
+    "categoryId": "compras",
+    "city": "malaga",
+    "name": "Librería Luces",
+    "tagline": "Livraria independente na Alameda Principal",
+    "description": "Referência cultural de Málaga desde 2003, ocupa um belo espaço na Alameda Principal com um catálogo vastíssimo e forte presença de literatura, ensaio e edições sobre Andaluzia. É palco frequente de apresentações e sessões de autógrafos, um lugar caro aos leitores da cidade. Ótima parada para um livro sobre o sul da Espanha ou uma edição ilustrada de recordação.",
+    "lat": 36.7178,
+    "lng": -4.4231,
+    "durationLabel": "20–40 min",
+    "fit": "ANY",
+    "mapQuery": "Librería Luces, Alameda Principal 16, Málaga",
+    "whatToDo": "Procure a seção de temas andaluzes e guias locais; peça uma recomendação de literatura espanhola contemporânea traduzida.",
+    "kingTip": "Fica na Alameda, a caminho do porto e de Soho; combine com um passeio pelos murais do bairro das artes.",
+    "priceLevel": "€€",
+    "hours": {
+      "openDays": "Seg–Sáb",
+      "openHour": "10:00",
+      "closeHour": "21:00",
+      "note": "Domingos fechado."
+    },
+    "links": [
+      {
+        "label": "Site oficial",
+        "url": "https://www.librerialuces.com/"
+      }
+    ]
+  },
+  {
+    "id": "mlg_la_mallorquina",
+    "categoryId": "compras",
+    "city": "malaga",
+    "name": "La Mallorquina",
+    "tagline": "Ultramarinos histórico de frutos secos",
+    "description": "Ancorada na Plaza de Félix Sáenz há gerações, é uma das casas de ultramarinos mais queridas de Málaga, com fachada clássica e balcões repletos de frutos secos, especiarias, conservas, doces e vinhos. O aroma de amêndoas torradas e o atendimento à moda antiga fazem parte da experiência. Ideal para levar produtos andaluzes de qualidade para casa.",
+    "lat": 36.7192,
+    "lng": -4.4233,
+    "durationLabel": "20–30 min",
+    "fit": "ANY",
+    "mapQuery": "La Mallorquina, Plaza de Félix Sáenz 7, Málaga",
+    "whatToDo": "Compre amêndoas marcona, pimentão doce (pimentón), açafrão e um doce local para presente.",
+    "kingTip": "Peça para embalar os frutos secos a vácuo; viajam melhor e mantêm o frescor até o Brasil.",
+    "priceLevel": "€€",
+    "hours": {
+      "openDays": "Seg–Sáb",
+      "openHour": "09:30",
+      "closeHour": "20:30",
+      "note": "Domingos fechado; pausa ao meio-dia possível fora da temporada alta."
+    }
+  },
+  {
+    "id": "grn_ceramica_fajalauza",
+    "categoryId": "compras",
+    "city": "granada",
+    "name": "Cerámica Fajalauza",
+    "tagline": "Cerâmica granadina desde 1517 no Albaicín",
+    "description": "No alto do Albaicín, junto à antiga Porta de Fajalauza, sobrevive a olaria que dá nome à cerâmica mais tradicional de Granada, com raízes que remontam a 1517. O barro vidriado em branco decorado a azul e verde, com romãs e pássaros, é assinatura da casa da família Morales. Loja e fábrica onde se compra direto da fonte.",
+    "lat": 37.1866,
+    "lng": -3.5933,
+    "durationLabel": "30–45 min",
+    "fit": "ANY",
+    "mapQuery": "Cerámica Fajalauza, Carretera de Murcia 166, Granada",
+    "whatToDo": "Escolha pratos e tigelas com o clássico decoro azul e verde; peça peças com o motivo da romã, símbolo de Granada.",
+    "kingTip": "Fica na parte alta do Albaicín; combine com o passeio até o Mirador de San Nicolás e leve peças menores, mais fáceis de transportar.",
+    "priceLevel": "€€",
+    "hours": {
+      "openDays": "Seg–Sex",
+      "openHour": "09:00",
+      "closeHour": "18:00",
+      "note": "Confirme horário de sábado por telefone; domingos fechado."
+    },
+    "links": [
+      {
+        "label": "Site oficial",
+        "url": "https://fajalauza.es/"
+      }
+    ],
+    "history": "Tradição oleira ligada à família Morales desde o início do século XVI, no bairro do Albaicín."
+  },
+  {
+    "id": "grn_mercado_san_agustin",
+    "categoryId": "compras",
+    "city": "granada",
+    "name": "Mercado de San Agustín",
+    "tagline": "Mercado gourmet de 1881 junto à catedral",
+    "description": "Único mercado de abastecimento no centro histórico de Granada, funciona desde 1881 a poucos metros da catedral e da Gran Vía. Reúne mais de vinte estabelecimentos com peixe, carne, frutas e uma seção gourmet de ostras, presuntos, queijos, azeites e vinhos, com mesas para degustar como tapas. Compra tradicional e prova de qualidade sob o mesmo teto.",
+    "lat": 37.1778,
+    "lng": -3.5994,
+    "durationLabel": "40 min–1 h",
+    "fit": "INDOOR",
+    "mapQuery": "Mercado de San Agustín, Plaza de San Agustín 2, Granada",
+    "whatToDo": "Compre presunto e queijo nas bancas e sente-se num balcão gourmet para provar ostras ou uma tábua com vinho da terra.",
+    "kingTip": "A zona gourmet fica animada ao almoço; para a compra de mercado, chegue de manhã, quando o peixe está mais fresco.",
+    "priceLevel": "€€",
+    "hours": {
+      "openDays": "Seg–Sáb",
+      "openHour": "09:00",
+      "closeHour": "15:00",
+      "note": "A seção gourmet estende-se à tarde e à noite; bancas de fresco fecham ao início da tarde."
+    }
+  },
+  {
+    "id": "grn_casa_ferrer",
+    "categoryId": "compras",
+    "city": "granada",
+    "name": "Guitarrería Casa Ferrer",
+    "tagline": "Luthier de guitarras desde 1875",
+    "description": "Na emblemática Cuesta de Gomérez, a subida que leva à Alhambra, esta oficina de luthiers soma quatro gerações e cerca de século e meio de ofício. Constrói à mão guitarras clássicas e flamencas, de estudo a instrumentos de concerto, num aroma de madeira e verniz que é história viva de Granada. Visita imperdível para amantes de música e artesanato fino.",
+    "lat": 37.1759,
+    "lng": -3.5944,
+    "durationLabel": "20–40 min",
+    "fit": "ANY",
+    "mapQuery": "Guitarrería Casa Ferrer, Cuesta de Gomérez 26, Granada",
+    "whatToDo": "Observe o ateliê de construção e experimente uma guitarra flamenca; peça para conhecer as diferenças entre madeiras.",
+    "kingTip": "Fica no caminho a pé até a Alhambra; passe na ida, quando a loja está mais tranquila. Sábados costuma fechar.",
+    "priceLevel": "€€€",
+    "hours": {
+      "openDays": "Seg–Sex",
+      "openHour": "10:00",
+      "closeHour": "20:00",
+      "note": "Pausa aproximada das 13h30 às 17h; sábados fechado."
+    },
+    "links": [
+      {
+        "label": "Site oficial",
+        "url": "https://guitarreriacasaferrer.com/"
+      }
+    ]
+  },
+  {
+    "id": "grn_bib_rambla_flores",
+    "categoryId": "compras",
+    "city": "granada",
+    "name": "Flores de Bib-Rambla",
+    "tagline": "Bancas de flores na praça mais alegre",
+    "description": "A Plaza Bib-Rambla, no coração de Granada, foi por gerações conhecida como Praça das Flores pelos quiosques que a coloriam. Ainda hoje, entre cafés e a fonte dos Gigantones, resistem bancas de flores e postos de artesanato e recordações. Um dos recantos mais fotogênicos da cidade para uma pausa e uma compra despretensiosa.",
+    "lat": 37.1752,
+    "lng": -3.5998,
+    "durationLabel": "15–30 min",
+    "fit": "ANY",
+    "mapQuery": "Plaza Bib-Rambla, Granada",
+    "whatToDo": "Compre um ramo de flores nas bancas históricas ou artesanato local nos quiosques e faça uma pausa num café da praça.",
+    "kingTip": "Fica coladinha à Alcaicería e à catedral; encadeie as três num só passeio de compras pelo centro.",
+    "priceLevel": "€"
+  },
+  {
+    "id": "grn_laguna_taracea",
+    "categoryId": "compras",
+    "city": "granada",
+    "name": "Laguna Taller de Taracea",
+    "tagline": "Marchetaria nazari desde 1877",
+    "description": "Dentro do recinto da Alhambra, na Calle Real, esta oficina familiar mantém desde 1877 a arte da taracea, a marchetaria de origem árabe que embute madeiras nobres, osso e madrepérola em padrões geométricos. Produz desde porta-copos e caixas a mesas e tabuleiros de xadrez, tudo feito à mão. Uma das compras mais autênticas e duradouras de Granada.",
+    "lat": 37.176,
+    "lng": -3.5889,
+    "durationLabel": "20–40 min",
+    "fit": "ANY",
+    "mapQuery": "Laguna Taller de Taracea, Calle Real de la Alhambra 30, Granada",
+    "whatToDo": "Veja a demonstração da marchetaria e escolha uma caixa ou tabuleiro embutido; peça para diferenciar a taracea artesanal da industrial.",
+    "kingTip": "Está dentro da Alhambra, então aproveite a visita ao monumento para passar; peças pequenas viajam bem na bagagem de mão.",
+    "priceLevel": "€€€",
+    "hours": {
+      "openDays": "Todos os dias",
+      "openHour": "10:00",
+      "closeHour": "19:00",
+      "note": "Acompanha o horário de visitação da Alhambra."
+    },
+    "links": [
+      {
+        "label": "Site oficial",
+        "url": "https://www.lagunataracea.com/"
+      }
+    ],
+    "history": "Oficina de taracea em funcionamento contínuo desde 1877, herdeira da tradição nazari granadina."
+  },
+  {
+    "id": "mrb_la_canada",
+    "categoryId": "compras",
+    "city": "marbella",
+    "name": "La Cañada Shopping",
+    "tagline": "Maior centro comercial da Costa del Sol",
+    "description": "Aos pés da estrada de Ojén, é o grande centro comercial de Marbella, com arquitetura moderna, mais de uma centena de lojas, restauração, cinema e hipermercado. Reúne moda, esporte, tecnologia, decoração e beleza num só lugar climatizado, alternativa prática às boutiques da Milla de Oro. Ideal para compras variadas e para um dia de calor ou chuva.",
+    "lat": 36.522,
+    "lng": -4.874,
+    "durationLabel": "1–2 h",
+    "fit": "INDOOR",
+    "mapQuery": "Centro Comercial La Cañada, Carretera de Ojén, Marbella",
+    "whatToDo": "Circule pelas lojas de moda e complementos, faça compras no hipermercado Alcampo e reserve tempo para o cinema ou a praça de alimentação.",
+    "kingTip": "Costuma fechar aos domingos, exceto em datas especiais e no verão; planeje as compras para dias de semana ou sábado.",
+    "priceLevel": "€€",
+    "hours": {
+      "openDays": "Seg–Sáb",
+      "openHour": "10:00",
+      "closeHour": "22:00",
+      "note": "Domingos fechado, salvo aberturas especiais (Natal, verão)."
+    },
+    "links": [
+      {
+        "label": "Site oficial",
+        "url": "https://lacanadashopping.com/"
+      }
+    ]
+  },
+  {
+    "id": "cor_zoco_artesania",
+    "categoryId": "compras",
+    "city": "cordoba",
+    "name": "Zoco Municipal de la Artesanía",
+    "tagline": "Pátio de oficinas artesanais na Judería",
+    "description": "No coração da Judería, a passos da Mesquita-Catedral, este zoco ocupa uma casa senhorial de pátio típico cordovês onde trabalham artesãos de prata, couro, cerâmica e joalheria. Além de comprar direto de quem produz, é possível ver os ofícios em atividade nas oficinas ao redor do pátio. Vitrine viva do artesanato cordovês.",
+    "lat": 37.8796,
+    "lng": -4.7831,
+    "durationLabel": "30–45 min",
+    "fit": "ANY",
+    "mapQuery": "Zoco Municipal de la Artesanía, Calle Judíos, Córdoba",
+    "whatToDo": "Percorra as oficinas do pátio e compre uma peça de prata cordovesa ou de couro trabalhado direto do artesão.",
+    "kingTip": "Tem entradas pela Calle Judíos e pela Calle Averroes; entre pela primeira, junto à Sinagoga, e combine com a Calleja de las Flores.",
+    "priceLevel": "€€",
+    "hours": {
+      "openDays": "Todos os dias",
+      "openHour": "10:00",
+      "closeHour": "20:00",
+      "note": "Horário pode reduzir no verão pelo calor da tarde."
+    }
+  },
+  {
+    "id": "cor_meryan",
+    "categoryId": "compras",
+    "city": "cordoba",
+    "name": "Meryan",
+    "tagline": "Couro cordovão e guadamecí desde 1958",
+    "description": "Na pitoresca Calleja de las Flores, esta oficina familiar preserva desde 1958 as técnicas dos célebres Couros de Córdoba: o cordovão e o guadamecí, couro repuxado, gravado a faca e decorado à mão, por vezes com folha de prata. Do painel decorativo a bolsas, baús e pequenos objetos, cada peça é única. Um dos ofícios mais nobres e antigos da cidade.",
+    "lat": 37.8804,
+    "lng": -4.7796,
+    "durationLabel": "30–45 min",
+    "fit": "ANY",
+    "mapQuery": "Meryan, Calleja de las Flores 2, Córdoba",
+    "whatToDo": "Desça ao taller para ver o couro sendo repuxado e gravado, e escolha uma peça de guadamecí ou um objeto menor de cordovão.",
+    "kingTip": "Fica na fotogênica Calleja de las Flores, com a torre da Mesquita ao fundo; chegue cedo para evitar o aperto de visitantes.",
+    "priceLevel": "€€€",
+    "hours": {
+      "openDays": "Seg–Sáb",
+      "openHour": "10:00",
+      "closeHour": "20:00",
+      "note": "Pausa possível ao meio-dia; domingos com horário reduzido."
+    },
+    "links": [
+      {
+        "label": "Site oficial",
+        "url": "https://meryancor.com/"
+      }
+    ],
+    "history": "Fundada em 1958 por Ángel López-Obrero e Mercedes Miarons, dedicada às técnicas históricas dos Couros de Córdoba."
+  },
+  {
+    "id": "rnd_bodega_la_sangre",
+    "categoryId": "compras",
+    "city": "ronda",
+    "name": "Antigua Bodega La Sangre",
+    "tagline": "Vinhos da DO Ronda junto a Santa María",
+    "description": "No centro histórico de Ronda, ao lado da igreja de Santa María la Mayor, este espaço reúne e comercializa vinhos da jovem e premiada Denominação de Origem Ronda, cravada na serra a mais de 700 metros de altitude. Além de comprar garrafas de pequenas bodegas locais, é possível provar tintos e brancos da região. Compra ideal para quem quer levar o vinho da serrania para casa.",
+    "lat": 36.7377,
+    "lng": -5.1645,
+    "durationLabel": "30–45 min",
+    "fit": "ANY",
+    "mapQuery": "Antigua Bodega La Sangre, Calle Gómez 2, Ronda",
+    "whatToDo": "Prove uma seleção de tintos da DO Ronda e leve garrafas de produtores pequenos que raramente chegam ao Brasil.",
+    "kingTip": "Fica coladinha à Plaza Duquesa de Parcent e à igreja de Santa María; combine a compra com a visita ao centro monumental.",
+    "priceLevel": "€€",
+    "links": [
+      {
+        "label": "Site oficial",
+        "url": "https://bodegaronda.com/"
+      }
+    ]
+  },
+  {
+    "id": "mlg_revello_de_toro",
+    "categoryId": "cultura",
+    "city": "malaga",
+    "name": "Museo Revello de Toro",
+    "tagline": "Retratos na casa do escultor Pedro de Mena",
+    "description": "Reúne mais de cem obras do pintor malaguenho Félix Revello de Toro, mestre do retrato e da figura feminina, com desenhos e estudos preparatórios. O museu ocupa a casa-oficina onde viveu no século XVII o grande escultor barroco Pedro de Mena. Pequeno, luminoso e climatizado, é uma pausa serena a poucos passos do Museo Picasso.",
+    "whatToDo": [
+      "Acompanhe a evolução do retrato, dos esboços às telas finais",
+      "Observe os vestígios da antiga casa de Pedro de Mena",
+      "Combine com o Museo Picasso, que fica ao lado"
+    ],
+    "kingTip": "Fica a dois minutos do Museo Picasso; encaixe os dois no mesmo período para fugir do sol do meio-dia.",
+    "priceLevel": "~€4 (est.)",
+    "lat": 36.720336,
+    "lng": -4.418324,
+    "durationLabel": "45min–1h",
+    "fit": "INDOOR",
+    "hours": {
+      "openDays": "Ter–Sáb; Dom e feriados 10h–14h",
+      "openHour": 10,
+      "closeHour": 20,
+      "note": "Terça a sábado 10h–20h; domingos e feriados 10h–14h. Fecha às segundas."
+    },
+    "mapQuery": "Museo Revello de Toro, Calle Afligidos 5, Málaga",
+    "links": [
+      {
+        "label": "Site oficial",
+        "url": "https://www.museorevellodetoro.net/"
+      }
+    ]
+  },
+  {
+    "id": "mlg_vidrio_y_cristal",
+    "categoryId": "cultura",
+    "city": "malaga",
+    "name": "Museo del Vidrio y Cristal",
+    "tagline": "Vidro e cristal num casarão do século XVIII",
+    "description": "Coleção privada de cerca de três mil peças de vidro e cristal de várias épocas e culturas, exibida em ambientes decorados com móveis, pinturas e vitrais. Ocupa um casarão restaurado de 1761 no bairro de San Felipe Neri, longe do burburinho turístico. A visita é sempre guiada e revela também a história doméstica da casa.",
+    "whatToDo": [
+      "Faça a visita guiada, incluída no ingresso, pelos salões ambientados",
+      "Repare nos vitrais e na coleção de vidro romano e fenício",
+      "Aprecie a fachada barroca e a placeta diante da igreja de San Felipe Neri"
+    ],
+    "kingTip": "As visitas são guiadas e com horário; ligue ou confira o site no mesmo dia para garantir o próximo turno.",
+    "priceLevel": "~€6 (est.)",
+    "lat": 36.725706,
+    "lng": -4.421487,
+    "durationLabel": "1h–1h15",
+    "fit": "INDOOR",
+    "hours": {
+      "openDays": "Ter–Dom",
+      "openHour": 11,
+      "closeHour": 19,
+      "note": "Terça a domingo 11h–19h. Acesso apenas por visita guiada (aprox. 1h). Fecha às segundas."
+    },
+    "mapQuery": "Museo del Vidrio y Cristal, Plazuela Santísimo Cristo de la Sangre 2, Málaga",
+    "links": [
+      {
+        "label": "Site oficial",
+        "url": "https://www.museovidrioycristalmalaga.com/"
+      }
+    ]
+  },
+  {
+    "id": "mlg_museo_jorge_rando",
+    "categoryId": "cultura",
+    "city": "malaga",
+    "name": "Museo Jorge Rando",
+    "tagline": "Expressionismo intenso, entrada gratuita",
+    "description": "Primeiro museu da Espanha dedicado ao expressionismo, centrado na obra vigorosa do pintor e escultor malaguenho Jorge Rando, com mostras temporárias de outros artistas do movimento. Ocupa um edifício claro e amplo no bairro do Molinillo, com ateliê visível. A entrada e as visitas guiadas são gratuitas.",
+    "whatToDo": [
+      "Percorra as grandes telas expressionistas de Jorge Rando",
+      "Veja a mostra temporária, que costuma trazer nomes internacionais",
+      "Aproveite a visita guiada gratuita, se houver turno disponível"
+    ],
+    "kingTip": "Entrada sempre gratuita. Fecha aos domingos e faz pausa ao meio-dia no inverno; vá pela manhã ou no fim da tarde.",
+    "priceLevel": "Grátis",
+    "lat": 36.726725,
+    "lng": -4.423693,
+    "durationLabel": "45min–1h",
+    "fit": "INDOOR",
+    "hours": {
+      "openDays": "Seg–Sáb (fecha Dom)",
+      "openHour": 10,
+      "closeHour": 20,
+      "note": "Seg a sex 10h–14h e 16h–20h (verão 17h–21h); sáb 10h–14h. Fecha aos domingos."
+    },
+    "mapQuery": "Museo Jorge Rando, Calle Cruz del Molinillo 12, Málaga",
+    "links": [
+      {
+        "label": "Site oficial",
+        "url": "https://www.museojorgerando.org/"
+      }
+    ]
+  },
+  {
+    "id": "grn_centro_garcia_lorca",
+    "categoryId": "cultura",
+    "city": "granada",
+    "name": "Centro Federico García Lorca",
+    "tagline": "O legado vivo de Federico García Lorca",
+    "description": "Instituição cultural moderna que guarda o legado literário do poeta granadino, com manuscritos, desenhos e cartas do arquivo da família. O edifício contemporâneo, na Plaza de la Romanilla junto à Catedral, abriga exposições, biblioteca e auditório. Um contraponto sereno e climatizado à Granada monumental.",
+    "whatToDo": [
+      "Veja as exposições sobre a vida e a obra de Lorca",
+      "Confira a programação de recitais e atividades no auditório",
+      "Descanse na praça diante da Catedral ao sair"
+    ],
+    "kingTip": "As exposições costumam ter entrada gratuita. Fica coladinho à Catedral, ótimo para intercalar com o centro.",
+    "priceLevel": "Grátis (exposições)",
+    "lat": 37.176634,
+    "lng": -3.600694,
+    "durationLabel": "45min–1h",
+    "fit": "INDOOR",
+    "hours": {
+      "openDays": "Ter–Dom (fecha Seg)",
+      "openHour": 11,
+      "closeHour": 20,
+      "note": "Ter a sáb 11h–14h e 17h/18h–20h/21h; dom e feriados 11h–14h. Fecha às segundas."
+    },
+    "mapQuery": "Centro Federico García Lorca, Plaza de la Romanilla, Granada",
+    "links": [
+      {
+        "label": "Site oficial",
+        "url": "https://www.centrofedericogarcialorca.es/"
+      }
+    ]
+  },
+  {
+    "id": "grn_corral_del_carbon",
+    "categoryId": "cultura",
+    "city": "granada",
+    "name": "Corral del Carbón",
+    "tagline": "A única alhóndiga nazari da Península",
+    "description": "Antiga alhóndiga (albergue e armazém de mercadores) construída por volta de 1336, é a única de origem nazari conservada íntegra na Península Ibérica. Impressiona pela portada em arco de ferradura e pelo pátio de três andares de galerias em torno de uma fonte. Visita rápida e gratuita, no coração comercial de Granada.",
+    "whatToDo": [
+      "Entre pelo grande arco de ferradura decorado com laçarias",
+      "Contemple o pátio sombreado com suas galerias de tijolo",
+      "Siga para a vizinha Alcaicería e a Catedral"
+    ],
+    "kingTip": "Entrada gratuita e visita de dez minutos. O pátio é sombreado, ideal para uma pausa no calor entre as compras da Alcaicería.",
+    "priceLevel": "Grátis",
+    "lat": 37.17451,
+    "lng": -3.59869,
+    "durationLabel": "15–20min",
+    "fit": "ANY",
+    "hours": {
+      "openDays": "Todos os dias",
+      "openHour": 9,
+      "closeHour": 19,
+      "note": "Seg a sex 9h–19h; sáb e dom 10h–14h. Entrada gratuita."
+    },
+    "mapQuery": "Corral del Carbón, Calle Mariana Pineda, Granada",
+    "history": "Erguido no reinado de Yusuf I, servia de hospedaria e armazém para comerciantes. Após a conquista cristã foi teatro de comédias e, mais tarde, depósito de carvão, daí o nome atual.",
+    "links": [
+      {
+        "label": "Turismo de Granada",
+        "url": "https://turismo.granada.org/es/corral-del-carbon"
+      }
+    ]
+  },
+  {
+    "id": "grn_palacio_madraza",
+    "categoryId": "cultura",
+    "city": "granada",
+    "name": "Palacio de la Madraza",
+    "tagline": "A 1ª universidade nazari e seu oratório dourado",
+    "description": "Fundada por Yusuf I em 1349 como escola corânica, foi a primeira universidade de Granada, hoje sede cultural da Universidade. Conserva um deslumbrante oratório nazari com mihrab de estuques dourados e policromados, sob uma fachada barroca posterior. Fica na Calle Oficios, de frente para a Capilla Real.",
+    "whatToDo": [
+      "Admire o oratório nazari com o mihrab de estuques dourados",
+      "Veja o salão de colunas e as exposições temporárias da Universidade",
+      "Atravesse até a Capilla Real e a Catedral, em frente"
+    ],
+    "kingTip": "Fecha em agosto, aos domingos e feriados; em julho, visite de manhã. A entrada costuma ser simbólica.",
+    "priceLevel": "~€2 (est.)",
+    "lat": 37.17632,
+    "lng": -3.59866,
+    "durationLabel": "30–45min",
+    "fit": "INDOOR",
+    "hours": {
+      "openDays": "Seg–Sex; Sáb com exposição",
+      "openHour": 9,
+      "closeHour": 21,
+      "note": "Seg a sex 9h–21h; sáb 11h–14h e 17h30–20h30 apenas com exposição. Fecha domingos, feriados e todo o mês de agosto."
+    },
+    "mapQuery": "Palacio de la Madraza, Calle Oficios 14, Granada",
+    "links": [
+      {
+        "label": "Site oficial (La Madraza – UGR)",
+        "url": "https://lamadraza.ugr.es/"
+      }
+    ]
+  },
+  {
+    "id": "crd_sinagoga",
+    "categoryId": "cultura",
+    "city": "cordoba",
+    "name": "Sinagoga de Córdoba",
+    "tagline": "Rara sinagoga medieval no bairro judeu",
+    "description": "Pequena sinagoga mudéjar de 1315, uma das únicas três sinagogas medievais conservadas na Espanha e a única da Andaluzia. Encanta pelos estuques finíssimos com atauriques e inscrições hebraicas na sala de oração. Fica no coração da Judería, a poucos passos da Mezquita.",
+    "whatToDo": [
+      "Observe os estuques mudéjares e as inscrições hebraicas nas paredes",
+      "Localize a galeria alta reservada às mulheres",
+      "Perca-se depois pelas vielas caiadas da Judería"
+    ],
+    "kingTip": "Entrada gratuita e visita curta. Combine com a Mezquita e a Calleja de las Flores, tudo à sombra das ruas estreitas.",
+    "priceLevel": "Grátis",
+    "lat": 37.87981,
+    "lng": -4.78338,
+    "durationLabel": "15–20min",
+    "fit": "INDOOR",
+    "hours": {
+      "openDays": "Ter–Dom (fecha Seg)",
+      "openHour": 9,
+      "closeHour": 15,
+      "note": "Terça a domingo 9h–15h. Fecha às segundas (salvo feriados). Entrada gratuita."
+    },
+    "mapQuery": "Sinagoga de Córdoba, Calle Judíos 20, Córdoba",
+    "links": [
+      {
+        "label": "Enclave Monumental (Junta de Andalucía)",
+        "url": "https://www.juntadeandalucia.es/cultura/enclaves/enclave-monumental-sinagoga-de-cordoba"
+      }
+    ]
+  },
+  {
+    "id": "crd_templo_romano",
+    "categoryId": "cultura",
+    "city": "cordoba",
+    "name": "Templo Romano",
+    "tagline": "Colunas de um templo romano do século I",
+    "description": "Conjunto de altas colunas coríntias que reconstroem um templo romano do século I, ligado ao fórum provincial da Córdoba imperial, ao lado da Câmara Municipal. Reaberto após restauro, pode ser visitado por dentro em visitas guiadas gratuitas. É um marco arqueológico surpreendente no centro moderno.",
+    "whatToDo": [
+      "Suba pela plataforma até a base das colunas na visita guiada",
+      "Entenda a relação do templo com o fórum romano de Corduba",
+      "Fotografe o conjunto iluminado ao entardecer"
+    ],
+    "kingTip": "É um recinto a céu aberto e sem sombra: reserve o primeiro turno da manhã (10h/11h) para evitar o sol forte de julho. Visitas guiadas gratuitas por ordem de chegada.",
+    "priceLevel": "Grátis",
+    "lat": 37.88458,
+    "lng": -4.77601,
+    "durationLabel": "30–45min",
+    "fit": "ANY",
+    "hours": {
+      "openDays": "Ter–Dom (fecha Seg)",
+      "openHour": 10,
+      "closeHour": 13,
+      "note": "Visitas guiadas gratuitas: ter–sex 10h/11h/12h; sáb, dom e feriados também às 13h. Fecha às segundas. Acesso pela Calle Claudio Marcelo."
+    },
+    "mapQuery": "Templo Romano, Calle Capitulares, Córdoba",
+    "links": [
+      {
+        "label": "Turismo de Córdoba",
+        "url": "https://www.turismodecordoba.org/templo-romano-de-cordoba"
+      }
+    ]
+  },
+  {
+    "id": "crd_bellas_artes",
+    "categoryId": "cultura",
+    "city": "cordoba",
+    "name": "Museo de Bellas Artes de Córdoba",
+    "tagline": "Pintura andaluza na Plaza del Potro cervantina",
+    "description": "Instalado no antigo Hospital de la Caridad, reúne pintura e escultura andaluzas do gótico ao século XX, com destaque para os mestres cordobeses. Abre-se para a pitoresca Plaza del Potro, citada por Cervantes no Quixote. Salas frescas e um pátio ajardinado tornam a visita agradável mesmo no calor.",
+    "whatToDo": [
+      "Percorra as salas de pintura barroca e dos pintores cordobeses",
+      "Descanse no pátio ajardinado do antigo hospital",
+      "Espie a Posada del Potro cervantina, na mesma praça"
+    ],
+    "kingTip": "Gratuito para cidadãos da UE (leve documento). O pátio e as salas são um refúgio fresco perto da Ribeira do Guadalquivir.",
+    "priceLevel": "Grátis (UE)",
+    "lat": 37.88125,
+    "lng": -4.77478,
+    "durationLabel": "45min–1h",
+    "fit": "INDOOR",
+    "hours": {
+      "openDays": "Ter–Dom (fecha Seg)",
+      "openHour": 9,
+      "closeHour": 21,
+      "note": "Inverno: ter–sáb 9h–21h, dom e feriados 9h–15h. Verão (16/jun–15/set): ter–dom 9h–15h. Fecha às segundas."
+    },
+    "mapQuery": "Museo de Bellas Artes de Córdoba, Plaza del Potro 1, Córdoba",
+    "links": [
+      {
+        "label": "Site oficial (Museos de Andalucía)",
+        "url": "https://www.museosdeandalucia.es/web/museodebellasartesdecordoba"
+      }
+    ]
+  },
+  {
+    "id": "ant_museo_ciudad_najera",
+    "categoryId": "cultura",
+    "city": "antequera",
+    "name": "Museo de la Ciudad de Antequera (MVCA)",
+    "tagline": "O Efebo romano no Palácio de Nájera",
+    "description": "Um dos museus municipais mais ricos da Andaluzia, percorre a história de Antequera da pré-história aos dias de hoje em cerca de vinte salas. Sua estrela é o Efebo de Antequera, bronze romano do século I considerado uma das mais belas peças antigas da Península. Ocupa o barroco Palácio de Nájera, do século XVIII.",
+    "whatToDo": [
+      "Admire o Efebo de Antequera, o bronze romano que dá fama ao museu",
+      "Suba à torre-mirante do palácio para ver a cidade",
+      "Passeie pelo pátio de colunas de mármore vermelho de El Torcal"
+    ],
+    "kingTip": "Combine com os dolmens de Antequera (Patrimônio Mundial) numa parada a caminho de Granada ou Córdoba. Fecha às segundas.",
+    "priceLevel": "~€3 (est.)",
+    "lat": 37.01626,
+    "lng": -4.55815,
+    "durationLabel": "1h–1h30",
+    "fit": "INDOOR",
+    "hours": {
+      "openDays": "Ter–Dom (fecha Seg)",
+      "openHour": 10,
+      "closeHour": 18,
+      "note": "Verão (14/jun–17/set): ter–dom 9h–14h. Inverno: ter–sex 10h–14h e 16h30–18h30, sáb 9h30–14h e 16h30–18h30, dom 9h30–14h. Fecha às segundas."
+    },
+    "mapQuery": "Museo de la Ciudad de Antequera, Plaza del Coso Viejo, Antequera",
+    "links": [
+      {
+        "label": "Site oficial",
+        "url": "https://museoantequera.es/"
+      }
+    ]
+  },
+  {
+    "id": "mrb_sollo",
+    "categoryId": "gastronomia",
+    "city": "marbella",
+    "name": "Sollo",
+    "tagline": "Estrela verde do chef do caviar",
+    "description": "Uma estrela Michelin e Estrela Verde do chef brasileiro-espanhol Diego Gallegos, o \"chef do caviar\", no resort Reserva del Higuerón, sobre a costa de Fuengirola. Alta cozinha sustentável de aquaponia: cerca de 90% dos ingredientes, incluindo peixes de água doce e caviar, são cultivados na própria casa. Menu-degustação Caminho, criativo e de raiz mediterrânea com sotaque sul-americano, servido com vista para o mar.",
+    "lat": 36.5796,
+    "lng": -4.5951,
+    "durationLabel": "jantar 2-3h",
+    "fit": "ANY",
+    "mapQuery": "Sollo Restaurante, Reserva del Higuerón, Avenida del Higuerón 48, Fuengirola",
+    "whatToDo": "Vá de menu-degustação completo; peça mesa junto às janelas para a costa e deixe a harmonização por conta da casa.",
+    "kingTip": "Prove o caviar de produção própria, a assinatura de Gallegos. Cozinha de destino com pouca capacidade: RESERVE COM MESES DE ANTECEDÊNCIA para julho.",
+    "priceLevel": "~€145/pessoa (est.)",
+    "hours": {
+      "openDays": "Ter-Sáb",
+      "openHour": "13:30",
+      "closeHour": "22:30",
+      "note": "Dias e temporada podem variar; confirme na reserva"
+    },
+    "links": [
+      {
+        "label": "Site oficial e reserva",
+        "url": "https://www.sollo.es/en/"
+      },
+      {
+        "label": "Guia Michelin",
+        "url": "https://guide.michelin.com/us/en/andalucia/fuengirola/restaurant/sollo"
+      }
+    ],
+    "history": "Diego Gallegos, nascido no Brasil e criado na Espanha, apostou na aquaponia e no caviar de esturjão para construir um dos projetos mais sustentáveis da Costa del Sol, distinguido também com a Estrela Verde Michelin."
+  },
+  {
+    "id": "mrb_kava",
+    "categoryId": "gastronomia",
+    "city": "marbella",
+    "name": "Kava",
+    "tagline": "Cinco mesas de alta cozinha pessoal",
+    "description": "Casa recomendada pela Michelin do chef Fernando Alcalá, junto ao centro de Marbella. Apenas cinco mesas para uma alta cozinha muito pessoal, que cruza o produto andaluz de proximidade com claras influências asiáticas. Menus-degustação Amatxo e Lord Fer, que evoluem com a estação.",
+    "lat": 36.5081,
+    "lng": -4.8875,
+    "durationLabel": "jantar 2-3h",
+    "fit": "ANY",
+    "mapQuery": "Kava, Avenida Antonio Belón 4, Marbella",
+    "whatToDo": "Escolha um dos dois menus-degustação; a sala minúscula favorece a conversa com o chef e a explicação prato a prato.",
+    "kingTip": "Só cinco mesas: das reservas mais difíceis de Marbella. Reserve com semanas a meses de antecedência para o verão.",
+    "priceLevel": "~€90/pessoa (est.)",
+    "hours": {
+      "openDays": "Ter-Sáb",
+      "openHour": "13:30",
+      "closeHour": "22:30",
+      "note": "Dias podem variar; confirme na reserva"
+    },
+    "links": [
+      {
+        "label": "Site oficial e reserva",
+        "url": "https://www.kavamarbella.com/"
+      },
+      {
+        "label": "Guia Michelin",
+        "url": "https://guide.michelin.com/us/en/andalucia/marbella/restaurant/kava"
+      }
+    ],
+    "history": "Aberto em 2015, Fernando Alcalá foi consolidando o Kava como um dos endereços de autor mais pessoais da cidade, com fusão andaluza e asiática."
+  },
+  {
+    "id": "mrb_bibo",
+    "categoryId": "gastronomia",
+    "city": "marbella",
+    "name": "BiBo Marbella by Dani García",
+    "tagline": "A brasserie andaluza descontraída de Dani García",
+    "description": "A casa mais informal do chef Dani García (ex-três estrelas Michelin), na exclusiva Plaza del Puente Romano. Brasserie andaluza vibrante e cosmopolita, com tapas de autor, arrozes e clássicos que fizeram fama do grupo. A porta de entrada divertida ao universo gastronômico de Dani García, sem menu-degustação.",
+    "lat": 36.4999,
+    "lng": -4.918,
+    "durationLabel": "almoço/jantar 1h30-2h",
+    "fit": "ANY",
+    "mapQuery": "BiBo Marbella by Dani García, Puente Romano, Bulevar Príncipe Alfonso de Hohenlohe, Marbella",
+    "whatToDo": "Peça várias tapas de autor para partilhar e um arroz; ambiente animado, ideal para uma noite descontraída na Milla de Oro.",
+    "kingTip": "Prove o tomate nitro e a hambúrguer de rabo de touro, assinaturas da casa. Muito procurado no verão: reserve com antecedência.",
+    "priceLevel": "€€€",
+    "hours": {
+      "openDays": "Seg-Dom",
+      "openHour": "13:00",
+      "closeHour": "00:00",
+      "note": "Aberto todos os dias em temporada; confirme"
+    },
+    "links": [
+      {
+        "label": "Site oficial e reserva",
+        "url": "https://grupodanigarcia.com/en/marbella/"
+      }
+    ],
+    "history": "BiBo nasceu como o conceito mais canalha e acessível de Dani García e se espalhou por Madri e Londres, mas foi na Marbella do Puente Romano que ganhou seu ambiente mais icônico."
+  },
+  {
+    "id": "mrb_tragabuches",
+    "categoryId": "gastronomia",
+    "city": "marbella",
+    "name": "Tragabuches Marbella by Dani García",
+    "tagline": "A taberna honesta que voltou de Ronda",
+    "description": "A taberna de cozinha tradicional andaluza de Dani García, que ressuscita em Marbella o nome do histórico Tragabuches de Ronda. Receituário de raiz sem firulas, com produto de proximidade e preço sensato. O contraponto caseiro aos formatos de luxo do grupo.",
+    "lat": 36.4834,
+    "lng": -4.9724,
+    "durationLabel": "almoço/jantar 1h30-2h",
+    "fit": "ANY",
+    "mapQuery": "Tragabuches Marbella, Calle Ana de Austria 2, Marbella",
+    "whatToDo": "Peça a ensaladilla, as croquetes e a lendária tarta de queso; cozinha de partilha, ótima para grupos.",
+    "kingTip": "A tarta de queso é obrigatória para fechar. Casa muito popular: reserve com antecedência, sobretudo aos fins de semana de julho.",
+    "priceLevel": "~€55/pessoa (est.)",
+    "hours": {
+      "openDays": "Seg-Dom",
+      "openHour": "13:00",
+      "closeHour": "23:30",
+      "note": "Horários variam por temporada; confirme"
+    },
+    "links": [
+      {
+        "label": "Site oficial e reserva",
+        "url": "https://tragabuchesrestaurants.com/es/marbella/"
+      }
+    ],
+    "history": "O Tragabuches original brilhou em Ronda e chegou a ter estrela Michelin; Dani García recuperou o nome em 2022 como tributo às suas origens e à cozinha tradicional andaluza."
+  },
+  {
+    "id": "nrj_sollun",
+    "categoryId": "gastronomia",
+    "city": "axarquia",
+    "name": "Sollun",
+    "tagline": "Mediterrâneo contemporâneo no centro de Nerja",
+    "description": "Restaurante recomendado pela Guia Michelin, do chef Juan Quintanilla, numa rua central de Nerja. Cozinha mediterrânea contemporânea, cuidada e sazonal, com técnica apurada em formação por casas estreladas. A melhor mesa de autor da Axarquía, com menus-degustação e harmonização.",
+    "lat": 36.7501,
+    "lng": -3.8765,
+    "durationLabel": "jantar 2h",
+    "fit": "ANY",
+    "mapQuery": "Sollun Restaurante, Calle Pintada 9, Nerja",
+    "whatToDo": "Opte pelo menu-degustação com harmonização de vinhos; combine com um passeio pelo Balcón de Europa, a poucos minutos.",
+    "kingTip": "Sala reduzida numa vila que lota em julho: reserve com antecedência, sobretudo para o jantar.",
+    "priceLevel": "€€€",
+    "hours": {
+      "openDays": "Ter-Sáb",
+      "openHour": "13:30",
+      "closeHour": "22:30",
+      "note": "Dias podem variar; confirme na reserva"
+    },
+    "links": [
+      {
+        "label": "Guia Michelin",
+        "url": "https://guide.michelin.com/en/andalucia/nerja/restaurant/sollun"
+      }
+    ],
+    "history": "Aberto em 2006 por Juan Quintanilla, o Sollun tornou-se referência da cozinha de autor na costa da Axarquía, a leste de Málaga."
+  },
+  {
+    "id": "nrj_chiringuito_ayo",
+    "categoryId": "gastronomia",
+    "city": "axarquia",
+    "name": "El Chiringuito de Ayo",
+    "tagline": "A paella na lenha da Praia de Burriana",
+    "description": "Chiringuito lendário na Praia de Burriana, em Nerja, servindo paella cozida em fogo de lenha desde 1969. Instituição familiar e cenário da série espanhola Verano Azul, com os pés quase na areia. O clássico icônico e acessível da Axarquía, com peixe fresco, espetos e a paella à vontade.",
+    "lat": 36.7388,
+    "lng": -3.8607,
+    "durationLabel": "almoço 1h30",
+    "fit": "CLEAR_SKY",
+    "mapQuery": "Chiringuito de Ayo, Playa de Burriana, Nerja",
+    "whatToDo": "Peça a paella cozida na barca de lenha, que se pode repetir; sente-se na esplanada de frente para o mar em dia de sol.",
+    "kingTip": "A paella na lenha é o motivo da visita e costuma ter repetição inclusa. Não reserva mesa: chegue cedo no almoço de verão para pegar a esplanada.",
+    "priceLevel": "€",
+    "hours": {
+      "openDays": "Seg-Dom",
+      "openHour": "11:00",
+      "closeHour": "19:00",
+      "note": "Só de dia, sazonal; a paella é servida ao almoço"
+    },
+    "links": [
+      {
+        "label": "Site oficial",
+        "url": "https://ayonerja.com/"
+      }
+    ],
+    "history": "Ayo, personagem popular de Nerja, montou o chiringuito nos anos 1960 na Praia de Burriana, que ganhou fama nacional com as gravações da série Verano Azul nos anos 1980."
+  },
+  {
+    "id": "mlg_el_refectorium",
+    "categoryId": "gastronomia",
+    "city": "malaga",
+    "name": "El Refectorium Malagueta",
+    "tagline": "O clássico malaguenho junto à Malagueta",
+    "description": "Clássico da cidade de Málaga, fundado em 1973, no bairro da Malagueta, junto à praça de touros. Cozinha mediterrânea e malaguenha de solera, com destaque para peixes, frituras, guisos e a célebre ensaladilla rusa. Casa de sempre para provar a Málaga tradicional, com salão amplo e terraço soalheiro.",
+    "lat": 36.7196,
+    "lng": -4.41,
+    "durationLabel": "almoço/jantar 1h30-2h",
+    "fit": "ANY",
+    "mapQuery": "El Refectorium Malagueta, Calle Cervantes 8, Málaga",
+    "whatToDo": "Peça peixe fresco frito e a ensaladilla rusa da casa; ótima parada antes ou depois de um jogo ou evento na Malagueta.",
+    "kingTip": "A ensaladilla rusa é lendária na cidade. Muito frequentado por malaguenhos nos fins de semana: reserve para o almoço de domingo.",
+    "priceLevel": "€€€",
+    "hours": {
+      "openDays": "Ter-Sáb",
+      "openHour": "13:30",
+      "closeHour": "23:30",
+      "note": "Fecha domingo à noite e segunda; confirme"
+    },
+    "links": [
+      {
+        "label": "Site oficial",
+        "url": "https://elrefectorium.es/"
+      }
+    ],
+    "history": "Fundado por Francisco Ramírez em 1973, o Refectorium mantém-se em família com várias unidades na cidade, sendo a da Malagueta a de maior solera."
+  },
+  {
+    "id": "mlg_meson_astorga",
+    "categoryId": "gastronomia",
+    "city": "malaga",
+    "name": "Mesón Astorga",
+    "tagline": "Cozinha tradicional malaguenha de família",
+    "description": "Restaurante familiar de Málaga desde 1990, referência da cozinha tradicional, castelhana e andaluza. Guisos, carnes e pratos autóctones como o chivo malaguenho e o pastel de cebola, com uma adega de mais de 300 rótulos. Mesa honesta e caseira para conhecer os sabores de raiz da província.",
+    "lat": 36.7142,
+    "lng": -4.4373,
+    "durationLabel": "almoço/jantar 1h30-2h",
+    "fit": "ANY",
+    "mapQuery": "Mesón Astorga, Calle Gerona 11, Málaga",
+    "whatToDo": "Peça o chivo malaguenho e o pastel de cebola, especialidades da casa; peça sugestão de vinho da adega ao garçom.",
+    "kingTip": "O chivo (cabrito) malaguenho é o prato-assinatura. Casa procurada por locais: reserve para almoços de fim de semana.",
+    "priceLevel": "€€",
+    "hours": {
+      "openDays": "Seg-Sáb",
+      "openHour": "13:00",
+      "closeHour": "23:00",
+      "note": "Costuma fechar domingo; confirme"
+    },
+    "links": [
+      {
+        "label": "Site oficial",
+        "url": "https://mesonastorga.com/"
+      }
+    ],
+    "history": "Aberto em 1990, o Mesón Astorga firmou-se como um dos guardiões da cozinha tradicional malaguenha na cidade."
+  },
+  {
+    "id": "rnd_almocabar",
+    "categoryId": "gastronomia",
+    "city": "ronda",
+    "name": "Almocábar",
+    "tagline": "Cozinha de raiz no bairro de San Francisco",
+    "description": "Casa de referência com mais de quatro décadas, sob a direção do chef Antonio Domínguez, no bairro antigo de San Francisco, em Ronda. Cozinha tradicional e inovadora com produto da serra, famosa pelas saladas e pelos pratos de caça e cordeiro. Esplanada agradável na praça, ambiente onde comem os próprios rondenhos.",
+    "lat": 36.7339,
+    "lng": -5.1646,
+    "durationLabel": "almoço/jantar 1h30-2h",
+    "fit": "ANY",
+    "mapQuery": "Restaurante Almocábar, Plaza Ruedo Alameda 5, Ronda",
+    "whatToDo": "Peça as saladas da casa e um prato de carne da serra; em dia de sol, sente-se na esplanada da Plaza Ruedo Alameda.",
+    "kingTip": "Alternativa acessível e local aos estrelados de Ronda. Casa pequena e muito procurada: reserve com antecedência.",
+    "priceLevel": "€€",
+    "hours": {
+      "openDays": "Qua-Seg",
+      "openHour": "12:30",
+      "closeHour": "23:00",
+      "note": "Costuma fechar terça; confirme"
+    },
+    "history": "Instalado junto à muralha e à Puerta de Almocábar, o restaurante leva o nome árabe (\"cemitério\") da antiga porta da cidade e é um clássico do bairro de San Francisco."
+  },
+  {
+    "id": "grn_damasqueros",
+    "categoryId": "gastronomia",
+    "city": "granada",
+    "name": "Damasqueros",
+    "tagline": "A essência granadina de Lola Marín",
+    "description": "Restaurante de autor da chef Lola Marín (um Sol Repsol), no coração do Realejo, o antigo bairro judeu de Granada. Cozinha granadina contemporânea num menu-degustação semanal que segue rigorosamente a estação e o mercado. Sala acolhedora e luminosa, referência da alta cozinha acessível da cidade.",
+    "lat": 37.1745,
+    "lng": -3.5941,
+    "durationLabel": "almoço/jantar 2h",
+    "fit": "ANY",
+    "mapQuery": "Damasqueros, Calle Damasqueros 3, Granada",
+    "whatToDo": "Vá de menu-degustação semanal, que muda com o produto de mercado; combine com um passeio pelo Realejo.",
+    "kingTip": "Menu único que troca a cada semana: cada visita é diferente. Reserve com antecedência, sobretudo para o jantar de verão.",
+    "priceLevel": "~€55/pessoa (est.)",
+    "hours": {
+      "openDays": "Ter-Dom",
+      "openHour": "13:30",
+      "closeHour": "22:30",
+      "note": "Costuma fechar segunda; confirme na reserva"
+    },
+    "links": [
+      {
+        "label": "Site oficial",
+        "url": "https://damasqueros.com/"
+      },
+      {
+        "label": "Reserva",
+        "url": "https://damasqueros.com/reservas/"
+      }
+    ],
+    "history": "Lola Marín consolidou o Damasqueros como um dos endereços de autor mais respeitados de Granada, defendendo o receituário local com produto de temporada."
+  },
+  {
+    "id": "grn_atelier_casa_comidas",
+    "categoryId": "gastronomia",
+    "city": "granada",
+    "name": "Atelier Casa de Comidas",
+    "tagline": "Alta cozinha a bom preço fora do centro",
+    "description": "Casa de comidas recomendada pela Michelin, do chef Raúl Sierra, perto do Palacio de Congresos de Granada. Gastronomia contemporânea de sabores andaluzes e técnica moderna, a preço sensato, com cozinha aberta. Famosa por clássicos como o croissant recheado de rabo de touro e as suas patatas bravas com molho de kimchi.",
+    "lat": 37.1666,
+    "lng": -3.595,
+    "durationLabel": "almoço/jantar 1h30-2h",
+    "fit": "ANY",
+    "mapQuery": "Atelier Casa de Comidas, Calle Sos del Rey Católico 7, Granada",
+    "whatToDo": "Peça as patatas bravas de kimchi e o croissant de rabo de touro; combine à la carte com o menu-degustação sazonal.",
+    "kingTip": "As patatas bravas com emulsão de kimchi são a assinatura da casa. Vale o desvio para fora do centro: reserve com antecedência.",
+    "priceLevel": "~€55/pessoa (est.)",
+    "hours": {
+      "openDays": "Ter-Sáb",
+      "openHour": "13:30",
+      "closeHour": "22:30",
+      "note": "Dias podem variar; confirme na reserva"
+    },
+    "links": [
+      {
+        "label": "Site oficial e reserva",
+        "url": "https://ateliercasadecomidas.com/en/home/"
+      }
+    ],
+    "history": "Raúl Sierra regressou a Granada em 2017 para abrir o Atelier, que cresceu de espaço e virou um dos favoritos da crítica pela relação qualidade-preço."
+  },
+  {
+    "id": "crd_recomiendo",
+    "categoryId": "gastronomia",
+    "city": "cordoba",
+    "name": "ReComiendo",
+    "tagline": "A nova estrela Michelin de Periko Ortega",
+    "description": "Uma estrela Michelin conquistada em 2026 pelo chef Periko Ortega, num bairro residencial ao norte do centro de Córdoba. Cozinha de autor com raízes tradicionais e memória, técnica forte e sentido de humor, servida em barra e sala de design contemporâneo. Menus-degustação (Recuerdos, Memoria, Nostalgia) que percorrem a história pessoal do chef.",
+    "lat": 37.9078,
+    "lng": -4.7759,
+    "durationLabel": "jantar 2-3h",
+    "fit": "ANY",
+    "mapQuery": "ReComiendo, Calle Mirto 7, Córdoba",
+    "whatToDo": "Comece pelos petiscos na barra e siga para o menu-degustação na sala; deixe a harmonização por conta da casa.",
+    "kingTip": "Estrela recém-conquistada e sala reduzida fora do centro: RESERVE COM MESES DE ANTECEDÊNCIA para julho.",
+    "priceLevel": "~€95/pessoa (est.)",
+    "hours": {
+      "openDays": "Ter-Sáb",
+      "openHour": "13:30",
+      "closeHour": "22:30",
+      "note": "Fecha domingo e segunda; confirme na reserva"
+    },
+    "links": [
+      {
+        "label": "Site oficial e reserva",
+        "url": "https://www.recomiendopower.com/"
+      },
+      {
+        "label": "Guia Michelin",
+        "url": "https://guide.michelin.com/us/en/andalucia/cordoba/restaurant/recomiendo"
+      }
+    ],
+    "history": "Periko Ortega abriu o ReComiendo em 2014 e mudou-se em 2018 para a Calle Mirto, onde a casa alcançou em 2026 a sua primeira estrela Michelin."
+  },
+  {
+    "id": "crd_el_envero",
+    "categoryId": "gastronomia",
+    "city": "cordoba",
+    "name": "El Envero",
+    "tagline": "Bib Gourmand de mercado em Córdoba",
+    "description": "Restaurante com Bib Gourmand da Guia Michelin em Córdoba, de cozinha moderna e sazonal com produto local. Pratos de temporada centrados em hortas de proximidade e diferentes atuns, com boa relação qualidade-preço e ampla seleção de vinhos. Uma das melhores opções da cidade fora do circuito estrelado.",
+    "lat": 37.8985,
+    "lng": -4.7886,
+    "durationLabel": "almoço/jantar 1h30-2h",
+    "fit": "ANY",
+    "mapQuery": "Restaurante El Envero, Calle Teruel 21, Córdoba",
+    "whatToDo": "Pergunte pelos pratos de atum e pela sugestão de mercado do dia; peça harmonização por taça da adega.",
+    "kingTip": "Bib Gourmand: cozinha cuidada a preço justo. Muito procurado pelos cordoveses: reserve para almoços de fim de semana.",
+    "priceLevel": "€€€",
+    "hours": {
+      "openDays": "Ter-Sáb",
+      "openHour": "13:30",
+      "closeHour": "23:00",
+      "note": "Dias podem variar; confirme na reserva"
+    },
+    "links": [
+      {
+        "label": "Site oficial e reserva",
+        "url": "https://elenvero.com/"
+      },
+      {
+        "label": "Guia Michelin",
+        "url": "https://guide.michelin.com/us/en/andalucia/cordoba/restaurant/el-envero"
+      }
+    ],
+    "history": "O El Envero firmou-se como uma referência de cozinha de mercado em Córdoba, renovando ano após ano o Bib Gourmand da Guia Michelin."
+  },
+  {
+    "id": "grn_palacio_dar_al_horra",
+    "categoryId": "granada",
+    "city": "granada",
+    "name": "Palacio de Dar al-Horra",
+    "tagline": "O palácio nazarí escondido no Albaicín",
+    "description": "No alto do Albaicín, este palácio nazarí do século XV sobrevive quase intacto, com pátio central, alberca e miradouros de gelosia sobre a cidade. Foi residência de Aixa, a rainha-mãe de Boabdil, o último sultão de Granada. Uma joia íntima e pouco visitada, com vista privilegiada da Alhambra.",
+    "lat": 37.1847,
+    "lng": -3.5968,
+    "durationLabel": "30–40 min",
+    "fit": "INDOOR",
+    "mapQuery": "Palacio de Dar al-Horra, Granada",
+    "kingTip": "Está incluído no combo de monumentos 'Dobla de Oro' junto com a Alhambra — vale conferir esse bilhete conjunto. Os miradouros do andar superior dão uma das vistas mais limpas da Alhambra sem multidão.",
+    "priceLevel": "€ (~5 €, estimativa; incluso na Dobla de Oro)",
+    "hours": {
+      "openDays": "Todos os dias (verão)",
+      "openHour": "09:30",
+      "closeHour": "20:30",
+      "note": "Horário de verão (1 mai–14 set): 09:30–14:30 e 17:00–20:30."
+    },
+    "links": [
+      {
+        "label": "Turismo de Granada",
+        "url": "https://turismo.granada.org/es/palacio-dar-al-horra"
+      }
+    ],
+    "history": "Construído no século XV sobre um palácio zirí do século XI, foi a casa de Aixa, mãe de Boabdil; após 1492 os Reis Católicos cederam-no ao mosteiro de Santa Isabel la Real."
+  },
+  {
+    "id": "grn_abadia_sacromonte",
+    "categoryId": "granada",
+    "city": "granada",
+    "name": "Abadía del Sacromonte",
+    "tagline": "Catacumbas e vistas no alto do vale",
+    "description": "No ponto mais alto do Sacromonte, esta abadia do século XVII guarda as Santas Cuevas — catacumbas onde, segundo a tradição, foi martirizado São Cecílio, padroeiro de Granada, e onde apareceram os célebres Libros Plúmbeos. O conjunto reúne igreja, claustros e um miradouro com vistas amplas sobre a cidade e a serra.",
+    "lat": 37.1928,
+    "lng": -3.576,
+    "durationLabel": "1 h (visita guiada)",
+    "fit": "INDOOR",
+    "mapQuery": "Abadia del Sacromonte, Granada",
+    "kingTip": "Fica bem afastada, no fim da estrada do Sacromonte — vá de táxi ou do ônibus C34. As catacumbas são frescas mesmo no auge de julho. Aos domingos não se visita a igreja durante a missa das 12h.",
+    "priceLevel": "€ (~5 €, estimativa)",
+    "hours": {
+      "openDays": "Todos os dias",
+      "openHour": "10:00",
+      "closeHour": "19:00",
+      "note": "Verão: 10:00–14:00 e 15:30–19:00; bilheteria fecha antes."
+    },
+    "links": [
+      {
+        "label": "Site oficial",
+        "url": "https://abadiasacromonte.org"
+      }
+    ],
+    "history": "Erguida a partir de 1600 pelo arcebispo Pedro de Castro em torno das catacumbas onde surgiram as relíquias e os Libros Plúmbeos, achados que moldaram a identidade cristã de Granada."
+  },
+  {
+    "id": "grn_basilica_san_juan_de_dios",
+    "categoryId": "granada",
+    "city": "granada",
+    "name": "Basílica de San Juan de Dios",
+    "tagline": "Uma explosão de ouro barroco",
+    "description": "Considerada uma das igrejas mais douradas da Espanha, sua nave transborda talha coberta de ouro, espelhos, mármores e afrescos numa profusão barroca que ofusca. Guarda a urna de prata com os restos de São João de Deus, fundador da ordem hospitaleira. Pouco turística e de tirar o fôlego por dentro.",
+    "lat": 37.17877,
+    "lng": -3.60258,
+    "durationLabel": "30–45 min",
+    "fit": "INDOOR",
+    "mapQuery": "Basilica de San Juan de Dios, Granada",
+    "kingTip": "Suba ao camarín atrás do altar-mor (bilhete inclui) para ver de perto o exagero dourado e as relíquias. Refúgio fresco e deslumbrante longe das filas da Alhambra.",
+    "priceLevel": "€ (~5 €, estimativa)",
+    "hours": {
+      "openDays": "Todos os dias",
+      "openHour": "10:00",
+      "closeHour": "19:00",
+      "note": "Fecha em horários de culto; confira no local."
+    },
+    "links": [
+      {
+        "label": "Basílica San Juan de Dios",
+        "url": "https://basilicasanjuandedios.es"
+      }
+    ],
+    "history": "Construída entre 1737 e 1759 em pleno auge do barroco granadino, é o templo da Ordem Hospitaleira fundada por João de Deus, canonizado em 1690."
+  },
+  {
+    "id": "grn_paseo_de_los_tristes",
+    "categoryId": "granada",
+    "city": "granada",
+    "name": "Paseo de los Tristes",
+    "tagline": "O passeio à beira do Darro sob a Alhambra",
+    "description": "Oficialmente Paseo del Padre Manjón, este trecho ribeirinho ao pé do rio Darro é o cenário mais romântico de Granada: pontes de pedra, esplanadas e a Alhambra suspensa logo acima. É o coração da Carrera del Darro, considerada uma das ruas mais bonitas da Espanha, ligando a Plaza Nueva ao Sacromonte.",
+    "lat": 37.1796,
+    "lng": -3.5907,
+    "durationLabel": "30–45 min a pé",
+    "fit": "CLEAR_SKY",
+    "mapQuery": "Paseo de los Tristes, Granada",
+    "kingTip": "Ao entardecer, sente-se numa esplanada com a Alhambra iluminada por cima — a foto clássica é a partir da ponte. O nome vem de ser o antigo caminho dos cortejos fúnebres rumo ao cemitério.",
+    "priceLevel": "Gratuito (consumo à parte)",
+    "history": "Trecho final da Carrera del Darro, de traçado medieval; recebeu o apelido de 'dos Tristes' por ser a rota histórica dos cortejos fúnebres que subiam ao cemitério da cidade."
+  },
+  {
+    "id": "crd_medina_azahara",
+    "categoryId": "cordoba",
+    "city": "cordoba",
+    "name": "Medina Azahara",
+    "tagline": "A cidade-palácio do califa, Patrimônio Mundial",
+    "description": "A oito quilômetros de Córdoba, as ruínas da cidade palatina de Abderramão III (século X) escalam a encosta da Serra Morena em terraços de arcos vermelhos e brancos. Foi a esplêndida capital do califado, saqueada e esquecida poucas décadas depois. Um museu premiado e a Casa de Ya'far transportam ao apogeu do al-Andalus. Patrimônio da Humanidade desde 2018.",
+    "lat": 37.8883,
+    "lng": -4.8666,
+    "durationLabel": "2–2,5 h (com museu)",
+    "fit": "ANY",
+    "mapQuery": "Conjunto Arqueologico Medina Azahara, Cordoba",
+    "whatToDo": "Comece pelo museu no sopé, pegue o ônibus-lançadeira até as ruínas e percorra o Salão Rico e a Casa de Ya'far no alto.",
+    "kingTip": "Não se chega de carro às ruínas: estacione no museu e use o ônibus-lançadeira oficial (bilhete à parte). Vá logo na abertura, às 9h — a encosta não tem sombra e ferve no julho cordobês. Entrada gratuita para cidadãos da UE.",
+    "priceLevel": "Museu gratuito (UE); lançadeira ~3 € (estimativa)",
+    "hours": {
+      "openDays": "Ter a dom (fecha segunda)",
+      "openHour": "09:00",
+      "closeHour": "15:00",
+      "note": "Verão (16 jun–15 set): ter–dom 09:00–15:00; consulte antes de ir."
+    },
+    "links": [
+      {
+        "label": "Site oficial",
+        "url": "https://www.medinaazahara.org"
+      }
+    ],
+    "history": "Mandada erguer por Abderramão III a partir de 936 como sede do califado de Córdoba, foi destruída na guerra civil (fitna) por volta de 1010 e permaneceu soterrada até as escavações do século XX."
+  },
+  {
+    "id": "crd_banos_alcazar_califal",
+    "categoryId": "cordoba",
+    "city": "cordoba",
+    "name": "Baños del Alcázar Califal",
+    "tagline": "As termas árabes do palácio califal",
+    "description": "Sob o Campo Santo de los Mártires, estes banhos do século X serviam ao antigo alcácer dos califas omíadas. Ao estilo das termas romanas, sucedem-se salas fria, morna e quente sob abóbadas rasgadas por claraboias em forma de estrela. A cenografia e a projeção multimídia explicam o ritual do banho no al-Andalus.",
+    "lat": 37.877,
+    "lng": -4.7827,
+    "durationLabel": "30–45 min",
+    "fit": "INDOOR",
+    "mapQuery": "Banos del Alcazar Califal, Cordoba",
+    "kingTip": "Subterrâneos e frescos — perfeitos para as horas mais quentes da tarde. Ficam bem ao lado do Alcázar de los Reyes Cristianos; dá para encadear as duas visitas.",
+    "priceLevel": "€ (~3 €, estimativa)",
+    "hours": {
+      "openDays": "Ter a dom (fecha segunda)",
+      "openHour": "08:15",
+      "closeHour": "14:15",
+      "note": "Verão (16 jun–15 set): ter–dom 08:15–14:15."
+    },
+    "links": [
+      {
+        "label": "Museos de Córdoba",
+        "url": "https://banosdelalcazarcalifal.cordoba.es"
+      }
+    ],
+    "history": "Termas do século X ligadas ao Alcácer Califal omíada, ampliadas nos períodos almorávida e almóada; escavadas e abertas ao público como espaço museológico da cidade."
+  },
+  {
+    "id": "crd_plaza_del_potro",
+    "categoryId": "cordoba",
+    "city": "cordoba",
+    "name": "Plaza del Potro",
+    "tagline": "A praça imortalizada por Cervantes",
+    "description": "Um recanto cheio de história perto do Guadalquivir, com uma fonte renascentista coroada por um potro e a antiga Posada del Potro, estalagem do século XV citada no Dom Quixote. Cervantes chamou-a de covil de gente de má fama; hoje é um largo tranquilo ladeado por museus e casas caiadas.",
+    "lat": 37.8817,
+    "lng": -4.7713,
+    "durationLabel": "20–30 min",
+    "fit": "ANY",
+    "mapQuery": "Plaza del Potro, Cordoba",
+    "kingTip": "Espie o pátio da Posada del Potro, uma das poucas estalagens medievais que sobrevivem — hoje abriga o Centro Flamenco Fosforito, de entrada gratuita. Ótima parada a caminho da ribeira.",
+    "priceLevel": "Gratuito",
+    "history": "Documentada desde o século XV, deve o nome à fonte com a figura de um potro; a Posada del Potro que a ladeia foi mencionada por Cervantes em Dom Quixote como refúgio de pícaros."
+  },
+  {
+    "id": "crd_torre_malmuerta",
+    "categoryId": "cordoba",
+    "city": "cordoba",
+    "name": "Torre de la Malmuerta",
+    "tagline": "A torre octogonal da lenda sombria",
+    "description": "Uma imponente torre-fortaleza do início do século XV, ligada à antiga muralha por um arco sobre a via. Seu nome — 'a mal-morta' — remete à lenda de uma dama assassinada pelo marido enganado por falsas suspeitas. Ergue-se isolada num largo ao norte do centro, marco do perímetro histórico da cidade.",
+    "lat": 37.8895,
+    "lng": -4.7768,
+    "durationLabel": "15–20 min (exterior)",
+    "fit": "CLEAR_SKY",
+    "mapQuery": "Torre de la Malmuerta, Cordoba",
+    "kingTip": "Costuma ser vista só por fora — visitas ao interior são pontuais e mediante reserva municipal. Combine com uma caminhada até a vizinha Plaza de Colón e o Palacio de la Merced.",
+    "priceLevel": "Gratuito (exterior)",
+    "history": "Erguida por volta de 1406-1408 sob Henrique III como torre albarrã de defesa e ponto de vigia; a lenda do feminicídio deu-lhe o nome, embora historiadores o liguem a 'mal murada' (mal fortificada)."
+  },
+  {
+    "id": "crd_caballerizas_reales",
+    "categoryId": "cordoba",
+    "city": "cordoba",
+    "name": "Caballerizas Reales",
+    "tagline": "Berço do cavalo andaluz e palco equestre",
+    "description": "Fundadas por Filipe II em 1570 para criar o puro-sangue espanhol, estas cavalariças reais de naves abobadadas são um monumento vivo. À noite, sob a arena coberta, o espetáculo 'Pasión y Duende del Caballo Andaluz' reúne alta escola, doma vaquera e flamenco ao vivo num show de tirar o fôlego.",
+    "lat": 37.876,
+    "lng": -4.7834,
+    "durationLabel": "Espetáculo ~60–70 min",
+    "fit": "INDOOR",
+    "mapQuery": "Caballerizas Reales de Cordoba",
+    "whatToDo": "Visite as naves e o pátio de dia; à noite, assista ao espetáculo equestre com música e flamenco ao vivo.",
+    "kingTip": "O espetáculo é às quartas, quintas, sextas e sábados — em julho começa às 21h, quando o calor já cedeu. Reserve com antecedência pelo site da Córdoba Ecuestre; fica coladinho ao Alcázar.",
+    "priceLevel": "€€€ (espetáculo ~24 €, estimativa; visita diurna à parte)",
+    "hours": {
+      "openDays": "Espetáculo: qua, qui, sex, sáb",
+      "openHour": "21:00",
+      "closeHour": "22:10",
+      "note": "Horário do show varia por temporada; visita diurna em outros horários."
+    },
+    "links": [
+      {
+        "label": "Córdoba Ecuestre — ingressos",
+        "url": "https://www.cordobaecuestre.com"
+      }
+    ],
+    "history": "Criadas por decreto de Filipe II em 1570 sob o cavalariço Diego López de Haro para fixar a raça do Cavalo Andaluz (Pura Raza Española), permanecem como referência mundial da criação equestre."
+  },
+  {
+    "id": "mlg_montes_de_malaga",
+    "categoryId": "natureza",
+    "city": "malaga",
+    "name": "Parque Natural Montes de Málaga",
+    "tagline": "Bosque e miradouros a 15 min de Málaga",
+    "description": "Manto de pinheiros que recobre as colinas logo acima da cidade, resultado de um reflorestamento centenário para conter as cheias do Guadalmedina. Trilhas sinalizadas partem da área recreativa de Torrijos, onde um antigo lagar de vinho virou ecomuseu com restaurante rural. Miradouros abertos revelam a baía inteira, do porto às montanhas.",
+    "lat": 36.8353,
+    "lng": -4.3453,
+    "durationLabel": "2–4 h",
+    "fit": "CLEAR_SKY",
+    "mapQuery": "Lagar de Torrijos, Parque Natural Montes de Málaga",
+    "kingTip": "A poucos graus mais fresco que a cidade pela altitude e pela sombra dos pinheiros; ainda assim vá pela manhã, leve água e prove o plato de los montes no restaurante de Torrijos.",
+    "priceLevel": "€",
+    "links": [
+      {
+        "label": "Visita Málaga",
+        "url": "https://visita.malaga.eu"
+      }
+    ]
+  },
+  {
+    "id": "mlg_senda_litoral",
+    "categoryId": "natureza",
+    "city": "malaga",
+    "name": "Senda Litoral de Málaga",
+    "tagline": "Passadiço à beira-mar pela orla de Málaga",
+    "description": "Passeio contínuo de passadiços de madeira e calçadão que costura as praias da cidade rente ao Mediterrâneo, ligando os antigos Baños del Carmen aos espigões do leste. Plano e acessível, cruza chiringuitos, palmeiras e barcos de espeto fincados na areia. Trecho urbano de uma senda que um dia percorrerá todo o litoral da província.",
+    "lat": 36.71776,
+    "lng": -4.38286,
+    "durationLabel": "1–3 h",
+    "fit": "CLEAR_SKY",
+    "windSensitive": false,
+    "mapQuery": "Baños del Carmen, Málaga",
+    "kingTip": "Sem sombra ao longo do passadiço: caminhe ao amanhecer ou no fim da tarde e emende com um banho de mar e sardinhas assadas num chiringuito.",
+    "priceLevel": "€"
+  },
+  {
+    "id": "mlg_catamaran_delfines",
+    "categoryId": "natureza",
+    "city": "malaga",
+    "name": "Catamarã e golfinhos no porto de Málaga",
+    "tagline": "Catamarã e golfinhos saindo do porto",
+    "description": "Saídas de catamarã à vela do Muelle Uno, no coração do porto, para navegar a baía e procurar os golfinhos-comuns que seguem os barcos no verão. Roteiros de uma a duas horas incluem banho em mar aberto e vista do skyline de Málaga a partir da água. Maio a outubro é a melhor janela para o avistamento.",
+    "lat": 36.7146,
+    "lng": -4.4166,
+    "durationLabel": "1,5–2 h",
+    "fit": "CLEAR_SKY",
+    "windSensitive": true,
+    "mapQuery": "Muelle Uno, Puerto de Málaga",
+    "kingTip": "O avistamento não é garantido; reserve a primeira saída da manhã, com mar mais calmo, e leve boné, protetor e uma muda para o banho a bordo.",
+    "priceLevel": "€€€",
+    "links": [
+      {
+        "label": "Mundo Marino",
+        "url": "https://mundomarino.es"
+      }
+    ]
+  },
+  {
+    "id": "ant_fuente_de_piedra",
+    "categoryId": "natureza",
+    "city": "antequera",
+    "name": "Laguna de Fuente de Piedra",
+    "tagline": "Flamingos na maior laguna da Andaluzia",
+    "description": "A maior laguna natural da Andaluzia e a principal colônia de flamingos-comuns da Península, com milhares de aves rosadas espelhadas na água salobra. Passarelas e observatórios partem do Centro de Visitantes José Antonio Valverde, dedicado ao pai da anilhagem de aves na Espanha. Um dos maiores espetáculos ornitológicos da Europa.",
+    "lat": 37.1218,
+    "lng": -4.7472,
+    "durationLabel": "1–2 h",
+    "fit": "CLEAR_SKY",
+    "mapQuery": "Centro de Visitantes Laguna de Fuente de Piedra, Fuente de Piedra",
+    "kingTip": "Em julho a laguna pode secar em parte e concentrar os flamingos ao longe; leve binóculos, vá cedo pela luz e confirme antes se ainda há água e aves na temporada.",
+    "priceLevel": "€",
+    "links": [
+      {
+        "label": "Fuente de Piedra",
+        "url": "https://www.fuentedepiedra.es"
+      }
+    ]
+  },
+  {
+    "id": "ant_lobo_park",
+    "categoryId": "natureza",
+    "city": "antequera",
+    "name": "Lobo Park",
+    "tagline": "Santuário de lobos ibéricos e árticos",
+    "description": "Santuário de 40 hectares a poucos quilômetros de Antequera onde vivem, em grandes recintos naturais, alcateias de lobo-ibérico, europeu, da tundra do Alasca e do timber. A visita é sempre guiada, por caminhos de terra entre encinas, com biólogos explicando o comportamento de cada matilha. Nas noites de lua cheia há sessões especiais de uivos.",
+    "lat": 36.9867,
+    "lng": -4.6233,
+    "durationLabel": "1,5 h (visita guiada)",
+    "fit": "CLEAR_SKY",
+    "mapQuery": "Lobo Park, Ctra. Antequera-Álora A-343 km 16",
+    "kingTip": "O acesso é só nos horários da visita guiada (por volta de 11h, 13h, 15h e 16h30); reserve a das 11h para pegar os lobos ativos antes do calor e confira no site se há tour noturno de lua cheia.",
+    "priceLevel": "€€",
+    "hours": {
+      "openDays": "Ter–Dom",
+      "openHour": "10:00",
+      "closeHour": "17:00",
+      "note": "Entrada só em visitas guiadas com horário marcado; confirme os turnos e feche reserva."
+    },
+    "links": [
+      {
+        "label": "Site oficial",
+        "url": "https://www.lobopark.com"
+      }
+    ]
+  },
+  {
+    "id": "axq_rio_chillar",
+    "categoryId": "natureza",
+    "city": "axarquia",
+    "name": "Río Chíllar",
+    "tagline": "Caminhada dentro do rio, água até os joelhos",
+    "description": "Caminhada aquática lendária em que se avança rio acima, com os pés dentro da água fria da Sierra de Almijara, saindo de Nerja. O leito estreita nos Cahorros, um cânion de paredes verticais a poucos metros uma da outra, com poças e pequenas cascatas. Refresco natural perfeito para o verão andaluz.",
+    "lat": 36.76445,
+    "lng": -3.87313,
+    "durationLabel": "4–6 h",
+    "fit": "CLEAR_SKY",
+    "windSensitive": false,
+    "mapQuery": "Aparcamiento Río Chíllar, Nerja",
+    "kingTip": "O trajeto é dentro d'água quase todo: use tênis ou sapatilha aquática que possa molhar, comece cedo (o parking de 1€ lota) e nunca entre com previsão de chuva ou tempestade na serra, pelo risco de enxurrada.",
+    "priceLevel": "€",
+    "links": [
+      {
+        "label": "Visita Nerja",
+        "url": "https://visita.nerja.es"
+      }
+    ]
+  },
+  {
+    "id": "axq_kayak_maro",
+    "categoryId": "natureza",
+    "city": "axarquia",
+    "name": "Caiaque nos Acantilados de Maro-Cerro Gordo",
+    "tagline": "Caiaque entre falésias e grutas marinhas",
+    "description": "Passeio de caiaque pelo paraje natural das falésias de Maro-Cerro Gordo, remando ao pé de paredões de até 70 metros entre Nerja e La Herradura. O trajeto revela enseadas escondidas, uma cachoeira que cai direto no mar e grutas onde só se entra pela água. Fundo marinho protegido, ideal para mergulho de snorkel nas paradas.",
+    "lat": 36.75375,
+    "lng": -3.83396,
+    "durationLabel": "2–3 h",
+    "fit": "CLEAR_SKY",
+    "windSensitive": true,
+    "mapQuery": "Playa de Maro, Nerja",
+    "kingTip": "Reserve a saída da manhã, quando o mar está de espelho; o vento da tarde levanta ondulação e cancela passeios. Leve protetor, câmera à prova d'água e sapatilha para as paradas nas calas.",
+    "priceLevel": "€€€"
+  },
+  {
+    "id": "axq_acueducto_aguila",
+    "categoryId": "natureza",
+    "city": "axarquia",
+    "name": "Acueducto del Águila",
+    "tagline": "Aqueduto de 36 arcos escondido em Maro",
+    "description": "Aqueduto do século XIX escondido num barranco verdejante a oeste das Cuevas de Nerja, com quatro níveis sobrepostos e 36 arcos em ferradura. No alto, um pavilhão coroado por um cata-vento de águia bicéfala, que batiza a obra, ainda leva água aos antigos engenhos de açúcar de Maro. Uma joia de tijolo emoldurada pela vegetação.",
+    "lat": 36.7573,
+    "lng": -3.8324,
+    "durationLabel": "20–40 min",
+    "fit": "CLEAR_SKY",
+    "mapQuery": "Acueducto del Águila, Maro, Nerja",
+    "kingTip": "Há um recuo na antiga N-340 para parar e fotografar de frente; combine com as Cuevas de Nerja e a Playa de Maro, tudo a poucos minutos, e vá no fim da tarde pela melhor luz.",
+    "priceLevel": "€"
+  },
+  {
+    "id": "rnd_sierra_nieves",
+    "categoryId": "natureza",
+    "city": "ronda",
+    "name": "Parque Nacional Sierra de las Nieves",
+    "tagline": "Teto da província: pinsapos e o Torrecilla",
+    "description": "O parque nacional mais jovem da Espanha, declarado em 2021, guarda um dos maiores bosques de pinsapo, o raro abeto-espanhol relicto da era glacial. Do trailhead de Los Quejigales sobe-se ao Torrecilla, com 1.919 metros o teto da província de Málaga e vistas de duas costas. Altas montanhas selvagens a menos de uma hora de Ronda.",
+    "lat": 36.68993,
+    "lng": -5.0458,
+    "durationLabel": "6–7 h (ida e volta)",
+    "fit": "CLEAR_SKY",
+    "windSensitive": true,
+    "mapQuery": "Área Recreativa Los Quejigales, Ronda",
+    "kingTip": "Atenção: por risco de incêndio, a estrada de acesso a Los Quejigales costuma fechar de meados de junho a meados de outubro, bem no verão. Antes de julho, confirme a abertura com o parque; se fechado, opte pelos miradouros e pelo pinsapar acessível pelo lado de Yunquera.",
+    "priceLevel": "€",
+    "links": [
+      {
+        "label": "Sierra de las Nieves",
+        "url": "https://www.i-sierradelasnieves.com"
+      }
+    ]
+  },
+  {
+    "id": "rnd_cueva_gato",
+    "categoryId": "natureza",
+    "city": "ronda",
+    "name": "Cueva del Gato",
+    "tagline": "Nascente esmeralda para um banho serrano",
+    "description": "Ponto onde o rio subterrâneo do complexo Hundidero-Gato, com mais de 10 km de galerias, ressurge à luz por uma boca escura em forma de focinho de gato. Sob ela forma-se uma poça de água esmeralda e gelada, cercada de rochedos, junto a Benaoján. Monumento natural e piscina serrana das mais fotogênicas da Serranía de Ronda.",
+    "lat": 36.7223,
+    "lng": -5.236,
+    "durationLabel": "1–2 h",
+    "fit": "CLEAR_SKY",
+    "windSensitive": false,
+    "mapQuery": "Cueva del Gato, Benaoján",
+    "kingTip": "A água é cortante mesmo em julho e a poça fica funda perto da boca; o banho é só na parte externa, pois a caverna é fechada à visita. Chegue cedo, o pequeno mirador e o parking lotam nos dias quentes.",
+    "priceLevel": "€"
+  },
+  {
+    "id": "rnd_cueva_pileta",
+    "categoryId": "natureza",
+    "city": "ronda",
+    "name": "Cueva de la Pileta",
+    "tagline": "Arte rupestre paleolítica à luz de lampião",
+    "description": "Caverna nas montanhas de Benaoján que guarda pinturas rupestres de até 20 mil anos, com cavalos, peixes e sinais traçados em ocre e carvão. A visita, guiada e à luz de lampiões a gás pela família que descobriu o sítio em 1905, mantém a atmosfera de outro tempo. Uma das grandes joias do Paleolítico andaluz, longe das multidões.",
+    "lat": 36.6925,
+    "lng": -5.2687,
+    "durationLabel": "1–1,5 h",
+    "fit": "ANY",
+    "mapQuery": "Cueva de la Pileta, Benaoján",
+    "kingTip": "A gruta é fresca e coberta, ótimo refúgio no calor, mas os grupos são de até 25 pessoas e não há venda online: ligue antes para reservar e chegue com folga pela estrada estreita de acesso.",
+    "priceLevel": "€€",
+    "hours": {
+      "openDays": "Todos os dias",
+      "openHour": "10:00",
+      "closeHour": "18:00",
+      "note": "Sessões guiadas às 10h–13h e à tarde; último grupo às 18h no verão. Reserva por telefone."
+    },
+    "links": [
+      {
+        "label": "Site oficial",
+        "url": "https://cuevadelapileta.com"
+      }
+    ]
+  },
+  {
+    "id": "rnd_acinipo",
+    "categoryId": "natureza",
+    "city": "ronda",
+    "name": "Acinipo (Ronda la Vieja)",
+    "tagline": "Teatro romano solitário sobre a serra",
+    "description": "Cidade romana em ruínas sobre um planalto a quase 1.000 metros, a uns 20 km de Ronda, com um dos teatros mais bem conservados da Hispânia. O graderío escavado na rocha viva emoldura um horizonte que alcança três províncias, sem multidões nem cercas. História e paisagem cársica num sítio quase secreto da Serranía.",
+    "lat": 36.8869,
+    "lng": -5.2606,
+    "durationLabel": "1–1,5 h",
+    "fit": "CLEAR_SKY",
+    "mapQuery": "Yacimiento de Acinipo, Ronda la Vieja",
+    "kingTip": "Planalto totalmente exposto ao sol e ao vento; visite de manhã com chapéu e água. A visita livre é gratuita, mas o sítio abre poucos dias por semana, então confirme o horário antes de subir.",
+    "priceLevel": "€",
+    "hours": {
+      "openDays": "Qua–Dom",
+      "openHour": "09:00",
+      "closeHour": "14:30",
+      "note": "Entrada gratuita; fecha seg e ter. Horário pode variar no verão, confirme antes."
+    }
+  },
+  {
+    "id": "mrb_la_concha",
+    "categoryId": "natureza",
+    "city": "marbella",
+    "name": "Subida a La Concha desde Juanar",
+    "tagline": "Cume de 1.215 m com vista de 360° do mar",
+    "description": "Ascensão ao pico La Concha, a silhueta em forma de concha que domina o horizonte de Marbella, partindo do Refugio de Juanar em Ojén. O caminho cruza olivais e pinheiros até um trecho final estreito e rochoso, aéreo, com o mar de um lado e a Sierra Blanca do outro. Do cume, panorama de 360° que em dias limpos alcança o Rif marroquino.",
+    "lat": 36.5583,
+    "lng": -4.8944,
+    "durationLabel": "4–5 h (ida e volta)",
+    "fit": "CLEAR_SKY",
+    "windSensitive": true,
+    "mapQuery": "Refugio de Juanar, Ojén",
+    "kingTip": "O trecho final tem passos expostos e vira perigoso com vento forte ou neblina; não é para quem sofre de vertigem. Saia ao nascer do sol para evitar o calor da encosta e leve ao menos 2 L de água por pessoa.",
+    "priceLevel": "€"
+  },
+  {
+    "id": "mrb_charco_canalon",
+    "categoryId": "natureza",
+    "city": "marbella",
+    "name": "Charco del Canalón (Río Verde, Istán)",
+    "tagline": "Poça turquesa no desfiladeiro do Río Verde",
+    "description": "Poça funda de água turquesa encaixada entre paredes de calcário no vale do Río Verde, junto a Istán, a menos de meia hora de Marbella. Um canal de irrigação despeja no alto uma cascata que alimenta a piscina natural, sombreada por sobreiros e adelfas. Refúgio aquático dos mais bonitos da Sierra de las Nieves.",
+    "lat": 36.6083,
+    "lng": -4.9603,
+    "durationLabel": "3–4 h (ida e volta)",
+    "fit": "CLEAR_SKY",
+    "windSensitive": false,
+    "mapQuery": "Charco del Canalón, Istán",
+    "kingTip": "A poça é funda e escorregadia, só para quem nada bem; as pedras do leito têm algas traiçoeiras, use calçado aquático. Vá cedo por vaga no Vado de Bornoque e nunca com previsão de chuva na serra.",
+    "priceLevel": "€",
+    "links": [
+      {
+        "label": "Istán",
+        "url": "https://www.istan.es"
+      }
+    ]
+  },
+  {
+    "id": "grn_hoya_de_la_mora",
+    "categoryId": "natureza",
+    "city": "granada",
+    "name": "Hoya de la Mora, Sierra Nevada",
+    "tagline": "Neve eterna e ar puro a 2.500 m no verão",
+    "description": "Portal de alta montanha de Sierra Nevada a cerca de 2.500 metros, fim da estrada asfaltada mais alta da Espanha e base das caminhadas de verão rumo ao Veleta. Ar rarefeito e fresco, restos de neve nos barrancos e vistas que descem até Granada e o Mediterrâneo. Contraste absoluto com o calor do vale, a uma hora da cidade.",
+    "lat": 37.0975,
+    "lng": -3.3878,
+    "durationLabel": "meio dia",
+    "fit": "CLEAR_SKY",
+    "windSensitive": true,
+    "mapQuery": "Hoya de la Mora, Sierra Nevada",
+    "kingTip": "No verão é o antídoto perfeito ao calor: pode fazer 15°C e ventar. Leve casaco, protetor forte (o sol da altitude queima rápido) e suba devagar por conta da altitude; no verão às vezes funciona o telecabina desde Pradollano.",
+    "priceLevel": "€",
+    "links": [
+      {
+        "label": "Sierra Nevada",
+        "url": "https://sierranevada.es"
+      }
+    ]
+  },
+  {
+    "id": "mlg_el_palo",
+    "categoryId": "praias",
+    "city": "malaga",
+    "name": "Playa de El Palo",
+    "tagline": "Espeto de sardinha na praia de bairro",
+    "description": "A praia mais castiça de Málaga, no antigo bairro de pescadores a leste da cidade. É aqui que os espetos de sardinha assam na areia sobre barcas cheias de brasa, num ambiente de família e de vida local, longe do turismo. Areia escura, águas calmas e um passeio marítimo cheio de chiringuitos históricos.",
+    "lat": 36.7191,
+    "lng": -4.3548,
+    "durationLabel": "meia diária",
+    "fit": "CLEAR_SKY",
+    "windSensitive": false,
+    "mapQuery": "Playa de El Palo, Málaga",
+    "kingTip": "Chegue com fome ao meio-dia: o espeto de sardinha, seis peixes num espeto de cana, é servido só na hora e é a alma deste pedaço de Málaga.",
+    "whereToEat": "El Tintero, o chiringuito clássico onde os garçons leiloam os pratos aos gritos entre as mesas."
+  },
+  {
+    "id": "mlg_misericordia",
+    "categoryId": "praias",
+    "city": "malaga",
+    "name": "Playa de la Misericordia",
+    "tagline": "Areia escura e pôr do sol operário",
+    "description": "Praia extensa e desafogada no bairro popular de Sacaba, a oeste do centro. Voltada para o poente, oferece um dos melhores pores do sol urbanos de Málaga, com a antiga chaminé da térmica ao fundo. Frequentada quase só por malaguenhos, tem chiringuitos honestos e muito espaço mesmo em agosto.",
+    "lat": 36.689,
+    "lng": -4.452,
+    "durationLabel": "meia diária",
+    "fit": "CLEAR_SKY",
+    "windSensitive": true,
+    "mapQuery": "Playa de la Misericordia, Málaga"
+  },
+  {
+    "id": "mlg_guadalmar",
+    "categoryId": "praias",
+    "city": "malaga",
+    "name": "Playa de Guadalmar",
+    "tagline": "Praia tranquila junto ao estuário",
+    "description": "No extremo oeste da cidade, colada à reserva natural da Desembocadura del Guadalhorce, é a praia mais sossegada de Málaga. O ambiente é natural e amplo, ideal para caminhar e observar aves no estuário vizinho. O trecho mais ao sul é tradicionalmente naturista.",
+    "lat": 36.665,
+    "lng": -4.49,
+    "durationLabel": "meia diária",
+    "fit": "CLEAR_SKY",
+    "windSensitive": true,
+    "mapQuery": "Playa de Guadalmar, Málaga",
+    "kingTip": "Combine a praia com uma volta pelos observatórios da reserva do Guadalhorce, ali ao lado: flamingos e aves aquáticas a poucos minutos da areia."
+  },
+  {
+    "id": "mlg_penon_cuervo",
+    "categoryId": "praias",
+    "city": "malaga",
+    "name": "Peñón del Cuervo",
+    "tagline": "Rochedo partindo a areia ao meio",
+    "description": "Enseada de areia escura no leste da cidade, marcada por um grande rochedo que divide a praia em duas metades e lhe dá nome. Rodeada por um parque florestal, tem um ar mais bravio e menos urbano que as praias do centro. É palco tradicional das moragas, as noitadas malaguenhas com fogueira, comida e amigos na areia.",
+    "lat": 36.713,
+    "lng": -4.335,
+    "durationLabel": "meia diária",
+    "fit": "CLEAR_SKY",
+    "windSensitive": false,
+    "mapQuery": "Playa del Peñón del Cuervo, Málaga",
+    "links": [
+      {
+        "label": "Ficha oficial de turismo de Málaga",
+        "url": "https://visita.malaga.eu/en/what-to-see-and-do/beaches/penon-del-cuervo-beach-p103834"
+      }
+    ]
+  },
+  {
+    "id": "mlg_san_andres",
+    "categoryId": "praias",
+    "city": "malaga",
+    "name": "Playa de San Andrés",
+    "tagline": "Praia urbana com chiringuitos de sempre",
+    "description": "Praia central no bairro de Huelin, a um passo do porto e do centro. Popular entre os malaguenhos, é prática para um banho rápido sem sair da cidade, com chiringuitos tradicionais e passeio marítimo animado. Areia escura e serviços completos ao longo de toda a orla.",
+    "lat": 36.704,
+    "lng": -4.435,
+    "durationLabel": "meia diária",
+    "fit": "CLEAR_SKY",
+    "windSensitive": false,
+    "mapQuery": "Playa de San Andrés, Málaga"
+  },
+  {
+    "id": "nrj_torrecilla",
+    "categoryId": "praias",
+    "city": "axarquia",
+    "name": "Playa de la Torrecilla",
+    "tagline": "Bandeira Azul a passos do centro de Nerja",
+    "description": "A praia mais bem equipada de Nerja, a oeste do casco antigo e reconhecida com Bandeira Azul e o selo Q de Qualidade. Deve o nome aos restos de uma torre vigia que a acompanha, e reúne areia limpa, água calma e todos os serviços a poucos minutos a pé do centro. Tem até serviço de biblioteca de praia com livros em vários idiomas.",
+    "lat": 36.7442,
+    "lng": -3.8835,
+    "durationLabel": "meia diária",
+    "fit": "CLEAR_SKY",
+    "windSensitive": false,
+    "mapQuery": "Playa de la Torrecilla, Nerja",
+    "links": [
+      {
+        "label": "Guia de praias de Nerja",
+        "url": "https://esnerja.com/playas/playa-torrecilla/"
+      }
+    ]
+  },
+  {
+    "id": "nrj_carabeo",
+    "categoryId": "praias",
+    "city": "axarquia",
+    "name": "Playa de Carabeo",
+    "tagline": "Cala escondida sob as falésias",
+    "description": "Pequena cala íntima abraçada por falésias, que se alcança descendo uma escadaria ao fim da Calle Carabeo. Recolhida e de águas transparentes, recompensa quem procura sossego longe das praias mais movimentadas de Nerja. As vistas do alto do caminho, junto aos jardins do Carabeo, são espetaculares.",
+    "lat": 36.7452,
+    "lng": -3.8738,
+    "durationLabel": "meia diária",
+    "fit": "CLEAR_SKY",
+    "windSensitive": false,
+    "mapQuery": "Playa de Carabeo, Nerja",
+    "kingTip": "Leve o essencial: a descida é por escadas e não há grande estrutura na areia, o que é justamente o que mantém a cala tão tranquila."
+  },
+  {
+    "id": "nrj_el_salon",
+    "categoryId": "praias",
+    "city": "axarquia",
+    "name": "Playa El Salón",
+    "tagline": "Enseada urbana escondida no centro",
+    "description": "Cala aconchegante escondida logo abaixo do Balcón de Europa, a poucos passos do coração de Nerja. Apesar de central, passa despercebida por ficar num recanto que se acessa por uma ladeira, o que lhe garante águas calmas e abrigadas. Perfeita para um mergulho entre uma volta e outra pelo casco antigo.",
+    "lat": 36.7448,
+    "lng": -3.8785,
+    "durationLabel": "meia diária",
+    "fit": "CLEAR_SKY",
+    "windSensitive": false,
+    "mapQuery": "Playa El Salón, Nerja"
+  },
+  {
+    "id": "mrb_cabopino",
+    "categoryId": "praias",
+    "city": "marbella",
+    "name": "Playa de Cabopino",
+    "tagline": "Dunas naturais e torre vigia do século XV",
+    "description": "Uma das praias mais virgens da Costa del Sol, no leste de Marbella, junto ao Monumento Natural das Dunas de Artola. Mais de um quilômetro de areia fina e clara sob dunas protegidas e a imponente Torre de los Ladrones, a mais alta torre vigia da costa malaguenha. Metade da praia é tradicionalmente naturista, mas o ambiente é tranquilo e familiar.",
+    "lat": 36.4877,
+    "lng": -4.7418,
+    "durationLabel": "meia diária",
+    "fit": "CLEAR_SKY",
+    "windSensitive": true,
+    "mapQuery": "Playa de Cabopino, Marbella",
+    "kingTip": "Estacione junto à marina de Cabopino e faça a passarela de madeira sobre as dunas: é o jeito de atravessar sem pisar a vegetação protegida.",
+    "whereToEat": "Chiringuitos junto ao Puerto Deportivo de Cabopino, ao lado da praia."
+  },
+  {
+    "id": "mrb_nagueles",
+    "categoryId": "praias",
+    "city": "marbella",
+    "name": "Playa de Nagüeles",
+    "tagline": "Milha de Ouro com beach clubs de luxo",
+    "description": "Praia da célebre Milla de Oro de Marbella, entre o centro e Puerto Banús, cercada por hotéis e beach clubs de referência. Areia dourada e ampla, com serviço impecável e o ambiente sofisticado que fez a fama da cidade. É aqui que se alinham alguns dos endereços mais exclusivos da orla.",
+    "lat": 36.5045,
+    "lng": -4.9175,
+    "durationLabel": "meia diária",
+    "fit": "CLEAR_SKY",
+    "windSensitive": false,
+    "mapQuery": "Playa de Nagüeles, Marbella",
+    "whereToEat": "Beach clubs da Milla de Oro à beira da areia, do casual ao alta gastronomia."
+  },
+  {
+    "id": "mrb_estrella_mar",
+    "categoryId": "praias",
+    "city": "marbella",
+    "name": "Estrella del Mar Beach Club",
+    "tagline": "Beach club tranquilo na Marbella leste",
+    "description": "Beach club elegante e sereno na zona de Las Chapas/Elviria, integrado ao hotel Vincci Selección Estrella del Mar. Piscina infinita de frente para o mar, spa e cozinha mediterrânea fazem dele a escolha de quem quer um dia de praia calmo e confortável, ideal para casais e famílias. Menos festa e mais requinte que os beach clubs de Puerto Banús.",
+    "lat": 36.4832,
+    "lng": -4.7825,
+    "durationLabel": "meia diária",
+    "fit": "CLEAR_SKY",
+    "windSensitive": false,
+    "mapQuery": "Beach Club Estrella del Mar, Marbella",
+    "priceLevel": "~€30 mín. consumo (est.)"
+  },
+  {
+    "id": "mlg_meson_cervantes",
+    "categoryId": "tapas",
+    "city": "malaga",
+    "name": "El Mesón de Cervantes",
+    "tagline": "Tapas de autor junto à Plaza de la Merced",
+    "description": "Casa querida do centro histórico, a passos do Teatro Cervantes e da praça onde nasceu Picasso. A cozinha do chef argentino-malaguenho cruza o receituário andaluz com pinceladas de fora, em porções pequenas de execução caprichada e uma carta de vinhos bem escolhida. Ambiente descontraído e sempre cheio, ideal para uma noite de tapeo com calma.",
+    "lat": 36.72438,
+    "lng": -4.41876,
+    "durationLabel": "1–1,5 h",
+    "fit": "ANY",
+    "mapQuery": "El Mesón de Cervantes, Calle Álamos 11, Málaga",
+    "kingTip": "Peça as mollejas (moelas de vitela) grelhadas com chimichurri, a tapa-assinatura que fundiu Buenos Aires e Málaga.",
+    "priceLevel": "€€",
+    "hours": {
+      "openDays": "Todos os dias",
+      "openHour": "19:30",
+      "closeHour": "23:30",
+      "note": "Foco no jantar; confirme o dia de descanso semanal na alta temporada."
+    },
+    "links": [
+      {
+        "label": "Site oficial",
+        "url": "https://elmesondecervantes.com"
+      }
+    ]
+  },
+  {
+    "id": "mlg_uvedoble",
+    "categoryId": "tapas",
+    "city": "malaga",
+    "name": "Uvedoble Taberna",
+    "tagline": "Cozinha andaluza reinventada no Teatro Romano",
+    "description": "Taberna de referência do chef Willie Orellana, encravada na Calle Alcazabilla, entre o Teatro Romano e a Alcazaba. Releitura contemporânea da cozinha malaguenha em tapas de apresentação cuidada, servidas num salão estreito e vibrante de balcão animado. A escolha certa para quem quer tapas modernas sem perder a raiz local.",
+    "lat": 36.72186,
+    "lng": -4.41694,
+    "durationLabel": "1–1,5 h",
+    "fit": "ANY",
+    "mapQuery": "Uvedoble Taberna, Calle Alcazabilla 1, Málaga",
+    "kingTip": "Prove o célebre ovo com batata palha e trufa, a tapa que virou marca registrada da casa.",
+    "priceLevel": "€€",
+    "hours": {
+      "openDays": "Seg–Sáb",
+      "openHour": "12:30",
+      "closeHour": "00:00",
+      "note": "Domingos fechado; reserva recomendada à noite."
+    },
+    "links": [
+      {
+        "label": "Site oficial",
+        "url": "https://www.uvedobletaberna.com"
+      }
+    ]
+  },
+  {
+    "id": "mlg_tapeo_cervantes",
+    "categoryId": "tapas",
+    "city": "malaga",
+    "name": "El Tapeo de Cervantes",
+    "tagline": "Petiscos criativos junto ao Teatro Cervantes",
+    "description": "Bistrô de tapas minúsculo e acolhedor na Calle Cárcer, colado ao Teatro Cervantes. Poucas mesas e um balcão apertado servem pequenas porções criativas de raiz andaluza, com destaque para carnes de cocção lenta e produtos de mercado. Íntimo e concorrido, pede reserva antecipada.",
+    "lat": 36.72384,
+    "lng": -4.41946,
+    "durationLabel": "1–1,5 h",
+    "fit": "ANY",
+    "mapQuery": "El Tapeo de Cervantes, Calle Cárcer 8, Málaga",
+    "kingTip": "Peça o solomillo (filé) ao Pedro Ximénez, a tapa de assinatura regada ao vinho doce de Málaga.",
+    "priceLevel": "€€",
+    "hours": {
+      "openDays": "Todos os dias",
+      "openHour": "13:00",
+      "closeHour": "23:30",
+      "note": "Espaço pequeno; reserve com antecedência, sobretudo nos fins de semana."
+    },
+    "links": [
+      {
+        "label": "Site oficial",
+        "url": "https://eltapeodecervantes.com"
+      }
+    ]
+  },
+  {
+    "id": "mlg_lo_gueno",
+    "categoryId": "tapas",
+    "city": "malaga",
+    "name": "Mesón Lo Güeno",
+    "tagline": "Taberna clássica de tapas desde 1967",
+    "description": "Referência do tapeo tradicional malaguenho, na Calle Marín García desde 1967, a poucos metros da Calle Larios. Balcão farto de tapas, salão de vigas de madeira e presuntos pendurados servem clássicos andaluzes com generosidade. Casa de sempre para sentir a Málaga de outrora.",
+    "lat": 36.71872,
+    "lng": -4.41985,
+    "durationLabel": "1–1,5 h",
+    "fit": "ANY",
+    "mapQuery": "Mesón Lo Güeno, Calle Marín García 9, Málaga",
+    "kingTip": "Peça as berinjelas fritas com mel de cana, a tapa doce-salgada emblemática da casa.",
+    "priceLevel": "€€",
+    "hours": {
+      "openDays": "Todos os dias",
+      "openHour": "12:00",
+      "closeHour": "00:00",
+      "note": "Enche na hora do aperitivo e no jantar; há uma segunda casa na Calle Strachan."
+    },
+    "links": [
+      {
+        "label": "Site oficial",
+        "url": "https://logueno.com"
+      }
+    ]
+  },
+  {
+    "id": "grn_los_diamantes",
+    "categoryId": "tapas",
+    "city": "granada",
+    "name": "Los Diamantes (Plaza Nueva)",
+    "tagline": "Pescaíto frito e tapa grátis desde 1942",
+    "description": "Instituição granadina fundada em 1942, na animada Plaza Nueva, fiel à tradição da tapa gratuita a cada bebida. Frituras de peixe impecáveis, mariscos e um ambiente ruidoso de mesas comunais e balcão lotado captam a essência do sul. Não aceitam reserva e vive cheio, parte do encanto.",
+    "lat": 37.17655,
+    "lng": -3.5981,
+    "durationLabel": "45 min–1 h",
+    "fit": "ANY",
+    "mapQuery": "Los Diamantes, Plaza Nueva 13, Granada",
+    "kingTip": "Em Granada a tapa é grátis com a bebida; aqui peça o pescaíto frito variado, o carro-chefe da casa.",
+    "priceLevel": "€€",
+    "hours": {
+      "openDays": "Todos os dias",
+      "openHour": "12:00",
+      "closeHour": "00:00",
+      "note": "Não aceitam reserva; costuma lotar, com clientes em pé no balcão."
+    }
+  },
+  {
+    "id": "rnd_bodega_san_francisco",
+    "categoryId": "tapas",
+    "city": "ronda",
+    "name": "Bodega San Francisco",
+    "tagline": "Tapas serranas junto à muralha de Ronda",
+    "description": "Taberna do bairro San Francisco, ao pé da muralha e da Puerta de Almocábar, no sul da cidade velha. Carta enorme de tapas e porções de cozinha caseira serrana, servidas dentro ou num grande terraço à sombra. Muito frequentada por locais, com preços honestos e porções fartas.",
+    "lat": 36.73758,
+    "lng": -5.16558,
+    "durationLabel": "1–1,5 h",
+    "fit": "ANY",
+    "mapQuery": "Bodega San Francisco, Plaza Ruedo Alameda 32, Ronda",
+    "kingTip": "Peça o rabo de toro guisado, a tapa serrana mais pedida da casa, com um tinto da Serranía de Ronda.",
+    "priceLevel": "€€",
+    "hours": {
+      "openDays": "Todos os dias",
+      "openHour": "12:00",
+      "closeHour": "00:00",
+      "note": "Terraço amplo; enche no almoço e à noite na alta temporada."
+    },
+    "links": [
+      {
+        "label": "Site oficial",
+        "url": "https://bodegasanfrancisco.com"
+      }
+    ]
+  },
+  {
+    "id": "cor_taberna_salinas",
+    "categoryId": "tapas",
+    "city": "cordoba",
+    "name": "Taberna Salinas",
+    "tagline": "Taberna cordovesa de 1924 com pátio",
+    "description": "Taberna histórica fundada em 1924, perto da Plaza de las Tendillas, com botas de vinho no balcão e um belo pátio de colunas envidraçado e veladores de mármore. Cozinha cordovesa tradicional de receitas centenárias, tocada por gerações da mesma família. Uma das tabernas mais autênticas da cidade.",
+    "lat": 37.8853,
+    "lng": -4.7769,
+    "durationLabel": "1–1,5 h",
+    "fit": "ANY",
+    "mapQuery": "Taberna Salinas, Calle Tundidores 3, Córdoba",
+    "kingTip": "Peça as naranjas picadas com bacalhau e azeite, a tapa doce-salgada típica cordovesa que virou assinatura da casa.",
+    "priceLevel": "€€",
+    "hours": {
+      "openDays": "Seg–Sáb",
+      "openHour": "12:30",
+      "closeHour": "23:00",
+      "note": "Fecha à tarde entre serviços (16h–20h) e aos domingos."
+    },
+    "links": [
+      {
+        "label": "Site oficial",
+        "url": "http://www.tabernasalinas.com"
+      }
+    ]
+  },
+  {
+    "id": "cor_casa_pepe_juderia",
+    "categoryId": "tapas",
+    "city": "cordoba",
+    "name": "Casa Pepe de la Judería",
+    "tagline": "Terraço com vista da Mesquita na Judería",
+    "description": "Taberna histórica no labirinto da Judería, a poucos passos da Mesquita-Catedral, sob a chancela municipal de Taberna Histórica. Pátios frescos, salões e um terraço panorâmico com vista para os minaretes tornam a refeição memorável. Cozinha cordovesa clássica servida com esmero.",
+    "lat": 37.87975,
+    "lng": -4.7813,
+    "durationLabel": "1–2 h",
+    "fit": "ANY",
+    "mapQuery": "Casa Pepe de la Judería, Calle Romero 1, Córdoba",
+    "kingTip": "Suba ao terraço ao entardecer e peça o salmorejo cordovês e o rabo de toro, os dois pratos-símbolo da casa.",
+    "priceLevel": "€€€",
+    "hours": {
+      "openDays": "Todos os dias",
+      "openHour": "13:00",
+      "closeHour": "23:30",
+      "note": "Terraço com vista muito disputado; reserve para garantir mesa lá em cima."
+    }
+  },
+  {
+    "id": "cor_taberna_san_miguel",
+    "categoryId": "tapas",
+    "city": "cordoba",
+    "name": "Taberna San Miguel \"El Pisto\"",
+    "tagline": "Montilla-Moriles numa taberna centenária",
+    "description": "Taberna clássica na recolhida Plaza de San Miguel, com azulejos, cartazes de touros e barris de fino Montilla-Moriles ao fundo. Tocada pela mesma família desde 1974, mantém viva a alma da taberna cordovesa de sempre. Ambiente caloroso e preços amáveis, longe das rotas mais turísticas.",
+    "lat": 37.88755,
+    "lng": -4.77895,
+    "durationLabel": "45 min–1,5 h",
+    "fit": "ANY",
+    "mapQuery": "Taberna San Miguel El Pisto, Plaza San Miguel 1, Córdoba",
+    "kingTip": "Peça o pisto cordovês que dá apelido à casa, acompanhado de um fino Montilla-Moriles do barril.",
+    "priceLevel": "€€",
+    "hours": {
+      "openDays": "Seg–Sáb",
+      "openHour": "12:00",
+      "closeHour": "16:00",
+      "note": "Reabre à noite (20h–24h); fecha aos domingos e em agosto costuma reduzir horário."
+    },
+    "links": [
+      {
+        "label": "Site oficial",
+        "url": "https://tabernacordoba.es"
+      }
+    ]
+  },
+  {
+    "id": "cor_bodegas_campos",
+    "categoryId": "tapas",
+    "city": "cordoba",
+    "name": "Bodegas Campos",
+    "tagline": "Pátios cordoveses e bodega histórica",
+    "description": "Conjunto de casas e pátios andaluzes entre a Igreja de San Pedro e a Plaza del Potro, com uma bodega de tonéis assinados por personalidades. Reúne uma taberna de balcão para petiscar e um restaurante mais tranquilo, ambos de cozinha cordovesa refinada. Uma das mesas de mais solera da cidade.",
+    "lat": 37.88248,
+    "lng": -4.7733,
+    "durationLabel": "1–2 h",
+    "fit": "ANY",
+    "mapQuery": "Bodegas Campos, Calle Lineros 32, Córdoba",
+    "kingTip": "Fique na zona de taberna e peça um fino da casa com o salmorejo, a dupla que resume Córdoba no copo e no prato.",
+    "priceLevel": "€€€",
+    "hours": {
+      "openDays": "Todos os dias",
+      "openHour": "13:00",
+      "closeHour": "23:30",
+      "note": "Estacionamento privativo para clientes; domingos costuma servir só ao almoço."
+    },
+    "links": [
+      {
+        "label": "Site oficial",
+        "url": "https://bodegascampos.com"
+      }
+    ]
+  },
+  {
+    "id": "grn_om_kalsum",
+    "categoryId": "tapas",
+    "city": "granada",
+    "name": "Om Kalsum",
+    "tagline": "Tapas árabes e vegetarianas em Granada",
+    "description": "Bar diferente na Calle Jardines, no centro de Granada, que troca a fritura andaluza por tapas marroquinas e do Oriente Médio. Fiel ao costume local, cada bebida vem com uma tapa gratuita, aqui em versão de cuscuz, tajine e legumes especiados. Barato, saboroso e um dos favoritos vegetarianos da cidade.",
+    "lat": 37.1768,
+    "lng": -3.6005,
+    "durationLabel": "45 min–1 h",
+    "fit": "ANY",
+    "mapQuery": "Om Kalsum, Calle Jardines 17, Granada",
+    "kingTip": "A tapa vem grátis com a bebida; segure a mão nas primeiras rodadas para receber o cuscuz de legumes e as berinjelas com mel.",
+    "priceLevel": "€",
+    "hours": {
+      "openDays": "Todos os dias",
+      "openHour": "13:00",
+      "closeHour": "00:00",
+      "note": "Fecha à tarde entre serviços; espaço pequeno e muito procurado à noite."
+    }
+  },
+  {
+    "id": "grn_bodega_la_mancha",
+    "categoryId": "tapas",
+    "city": "granada",
+    "name": "Bodega La Mancha",
+    "tagline": "Vermute de torneira e embutidos desde 1956",
+    "description": "Bodega emblemática aberta em 1956, a passos da Plaza Isabel la Católica, com paredes forradas de garrafas e presuntos pendurados sobre o balcão. Vermute de torneira, montaditos e tábuas de embutidos mantêm viva a tapa gratuita de Granada. Estreita, ruidosa e deliciosamente autêntica.",
+    "lat": 37.17492,
+    "lng": -3.59772,
+    "durationLabel": "45 min–1 h",
+    "fit": "ANY",
+    "mapQuery": "Bodega La Mancha, Calle Joaquín Costa 10, Granada",
+    "kingTip": "Peça o vermute de torneira com um montadito de presunto, o combo que os granadinos repetem à tarde.",
+    "priceLevel": "€",
+    "hours": {
+      "openDays": "Todos os dias",
+      "openHour": "12:00",
+      "closeHour": "00:00",
+      "note": "Bar pequeno; a maioria bebe em pé no balcão ou na calçada."
+    }
+  },
+  {
+    "id": "mrb_casa_curro",
+    "categoryId": "tapas",
+    "city": "marbella",
+    "name": "Taberna Casa Curro",
+    "tagline": "Ibéricos e gambas de Huelva no casco antigo",
+    "description": "Taberna acolhedora escondida no casco antigo de Marbella, aberta em 2008 na estreita Calle Pantaleón, perto da Plaza de los Naranjos. Foco em ibéricos, queijos artesanais e produto do mar, com bons vinhos andaluzes por taça. Cantinho autêntico em meio ao charme caiado da cidade velha.",
+    "lat": 36.51022,
+    "lng": -4.88503,
+    "durationLabel": "1–1,5 h",
+    "fit": "ANY",
+    "mapQuery": "Taberna Casa Curro, Calle Pantaleón 7, Marbella",
+    "kingTip": "Peça as gambas blancas de Huelva e o lomo en orza, as duas tapas que definem a casa.",
+    "priceLevel": "€€",
+    "hours": {
+      "openDays": "Todos os dias",
+      "openHour": "12:00",
+      "closeHour": "00:30",
+      "note": "Fecha à tarde entre serviços (16h–19h30); não aceita reserva, chegue cedo."
+    },
+    "links": [
+      {
+        "label": "Site oficial",
+        "url": "https://grupocasacurro.com"
+      }
+    ]
+  },
+  {
+    "id": "mrb_bar_el_estrecho",
+    "categoryId": "tapas",
+    "city": "marbella",
+    "name": "Bar El Estrecho",
+    "tagline": "Bar de tapas de 1954 num beco do casco antigo",
+    "description": "Bar minúsculo e cultuado, aberto em 1954, escondido numa ruela estreita do casco antigo de Marbella. Familiar e sempre movimentado, brilha nas frituras de peixe, boquerones e numa ensaladilla russa de fama local. Autêntico e despretensioso, longe do glamour da marina.",
+    "lat": 36.51068,
+    "lng": -4.88494,
+    "durationLabel": "45 min–1 h",
+    "fit": "ANY",
+    "mapQuery": "Bar El Estrecho, Calle San Lázaro 12, Marbella",
+    "kingTip": "Peça a ensaladilla russa, tida como uma das melhores da cidade, com uns boquerones en vinagre.",
+    "priceLevel": "€",
+    "hours": {
+      "openDays": "Todos os dias",
+      "openHour": "12:30",
+      "closeHour": "00:00",
+      "note": "Espaço apertado; nos fins de semana lota rápido, chegue cedo."
+    },
+    "links": [
+      {
+        "label": "Site oficial",
+        "url": "https://www.barelestrecho.com"
+      }
+    ]
+  },
+  {
+    "id": "axq_la_puntilla_nerja",
+    "categoryId": "tapas",
+    "city": "axarquia",
+    "name": "La Puntilla",
+    "tagline": "Pescado fresco e tapa grátis em Nerja",
+    "description": "Bar de tapas e casa de peixe no casco urbano de Nerja, pertinho da Playa Torrecilla. Mantém o costume da tapa gratuita a cada bebida e capricha no pescado fresco frito na hora, a preço justo. Ambiente local e franco, com um restaurante vizinho que homenageia o produto do mar.",
+    "lat": 36.74522,
+    "lng": -3.87918,
+    "durationLabel": "45 min–1 h",
+    "fit": "ANY",
+    "mapQuery": "La Puntilla, Calle Bolivia 1, Nerja",
+    "kingTip": "A tapa vem grátis com a bebida; peça o pescaíto frito do dia, sempre fresco do balcão de peixe.",
+    "priceLevel": "€€",
+    "hours": {
+      "openDays": "Todos os dias",
+      "openHour": "12:00",
+      "closeHour": "23:30",
+      "note": "Muito procurado no verão; a barra de tapas costuma encher no fim da tarde."
+    },
+    "links": [
+      {
+        "label": "Site oficial",
+        "url": "https://www.lapuntillanerja.es"
+      }
+    ]
+  },
+  {
+    "id": "ant_arte_de_cozina",
+    "categoryId": "tapas",
+    "city": "antequera",
+    "name": "Arte de Cozina",
+    "tagline": "Cozinha antequerana de raiz e receitas locais",
+    "description": "Casa de comidas num edifício do século XVII no centro histórico de Antequera, que reúne restaurante, bar de tapas e pequena hospedaria. Resgata receitas locais e hortaliças de sequeiro numa carta de mais de trinta tapas premiadas em feiras gastronômicas. Um mergulho fundo na despensa antequerana.",
+    "lat": 37.01865,
+    "lng": -4.56178,
+    "durationLabel": "1–1,5 h",
+    "fit": "ANY",
+    "mapQuery": "Arte de Cozina, Calle Calzada 25, Antequera",
+    "kingTip": "Peça a porra antequerana, gaspacho espesso local coroado com ovo cozido e presunto, o prato que a casa consagrou.",
+    "priceLevel": "€€",
+    "hours": {
+      "openDays": "Todos os dias",
+      "openHour": "13:00",
+      "closeHour": "23:00",
+      "note": "Fecha à tarde entre serviços; confirme o dia de descanso na baixa temporada."
+    },
+    "links": [
+      {
+        "label": "Site oficial",
+        "url": "https://www.artedecozina.com"
+      }
+    ]
+  },
+  {
+    "id": "ant_arco_de_los_gigantes",
+    "categoryId": "antequera",
+    "city": "antequera",
+    "name": "Arco de los Gigantes",
+    "tagline": "Pórtico renascentista da Antequera romana",
+    "description": "Portal monumental erguido em 1585 para substituir uma entrada em cotovelo da muralha muçulmana, evocando os arcos de triunfo clássicos. Nos seus dois metros de espessura foram encravadas lápides e inscrições latinas da Antikaria romana e das cidades vizinhas, além de um brasão de Filipe II. Emoldura, ao fundo, a Colegiata e a Alcazaba.",
+    "lat": 37.01522,
+    "lng": -4.55694,
+    "durationLabel": "15–20 min",
+    "fit": "CLEAR_SKY",
+    "mapQuery": "Arco de los Gigantes, Antequera",
+    "kingTip": "Atravesse o arco e vire-se: o vão de meio-ponto enquadra a torre da Colegiata numa das fotos mais clássicas de Antequera.",
+    "priceLevel": "Gratuito",
+    "links": [
+      {
+        "label": "Turismo Antequera",
+        "url": "https://turismo.antequera.es/puntos-de-interes/arco-de-los-gigantes/"
+      }
+    ]
+  },
+  {
+    "id": "ant_iglesia_del_carmen",
+    "categoryId": "antequera",
+    "city": "antequera",
+    "name": "Iglesia del Carmen",
+    "tagline": "Retábulos barrocos sob teto mudéjar",
+    "description": "Antiga igreja dos carmelitas descalços, construída entre os séculos XVI e XVII em estilo mudéjar, com magnífico artesoado de madeira. Guarda um dos conjuntos de retábulos barrocos mais importantes da província: o retábulo-mor, anterior a 1747, dispensa o dourado e exibe a cor natural da madeira, com colunas, nichos e mais de cinquenta imagens. Peça única da Andaluzia.",
+    "lat": 37.01607,
+    "lng": -4.5535,
+    "durationLabel": "20–30 min",
+    "fit": "INDOOR",
+    "mapQuery": "Iglesia del Carmen, Antequera",
+    "kingTip": "Fica no ponto mais alto do casco: combine a visita com a subida à Alcazaba e ao Arco, todos a poucos passos.",
+    "priceLevel": "€2",
+    "hours": "Ter–Sex 11:00–13:30 e 16:30–17:45; Sáb–Dom 11:00–14:00",
+    "links": [
+      {
+        "label": "Turismo Antequera",
+        "url": "https://turismo.antequera.es/puntos-de-interes/iglesia-del-carmen/"
+      }
+    ]
+  },
+  {
+    "id": "ant_termas_romanas_santa_maria",
+    "categoryId": "antequera",
+    "city": "antequera",
+    "name": "Termas Romanas de Santa María",
+    "tagline": "Os banhos da Antikaria sob a Colegiata",
+    "description": "Termas romanas descobertas por acaso em 1988 aos pés da Real Colegiata de Santa María, a primeira prova conclusiva da cidade de Antikaria sob o casco atual. Estiveram em uso da segunda metade do século I até o século V, e conservam a sequência clássica de salas frias, mornas e quentes — frigidarium, tepidarium e caldarium. Painéis recriam em 3D o estado original.",
+    "lat": 37.0185,
+    "lng": -4.5581,
+    "durationLabel": "20–30 min",
+    "fit": "CLEAR_SKY",
+    "mapQuery": "Termas Romanas de Santa María, Antequera",
+    "kingTip": "Estão coladas à Colegiata e ao Arco dos Gigantes: encadeie os três num único passeio pela parte alta.",
+    "priceLevel": "Gratuito",
+    "links": [
+      {
+        "label": "Turismo Antequera",
+        "url": "https://turismo.antequera.es/puntos-de-interes/termas-romanas/"
+      }
+    ]
+  },
+  {
+    "id": "ant_mirador_almenillas",
+    "categoryId": "antequera",
+    "city": "antequera",
+    "name": "Mirador de las Almenillas",
+    "tagline": "As torres de Antequera num só olhar",
+    "description": "Balcão panorâmico junto ao Arco de los Gigantes e às muralhas da Alcazaba. De costas para a fortaleza, abre-se uma das vistas mais emblemáticas da vila, com o rosário de igrejas, torres, campanários e palácios erguidos ao longo de quatro séculos. Em dias limpos, a Peña de los Enamorados recorta-se no horizonte.",
+    "lat": 37.0153,
+    "lng": -4.5575,
+    "durationLabel": "10–15 min",
+    "fit": "CLEAR_SKY",
+    "mapQuery": "Mirador de las Almenillas, Antequera",
+    "kingTip": "Venha ao entardecer: a luz rasante acende os campanários de tijolo e dá o melhor recorte da Peña de los Enamorados ao fundo.",
+    "priceLevel": "Gratuito",
+    "links": [
+      {
+        "label": "Turismo Antequera",
+        "url": "https://turismo.antequera.es/puntos-de-interes/mirador-almenillas/"
+      }
+    ]
+  },
+  {
+    "id": "ant_plaza_de_san_sebastian",
+    "categoryId": "antequera",
+    "city": "antequera",
+    "name": "Plaza de San Sebastián",
+    "tagline": "Fonte renascentista no coração da vila",
+    "description": "Um dos conjuntos urbanos mais belos de Antequera, com origem em 1508. No centro está a fonte renascentista lavrada por Baltasar de Godros em 1545, coroada por um anjo. Preside a praça a Real Colegiata de San Sebastián, com fachada plateresca de 1548 e um esbelto campanário barroco de tijolo rematado por veleta, ponto de encontro da cidade.",
+    "lat": 37.01646,
+    "lng": -4.56144,
+    "durationLabel": "20–30 min",
+    "fit": "CLEAR_SKY",
+    "mapQuery": "Plaza de San Sebastián, Antequera",
+    "kingTip": "É o marco-zero para caminhar a rua Infante Don Fernando: comece aqui e deixe a praça se abrir das mesas dos cafés ao campanário.",
+    "priceLevel": "Gratuito",
+    "links": [
+      {
+        "label": "Turismo Antequera",
+        "url": "https://turismo.antequera.es/puntos-de-interes/plaza-de-san-sebastian/"
+      }
+    ]
+  },
+  {
+    "id": "ant_iglesia_de_los_remedios",
+    "categoryId": "antequera",
+    "city": "antequera",
+    "name": "Iglesia de Nuestra Señora de los Remedios",
+    "tagline": "A padroeira sob colunas salomônicas",
+    "description": "Antigo convento franciscano na rua Infante Don Fernando, iniciado em 1628 e declarado Monumento Histórico-Artístico Nacional. Abriga a Virgen de los Remedios, padroeira de Antequera desde 1546. O altar-mor é dominado por um enorme retábulo barroco de colunas salomônicas douradas, um dos mais teatrais da cidade.",
+    "lat": 37.0196,
+    "lng": -4.56282,
+    "durationLabel": "20–30 min",
+    "fit": "INDOOR",
+    "mapQuery": "Iglesia de los Remedios, Antequera",
+    "kingTip": "Fica sobre a artéria principal da vila: entre para um respiro do calor e admire o dourado do retábulo antes de seguir a pé.",
+    "priceLevel": "Gratuito",
+    "links": [
+      {
+        "label": "Turismo Antequera",
+        "url": "https://turismo.antequera.es/puntos-de-interes/iglesia-de-nuestra-senora-de-los-remedios/"
+      }
+    ]
+  },
+  {
+    "id": "ant_dolmen_del_romeral",
+    "categoryId": "antequera",
+    "city": "antequera",
+    "name": "Dolmen del Romeral (Tholos de El Romeral)",
+    "tagline": "O tholos megalítico da Idade do Bronze",
+    "description": "O terceiro grande megálito de Antequera, a cerca de 2,5 km do centro e distinto de Menga e Viera. Construído por volta de 1800 a.C., é um sepulcro de falsa cúpula do tipo tholos: um longo corredor de lajes conduz a uma câmara funerária circular coberta por aproximação de fiadas. Integra, com os outros dolmens, o conjunto Patrimônio Mundial da UNESCO desde 2016.",
+    "lat": 37.03444,
+    "lng": -4.53556,
+    "durationLabel": "30–45 min",
+    "fit": "ANY",
+    "mapQuery": "Tholos de El Romeral, Antequera",
+    "kingTip": "Fica fora do centro de visitantes principal e exige carro: some 15 min ao trajeto de Menga e feche a trilogia megalítica no mesmo dia.",
+    "priceLevel": "Gratuito",
+    "hours": "Ter–Sáb (horário varia por estação); dom e feriados 09:00–15:00; seg fechado",
+    "links": [
+      {
+        "label": "Turismo Antequera",
+        "url": "https://turismo.antequera.es/puntos-de-interes/tholos-de-el-romeral/"
+      }
+    ]
+  },
+  {
+    "id": "ant_plaza_ochavada_archidona",
+    "categoryId": "antequera",
+    "city": "antequera",
+    "name": "Plaza Ochavada (Archidona)",
+    "tagline": "A praça octogonal do barroco andaluz",
+    "description": "Joia do urbanismo barroco andaluz na vizinha Archidona, construída entre 1780 e 1789 sobre uma zona insalubre. De planta octogonal, cada uma das oito fachadas recebeu decoração distinta em alvenaria de tijolo e cal, obra dos alarifes González Sevillano e Astorga Frías. Foi centro administrativo e palco de touradas, e é hoje um dos cartões-postais da província.",
+    "lat": 37.09456,
+    "lng": -4.39053,
+    "durationLabel": "20–30 min",
+    "fit": "CLEAR_SKY",
+    "mapQuery": "Plaza Ochavada, Archidona",
+    "kingTip": "Archidona fica a ~20 min de carro de Antequera: combine a praça com a subida ao castelo e à ermita da Virgen de Gracia.",
+    "priceLevel": "Gratuito",
+    "links": [
+      {
+        "label": "La Provincia — Diputación de Málaga",
+        "url": "https://www.malaga.es/en/laprovincia/patrimonio/lis_cd-5079/plaza-ochavada-octagonal-square"
+      }
+    ]
+  },
+  {
+    "id": "ant_ermita_virgen_de_gracia_archidona",
+    "categoryId": "antequera",
+    "city": "antequera",
+    "name": "Castillo y Ermita de la Virgen de Gracia (Archidona)",
+    "tagline": "Mesquita mourisca no alto do castelo",
+    "description": "No ponto mais alto de Archidona, dentro do antigo castelo árabe, ergue-se uma das duas únicas mesquitas conservadas na província, de origem almóada, consagrada como igreja no século XV. Guarda arcos em ferradura, um antigo minarete convertido em campanário e cúpula setecentista. Do recinto — com torre de menagem, cisterna e a Puerta del Sol — abre-se o mirante mais espetacular sobre a vila.",
+    "lat": 37.1001,
+    "lng": -4.3861,
+    "durationLabel": "45–60 min",
+    "fit": "ANY",
+    "mapQuery": "Ermita de la Virgen de Gracia, Archidona",
+    "kingTip": "A subida à sierra se faz de carro ou a pé; guarde a chegada ao mirante para o fim da tarde, quando a planície de Archidona ganha luz dourada.",
+    "priceLevel": "Gratuito",
+    "links": [
+      {
+        "label": "Andalucía.org",
+        "url": "https://www.andalucia.org/es/archidona-turismo-cultural-mezquita-ermita-de-la-virgen-de-gracia"
+      }
+    ]
+  },
+  {
+    "id": "nrj_torre_de_maro",
+    "categoryId": "axarquia",
+    "city": "axarquia",
+    "name": "Torre Vigía de Maro",
+    "tagline": "Atalaia do século XVI sobre a falésia",
+    "description": "Torre de vigia costeira do século XVI, também chamada Torre de Calaturcos, plantada num rochedo à beira do penhasco a leste de Maro. Fazia parte da rede de atalaias que avistava os corsários berberes e acendia fogueiras de alarme ao longo da costa. Hoje é um miradouro solitário sobre o mar aberto e o Parque Natural de Maro-Cerro Gordo.",
+    "lat": 36.7537,
+    "lng": -3.8299,
+    "durationLabel": "30–45 min (com caminhada)",
+    "fit": "CLEAR_SKY",
+    "mapQuery": "Torre de Maro, Nerja",
+    "kingTip": "Chega-se por uma trilha de terra de cerca de 600 m a partir da N-340; leve água e vá calçado, o final é exposto ao sol.",
+    "priceLevel": "Gratuito"
+  },
+  {
+    "id": "axq_competa_pueblo",
+    "categoryId": "axarquia",
+    "city": "axarquia",
+    "name": "Cómpeta",
+    "tagline": "A vila branca do vinho da Almijara",
+    "description": "Povoado branco pendurado nas encostas da Serra de Almijara, capital histórica do vinho doce da Axarquía. As ruas íngremes convergem para a Plaza Almijara, dominada pela torre da igreja de la Asunción, entre adegas artesanais e varandas floridas. Ao redor, socalcos de uva moscatel descem até o vale com o mar ao fundo.",
+    "lat": 36.833,
+    "lng": -3.9749,
+    "durationLabel": "1–2 h",
+    "fit": "ANY",
+    "mapQuery": "Plaza Almijara, Cómpeta",
+    "kingTip": "Prove o vino de Cómpeta direto numa adega da praça; a noche del Vino, em meados de agosto, enche as ruas de dança e degustação gratuita.",
+    "priceLevel": "Gratuito (a vila)"
+  },
+  {
+    "id": "axq_torrox_pueblo",
+    "categoryId": "axarquia",
+    "city": "axarquia",
+    "name": "Torrox Pueblo",
+    "tagline": "Labirinto mouro sobre o vale do rio",
+    "description": "O núcleo histórico de Torrox, terra adentro, conserva a trama de becos brancos de origem andalusí que rende o slogan local do melhor clima da Europa. A Plaza de la Constitución, com a estátua de Almanzor, é o coração da vila, cercada de casas caiadas e da igreja de Nuestra Señora de la Encarnación. Distinto e mais autêntico que a movimentada Torrox Costa.",
+    "lat": 36.758,
+    "lng": -3.952,
+    "durationLabel": "1–1,5 h",
+    "fit": "ANY",
+    "mapQuery": "Plaza de la Constitución, Torrox",
+    "kingTip": "Domingo de manhã a vila enche de vida no mercado; estacione na entrada e desça a pé, os becos não comportam carro.",
+    "priceLevel": "Gratuito"
+  },
+  {
+    "id": "axq_velez_fortaleza",
+    "categoryId": "axarquia",
+    "city": "axarquia",
+    "name": "La Fortaleza de Vélez-Málaga",
+    "tagline": "Alcáçova nasrida sobre a capital da Axarquía",
+    "description": "Fortaleza de origem no século X, ampliada pelos nasridas, que coroa o morro sobre o casco antigo de Vélez-Málaga, a maior cidade da comarca. Da Torre del Homenaje reconstruída, de 16 metros, abre-se um panorama de 360º sobre o bairro branco da Villa, o vale e a linha do mar. Foi uma das praças-fortes mais importantes do reino de Granada até a conquista de 1487.",
+    "lat": 36.7822,
+    "lng": -4.0983,
+    "durationLabel": "45 min – 1 h",
+    "fit": "CLEAR_SKY",
+    "mapQuery": "La Fortaleza, Vélez-Málaga",
+    "kingTip": "Suba a pé pelo bairro histórico da Villa até a fortaleza; a subida pelas ruas caiadas já é metade do passeio e rende as melhores vistas ao entardecer.",
+    "priceLevel": "Gratuito"
+  },
+  {
+    "id": "axq_archez_alminar",
+    "categoryId": "axarquia",
+    "city": "axarquia",
+    "name": "Alminar Mudéjar de Árchez",
+    "tagline": "Minarete almóada de tijolo do século XIV",
+    "description": "Numa das menores vilas da Axarquía, ergue-se um dos melhores minaretes almóadas conservados na Espanha, hoje campanário da igreja de Nuestra Señora de la Encarnación. A torre de tijolo vermelho, de 15 metros, exibe painéis geométricos em losango que contrastam com o branco das casas ao redor. É a joia da Ruta del Mudéjar da comarca.",
+    "lat": 36.8323,
+    "lng": -3.966,
+    "durationLabel": "30–45 min",
+    "fit": "ANY",
+    "mapQuery": "Alminar Mudéjar, Árchez",
+    "kingTip": "Combine com Salares e Sedella no mesmo dia: as três vilas mudéjares ficam a poucos quilômetros pela mesma estrada de vale.",
+    "priceLevel": "Gratuito (exterior)"
+  },
+  {
+    "id": "axq_salares_alminar",
+    "categoryId": "axarquia",
+    "city": "axarquia",
+    "name": "Salares e seu Alminar",
+    "tagline": "Vila mudéjar sem carros ao pé da serra",
+    "description": "Salares é um dos povoados mais bem preservados da rota mudéjar, de becos estreitos onde os carros nem entram. Seu minarete almóada dos séculos XIII–XIV, de tijolo com decoração em sebka, é hoje a torre da igreja de Santa Ana e um Monumento Histórico Nacional. Ao redor, hortas, uma ponte medieval e o silêncio da Sierra de Almijara.",
+    "lat": 36.8548,
+    "lng": -4.0158,
+    "durationLabel": "45 min – 1 h",
+    "fit": "ANY",
+    "mapQuery": "Alminar de Salares, Salares",
+    "kingTip": "Deixe o carro no estacionamento da entrada e caminhe: o casco é intransponível de carro e a graça está em se perder pelos becos.",
+    "priceLevel": "Gratuito"
+  },
+  {
+    "id": "axq_sayalonga_cementerio_redondo",
+    "categoryId": "axarquia",
+    "city": "axarquia",
+    "name": "Cemitério Redondo de Sayalonga",
+    "tagline": "O único camposanto octogonal da Espanha",
+    "description": "Curiosidade da vila de Sayalonga, este cemitério da primeira metade do século XIX tem planta octogonal, caso único na Espanha, e por isso ficou conhecido como o cemitério redondo. Nichos abobadados dispostos em anel guardam figuras e símbolos que renderam mil lendas locais. Fica na saída norte da vila, na estrada para Cómpeta, com vista sobre o vale.",
+    "lat": 36.8395,
+    "lng": -3.9948,
+    "durationLabel": "30–45 min",
+    "fit": "ANY",
+    "mapQuery": "Cementerio Redondo, Sayalonga",
+    "kingTip": "Passe antes pela Plaza de la Rosa, no casco, e prove os nísperos de Sayalonga, fruta símbolo da vila na primavera.",
+    "priceLevel": "Gratuito"
+  },
+  {
+    "id": "axq_sedella_pueblo",
+    "categoryId": "axarquia",
+    "city": "axarquia",
+    "name": "Sedella",
+    "tagline": "Vila branca aos pés da Tejeda",
+    "description": "Povoado branco encravado nas encostas da Sierra de Tejeda, de origem mourisca e traçado íngreme de becos e arcos. Destacam-se a Casa Torreón, com sua fachada mudéjar renascentista, e a igreja de San Andrés. É um dos pontos de partida para a subida ao pico La Maroma, o mais alto da província, e mira ampla sobre o vale.",
+    "lat": 36.868,
+    "lng": -4.029,
+    "durationLabel": "45 min – 1 h",
+    "fit": "ANY",
+    "mapQuery": "Sedella, Málaga",
+    "kingTip": "Combine com a Fábrica de la Luz, área de piquenique com nascentes a poucos quilômetros acima da vila, ideal no calor do verão.",
+    "priceLevel": "Gratuito"
+  },
+  {
+    "id": "mlg_cementerio_ingles",
+    "categoryId": "malaga",
+    "city": "malaga",
+    "name": "Cementerio Inglés (English Cemetery)",
+    "tagline": "O jardim romântico dos que aqui morreram",
+    "description": "O primeiro cemitério protestante da Espanha, aberto em 1831 numa encosta ajardinada sobre o mar, na Avenida de Pries. Antes disso, os não católicos eram enterrados na areia da praia à noite; aqui ganharam um jardim de ciprestes, buganvílias e lápides cobertas de conchas. É um recanto silencioso e cheio de histórias, com túmulos de poetas, cônsules e marinheiros náufragos.",
+    "lat": 36.7212,
+    "lng": -4.4071,
+    "durationLabel": "45min",
+    "fit": "ANY",
+    "mapQuery": "Cementerio Inglés de Málaga, Spain",
+    "whatToDo": [
+      "Ver o túmulo do poeta Jorge Guillén e as sepulturas em concha",
+      "Passear pela alameda de ciprestes até a pequena capela de St. George",
+      "Ler as histórias de cônsules, viajantes e vítimas de naufrágios"
+    ],
+    "kingTip": "Fica a dez minutos a pé da Malagueta, subindo a Avenida de Pries; combine com a praça de touros e o Paseo. É sombreado e fresco, bom refúgio do sol do meio-dia, e o donativo de entrada ajuda na conservação.",
+    "priceLevel": "~€4 (donativo, est.)",
+    "links": [
+      {
+        "label": "Fundación Cementerio Inglés",
+        "url": "https://cementerioinglesmalaga.org/"
+      }
+    ],
+    "history": "Fundado em 1831 pelo cônsul britânico William Mark, pôs fim ao costume macabro de enterrar protestantes de pé na areia da praia, à mercê da maré e dos cães."
+  },
+  {
+    "id": "mlg_plaza_constitucion_chinitas",
+    "categoryId": "malaga",
+    "city": "malaga",
+    "name": "Plaza de la Constitución e Pasaje de Chinitas",
+    "tagline": "O coração histórico e seu beco lendário",
+    "description": "A praça maior de Málaga desde a Reconquista, presidida pela Fuente de Génova de mármore do século XVI, é o ponto onde desemboca a Calle Larios. Dali parte o Pasaje de Chinitas, uma travessa cruciforme de casas caiadas que abrigava o célebre café-cantante imortalizado por García Lorca. Juntos condensam a alma do centro antigo.",
+    "lat": 36.7197,
+    "lng": -4.4206,
+    "durationLabel": "30min",
+    "fit": "ANY",
+    "mapQuery": "Plaza de la Constitución, Málaga, Spain",
+    "whatToDo": [
+      "Ver a Fuente de Génova, no centro da praça pedonal",
+      "Entrar pelo arco do Pasaje de Chinitas e sentir o beco flamenco",
+      "Usar a praça como marco zero para explorar o centro histórico"
+    ],
+    "kingTip": "Entre no Pasaje de Chinitas pela porta ao lado do número 13 da praça: é curto mas guarda o espírito do velho café-cantante que Lorca celebrou. À noite a praça ganha esplanadas e músicos de rua.",
+    "priceLevel": "Grátis (praça)",
+    "history": "Chamada Plaza Mayor e depois Plaza de las Cuatro Calles, recebeu o nome atual em 1812, com a primeira constituição espanhola; o pasaje deve o nome ao ator Chinitas, que trabalhou num café ali dentro."
+  },
+  {
+    "id": "mlg_iglesia_santiago",
+    "categoryId": "malaga",
+    "city": "malaga",
+    "name": "Iglesia de Santiago Apóstol",
+    "tagline": "A igreja mais antiga, onde Picasso foi batizado",
+    "description": "Fundada em 1490, logo após a Reconquista, é a paróquia mais antiga de Málaga, erguida sobre uma antiga mesquita. Destaca-se a esbelta torre mudéjar de tijolo e azulejos, um dos raros vestígios daquele estilo na cidade, e o interior barroco. Foi aqui que, em 10 de novembro de 1881, batizaram Pablo Ruiz Picasso.",
+    "lat": 36.7223,
+    "lng": -4.4175,
+    "durationLabel": "20-30min",
+    "fit": "INDOOR",
+    "mapQuery": "Iglesia de Santiago Apóstol, Calle Granada, Málaga, Spain",
+    "whatToDo": [
+      "Admirar a torre mudéjar em tijolo, único vestígio do estilo no centro",
+      "Ver a pia batismal ligada a Picasso e o interior barroco",
+      "Combinar com um passeio pela senhorial Calle Granada"
+    ],
+    "kingTip": "Fica na Calle Granada, no caminho entre a Catedral e a Plaza de la Merced, onde nasceu Picasso; encaixe na rota picassiana. Respeite os horários de missa, quando a visita turística é desencorajada.",
+    "priceLevel": "Grátis",
+    "links": [
+      {
+        "label": "Visita Málaga (oficial)",
+        "url": "https://visita.malaga.eu/en/what-to-see-and-do/culture/historic-monuments/monuments/santiago-church-p103578"
+      }
+    ],
+    "history": "Ordenada pelos Reis Católicos em 1490 sobre uma mesquita, fundiu naves góticas com a torre mudéjar; nela se casaram os avós e os pais de Picasso antes de o pintor ser ali batizado."
+  },
+  {
+    "id": "mlg_basilica_victoria",
+    "categoryId": "malaga",
+    "city": "malaga",
+    "name": "Basílica de Santa María de la Victoria",
+    "tagline": "O santuário barroco da padroeira",
+    "description": "Santuário barroco erguido no lugar onde os Reis Católicos acamparam durante o cerco de 1487, abriga a imagem de Santa María de la Victoria, padroeira de Málaga. O interior surpreende pelo camarín dourado e, sobretudo, pela cripta funerária dos condes de Buenavista, um teatro macabro de estuques negros com esqueletos e caveiras. Fica um pouco fora do circuito, o que preserva o silêncio.",
+    "lat": 36.7293,
+    "lng": -4.4129,
+    "durationLabel": "30-45min",
+    "fit": "INDOOR",
+    "mapQuery": "Basílica de Santa María de la Victoria, Málaga, Spain",
+    "whatToDo": [
+      "Ver o camarín barroco dourado atrás do altar-mor",
+      "Descer à cripta dos condes de Buenavista, com decoração de caveiras",
+      "Apreciar a torre-mausoléu, incomum entre as igrejas espanholas"
+    ],
+    "kingTip": "Vale a caminhada de dez minutos subindo do centro; a cripta negra com esqueletos é uma das visitas mais insólitas e pouco concorridas de Málaga. Confira o horário, pois fecha ao meio-dia para a sesta.",
+    "priceLevel": "Grátis (basílica) | ~€4 (est.) camarín, cripta e museu",
+    "hours": {
+      "openDays": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "openHour": 9,
+      "closeHour": 20,
+      "note": "Fecha no meio do dia (aprox. 13h-18h30). Confirme horários de missa."
+    },
+    "links": [
+      {
+        "label": "Museos de Málaga",
+        "url": "https://www.museosdemalaga.com/museos/basilica-santa-maria-de-la-victoria/"
+      }
+    ],
+    "history": "Erguido a partir de 1487 no acampamento real do cerco a Málaga e reconstruído no século XVII pelos condes de Buenavista, que acrescentaram o camarín e a cripta funerária da família."
+  },
+  {
+    "id": "mlg_paseo_del_parque",
+    "categoryId": "malaga",
+    "city": "malaga",
+    "name": "Paseo del Parque",
+    "tagline": "A selva subtropical no meio da cidade",
+    "description": "Alameda ajardinada criada no início do século XX sobre terrenos ganhos ao mar, é considerada um dos jardins botânicos urbanos mais ricos da Europa. Ao longo de quase um quilômetro, entre a Alcazaba e o porto, crescem ficus centenários, palmeiras, jacarandás e plantas tropicais, entremeados de fontes e esculturas. Uma travessia sombreada e perfumada que liga o centro ao mar.",
+    "lat": 36.7188,
+    "lng": -4.4168,
+    "durationLabel": "45min-1h",
+    "fit": "ANY",
+    "mapQuery": "Paseo del Parque, Málaga, Spain",
+    "whatToDo": [
+      "Caminhar sob os ficus gigantes entre a Alcazaba e a Praça da Marinha",
+      "Achar as fontes e as pequenas esculturas escondidas na vegetação",
+      "Ler as placas botânicas das espécies tropicais raras"
+    ],
+    "kingTip": "É o corredor sombreado ideal para atravessar a cidade a pé no calor de julho, ligando o centro à Malagueta e ao porto sem pegar sol. Aos domingos costuma haver bandas tocando no coreto.",
+    "priceLevel": "Grátis (passeio)",
+    "history": "Projetado no fim do século XIX sobre aterros do porto e plantado com espécies trazidas de todo o mundo tropical, tornou-se um jardim de aclimatação que hoje soma centenas de espécies."
+  },
+  {
+    "id": "mlg_jardines_pedro_luis_alonso",
+    "categoryId": "malaga",
+    "city": "malaga",
+    "name": "Jardines de Pedro Luis Alonso",
+    "tagline": "O roseiral de estilo latino ao lado do Ayuntamiento",
+    "description": "Pequeno jardim formal de 1945, encaixado entre o Ayuntamiento e o sopé do monte Gibralfaro, com traçado geométrico de influência hispano-árabe e francesa. Reúne uma das maiores coleções de roseiras da Espanha, com mais de setenta variedades, além de laranjeiras e ciprestes recortados. É o remate ajardinado do Paseo del Parque, com a fachada do Ayuntamiento como pano de fundo.",
+    "lat": 36.7185,
+    "lng": -4.4177,
+    "durationLabel": "20-30min",
+    "fit": "CLEAR_SKY",
+    "mapQuery": "Jardines de Pedro Luis Alonso, Málaga, Spain",
+    "whatToDo": [
+      "Passear entre as roseiras e os canteiros geométricos de buxo",
+      "Fotografar a fachada barroca do Ayuntamiento de Málaga ao fundo",
+      "Espiar os Jardines de Puerta Oscura, na encosta ao lado"
+    ],
+    "kingTip": "As roseiras estão no auge na primavera, mas em julho o jardim ainda perfuma no fim da tarde, quando a luz dourada bate na fachada do Ayuntamiento. Fica colado ao Paseo del Parque, junte os dois.",
+    "priceLevel": "Grátis",
+    "history": "Desenhado em 1945 pelo arquiteto Fernando Guerrero-Strachan Rosado e batizado em homenagem ao primeiro prefeito de Málaga do pós-guerra, em estilo de jardim latino."
+  },
+  {
+    "id": "mlg_plaza_toros_malagueta",
+    "categoryId": "malaga",
+    "city": "malaga",
+    "name": "Plaza de Toros de La Malagueta",
+    "tagline": "O hexágono de tijolo à beira-mar",
+    "description": "Inaugurada em 1876, a praça de touros de Málaga é um imponente edifício neomudéjar de planta hexagonal em tijolo vermelho, junto ao mar e ao pé de Gibralfaro. Mesmo sem interesse pela tauromaquia, vale contemplar o volume geométrico do exterior e vê-lo de cima, do castelo, onde a arena vira uma moldura perfeita. É um dos cartões-postais arquitetônicos da cidade.",
+    "lat": 36.7203,
+    "lng": -4.4108,
+    "durationLabel": "20-30min",
+    "fit": "CLEAR_SKY",
+    "mapQuery": "Plaza de Toros de La Malagueta, Málaga, Spain",
+    "whatToDo": [
+      "Dar a volta ao exterior hexagonal de tijolo neomudéjar",
+      "Ver a arena de cima, do Mirador de Gibralfaro, como um alvo perfeito",
+      "Combinar com o passeio pela orla e pela praça de touros a caminho da praia"
+    ],
+    "kingTip": "A imagem mais icônica não é lá de baixo, mas do alto de Gibralfaro, de onde a arena aparece redonda e completa; guarde para quando subir ao castelo. Há um museu taurino na porta 10 para quem quiser entrar.",
+    "priceLevel": "Grátis (exterior)",
+    "links": [
+      {
+        "label": "La Malagueta (oficial)",
+        "url": "https://www.la-malagueta.es/"
+      }
+    ],
+    "history": "Projetada por Joaquín Rucoba e inaugurada em 1876, é obra-prima do estilo neomudéjar; sua forma hexagonal e a posição à beira-mar tornaram-na símbolo do bairro que leva o mesmo nome."
+  },
+  {
+    "id": "mlg_teatro_cervantes",
+    "categoryId": "malaga",
+    "city": "malaga",
+    "name": "Teatro Cervantes",
+    "tagline": "O teatro oitocentista de teto pintado",
+    "description": "Inaugurado em 1870, é o principal teatro histórico de Málaga, num edifício elegante escondido numa ruela ao norte da Plaza de la Merced. O grande tesouro é o teto da plateia, com a alegoria 'A indústria, o comércio e as artes em Málaga', pintada por Bernardo Ferrándiz. Palco de ópera, dança e do festival de cinema da cidade, é uma joia para ver por dentro em dia de espetáculo ou visita guiada.",
+    "lat": 36.7247,
+    "lng": -4.4186,
+    "durationLabel": "20-30min",
+    "fit": "ANY",
+    "mapQuery": "Teatro Cervantes, Málaga, Spain",
+    "whatToDo": [
+      "Ver a fachada e a ruela recolhida atrás da Plaza de la Merced",
+      "Se houver espetáculo, admirar o teto pintado por Ferrándiz",
+      "Conferir a programação de ópera, dança e do Festival de Málaga"
+    ],
+    "kingTip": "O interior só se vê em dia de função ou em visita guiada pontual; consulte a programação antes de ir. Fica a poucos passos da Plaza de la Merced, então encaixe na rota de Picasso e Lagunillas.",
+    "priceLevel": "Varia por espetáculo | fachada grátis",
+    "links": [
+      {
+        "label": "Teatro Cervantes (oficial)",
+        "url": "https://www.teatrocervantes.com/"
+      }
+    ],
+    "history": "Aberto em 1870 sobre um antigo pátio de comédias, salvou-se da demolição no século XX e foi restaurado pela prefeitura em 1987, recuperando o teto alegórico de Bernardo Ferrándiz."
+  },
+  {
+    "id": "mlg_mirador_gibralfaro",
+    "categoryId": "malaga",
+    "city": "malaga",
+    "name": "Mirador de Gibralfaro",
+    "tagline": "A vista de cartão-postal da cidade inteira",
+    "description": "Terraço panorâmico a meio caminho da subida ao castelo, no Camino de Gibralfaro, a cerca de 130 metros de altura. Daqui se abre a vista mais fotografada de Málaga: a praça de touros da Malagueta como um anel perfeito, o porto, a Catedral e a mancha branca da cidade descendo até o mar. Acesso livre, sem precisar entrar no castelo.",
+    "lat": 36.7219,
+    "lng": -4.4128,
+    "durationLabel": "20min",
+    "fit": "CLEAR_SKY",
+    "mapQuery": "Mirador de Gibralfaro, Málaga, Spain",
+    "whatToDo": [
+      "Fotografar a praça de touros hexagonal vista de cima, como um alvo",
+      "Abarcar num só olhar porto, Catedral e a baía até a Malagueta",
+      "Aproveitar como parada na subida ou descida a pé do castelo"
+    ],
+    "kingTip": "Não precisa pagar entrada do castelo para chegar ao mirante, ele fica no caminho, um pouco antes. Venha ao fim da tarde para a luz dourada e evite o miolo do dia, quando a subida a pé não tem sombra.",
+    "priceLevel": "Grátis",
+    "history": "O mirante ocupa uma curva do antigo caminho militar que ligava a cidade ao castelo de Gibralfaro, hoje transformado em passeio panorâmico entre pinheiros."
+  },
+  {
+    "id": "mlg_perchel_trinidad",
+    "categoryId": "malaga",
+    "city": "malaga",
+    "name": "Barrios del Perchel e La Trinidad",
+    "tagline": "A Málaga popular do outro lado do rio",
+    "description": "Do outro lado do leito seco do rio Guadalmedina ficam El Perchel e La Trinidad, dois dos bairros mais antigos e castiços de Málaga. De ruas estreitas e casas de pátio, os chamados corralones, guardam a alma operária e flamenca da cidade, longe do roteiro turístico. É onde a Semana Santa e o cante jondo ainda pulsam com autenticidade.",
+    "lat": 36.7188,
+    "lng": -4.4268,
+    "durationLabel": "45min",
+    "fit": "ANY",
+    "mapQuery": "Barrio del Perchel, Málaga, Spain",
+    "whatToDo": [
+      "Espiar os corralones, os pátios de vizinhança tradicionais",
+      "Cruzar o rio Guadalmedina pela Ponte da Aurora, rumo à outra Málaga",
+      "Sentir o ambiente flamenco e popular longe das multidões do centro"
+    ],
+    "kingTip": "É um passeio para quem já conhece o essencial e quer a cidade dos malaguenhos; alguns corralones só abrem na Fiesta de los Patios, na primavera. Prefira a manhã e ande com o bom senso de qualquer bairro popular.",
+    "priceLevel": "Grátis",
+    "history": "Nascidos como arrabaldes de pescadores e curtidores fora das muralhas, deram à cidade parte de sua tradição flamenca e o fervor da Semana Santa, apesar das demolições do século XX."
+  },
+  {
+    "id": "mrb_mijas_pueblo",
+    "categoryId": "marbella",
+    "city": "marbella",
+    "name": "Mijas Pueblo",
+    "tagline": "A vila branca dos burro-táxis",
+    "description": "O pueblo blanco mais famoso da Costa del Sol ocidental, agarrado à serra a 428 m de altura, com ruas caiadas, vasos azuis e varandas floridas. Da praça central saem os históricos burro-táxis e abrem-se miradouros com o Mediterrâneo lá embaixo. É a fuga clássica de meia diária a partir da costa.",
+    "lat": 36.5958,
+    "lng": -4.6376,
+    "durationLabel": "2–3 h",
+    "fit": "CLEAR_SKY",
+    "mapQuery": "Mijas Pueblo, Málaga",
+    "whatToDo": "Perca-se pelas vielas caiadas, encoste nos miradouros da muralha e prove um doce nas confeitarias da praça.",
+    "kingTip": "Estacione no parque subterrâneo da Avenida del Compás e suba a pé: as ruas do casco são estreitas e é ali que começa o encanto.",
+    "priceLevel": "Gratuito (passeio)"
+  },
+  {
+    "id": "mrb_plaza_toros_mijas",
+    "categoryId": "marbella",
+    "city": "marbella",
+    "name": "Plaza de Toros de Mijas",
+    "tagline": "A rara arena oval de 1900",
+    "description": "Uma das praças de touros mais singulares da Espanha: em vez do círculo habitual, tem planta oval, encaixada nos Jardines de la Muralla ao lado da Igreja da Imaculada Conceição. Hoje abriga um pequeno museu taurino e serve, sobretudo, de terraço-mirante sobre a costa. Vale a subida pela vista e pela raridade arquitetônica.",
+    "lat": 36.5966,
+    "lng": -4.6362,
+    "durationLabel": "30–45 min",
+    "fit": "CLEAR_SKY",
+    "mapQuery": "Plaza de Toros de Mijas",
+    "kingTip": "Suba ao anel superior da arena: dali se abre o melhor panorama de Mijas sobre o mar, melhor até que os miradouros da praça.",
+    "priceLevel": "≈ €3",
+    "hours": {
+      "note": "Sáb, dom e feriados ~10:30–18:30; verão (jul–ago) até mais tarde"
+    },
+    "links": [
+      {
+        "label": "Turismo de Mijas – Plaza de Toros",
+        "url": "https://turismo.mijas.es/es/cultura/monumentos/plaza-de-toros"
+      }
+    ]
+  },
+  {
+    "id": "mrb_ermita_pena_mijas",
+    "categoryId": "marbella",
+    "city": "marbella",
+    "name": "Ermita de la Virgen de la Peña",
+    "tagline": "A capela escavada na rocha",
+    "description": "Santuário do século XVII cavado à mão na rocha por um frade, guardião da padroeira de Mijas. O interior minúsculo e úmido contrasta com o jardim panorâmico à frente, debruçado sobre a costa. É uma parada de poucos minutos, sombreada e tranquila, no caminho para os miradouros da vila.",
+    "lat": 36.5952,
+    "lng": -4.6382,
+    "durationLabel": "15–20 min",
+    "fit": "ANY",
+    "mapQuery": "Ermita de la Virgen de la Peña, Mijas",
+    "priceLevel": "Gratuito"
+  },
+  {
+    "id": "mrb_ojen",
+    "categoryId": "marbella",
+    "city": "marbella",
+    "name": "Ojén",
+    "tagline": "O pueblo branco logo acima de Marbella",
+    "description": "Vila serrana de ruas íngremes e casas caiadas a poucos minutos subindo de Marbella, aos pés de Sierra Blanca. Quase sem turismo de massa, mantém o ritmo andaluz autêntico, com a Igreja da Encarnação a dominar a praça e fontes de água da serra pelas esquinas. Boa porta de entrada para trilhas do parque natural.",
+    "lat": 36.5658,
+    "lng": -4.8556,
+    "durationLabel": "1–1,5 h",
+    "fit": "CLEAR_SKY",
+    "mapQuery": "Ojén, Málaga",
+    "kingTip": "Combine a visita com o Mirador de Ojén, na subida da estrada A-355, para a foto do casario branco encaixado na serra.",
+    "priceLevel": "Gratuito"
+  },
+  {
+    "id": "mrb_istan",
+    "categoryId": "marbella",
+    "city": "marbella",
+    "name": "Istán",
+    "tagline": "O manancial da Costa del Sol",
+    "description": "Conhecida como o \"manancial da Costa del Sol\", esta vila branca sobre o reservatório de La Concepción é atravessada por canais e fontes de água corrente, herança da engenharia andalusí. Ruas estreitas, cal imaculada e a Torre del Reloj no centro compõem um casco antigo mudéjar bem preservado. O silêncio e o verde da serra contrastam com o glamour da costa a 15 km.",
+    "lat": 36.583,
+    "lng": -4.95,
+    "durationLabel": "1–1,5 h",
+    "fit": "CLEAR_SKY",
+    "mapQuery": "Istán, Málaga",
+    "kingTip": "Siga a Ruta del Agua, um percurso curto e sombreado pelas nascentes e antigos moinhos que cruzam a vila.",
+    "priceLevel": "Gratuito"
+  },
+  {
+    "id": "mrb_benahavis",
+    "categoryId": "marbella",
+    "city": "marbella",
+    "name": "Benahavís",
+    "tagline": "A vila gastronômica da serra",
+    "description": "Encravada num desfiladeiro entre Marbella, Estepona e Ronda, Benahavís tem fama de ter a maior concentração de bons restaurantes da região, o que lhe rendeu o apelido de \"comedor de la Costa del Sol\". O casco antigo de ruelas floridas e paredes brancas convida a caminhar antes ou depois da mesa. Ao redor, o desfiladeiro do rio Guadalmina abre trilhas e poços naturais.",
+    "lat": 36.519,
+    "lng": -5.0454,
+    "durationLabel": "1,5–2 h",
+    "fit": "CLEAR_SKY",
+    "mapQuery": "Benahavís, Málaga",
+    "kingTip": "Reserve o almoço com antecedência: as mesas boas da vila lotam nos fins de semana, sobretudo as com vista para o desfiladeiro.",
+    "priceLevel": "Passeio gratuito; refeições €€–€€€"
+  },
+  {
+    "id": "mrb_basilica_vega_del_mar",
+    "categoryId": "marbella",
+    "city": "marbella",
+    "name": "Basílica Paleocristã de Vega del Mar",
+    "tagline": "Ruínas cristãs do século IV à beira-mar",
+    "description": "Sítio arqueológico de uma das mais antigas basílicas paleocristãs da Península, dos séculos IV–VI, junto à foz do rio Guadalmina em San Pedro de Alcántara. Restam as plantas dos muros e cerca de duzentas sepulturas visigóticas espalhadas por um bosque de eucaliptos, a poucos metros do mar. Visita rápida, à sombra e de raro valor histórico.",
+    "lat": 36.472,
+    "lng": -4.9902,
+    "durationLabel": "30–45 min",
+    "fit": "CLEAR_SKY",
+    "mapQuery": "Basílica Vega del Mar, San Pedro de Alcántara",
+    "kingTip": "O sítio abre poucos dias por semana: confirme antes, porque fora do horário só se vê o gradil por fora.",
+    "priceLevel": "Gratuito",
+    "hours": {
+      "note": "Geralmente sex, sáb, dom e feriados ~11:15–14:00; confirmar"
+    },
+    "links": [
+      {
+        "label": "Ayuntamiento de Marbella – Vega del Mar",
+        "url": "https://www.marbella.es/web/cultura/patrimonio/arqueologia/basilica-paleocristiana-de-vega-del-mar.html"
+      }
+    ]
+  },
+  {
+    "id": "mrb_bulevar_san_pedro",
+    "categoryId": "marbella",
+    "city": "marbella",
+    "name": "Bulevar de San Pedro de Alcántara",
+    "tagline": "O parque suspenso sobre a autopista",
+    "description": "Um dos projetos urbanos mais ambiciosos da costa: a autopista A-7 foi enterrada num túnel e, por cima, criou-se um bulevar-parque de mais de um quilômetro com jardins, pérgulas, fontes e áreas de lazer. É o novo coração de San Pedro de Alcántara, ligando o casco antigo ao mar sem o barulho do tráfego. Ótimo para um passeio relaxado ao entardecer.",
+    "lat": 36.487,
+    "lng": -4.9975,
+    "durationLabel": "40–60 min",
+    "fit": "CLEAR_SKY",
+    "mapQuery": "Bulevar de San Pedro Alcántara",
+    "priceLevel": "Gratuito"
+  },
+  {
+    "id": "mrb_estepona_casco_flores",
+    "categoryId": "marbella",
+    "city": "marbella",
+    "name": "Casco Antiguo de Estepona",
+    "tagline": "O jardim urbano da Plaza de las Flores",
+    "description": "Um dos cascos antigos mais floridos da Andaluzia: ruas caiadas onde cada esquina exibe vasos coloridos e trepadeiras, convergindo para a Plaza de las Flores, rodeada de laranjeiras e com uma fonte de 1845. O ambiente é limpo, vivo e pedonal, cheio de bares de tapas e pátios. Modelo de reabilitação urbana premiada, é feito para caminhar sem pressa.",
+    "lat": 36.4266,
+    "lng": -5.1466,
+    "durationLabel": "1,5–2 h",
+    "fit": "CLEAR_SKY",
+    "mapQuery": "Plaza de las Flores, Estepona",
+    "kingTip": "Vá ao fim da tarde: a luz suave nas paredes brancas e os vasos coloridos rendem as melhores fotos, e as tapas ficam mais animadas.",
+    "priceLevel": "Gratuito (passeio)"
+  },
+  {
+    "id": "mrb_estepona_murales",
+    "categoryId": "marbella",
+    "city": "marbella",
+    "name": "Ruta de los Murales de Estepona",
+    "tagline": "Um museu de arte a céu aberto",
+    "description": "Mais de 60 murais monumentais espalhados pelas fachadas de Estepona transformam a cidade numa galeria a céu aberto. As obras, muitas gigantescas, dialogam com temas de natureza, memória e vida local, e podem ser seguidas por um roteiro numerado que parte da Plaza de las Flores. Passeio gratuito, ao ar livre e a qualquer hora.",
+    "lat": 36.427,
+    "lng": -5.146,
+    "durationLabel": "1,5–2 h",
+    "fit": "CLEAR_SKY",
+    "mapQuery": "Ruta de los Murales, Estepona",
+    "kingTip": "Pegue o mapa do roteiro na oficina de turismo da Plaza de las Flores; os murais mais impressionantes ficam concentrados no casco antigo.",
+    "priceLevel": "Gratuito"
+  },
+  {
+    "id": "mrb_orquidario_estepona",
+    "categoryId": "marbella",
+    "city": "marbella",
+    "name": "Orquidario de Estepona",
+    "tagline": "A cúpula tropical de mil orquídeas",
+    "description": "Parque botânico coberto por três domos de vidro que abrigam mais de 1.500 espécies de orquídeas, palmeiras e uma cascata interna de 17 metros, o ponto mais alto acessível por uma torre panorâmica. É um refúgio tropical no coração do casco antigo, à prova de qualquer clima. Visita curta e sensorial, ótima para dias de calor ou chuva.",
+    "lat": 36.4268,
+    "lng": -5.1493,
+    "durationLabel": "45–60 min",
+    "fit": "ANY",
+    "mapQuery": "Orquidario de Estepona",
+    "priceLevel": "≈ €5 (adulto)",
+    "hours": {
+      "note": "Ter–Sáb 10:00–13:30 e 15:00–18:00; dom/feriados 10:00–14:00; seg fechado"
+    },
+    "links": [
+      {
+        "label": "Turismo de Estepona – Orquidario",
+        "url": "https://turismo.estepona.es/lugares/parque-botanico-orquidario/"
+      }
+    ]
+  },
+  {
+    "id": "mrb_milla_de_oro",
+    "categoryId": "marbella",
+    "city": "marbella",
+    "name": "Milla de Oro de Marbella",
+    "tagline": "A avenida do luxo entre a cidade e Banús",
+    "description": "O trecho mais cobiçado da Costa del Sol: cerca de 6 km entre Marbella e Puerto Banús onde se enfileiram hotéis históricos como o Marbella Club e o Puente Romano, mansões, palmeiras e boutiques de grife. Não é ponto turístico clássico, mas um retrato do glamour da região, ideal para percorrer de carro ou a pé pelo passeio arborizado. Endereço mais caro da Andaluzia.",
+    "lat": 36.5015,
+    "lng": -4.925,
+    "durationLabel": "30–60 min",
+    "fit": "CLEAR_SKY",
+    "mapQuery": "Milla de Oro, Marbella",
+    "priceLevel": "Gratuito (passeio)"
+  },
+  {
+    "id": "mrb_nueva_andalucia",
+    "categoryId": "marbella",
+    "city": "marbella",
+    "name": "Nueva Andalucía",
+    "tagline": "O vale do golfe atrás de Puerto Banús",
+    "description": "O anfiteatro verde logo acima de Puerto Banús, apelidado de \"Vale do Golfe\" pela concentração de campos como Aloha e Las Brañas. Bairro residencial elegante e tranquilo, tem como âncora social o mercadillo de sábado, um dos maiores mercados de rua da costa. Combina bem com uma volta por Banús: aqui o ambiente é mais local e pé no chão.",
+    "lat": 36.494,
+    "lng": -4.956,
+    "durationLabel": "1–2 h",
+    "fit": "CLEAR_SKY",
+    "mapQuery": "Nueva Andalucía, Marbella",
+    "kingTip": "Vá num sábado de manhã pelo mercadillo (feira): é o melhor momento para sentir a vida do bairro e caçar pechinchas.",
+    "priceLevel": "Gratuito"
+  },
+  {
+    "id": "rnd_santa_maria_la_mayor",
+    "categoryId": "ronda",
+    "city": "ronda",
+    "name": "Iglesia de Santa María la Mayor",
+    "tagline": "A igreja maior sobre a antiga mesquita",
+    "description": "Templo principal de Ronda, erguido a partir de 1485 sobre a mesquita aljama, na tranquila Plaza Duquesa de Parcent. Reúne gótico tardío nos pés e cabeceira maneirista reconstruída após o terremoto de 1580, além de um arco de ferradura mourisco preservado como testemunho do passado islâmico. Interior de três naves com coro entalhado e retábulos barrocos.",
+    "lat": 36.7376,
+    "lng": -5.1654,
+    "durationLabel": "30–45 min",
+    "fit": "INDOOR",
+    "mapQuery": "Iglesia de Santa María la Mayor, Ronda",
+    "kingTip": "Procure, junto à entrada, o arco de ferradura remanescente do mihrab da antiga mesquita: um raro vestígio islâmico embutido no templo cristão.",
+    "priceLevel": "€ (ingresso ~€4,50, estimativa)",
+    "hours": "Aberta diariamente; conferir horário de missas e verão no local",
+    "history": "Consagrada logo após a conquista cristã de 1485, sua construção se estendeu por mais de dois séculos, misturando gótico, mudéjar e maneirismo após o sismo de 1580."
+  },
+  {
+    "id": "rnd_puerta_almocabar",
+    "categoryId": "ronda",
+    "city": "ronda",
+    "name": "Puerta de Almocábar & Murallas",
+    "tagline": "O portão nasrida no flanco sul da muralha",
+    "description": "Principal porta da Ronda islâmica, do século XIII, com três portas sucessivas flanqueadas por duas torres semicirculares — um dos sistemas defensivos medievais mais bem conservados da Andaluzia. Ao lado ergue-se o arco de Carlos V, aberto no século XVI. Daqui parte o trecho sul das muralhas, o mais íntegro da cidade.",
+    "lat": 36.7365,
+    "lng": -5.165,
+    "durationLabel": "20–30 min",
+    "fit": "ANY",
+    "mapQuery": "Puerta de Almocábar, Ronda",
+    "kingTip": "Entre pela Almocábar como faziam os viajantes antigos e siga a pé até a Plaza del Campillo, de onde a muralha desce sobre o vale.",
+    "priceLevel": "Gratuito",
+    "history": "O nome vem do árabe 'al-maqabir' (cemitério), pela necrópole muçulmana vizinha; a porta foi reestruturada no reinado de Carlos I, no século XVI."
+  },
+  {
+    "id": "rnd_iglesia_espiritu_santo",
+    "categoryId": "ronda",
+    "city": "ronda",
+    "name": "Iglesia del Espíritu Santo",
+    "tagline": "A igreja-fortaleza junto à Almocábar",
+    "description": "Templo gótico-tardío mandado erguer pelos Reis Católicos após a tomada de Ronda em 1485, junto à Puerta de Almocábar. De volumes sóbrios e ar defensivo, quase de fortaleza, tem nave única coberta por abóbadas de cruzaria e um retábulo barroco. Um dos primeiros templos cristãos da cidade reconquistada.",
+    "lat": 36.7369,
+    "lng": -5.1655,
+    "durationLabel": "15–25 min",
+    "fit": "INDOOR",
+    "mapQuery": "Iglesia del Espíritu Santo, Ronda",
+    "priceLevel": "€ (ingresso ~€2, estimativa)",
+    "history": "Fundada por ordem de Fernando e Isabel logo após 1485, teria sido concluída por volta de 1505 no local onde se rendeu a guarnição nasrida."
+  },
+  {
+    "id": "rnd_puente_viejo",
+    "categoryId": "ronda",
+    "city": "ronda",
+    "name": "Puente Viejo",
+    "tagline": "A ponte antiga sobre o Guadalevín",
+    "description": "Ponte de arco único que cruza o rio Guadalevín no ponto onde a garganta se abre, ligando a cidade velha ao bairro do Padre Jesús. Reconstruída no início do século XVII sobre traçado anterior, oferece uma perspectiva serena do Tajo e da Casa del Rey Moro no alto. Ponto ideal para ver a garganta de baixo, longe das multidões.",
+    "lat": 36.7401,
+    "lng": -5.1628,
+    "durationLabel": "15–25 min",
+    "fit": "CLEAR_SKY",
+    "mapQuery": "Puente Viejo, Ronda",
+    "kingTip": "Combine com os Baños Árabes, a poucos metros: dá para descer ao leito do rio e fotografar a ponte e o paredão do Tajo de um ângulo que quase ninguém procura.",
+    "priceLevel": "Gratuito",
+    "history": "Erguida em 1616 sobre uma passagem medieval anterior, foi durante séculos o principal acesso à cidade velha antes da conclusão do Puente Nuevo."
+  },
+  {
+    "id": "rnd_casa_don_bosco",
+    "categoryId": "ronda",
+    "city": "ronda",
+    "name": "Casa Don Bosco",
+    "tagline": "O jardim-mirante debruçado no Tajo",
+    "description": "Casa senhorial modernista do início do século XX, hoje casa-museu, no coração do centro histórico. Seu maior encanto é o jardim de azulejos suspenso na borda do Tajo, com um terraço que abre para o vale do Guadalevín, a Serra de Grazalema e um perfil raro do Puente Nuevo. Um dos miradouros mais recolhidos e elegantes de Ronda.",
+    "lat": 36.7397,
+    "lng": -5.1653,
+    "durationLabel": "20–30 min",
+    "fit": "CLEAR_SKY",
+    "mapQuery": "Casa Don Bosco, Ronda",
+    "kingTip": "Peça para ir direto ao terraço dos fundos: o banco de azulejos na beira do penhasco é o canto mais fotogênico e quase sempre vazio da casa.",
+    "priceLevel": "€ (ingresso ~€2, estimativa)",
+    "hours": "Aberta diariamente, horário reduzido; conferir no local",
+    "links": [
+      {
+        "label": "Casa Museo Don Bosco",
+        "url": "https://casamuseodonbosco.com/"
+      }
+    ],
+    "history": "Construída em 1850 e reformada em estilo modernista em 1900, foi doada à congregação salesiana, que mantém a casa e o jardim abertos à visita."
+  },
+  {
+    "id": "rnd_setenil_de_las_bodegas",
+    "categoryId": "ronda",
+    "city": "ronda",
+    "name": "Setenil de las Bodegas",
+    "tagline": "As casas encaixadas sob a rocha",
+    "description": "Um dos povoados brancos mais surpreendentes da Andaluzia, encravado no desfiladeiro do rio Trejo, onde a rocha forma o teto de ruas inteiras. As célebres Cuevas del Sol e Cuevas de la Sombra alinham casas caiadas sob um beiral de pedra maciça, com bares e terraços à sombra da falésia. A cerca de 20 km de Ronda.",
+    "lat": 36.8625,
+    "lng": -5.1814,
+    "durationLabel": "1,5–2,5 h",
+    "fit": "ANY",
+    "mapQuery": "Cuevas del Sol, Setenil de las Bodegas",
+    "whatToDo": "Percorra a pé as ruas Cuevas del Sol e Cuevas de la Sombra sob a rocha e suba ao Mirador del Carmen e às ruínas do castelo para ver os telhados encaixados no barranco.",
+    "kingTip": "A rua Cuevas de la Sombra fica na penumbra o dia todo; para a foto com luz nas fachadas, vá à Cuevas del Sol no meio da manhã.",
+    "priceLevel": "Gratuito (o povoado)",
+    "history": "O nome 'Setenil' remete à resistência muçulmana a sete cercos cristãos; 'de las Bodegas' vem das antigas adegas escavadas na rocha, hoje bares e casas."
+  },
+  {
+    "id": "rnd_juzcar_pueblo_azul",
+    "categoryId": "ronda",
+    "city": "ronda",
+    "name": "Júzcar (o Pueblo Azul)",
+    "tagline": "O vilarejo pintado de azul dos Smurfs",
+    "description": "Antigo povoado branco do Valle del Genal que em 2011 foi inteiramente pintado de azul — casas, igreja e até o cemitério — como cenário do filme dos Smurfs. O que seria temporário virou definitivo por votação dos moradores, e hoje é uma vila lúdica e fotogênica na Serranía de Ronda, cercada de castanheiros. A cerca de 22 km de Ronda.",
+    "lat": 36.6256,
+    "lng": -5.1709,
+    "durationLabel": "1–1,5 h",
+    "fit": "ANY",
+    "mapQuery": "Júzcar, Málaga",
+    "whatToDo": "Passeie pelas vielas azuis procurando os murais de personagens espalhados pelas fachadas e admire o Valle del Genal a partir das bordas da vila.",
+    "kingTip": "Estenda o passeio pelo Valle del Genal: no outono, os castanheiros ao redor de Júzcar viram um mar cobre-avermelhado que contrasta com o azul das casas.",
+    "priceLevel": "Gratuito",
+    "history": "Em 2011 a Sony pintou a vila de azul com cerca de 4.000 litros de tinta para estrear o filme dos Smurfs; um referendo local decidiu manter a cor."
+  },
+  {
+    "id": "rnd_zahara_de_la_sierra",
+    "categoryId": "ronda",
+    "city": "ronda",
+    "name": "Zahara de la Sierra",
+    "tagline": "A vila-fortaleza sobre o esmeralda do reservatório",
+    "description": "Povoado branco pendurado na encosta da Sierra del Jaral, coroado por uma torre nasrida do século XIII e debruçado sobre as águas verdes do reservatório de Zahara-El Gastor. Antigo bastião do reino de Granada, é um dos cenários mais dramáticos da Ruta de los Pueblos Blancos. A menos de uma hora de Ronda.",
+    "lat": 36.8398,
+    "lng": -5.3928,
+    "durationLabel": "1,5–2 h",
+    "fit": "CLEAR_SKY",
+    "mapQuery": "Zahara de la Sierra, Cádiz",
+    "whatToDo": "Suba a pé até a Torre del Homenaje do castelo para a vista aérea da vila e do reservatório, e circule pelo casco branco em torno da igreja de Santa María de la Mesa.",
+    "kingTip": "A luz do fim da tarde acende o branco das casas contra o verde do lago; do castelo, a panorâmica sobre a água é a imagem definitiva do lugar.",
+    "priceLevel": "Gratuito (a vila)",
+    "links": [
+      {
+        "label": "Ayuntamiento de Zahara de la Sierra",
+        "url": "https://www.zaharadelasierra.es/"
+      }
+    ],
+    "history": "A conquista de Zahara pelos nasridas em 1481 desencadeou a guerra final de Granada; a torre do castelo domina a vila desde o século XIII."
+  },
+  {
+    "id": "rnd_grazalema",
+    "categoryId": "ronda",
+    "city": "ronda",
+    "name": "Grazalema",
+    "tagline": "A vila branca de manta e telha ocre",
+    "description": "Um dos povoados brancos mais bonitos da Andaluzia, a 812 m de altitude, com becos íngremes, praças floridas e o contraste do branco da cal com a telha ocre e a serra ao fundo. Berço de uma antiga tradição têxtil de mantas de lã, mantém oficinas artesanais ativas. A cerca de 45 min de Ronda pela estrada da serra.",
+    "lat": 36.7601,
+    "lng": -5.3664,
+    "durationLabel": "1,5–2 h",
+    "fit": "ANY",
+    "mapQuery": "Grazalema, Cádiz",
+    "whatToDo": "Perca-se pelas ruas em torno da Plaza de España e da igreja da Aurora, visite uma oficina de mantas de lã e alcance um mirador de borda para a serra.",
+    "kingTip": "Leve um casaco leve mesmo no verão: por estar no ponto mais chuvoso e alto da região, Grazalema costuma amanhecer bem mais fresca que Ronda.",
+    "priceLevel": "Gratuito (a vila)",
+    "history": "De origem romana e depois andalusí, Grazalema prosperou nos séculos XVIII e XIX com a manufatura de tecidos e mantas de lã, ofício que ainda resiste."
+  },
+  {
+    "id": "rnd_gaucin",
+    "categoryId": "ronda",
+    "city": "ronda",
+    "name": "Gaucín & Castillo del Águila",
+    "tagline": "O balcão da serrania com vista ao mar",
+    "description": "Vila branca empoleirada na Sierra del Hacho, dominada pelo Castillo del Águila, de origem romana e ampliado pelos árabes. Dos seus miradouros, em dias claros a vista alcança o Estreito de Gibraltar, o Rochedo e a costa africana. Refúgio de artistas, é uma das varandas panorâmicas mais espetaculares da Serranía de Ronda.",
+    "lat": 36.5182,
+    "lng": -5.3175,
+    "durationLabel": "1,5–2 h",
+    "fit": "CLEAR_SKY",
+    "mapQuery": "Castillo del Águila, Gaucín",
+    "whatToDo": "Suba ao Castillo del Águila para a panorâmica da serra até o mar e caminhe pelo casco branco entre casas de artistas e pequenas galerias.",
+    "kingTip": "Escolha um dia limpo de vento: só então o Rochedo de Gibraltar e a silhueta do Marrocos aparecem no horizonte a partir do castelo.",
+    "priceLevel": "Gratuito (a vila e o castelo)",
+    "links": [
+      {
+        "label": "Castillo del Águila de Gaucín",
+        "url": "https://castillodelaguila.es/"
+      }
+    ],
+    "history": "O castelo, de raízes romanas e reforço nasrida, foi ponto estratégico por séculos; ali morreu, em 1309, o cavaleiro Guzmán el Bueno em combate."
+  },
+  {
+    "id": "rnd_montejaque",
+    "categoryId": "ronda",
+    "city": "ronda",
+    "name": "Montejaque",
+    "tagline": "A vila branca no coração da serra",
+    "description": "Pequeno povoado branco encaixado entre paredões calcários da Serranía de Ronda, com traçado de origem mourisca em torno da Plaza de la Constitución e da igreja de Santiago el Mayor. Ruas íngremes e caiadas, ar autêntico e pouco turismo fazem dele um contraponto tranquilo aos vilarejos mais visitados. A cerca de 20 min de Ronda.",
+    "lat": 36.7387,
+    "lng": -5.2497,
+    "durationLabel": "1–1,5 h",
+    "fit": "ANY",
+    "mapQuery": "Montejaque, Málaga",
+    "whatToDo": "Circule pela Plaza de la Constitución sombreada, visite a igreja de Santiago e suba às bordas da vila para ver o anfiteatro de rochas ao redor.",
+    "kingTip": "É parada de tapas honesta e barata: as varandas em torno da praça servem petiscos serranos com muito menos gente que em Ronda.",
+    "priceLevel": "Gratuito (a vila)",
+    "history": "De nome derivado do árabe 'Montexaquez' (monte perdido), conserva o traçado andalusí e foi doado após a Reconquista aos senhores de Benaoján."
   },
   {
     "id": "mlg_jose_carlos_garcia",

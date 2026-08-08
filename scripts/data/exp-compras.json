@@ -1,0 +1,334 @@
+[
+  {
+    "id": "mlg_mercado_salamanca",
+    "categoryId": "compras",
+    "city": "malaga",
+    "name": "Mercado de Salamanca",
+    "tagline": "Mercado neoárabe de 1925 no Molinillo",
+    "description": "Segundo mercado mais visitado de Málaga, ergue-se num edifício neoárabe de tijolo declarado Bem de Interesse Cultural, longe do burburinho turístico de Atarazanas. As bancas guardam o ritmo de bairro: peixe da lota, frutas da vega, azeitonas, queijos e especiarias entre vizinhos que fazem a compra do dia. Uma janela autêntica sobre o comércio de mesa malaguenho.",
+    "lat": 36.7274,
+    "lng": -4.4231,
+    "durationLabel": "30–45 min",
+    "fit": "INDOOR",
+    "mapQuery": "Mercado de Salamanca, Calle San Bartolomé, Málaga",
+    "whatToDo": "Percorra as bancas de peixe e frutas e prove azeitonas aliñadas e queijos de cabra da serra malaguenha.",
+    "kingTip": "Vá pela manhã, entre 9h e 13h; aos domingos fecha e o movimento local é mais genuíno em dias de semana.",
+    "priceLevel": "€€",
+    "hours": {
+      "openDays": "Seg–Sáb",
+      "openHour": "08:00",
+      "closeHour": "15:00",
+      "note": "Domingos fechado."
+    },
+    "links": [
+      {
+        "label": "Mercados de Málaga",
+        "url": "https://mercados.malagacomercio.es/mercados/mercado-de-salamanca/"
+      }
+    ],
+    "history": "Projetado pelo arquiteto Daniel Rubio Sánchez e construído entre 1922 e 1925, no bairro do Molinillo."
+  },
+  {
+    "id": "mlg_mercado_merced",
+    "categoryId": "compras",
+    "city": "malaga",
+    "name": "Mercado de la Merced",
+    "tagline": "Mercado gourmet ao lado da casa de Picasso",
+    "description": "A poucos passos da praça onde nasceu Picasso, este mercado foi reconvertido em 2015 num espaço gastronômico coberto com cerca de vinte bancas. Ostras, presunto ibérico, sushi, queijos, doces e vinhos convivem em balcões de degustação onde se compra e se prova no mesmo gesto. Um ponto de encontro descontraído no coração do centro histórico.",
+    "lat": 36.7245,
+    "lng": -4.4178,
+    "durationLabel": "45 min–1 h",
+    "fit": "INDOOR",
+    "mapQuery": "Mercado de la Merced, Calle Merced 1, Málaga",
+    "whatToDo": "Monte um percurso de bancas: uma dúzia de ostras num balcão, presunto cortado à faca noutro e uma taça de vinho de Ronda para fechar.",
+    "kingTip": "Ao contrário dos mercados tradicionais, funciona até à noite, com ambiente animado a partir do fim da tarde.",
+    "priceLevel": "€€",
+    "hours": {
+      "openDays": "Seg–Sáb",
+      "openHour": "08:00",
+      "closeHour": "24:00",
+      "note": "Bancas gastronômicas prolongam-se até tarde; domingos com horário reduzido."
+    },
+    "links": [
+      {
+        "label": "Mercados de Málaga",
+        "url": "https://mercados.malagacomercio.es/mercados/mercado-de-la-merced/"
+      }
+    ]
+  },
+  {
+    "id": "mlg_libreria_luces",
+    "categoryId": "compras",
+    "city": "malaga",
+    "name": "Librería Luces",
+    "tagline": "Livraria independente na Alameda Principal",
+    "description": "Referência cultural de Málaga desde 2003, ocupa um belo espaço na Alameda Principal com um catálogo vastíssimo e forte presença de literatura, ensaio e edições sobre Andaluzia. É palco frequente de apresentações e sessões de autógrafos, um lugar caro aos leitores da cidade. Ótima parada para um livro sobre o sul da Espanha ou uma edição ilustrada de recordação.",
+    "lat": 36.7178,
+    "lng": -4.4231,
+    "durationLabel": "20–40 min",
+    "fit": "ANY",
+    "mapQuery": "Librería Luces, Alameda Principal 16, Málaga",
+    "whatToDo": "Procure a seção de temas andaluzes e guias locais; peça uma recomendação de literatura espanhola contemporânea traduzida.",
+    "kingTip": "Fica na Alameda, a caminho do porto e de Soho; combine com um passeio pelos murais do bairro das artes.",
+    "priceLevel": "€€",
+    "hours": {
+      "openDays": "Seg–Sáb",
+      "openHour": "10:00",
+      "closeHour": "21:00",
+      "note": "Domingos fechado."
+    },
+    "links": [
+      {
+        "label": "Site oficial",
+        "url": "https://www.librerialuces.com/"
+      }
+    ]
+  },
+  {
+    "id": "mlg_la_mallorquina",
+    "categoryId": "compras",
+    "city": "malaga",
+    "name": "La Mallorquina",
+    "tagline": "Ultramarinos histórico de frutos secos",
+    "description": "Ancorada na Plaza de Félix Sáenz há gerações, é uma das casas de ultramarinos mais queridas de Málaga, com fachada clássica e balcões repletos de frutos secos, especiarias, conservas, doces e vinhos. O aroma de amêndoas torradas e o atendimento à moda antiga fazem parte da experiência. Ideal para levar produtos andaluzes de qualidade para casa.",
+    "lat": 36.7192,
+    "lng": -4.4233,
+    "durationLabel": "20–30 min",
+    "fit": "ANY",
+    "mapQuery": "La Mallorquina, Plaza de Félix Sáenz 7, Málaga",
+    "whatToDo": "Compre amêndoas marcona, pimentão doce (pimentón), açafrão e um doce local para presente.",
+    "kingTip": "Peça para embalar os frutos secos a vácuo; viajam melhor e mantêm o frescor até o Brasil.",
+    "priceLevel": "€€",
+    "hours": {
+      "openDays": "Seg–Sáb",
+      "openHour": "09:30",
+      "closeHour": "20:30",
+      "note": "Domingos fechado; pausa ao meio-dia possível fora da temporada alta."
+    }
+  },
+  {
+    "id": "grn_ceramica_fajalauza",
+    "categoryId": "compras",
+    "city": "granada",
+    "name": "Cerámica Fajalauza",
+    "tagline": "Cerâmica granadina desde 1517 no Albaicín",
+    "description": "No alto do Albaicín, junto à antiga Porta de Fajalauza, sobrevive a olaria que dá nome à cerâmica mais tradicional de Granada, com raízes que remontam a 1517. O barro vidriado em branco decorado a azul e verde, com romãs e pássaros, é assinatura da casa da família Morales. Loja e fábrica onde se compra direto da fonte.",
+    "lat": 37.1866,
+    "lng": -3.5933,
+    "durationLabel": "30–45 min",
+    "fit": "ANY",
+    "mapQuery": "Cerámica Fajalauza, Carretera de Murcia 166, Granada",
+    "whatToDo": "Escolha pratos e tigelas com o clássico decoro azul e verde; peça peças com o motivo da romã, símbolo de Granada.",
+    "kingTip": "Fica na parte alta do Albaicín; combine com o passeio até o Mirador de San Nicolás e leve peças menores, mais fáceis de transportar.",
+    "priceLevel": "€€",
+    "hours": {
+      "openDays": "Seg–Sex",
+      "openHour": "09:00",
+      "closeHour": "18:00",
+      "note": "Confirme horário de sábado por telefone; domingos fechado."
+    },
+    "links": [
+      {
+        "label": "Site oficial",
+        "url": "https://fajalauza.es/"
+      }
+    ],
+    "history": "Tradição oleira ligada à família Morales desde o início do século XVI, no bairro do Albaicín."
+  },
+  {
+    "id": "grn_mercado_san_agustin",
+    "categoryId": "compras",
+    "city": "granada",
+    "name": "Mercado de San Agustín",
+    "tagline": "Mercado gourmet de 1881 junto à catedral",
+    "description": "Único mercado de abastecimento no centro histórico de Granada, funciona desde 1881 a poucos metros da catedral e da Gran Vía. Reúne mais de vinte estabelecimentos com peixe, carne, frutas e uma seção gourmet de ostras, presuntos, queijos, azeites e vinhos, com mesas para degustar como tapas. Compra tradicional e prova de qualidade sob o mesmo teto.",
+    "lat": 37.1778,
+    "lng": -3.5994,
+    "durationLabel": "40 min–1 h",
+    "fit": "INDOOR",
+    "mapQuery": "Mercado de San Agustín, Plaza de San Agustín 2, Granada",
+    "whatToDo": "Compre presunto e queijo nas bancas e sente-se num balcão gourmet para provar ostras ou uma tábua com vinho da terra.",
+    "kingTip": "A zona gourmet fica animada ao almoço; para a compra de mercado, chegue de manhã, quando o peixe está mais fresco.",
+    "priceLevel": "€€",
+    "hours": {
+      "openDays": "Seg–Sáb",
+      "openHour": "09:00",
+      "closeHour": "15:00",
+      "note": "A seção gourmet estende-se à tarde e à noite; bancas de fresco fecham ao início da tarde."
+    }
+  },
+  {
+    "id": "grn_casa_ferrer",
+    "categoryId": "compras",
+    "city": "granada",
+    "name": "Guitarrería Casa Ferrer",
+    "tagline": "Luthier de guitarras desde 1875",
+    "description": "Na emblemática Cuesta de Gomérez, a subida que leva à Alhambra, esta oficina de luthiers soma quatro gerações e cerca de século e meio de ofício. Constrói à mão guitarras clássicas e flamencas, de estudo a instrumentos de concerto, num aroma de madeira e verniz que é história viva de Granada. Visita imperdível para amantes de música e artesanato fino.",
+    "lat": 37.1759,
+    "lng": -3.5944,
+    "durationLabel": "20–40 min",
+    "fit": "ANY",
+    "mapQuery": "Guitarrería Casa Ferrer, Cuesta de Gomérez 26, Granada",
+    "whatToDo": "Observe o ateliê de construção e experimente uma guitarra flamenca; peça para conhecer as diferenças entre madeiras.",
+    "kingTip": "Fica no caminho a pé até a Alhambra; passe na ida, quando a loja está mais tranquila. Sábados costuma fechar.",
+    "priceLevel": "€€€",
+    "hours": {
+      "openDays": "Seg–Sex",
+      "openHour": "10:00",
+      "closeHour": "20:00",
+      "note": "Pausa aproximada das 13h30 às 17h; sábados fechado."
+    },
+    "links": [
+      {
+        "label": "Site oficial",
+        "url": "https://guitarreriacasaferrer.com/"
+      }
+    ]
+  },
+  {
+    "id": "grn_bib_rambla_flores",
+    "categoryId": "compras",
+    "city": "granada",
+    "name": "Flores de Bib-Rambla",
+    "tagline": "Bancas de flores na praça mais alegre",
+    "description": "A Plaza Bib-Rambla, no coração de Granada, foi por gerações conhecida como Praça das Flores pelos quiosques que a coloriam. Ainda hoje, entre cafés e a fonte dos Gigantones, resistem bancas de flores e postos de artesanato e recordações. Um dos recantos mais fotogênicos da cidade para uma pausa e uma compra despretensiosa.",
+    "lat": 37.1752,
+    "lng": -3.5998,
+    "durationLabel": "15–30 min",
+    "fit": "ANY",
+    "mapQuery": "Plaza Bib-Rambla, Granada",
+    "whatToDo": "Compre um ramo de flores nas bancas históricas ou artesanato local nos quiosques e faça uma pausa num café da praça.",
+    "kingTip": "Fica coladinha à Alcaicería e à catedral; encadeie as três num só passeio de compras pelo centro.",
+    "priceLevel": "€"
+  },
+  {
+    "id": "grn_laguna_taracea",
+    "categoryId": "compras",
+    "city": "granada",
+    "name": "Laguna Taller de Taracea",
+    "tagline": "Marchetaria nazari desde 1877",
+    "description": "Dentro do recinto da Alhambra, na Calle Real, esta oficina familiar mantém desde 1877 a arte da taracea, a marchetaria de origem árabe que embute madeiras nobres, osso e madrepérola em padrões geométricos. Produz desde porta-copos e caixas a mesas e tabuleiros de xadrez, tudo feito à mão. Uma das compras mais autênticas e duradouras de Granada.",
+    "lat": 37.1760,
+    "lng": -3.5889,
+    "durationLabel": "20–40 min",
+    "fit": "ANY",
+    "mapQuery": "Laguna Taller de Taracea, Calle Real de la Alhambra 30, Granada",
+    "whatToDo": "Veja a demonstração da marchetaria e escolha uma caixa ou tabuleiro embutido; peça para diferenciar a taracea artesanal da industrial.",
+    "kingTip": "Está dentro da Alhambra, então aproveite a visita ao monumento para passar; peças pequenas viajam bem na bagagem de mão.",
+    "priceLevel": "€€€",
+    "hours": {
+      "openDays": "Todos os dias",
+      "openHour": "10:00",
+      "closeHour": "19:00",
+      "note": "Acompanha o horário de visitação da Alhambra."
+    },
+    "links": [
+      {
+        "label": "Site oficial",
+        "url": "https://www.lagunataracea.com/"
+      }
+    ],
+    "history": "Oficina de taracea em funcionamento contínuo desde 1877, herdeira da tradição nazari granadina."
+  },
+  {
+    "id": "mrb_la_canada",
+    "categoryId": "compras",
+    "city": "marbella",
+    "name": "La Cañada Shopping",
+    "tagline": "Maior centro comercial da Costa del Sol",
+    "description": "Aos pés da estrada de Ojén, é o grande centro comercial de Marbella, com arquitetura moderna, mais de uma centena de lojas, restauração, cinema e hipermercado. Reúne moda, esporte, tecnologia, decoração e beleza num só lugar climatizado, alternativa prática às boutiques da Milla de Oro. Ideal para compras variadas e para um dia de calor ou chuva.",
+    "lat": 36.5220,
+    "lng": -4.8740,
+    "durationLabel": "1–2 h",
+    "fit": "INDOOR",
+    "mapQuery": "Centro Comercial La Cañada, Carretera de Ojén, Marbella",
+    "whatToDo": "Circule pelas lojas de moda e complementos, faça compras no hipermercado Alcampo e reserve tempo para o cinema ou a praça de alimentação.",
+    "kingTip": "Costuma fechar aos domingos, exceto em datas especiais e no verão; planeje as compras para dias de semana ou sábado.",
+    "priceLevel": "€€",
+    "hours": {
+      "openDays": "Seg–Sáb",
+      "openHour": "10:00",
+      "closeHour": "22:00",
+      "note": "Domingos fechado, salvo aberturas especiais (Natal, verão)."
+    },
+    "links": [
+      {
+        "label": "Site oficial",
+        "url": "https://lacanadashopping.com/"
+      }
+    ]
+  },
+  {
+    "id": "cor_zoco_artesania",
+    "categoryId": "compras",
+    "city": "cordoba",
+    "name": "Zoco Municipal de la Artesanía",
+    "tagline": "Pátio de oficinas artesanais na Judería",
+    "description": "No coração da Judería, a passos da Mesquita-Catedral, este zoco ocupa uma casa senhorial de pátio típico cordovês onde trabalham artesãos de prata, couro, cerâmica e joalheria. Além de comprar direto de quem produz, é possível ver os ofícios em atividade nas oficinas ao redor do pátio. Vitrine viva do artesanato cordovês.",
+    "lat": 37.8796,
+    "lng": -4.7831,
+    "durationLabel": "30–45 min",
+    "fit": "ANY",
+    "mapQuery": "Zoco Municipal de la Artesanía, Calle Judíos, Córdoba",
+    "whatToDo": "Percorra as oficinas do pátio e compre uma peça de prata cordovesa ou de couro trabalhado direto do artesão.",
+    "kingTip": "Tem entradas pela Calle Judíos e pela Calle Averroes; entre pela primeira, junto à Sinagoga, e combine com a Calleja de las Flores.",
+    "priceLevel": "€€",
+    "hours": {
+      "openDays": "Todos os dias",
+      "openHour": "10:00",
+      "closeHour": "20:00",
+      "note": "Horário pode reduzir no verão pelo calor da tarde."
+    }
+  },
+  {
+    "id": "cor_meryan",
+    "categoryId": "compras",
+    "city": "cordoba",
+    "name": "Meryan",
+    "tagline": "Couro cordovão e guadamecí desde 1958",
+    "description": "Na pitoresca Calleja de las Flores, esta oficina familiar preserva desde 1958 as técnicas dos célebres Couros de Córdoba: o cordovão e o guadamecí, couro repuxado, gravado a faca e decorado à mão, por vezes com folha de prata. Do painel decorativo a bolsas, baús e pequenos objetos, cada peça é única. Um dos ofícios mais nobres e antigos da cidade.",
+    "lat": 37.8804,
+    "lng": -4.7796,
+    "durationLabel": "30–45 min",
+    "fit": "ANY",
+    "mapQuery": "Meryan, Calleja de las Flores 2, Córdoba",
+    "whatToDo": "Desça ao taller para ver o couro sendo repuxado e gravado, e escolha uma peça de guadamecí ou um objeto menor de cordovão.",
+    "kingTip": "Fica na fotogênica Calleja de las Flores, com a torre da Mesquita ao fundo; chegue cedo para evitar o aperto de visitantes.",
+    "priceLevel": "€€€",
+    "hours": {
+      "openDays": "Seg–Sáb",
+      "openHour": "10:00",
+      "closeHour": "20:00",
+      "note": "Pausa possível ao meio-dia; domingos com horário reduzido."
+    },
+    "links": [
+      {
+        "label": "Site oficial",
+        "url": "https://meryancor.com/"
+      }
+    ],
+    "history": "Fundada em 1958 por Ángel López-Obrero e Mercedes Miarons, dedicada às técnicas históricas dos Couros de Córdoba."
+  },
+  {
+    "id": "rnd_bodega_la_sangre",
+    "categoryId": "compras",
+    "city": "ronda",
+    "name": "Antigua Bodega La Sangre",
+    "tagline": "Vinhos da DO Ronda junto a Santa María",
+    "description": "No centro histórico de Ronda, ao lado da igreja de Santa María la Mayor, este espaço reúne e comercializa vinhos da jovem e premiada Denominação de Origem Ronda, cravada na serra a mais de 700 metros de altitude. Além de comprar garrafas de pequenas bodegas locais, é possível provar tintos e brancos da região. Compra ideal para quem quer levar o vinho da serrania para casa.",
+    "lat": 36.7377,
+    "lng": -5.1645,
+    "durationLabel": "30–45 min",
+    "fit": "ANY",
+    "mapQuery": "Antigua Bodega La Sangre, Calle Gómez 2, Ronda",
+    "whatToDo": "Prove uma seleção de tintos da DO Ronda e leve garrafas de produtores pequenos que raramente chegam ao Brasil.",
+    "kingTip": "Fica coladinha à Plaza Duquesa de Parcent e à igreja de Santa María; combine a compra com a visita ao centro monumental.",
+    "priceLevel": "€€",
+    "links": [
+      {
+        "label": "Site oficial",
+        "url": "https://bodegaronda.com/"
+      }
+    ]
+  }
+]

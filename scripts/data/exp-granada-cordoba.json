@@ -1,0 +1,271 @@
+[
+  {
+    "id": "grn_corral_del_carbon",
+    "categoryId": "granada",
+    "city": "granada",
+    "name": "Corral del Carbón",
+    "tagline": "O único caravançará nazarí da Espanha",
+    "description": "A poucos passos da Alcaicería, este pátio do século XIV é a única alhóndiga (posada de mercadores) da época nazarí preservada em toda a Europa. Sob uma portada de arco de ferradura, um pátio central sereno remete às caravanas que cruzavam o reino de Granada. Um oásis silencioso e gratuito no centro comercial.",
+    "lat": 37.17435,
+    "lng": -3.5987,
+    "durationLabel": "20–30 min",
+    "fit": "INDOOR",
+    "mapQuery": "Corral del Carbon, Granada",
+    "kingTip": "Entrada gratuita e quase sempre vazia — parada rápida e fresca entre a Catedral e a Alcaicería. Não deixe de olhar para cima na portada, com sua inscrição em árabe e a decoração em tijolo.",
+    "priceLevel": "Gratuito",
+    "links": [
+      { "label": "Turismo de Granada", "url": "https://turismo.granada.org/es/corral-del-carbon" }
+    ],
+    "history": "Erguido no século XIV sob Yusuf I como posada e armazém de mercadores (al-Funduq al-Yadida); depois da Reconquista serviu de teatro de comédias e depósito de carvão, origem do nome atual."
+  },
+  {
+    "id": "grn_palacio_madraza",
+    "categoryId": "granada",
+    "city": "granada",
+    "name": "Palacio de la Madraza",
+    "tagline": "A primeira universidade de Granada",
+    "description": "Fundada por Yusuf I em 1349, foi a escola corânica (madraza) do reino nazarí e hoje pertence à Universidade de Granada. Por trás de uma fachada barroca colorida, guarda um oratório mourisco intacto com mihrab e uma cúpula octogonal de mocárabes deslumbrante. Fica bem em frente ao Corral del Carbón.",
+    "lat": 37.17618,
+    "lng": -3.59895,
+    "durationLabel": "20–30 min",
+    "fit": "INDOOR",
+    "mapQuery": "Palacio de la Madraza, Granada",
+    "kingTip": "O oratório nazarí escondido lá dentro é um dos tesouros menos visitados da cidade. Atenção: costuma fechar em agosto e depende de exposições nos fins de semana — em julho, visite de segunda a sexta.",
+    "priceLevel": "Gratuito (ou simbólico em exposições)",
+    "hours": {
+      "openDays": "Seg a sex (sáb só com exposição)",
+      "openHour": "09:00",
+      "closeHour": "21:00",
+      "note": "Fecha domingos, feriados e o mês de agosto."
+    },
+    "links": [
+      { "label": "La Madraza — Universidad de Granada", "url": "https://lamadraza.ugr.es/informacion/visita/" }
+    ],
+    "history": "Madraza nazarí de 1349 onde lecionaram sábios como Ibn al-Jatib e Ibn Zamrak, autor dos poemas da Alhambra; reformada em estilo barroco no século XVIII como sede do concelho."
+  },
+  {
+    "id": "grn_palacio_dar_al_horra",
+    "categoryId": "granada",
+    "city": "granada",
+    "name": "Palacio de Dar al-Horra",
+    "tagline": "O palácio nazarí escondido no Albaicín",
+    "description": "No alto do Albaicín, este palácio nazarí do século XV sobrevive quase intacto, com pátio central, alberca e miradouros de gelosia sobre a cidade. Foi residência de Aixa, a rainha-mãe de Boabdil, o último sultão de Granada. Uma joia íntima e pouco visitada, com vista privilegiada da Alhambra.",
+    "lat": 37.1847,
+    "lng": -3.5968,
+    "durationLabel": "30–40 min",
+    "fit": "INDOOR",
+    "mapQuery": "Palacio de Dar al-Horra, Granada",
+    "kingTip": "Está incluído no combo de monumentos 'Dobla de Oro' junto com a Alhambra — vale conferir esse bilhete conjunto. Os miradouros do andar superior dão uma das vistas mais limpas da Alhambra sem multidão.",
+    "priceLevel": "€ (~5 €, estimativa; incluso na Dobla de Oro)",
+    "hours": {
+      "openDays": "Todos os dias (verão)",
+      "openHour": "09:30",
+      "closeHour": "20:30",
+      "note": "Horário de verão (1 mai–14 set): 09:30–14:30 e 17:00–20:30."
+    },
+    "links": [
+      { "label": "Turismo de Granada", "url": "https://turismo.granada.org/es/palacio-dar-al-horra" }
+    ],
+    "history": "Construído no século XV sobre um palácio zirí do século XI, foi a casa de Aixa, mãe de Boabdil; após 1492 os Reis Católicos cederam-no ao mosteiro de Santa Isabel la Real."
+  },
+  {
+    "id": "grn_abadia_sacromonte",
+    "categoryId": "granada",
+    "city": "granada",
+    "name": "Abadía del Sacromonte",
+    "tagline": "Catacumbas e vistas no alto do vale",
+    "description": "No ponto mais alto do Sacromonte, esta abadia do século XVII guarda as Santas Cuevas — catacumbas onde, segundo a tradição, foi martirizado São Cecílio, padroeiro de Granada, e onde apareceram os célebres Libros Plúmbeos. O conjunto reúne igreja, claustros e um miradouro com vistas amplas sobre a cidade e a serra.",
+    "lat": 37.1928,
+    "lng": -3.576,
+    "durationLabel": "1 h (visita guiada)",
+    "fit": "INDOOR",
+    "mapQuery": "Abadia del Sacromonte, Granada",
+    "kingTip": "Fica bem afastada, no fim da estrada do Sacromonte — vá de táxi ou do ônibus C34. As catacumbas são frescas mesmo no auge de julho. Aos domingos não se visita a igreja durante a missa das 12h.",
+    "priceLevel": "€ (~5 €, estimativa)",
+    "hours": {
+      "openDays": "Todos os dias",
+      "openHour": "10:00",
+      "closeHour": "19:00",
+      "note": "Verão: 10:00–14:00 e 15:30–19:00; bilheteria fecha antes."
+    },
+    "links": [
+      { "label": "Site oficial", "url": "https://abadiasacromonte.org" }
+    ],
+    "history": "Erguida a partir de 1600 pelo arcebispo Pedro de Castro em torno das catacumbas onde surgiram as relíquias e os Libros Plúmbeos, achados que moldaram a identidade cristã de Granada."
+  },
+  {
+    "id": "grn_basilica_san_juan_de_dios",
+    "categoryId": "granada",
+    "city": "granada",
+    "name": "Basílica de San Juan de Dios",
+    "tagline": "Uma explosão de ouro barroco",
+    "description": "Considerada uma das igrejas mais douradas da Espanha, sua nave transborda talha coberta de ouro, espelhos, mármores e afrescos numa profusão barroca que ofusca. Guarda a urna de prata com os restos de São João de Deus, fundador da ordem hospitaleira. Pouco turística e de tirar o fôlego por dentro.",
+    "lat": 37.17877,
+    "lng": -3.60258,
+    "durationLabel": "30–45 min",
+    "fit": "INDOOR",
+    "mapQuery": "Basilica de San Juan de Dios, Granada",
+    "kingTip": "Suba ao camarín atrás do altar-mor (bilhete inclui) para ver de perto o exagero dourado e as relíquias. Refúgio fresco e deslumbrante longe das filas da Alhambra.",
+    "priceLevel": "€ (~5 €, estimativa)",
+    "hours": {
+      "openDays": "Todos os dias",
+      "openHour": "10:00",
+      "closeHour": "19:00",
+      "note": "Fecha em horários de culto; confira no local."
+    },
+    "links": [
+      { "label": "Basílica San Juan de Dios", "url": "https://basilicasanjuandedios.es" }
+    ],
+    "history": "Construída entre 1737 e 1759 em pleno auge do barroco granadino, é o templo da Ordem Hospitaleira fundada por João de Deus, canonizado em 1690."
+  },
+  {
+    "id": "grn_paseo_de_los_tristes",
+    "categoryId": "granada",
+    "city": "granada",
+    "name": "Paseo de los Tristes",
+    "tagline": "O passeio à beira do Darro sob a Alhambra",
+    "description": "Oficialmente Paseo del Padre Manjón, este trecho ribeirinho ao pé do rio Darro é o cenário mais romântico de Granada: pontes de pedra, esplanadas e a Alhambra suspensa logo acima. É o coração da Carrera del Darro, considerada uma das ruas mais bonitas da Espanha, ligando a Plaza Nueva ao Sacromonte.",
+    "lat": 37.1796,
+    "lng": -3.5907,
+    "durationLabel": "30–45 min a pé",
+    "fit": "CLEAR_SKY",
+    "mapQuery": "Paseo de los Tristes, Granada",
+    "kingTip": "Ao entardecer, sente-se numa esplanada com a Alhambra iluminada por cima — a foto clássica é a partir da ponte. O nome vem de ser o antigo caminho dos cortejos fúnebres rumo ao cemitério.",
+    "priceLevel": "Gratuito (consumo à parte)",
+    "history": "Trecho final da Carrera del Darro, de traçado medieval; recebeu o apelido de 'dos Tristes' por ser a rota histórica dos cortejos fúnebres que subiam ao cemitério da cidade."
+  },
+  {
+    "id": "crd_medina_azahara",
+    "categoryId": "cordoba",
+    "city": "cordoba",
+    "name": "Medina Azahara",
+    "tagline": "A cidade-palácio do califa, Patrimônio Mundial",
+    "description": "A oito quilômetros de Córdoba, as ruínas da cidade palatina de Abderramão III (século X) escalam a encosta da Serra Morena em terraços de arcos vermelhos e brancos. Foi a esplêndida capital do califado, saqueada e esquecida poucas décadas depois. Um museu premiado e a Casa de Ya'far transportam ao apogeu do al-Andalus. Patrimônio da Humanidade desde 2018.",
+    "lat": 37.8883,
+    "lng": -4.8666,
+    "durationLabel": "2–2,5 h (com museu)",
+    "fit": "ANY",
+    "mapQuery": "Conjunto Arqueologico Medina Azahara, Cordoba",
+    "whatToDo": "Comece pelo museu no sopé, pegue o ônibus-lançadeira até as ruínas e percorra o Salão Rico e a Casa de Ya'far no alto.",
+    "kingTip": "Não se chega de carro às ruínas: estacione no museu e use o ônibus-lançadeira oficial (bilhete à parte). Vá logo na abertura, às 9h — a encosta não tem sombra e ferve no julho cordobês. Entrada gratuita para cidadãos da UE.",
+    "priceLevel": "Museu gratuito (UE); lançadeira ~3 € (estimativa)",
+    "hours": {
+      "openDays": "Ter a dom (fecha segunda)",
+      "openHour": "09:00",
+      "closeHour": "15:00",
+      "note": "Verão (16 jun–15 set): ter–dom 09:00–15:00; consulte antes de ir."
+    },
+    "links": [
+      { "label": "Site oficial", "url": "https://www.medinaazahara.org" }
+    ],
+    "history": "Mandada erguer por Abderramão III a partir de 936 como sede do califado de Córdoba, foi destruída na guerra civil (fitna) por volta de 1010 e permaneceu soterrada até as escavações do século XX."
+  },
+  {
+    "id": "crd_templo_romano",
+    "categoryId": "cordoba",
+    "city": "cordoba",
+    "name": "Templo Romano",
+    "tagline": "Colunas imperiais no coração da cidade",
+    "description": "Ao lado da Câmara Municipal, seis colunas coríntias reconstruídas revelam o único templo romano de Córdoba, do século I, dedicado ao culto imperial. Descoberto nas obras da prefeitura nos anos 1950, hoje é iluminado à noite e cede espaço a gatos e passantes. Reaberto à visita após restauro recente.",
+    "lat": 37.8846,
+    "lng": -4.7772,
+    "durationLabel": "20–30 min",
+    "fit": "CLEAR_SKY",
+    "mapQuery": "Templo Romano de Cordoba",
+    "kingTip": "As visitas guiadas gratuitas são por ordem de chegada (máx. 30 pessoas), com turnos às 10h, 11h e 12h de terça a sexta. Fecha às segundas. À noite, iluminado, rende uma foto linda mesmo sem entrar.",
+    "priceLevel": "Gratuito (visita guiada)",
+    "hours": {
+      "openDays": "Ter a dom (fecha segunda)",
+      "openHour": "10:00",
+      "closeHour": "13:00",
+      "note": "Turnos guiados 10h–12h (ter–sex) e 10h–13h (fim de semana/feriado)."
+    },
+    "links": [
+      { "label": "Ayuntamiento de Córdoba", "url": "https://www.cordoba.es/noticias/visitas-guiadas-templo-romano" }
+    ],
+    "history": "Edificado no século I d.C. junto ao fórum de culto imperial da Colonia Patricia Corduba; suas colunas foram redescobertas e remontadas ao ampliar-se o edifício municipal em meados do século XX."
+  },
+  {
+    "id": "crd_banos_alcazar_califal",
+    "categoryId": "cordoba",
+    "city": "cordoba",
+    "name": "Baños del Alcázar Califal",
+    "tagline": "As termas árabes do palácio califal",
+    "description": "Sob o Campo Santo de los Mártires, estes banhos do século X serviam ao antigo alcácer dos califas omíadas. Ao estilo das termas romanas, sucedem-se salas fria, morna e quente sob abóbadas rasgadas por claraboias em forma de estrela. A cenografia e a projeção multimídia explicam o ritual do banho no al-Andalus.",
+    "lat": 37.877,
+    "lng": -4.7827,
+    "durationLabel": "30–45 min",
+    "fit": "INDOOR",
+    "mapQuery": "Banos del Alcazar Califal, Cordoba",
+    "kingTip": "Subterrâneos e frescos — perfeitos para as horas mais quentes da tarde. Ficam bem ao lado do Alcázar de los Reyes Cristianos; dá para encadear as duas visitas.",
+    "priceLevel": "€ (~3 €, estimativa)",
+    "hours": {
+      "openDays": "Ter a dom (fecha segunda)",
+      "openHour": "08:15",
+      "closeHour": "14:15",
+      "note": "Verão (16 jun–15 set): ter–dom 08:15–14:15."
+    },
+    "links": [
+      { "label": "Museos de Córdoba", "url": "https://banosdelalcazarcalifal.cordoba.es" }
+    ],
+    "history": "Termas do século X ligadas ao Alcácer Califal omíada, ampliadas nos períodos almorávida e almóada; escavadas e abertas ao público como espaço museológico da cidade."
+  },
+  {
+    "id": "crd_plaza_del_potro",
+    "categoryId": "cordoba",
+    "city": "cordoba",
+    "name": "Plaza del Potro",
+    "tagline": "A praça imortalizada por Cervantes",
+    "description": "Um recanto cheio de história perto do Guadalquivir, com uma fonte renascentista coroada por um potro e a antiga Posada del Potro, estalagem do século XV citada no Dom Quixote. Cervantes chamou-a de covil de gente de má fama; hoje é um largo tranquilo ladeado por museus e casas caiadas.",
+    "lat": 37.8817,
+    "lng": -4.7713,
+    "durationLabel": "20–30 min",
+    "fit": "ANY",
+    "mapQuery": "Plaza del Potro, Cordoba",
+    "kingTip": "Espie o pátio da Posada del Potro, uma das poucas estalagens medievais que sobrevivem — hoje abriga o Centro Flamenco Fosforito, de entrada gratuita. Ótima parada a caminho da ribeira.",
+    "priceLevel": "Gratuito",
+    "history": "Documentada desde o século XV, deve o nome à fonte com a figura de um potro; a Posada del Potro que a ladeia foi mencionada por Cervantes em Dom Quixote como refúgio de pícaros."
+  },
+  {
+    "id": "crd_torre_malmuerta",
+    "categoryId": "cordoba",
+    "city": "cordoba",
+    "name": "Torre de la Malmuerta",
+    "tagline": "A torre octogonal da lenda sombria",
+    "description": "Uma imponente torre-fortaleza do início do século XV, ligada à antiga muralha por um arco sobre a via. Seu nome — 'a mal-morta' — remete à lenda de uma dama assassinada pelo marido enganado por falsas suspeitas. Ergue-se isolada num largo ao norte do centro, marco do perímetro histórico da cidade.",
+    "lat": 37.8895,
+    "lng": -4.7768,
+    "durationLabel": "15–20 min (exterior)",
+    "fit": "CLEAR_SKY",
+    "mapQuery": "Torre de la Malmuerta, Cordoba",
+    "kingTip": "Costuma ser vista só por fora — visitas ao interior são pontuais e mediante reserva municipal. Combine com uma caminhada até a vizinha Plaza de Colón e o Palacio de la Merced.",
+    "priceLevel": "Gratuito (exterior)",
+    "history": "Erguida por volta de 1406-1408 sob Henrique III como torre albarrã de defesa e ponto de vigia; a lenda do feminicídio deu-lhe o nome, embora historiadores o liguem a 'mal murada' (mal fortificada)."
+  },
+  {
+    "id": "crd_caballerizas_reales",
+    "categoryId": "cordoba",
+    "city": "cordoba",
+    "name": "Caballerizas Reales",
+    "tagline": "Berço do cavalo andaluz e palco equestre",
+    "description": "Fundadas por Filipe II em 1570 para criar o puro-sangue espanhol, estas cavalariças reais de naves abobadadas são um monumento vivo. À noite, sob a arena coberta, o espetáculo 'Pasión y Duende del Caballo Andaluz' reúne alta escola, doma vaquera e flamenco ao vivo num show de tirar o fôlego.",
+    "lat": 37.876,
+    "lng": -4.7834,
+    "durationLabel": "Espetáculo ~60–70 min",
+    "fit": "INDOOR",
+    "mapQuery": "Caballerizas Reales de Cordoba",
+    "whatToDo": "Visite as naves e o pátio de dia; à noite, assista ao espetáculo equestre com música e flamenco ao vivo.",
+    "kingTip": "O espetáculo é às quartas, quintas, sextas e sábados — em julho começa às 21h, quando o calor já cedeu. Reserve com antecedência pelo site da Córdoba Ecuestre; fica coladinho ao Alcázar.",
+    "priceLevel": "€€€ (espetáculo ~24 €, estimativa; visita diurna à parte)",
+    "hours": {
+      "openDays": "Espetáculo: qua, qui, sex, sáb",
+      "openHour": "21:00",
+      "closeHour": "22:10",
+      "note": "Horário do show varia por temporada; visita diurna em outros horários."
+    },
+    "links": [
+      { "label": "Córdoba Ecuestre — ingressos", "url": "https://www.cordobaecuestre.com" }
+    ],
+    "history": "Criadas por decreto de Filipe II em 1570 sob o cavalariço Diego López de Haro para fixar a raça do Cavalo Andaluz (Pura Raza Española), permanecem como referência mundial da criação equestre."
+  }
+]

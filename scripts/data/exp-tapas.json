@@ -1,0 +1,374 @@
+[
+  {
+    "id": "mlg_meson_cervantes",
+    "categoryId": "tapas",
+    "city": "malaga",
+    "name": "El Mesón de Cervantes",
+    "tagline": "Tapas de autor junto à Plaza de la Merced",
+    "description": "Casa querida do centro histórico, a passos do Teatro Cervantes e da praça onde nasceu Picasso. A cozinha do chef argentino-malaguenho cruza o receituário andaluz com pinceladas de fora, em porções pequenas de execução caprichada e uma carta de vinhos bem escolhida. Ambiente descontraído e sempre cheio, ideal para uma noite de tapeo com calma.",
+    "lat": 36.72438,
+    "lng": -4.41876,
+    "durationLabel": "1–1,5 h",
+    "fit": "ANY",
+    "mapQuery": "El Mesón de Cervantes, Calle Álamos 11, Málaga",
+    "kingTip": "Peça as mollejas (moelas de vitela) grelhadas com chimichurri, a tapa-assinatura que fundiu Buenos Aires e Málaga.",
+    "priceLevel": "€€",
+    "hours": {
+      "openDays": "Todos os dias",
+      "openHour": "19:30",
+      "closeHour": "23:30",
+      "note": "Foco no jantar; confirme o dia de descanso semanal na alta temporada."
+    },
+    "links": [
+      { "label": "Site oficial", "url": "https://elmesondecervantes.com" }
+    ]
+  },
+  {
+    "id": "mlg_uvedoble",
+    "categoryId": "tapas",
+    "city": "malaga",
+    "name": "Uvedoble Taberna",
+    "tagline": "Cozinha andaluza reinventada no Teatro Romano",
+    "description": "Taberna de referência do chef Willie Orellana, encravada na Calle Alcazabilla, entre o Teatro Romano e a Alcazaba. Releitura contemporânea da cozinha malaguenha em tapas de apresentação cuidada, servidas num salão estreito e vibrante de balcão animado. A escolha certa para quem quer tapas modernas sem perder a raiz local.",
+    "lat": 36.72186,
+    "lng": -4.41694,
+    "durationLabel": "1–1,5 h",
+    "fit": "ANY",
+    "mapQuery": "Uvedoble Taberna, Calle Alcazabilla 1, Málaga",
+    "kingTip": "Prove o célebre ovo com batata palha e trufa, a tapa que virou marca registrada da casa.",
+    "priceLevel": "€€",
+    "hours": {
+      "openDays": "Seg–Sáb",
+      "openHour": "12:30",
+      "closeHour": "00:00",
+      "note": "Domingos fechado; reserva recomendada à noite."
+    },
+    "links": [
+      { "label": "Site oficial", "url": "https://www.uvedobletaberna.com" }
+    ]
+  },
+  {
+    "id": "mlg_tapeo_cervantes",
+    "categoryId": "tapas",
+    "city": "malaga",
+    "name": "El Tapeo de Cervantes",
+    "tagline": "Petiscos criativos junto ao Teatro Cervantes",
+    "description": "Bistrô de tapas minúsculo e acolhedor na Calle Cárcer, colado ao Teatro Cervantes. Poucas mesas e um balcão apertado servem pequenas porções criativas de raiz andaluza, com destaque para carnes de cocção lenta e produtos de mercado. Íntimo e concorrido, pede reserva antecipada.",
+    "lat": 36.72384,
+    "lng": -4.41946,
+    "durationLabel": "1–1,5 h",
+    "fit": "ANY",
+    "mapQuery": "El Tapeo de Cervantes, Calle Cárcer 8, Málaga",
+    "kingTip": "Peça o solomillo (filé) ao Pedro Ximénez, a tapa de assinatura regada ao vinho doce de Málaga.",
+    "priceLevel": "€€",
+    "hours": {
+      "openDays": "Todos os dias",
+      "openHour": "13:00",
+      "closeHour": "23:30",
+      "note": "Espaço pequeno; reserve com antecedência, sobretudo nos fins de semana."
+    },
+    "links": [
+      { "label": "Site oficial", "url": "https://eltapeodecervantes.com" }
+    ]
+  },
+  {
+    "id": "mlg_lo_gueno",
+    "categoryId": "tapas",
+    "city": "malaga",
+    "name": "Mesón Lo Güeno",
+    "tagline": "Taberna clássica de tapas desde 1967",
+    "description": "Referência do tapeo tradicional malaguenho, na Calle Marín García desde 1967, a poucos metros da Calle Larios. Balcão farto de tapas, salão de vigas de madeira e presuntos pendurados servem clássicos andaluzes com generosidade. Casa de sempre para sentir a Málaga de outrora.",
+    "lat": 36.71872,
+    "lng": -4.41985,
+    "durationLabel": "1–1,5 h",
+    "fit": "ANY",
+    "mapQuery": "Mesón Lo Güeno, Calle Marín García 9, Málaga",
+    "kingTip": "Peça as berinjelas fritas com mel de cana, a tapa doce-salgada emblemática da casa.",
+    "priceLevel": "€€",
+    "hours": {
+      "openDays": "Todos os dias",
+      "openHour": "12:00",
+      "closeHour": "00:00",
+      "note": "Enche na hora do aperitivo e no jantar; há uma segunda casa na Calle Strachan."
+    },
+    "links": [
+      { "label": "Site oficial", "url": "https://logueno.com" }
+    ]
+  },
+  {
+    "id": "grn_los_diamantes",
+    "categoryId": "tapas",
+    "city": "granada",
+    "name": "Los Diamantes (Plaza Nueva)",
+    "tagline": "Pescaíto frito e tapa grátis desde 1942",
+    "description": "Instituição granadina fundada em 1942, na animada Plaza Nueva, fiel à tradição da tapa gratuita a cada bebida. Frituras de peixe impecáveis, mariscos e um ambiente ruidoso de mesas comunais e balcão lotado captam a essência do sul. Não aceitam reserva e vive cheio, parte do encanto.",
+    "lat": 37.17655,
+    "lng": -3.59810,
+    "durationLabel": "45 min–1 h",
+    "fit": "ANY",
+    "mapQuery": "Los Diamantes, Plaza Nueva 13, Granada",
+    "kingTip": "Em Granada a tapa é grátis com a bebida; aqui peça o pescaíto frito variado, o carro-chefe da casa.",
+    "priceLevel": "€€",
+    "hours": {
+      "openDays": "Todos os dias",
+      "openHour": "12:00",
+      "closeHour": "00:00",
+      "note": "Não aceitam reserva; costuma lotar, com clientes em pé no balcão."
+    }
+  },
+  {
+    "id": "rnd_bodega_san_francisco",
+    "categoryId": "tapas",
+    "city": "ronda",
+    "name": "Bodega San Francisco",
+    "tagline": "Tapas serranas junto à muralha de Ronda",
+    "description": "Taberna do bairro San Francisco, ao pé da muralha e da Puerta de Almocábar, no sul da cidade velha. Carta enorme de tapas e porções de cozinha caseira serrana, servidas dentro ou num grande terraço à sombra. Muito frequentada por locais, com preços honestos e porções fartas.",
+    "lat": 36.73758,
+    "lng": -5.16558,
+    "durationLabel": "1–1,5 h",
+    "fit": "ANY",
+    "mapQuery": "Bodega San Francisco, Plaza Ruedo Alameda 32, Ronda",
+    "kingTip": "Peça o rabo de toro guisado, a tapa serrana mais pedida da casa, com um tinto da Serranía de Ronda.",
+    "priceLevel": "€€",
+    "hours": {
+      "openDays": "Todos os dias",
+      "openHour": "12:00",
+      "closeHour": "00:00",
+      "note": "Terraço amplo; enche no almoço e à noite na alta temporada."
+    },
+    "links": [
+      { "label": "Site oficial", "url": "https://bodegasanfrancisco.com" }
+    ]
+  },
+  {
+    "id": "cor_taberna_salinas",
+    "categoryId": "tapas",
+    "city": "cordoba",
+    "name": "Taberna Salinas",
+    "tagline": "Taberna cordovesa de 1924 com pátio",
+    "description": "Taberna histórica fundada em 1924, perto da Plaza de las Tendillas, com botas de vinho no balcão e um belo pátio de colunas envidraçado e veladores de mármore. Cozinha cordovesa tradicional de receitas centenárias, tocada por gerações da mesma família. Uma das tabernas mais autênticas da cidade.",
+    "lat": 37.88530,
+    "lng": -4.77690,
+    "durationLabel": "1–1,5 h",
+    "fit": "ANY",
+    "mapQuery": "Taberna Salinas, Calle Tundidores 3, Córdoba",
+    "kingTip": "Peça as naranjas picadas com bacalhau e azeite, a tapa doce-salgada típica cordovesa que virou assinatura da casa.",
+    "priceLevel": "€€",
+    "hours": {
+      "openDays": "Seg–Sáb",
+      "openHour": "12:30",
+      "closeHour": "23:00",
+      "note": "Fecha à tarde entre serviços (16h–20h) e aos domingos."
+    },
+    "links": [
+      { "label": "Site oficial", "url": "http://www.tabernasalinas.com" }
+    ]
+  },
+  {
+    "id": "cor_casa_pepe_juderia",
+    "categoryId": "tapas",
+    "city": "cordoba",
+    "name": "Casa Pepe de la Judería",
+    "tagline": "Terraço com vista da Mesquita na Judería",
+    "description": "Taberna histórica no labirinto da Judería, a poucos passos da Mesquita-Catedral, sob a chancela municipal de Taberna Histórica. Pátios frescos, salões e um terraço panorâmico com vista para os minaretes tornam a refeição memorável. Cozinha cordovesa clássica servida com esmero.",
+    "lat": 37.87975,
+    "lng": -4.78130,
+    "durationLabel": "1–2 h",
+    "fit": "ANY",
+    "mapQuery": "Casa Pepe de la Judería, Calle Romero 1, Córdoba",
+    "kingTip": "Suba ao terraço ao entardecer e peça o salmorejo cordovês e o rabo de toro, os dois pratos-símbolo da casa.",
+    "priceLevel": "€€€",
+    "hours": {
+      "openDays": "Todos os dias",
+      "openHour": "13:00",
+      "closeHour": "23:30",
+      "note": "Terraço com vista muito disputado; reserve para garantir mesa lá em cima."
+    }
+  },
+  {
+    "id": "cor_taberna_san_miguel",
+    "categoryId": "tapas",
+    "city": "cordoba",
+    "name": "Taberna San Miguel \"El Pisto\"",
+    "tagline": "Montilla-Moriles numa taberna centenária",
+    "description": "Taberna clássica na recolhida Plaza de San Miguel, com azulejos, cartazes de touros e barris de fino Montilla-Moriles ao fundo. Tocada pela mesma família desde 1974, mantém viva a alma da taberna cordovesa de sempre. Ambiente caloroso e preços amáveis, longe das rotas mais turísticas.",
+    "lat": 37.88755,
+    "lng": -4.77895,
+    "durationLabel": "45 min–1,5 h",
+    "fit": "ANY",
+    "mapQuery": "Taberna San Miguel El Pisto, Plaza San Miguel 1, Córdoba",
+    "kingTip": "Peça o pisto cordovês que dá apelido à casa, acompanhado de um fino Montilla-Moriles do barril.",
+    "priceLevel": "€€",
+    "hours": {
+      "openDays": "Seg–Sáb",
+      "openHour": "12:00",
+      "closeHour": "16:00",
+      "note": "Reabre à noite (20h–24h); fecha aos domingos e em agosto costuma reduzir horário."
+    },
+    "links": [
+      { "label": "Site oficial", "url": "https://tabernacordoba.es" }
+    ]
+  },
+  {
+    "id": "cor_bodegas_campos",
+    "categoryId": "tapas",
+    "city": "cordoba",
+    "name": "Bodegas Campos",
+    "tagline": "Pátios cordoveses e bodega histórica",
+    "description": "Conjunto de casas e pátios andaluzes entre a Igreja de San Pedro e a Plaza del Potro, com uma bodega de tonéis assinados por personalidades. Reúne uma taberna de balcão para petiscar e um restaurante mais tranquilo, ambos de cozinha cordovesa refinada. Uma das mesas de mais solera da cidade.",
+    "lat": 37.88248,
+    "lng": -4.77330,
+    "durationLabel": "1–2 h",
+    "fit": "ANY",
+    "mapQuery": "Bodegas Campos, Calle Lineros 32, Córdoba",
+    "kingTip": "Fique na zona de taberna e peça um fino da casa com o salmorejo, a dupla que resume Córdoba no copo e no prato.",
+    "priceLevel": "€€€",
+    "hours": {
+      "openDays": "Todos os dias",
+      "openHour": "13:00",
+      "closeHour": "23:30",
+      "note": "Estacionamento privativo para clientes; domingos costuma servir só ao almoço."
+    },
+    "links": [
+      { "label": "Site oficial", "url": "https://bodegascampos.com" }
+    ]
+  },
+  {
+    "id": "grn_om_kalsum",
+    "categoryId": "tapas",
+    "city": "granada",
+    "name": "Om Kalsum",
+    "tagline": "Tapas árabes e vegetarianas em Granada",
+    "description": "Bar diferente na Calle Jardines, no centro de Granada, que troca a fritura andaluza por tapas marroquinas e do Oriente Médio. Fiel ao costume local, cada bebida vem com uma tapa gratuita, aqui em versão de cuscuz, tajine e legumes especiados. Barato, saboroso e um dos favoritos vegetarianos da cidade.",
+    "lat": 37.17680,
+    "lng": -3.60050,
+    "durationLabel": "45 min–1 h",
+    "fit": "ANY",
+    "mapQuery": "Om Kalsum, Calle Jardines 17, Granada",
+    "kingTip": "A tapa vem grátis com a bebida; segure a mão nas primeiras rodadas para receber o cuscuz de legumes e as berinjelas com mel.",
+    "priceLevel": "€",
+    "hours": {
+      "openDays": "Todos os dias",
+      "openHour": "13:00",
+      "closeHour": "00:00",
+      "note": "Fecha à tarde entre serviços; espaço pequeno e muito procurado à noite."
+    }
+  },
+  {
+    "id": "grn_bodega_la_mancha",
+    "categoryId": "tapas",
+    "city": "granada",
+    "name": "Bodega La Mancha",
+    "tagline": "Vermute de torneira e embutidos desde 1956",
+    "description": "Bodega emblemática aberta em 1956, a passos da Plaza Isabel la Católica, com paredes forradas de garrafas e presuntos pendurados sobre o balcão. Vermute de torneira, montaditos e tábuas de embutidos mantêm viva a tapa gratuita de Granada. Estreita, ruidosa e deliciosamente autêntica.",
+    "lat": 37.17492,
+    "lng": -3.59772,
+    "durationLabel": "45 min–1 h",
+    "fit": "ANY",
+    "mapQuery": "Bodega La Mancha, Calle Joaquín Costa 10, Granada",
+    "kingTip": "Peça o vermute de torneira com um montadito de presunto, o combo que os granadinos repetem à tarde.",
+    "priceLevel": "€",
+    "hours": {
+      "openDays": "Todos os dias",
+      "openHour": "12:00",
+      "closeHour": "00:00",
+      "note": "Bar pequeno; a maioria bebe em pé no balcão ou na calçada."
+    }
+  },
+  {
+    "id": "mrb_casa_curro",
+    "categoryId": "tapas",
+    "city": "marbella",
+    "name": "Taberna Casa Curro",
+    "tagline": "Ibéricos e gambas de Huelva no casco antigo",
+    "description": "Taberna acolhedora escondida no casco antigo de Marbella, aberta em 2008 na estreita Calle Pantaleón, perto da Plaza de los Naranjos. Foco em ibéricos, queijos artesanais e produto do mar, com bons vinhos andaluzes por taça. Cantinho autêntico em meio ao charme caiado da cidade velha.",
+    "lat": 36.51022,
+    "lng": -4.88503,
+    "durationLabel": "1–1,5 h",
+    "fit": "ANY",
+    "mapQuery": "Taberna Casa Curro, Calle Pantaleón 7, Marbella",
+    "kingTip": "Peça as gambas blancas de Huelva e o lomo en orza, as duas tapas que definem a casa.",
+    "priceLevel": "€€",
+    "hours": {
+      "openDays": "Todos os dias",
+      "openHour": "12:00",
+      "closeHour": "00:30",
+      "note": "Fecha à tarde entre serviços (16h–19h30); não aceita reserva, chegue cedo."
+    },
+    "links": [
+      { "label": "Site oficial", "url": "https://grupocasacurro.com" }
+    ]
+  },
+  {
+    "id": "mrb_bar_el_estrecho",
+    "categoryId": "tapas",
+    "city": "marbella",
+    "name": "Bar El Estrecho",
+    "tagline": "Bar de tapas de 1954 num beco do casco antigo",
+    "description": "Bar minúsculo e cultuado, aberto em 1954, escondido numa ruela estreita do casco antigo de Marbella. Familiar e sempre movimentado, brilha nas frituras de peixe, boquerones e numa ensaladilla russa de fama local. Autêntico e despretensioso, longe do glamour da marina.",
+    "lat": 36.51068,
+    "lng": -4.88494,
+    "durationLabel": "45 min–1 h",
+    "fit": "ANY",
+    "mapQuery": "Bar El Estrecho, Calle San Lázaro 12, Marbella",
+    "kingTip": "Peça a ensaladilla russa, tida como uma das melhores da cidade, com uns boquerones en vinagre.",
+    "priceLevel": "€",
+    "hours": {
+      "openDays": "Todos os dias",
+      "openHour": "12:30",
+      "closeHour": "00:00",
+      "note": "Espaço apertado; nos fins de semana lota rápido, chegue cedo."
+    },
+    "links": [
+      { "label": "Site oficial", "url": "https://www.barelestrecho.com" }
+    ]
+  },
+  {
+    "id": "axq_la_puntilla_nerja",
+    "categoryId": "tapas",
+    "city": "axarquia",
+    "name": "La Puntilla",
+    "tagline": "Pescado fresco e tapa grátis em Nerja",
+    "description": "Bar de tapas e casa de peixe no casco urbano de Nerja, pertinho da Playa Torrecilla. Mantém o costume da tapa gratuita a cada bebida e capricha no pescado fresco frito na hora, a preço justo. Ambiente local e franco, com um restaurante vizinho que homenageia o produto do mar.",
+    "lat": 36.74522,
+    "lng": -3.87918,
+    "durationLabel": "45 min–1 h",
+    "fit": "ANY",
+    "mapQuery": "La Puntilla, Calle Bolivia 1, Nerja",
+    "kingTip": "A tapa vem grátis com a bebida; peça o pescaíto frito do dia, sempre fresco do balcão de peixe.",
+    "priceLevel": "€€",
+    "hours": {
+      "openDays": "Todos os dias",
+      "openHour": "12:00",
+      "closeHour": "23:30",
+      "note": "Muito procurado no verão; a barra de tapas costuma encher no fim da tarde."
+    },
+    "links": [
+      { "label": "Site oficial", "url": "https://www.lapuntillanerja.es" }
+    ]
+  },
+  {
+    "id": "ant_arte_de_cozina",
+    "categoryId": "tapas",
+    "city": "antequera",
+    "name": "Arte de Cozina",
+    "tagline": "Cozinha antequerana de raiz e receitas locais",
+    "description": "Casa de comidas num edifício do século XVII no centro histórico de Antequera, que reúne restaurante, bar de tapas e pequena hospedaria. Resgata receitas locais e hortaliças de sequeiro numa carta de mais de trinta tapas premiadas em feiras gastronômicas. Um mergulho fundo na despensa antequerana.",
+    "lat": 37.01865,
+    "lng": -4.56178,
+    "durationLabel": "1–1,5 h",
+    "fit": "ANY",
+    "mapQuery": "Arte de Cozina, Calle Calzada 25, Antequera",
+    "kingTip": "Peça a porra antequerana, gaspacho espesso local coroado com ovo cozido e presunto, o prato que a casa consagrou.",
+    "priceLevel": "€€",
+    "hours": {
+      "openDays": "Todos os dias",
+      "openHour": "13:00",
+      "closeHour": "23:00",
+      "note": "Fecha à tarde entre serviços; confirme o dia de descanso na baixa temporada."
+    },
+    "links": [
+      { "label": "Site oficial", "url": "https://www.artedecozina.com" }
+    ]
+  }
+]

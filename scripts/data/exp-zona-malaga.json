@@ -1,0 +1,233 @@
+[
+  {
+    "id": "mlg_cementerio_ingles",
+    "categoryId": "malaga",
+    "city": "malaga",
+    "name": "Cementerio Inglés (English Cemetery)",
+    "tagline": "O jardim romântico dos que aqui morreram",
+    "description": "O primeiro cemitério protestante da Espanha, aberto em 1831 numa encosta ajardinada sobre o mar, na Avenida de Pries. Antes disso, os não católicos eram enterrados na areia da praia à noite; aqui ganharam um jardim de ciprestes, buganvílias e lápides cobertas de conchas. É um recanto silencioso e cheio de histórias, com túmulos de poetas, cônsules e marinheiros náufragos.",
+    "lat": 36.7212,
+    "lng": -4.4071,
+    "durationLabel": "45min",
+    "fit": "ANY",
+    "mapQuery": "Cementerio Inglés de Málaga, Spain",
+    "whatToDo": [
+      "Ver o túmulo do poeta Jorge Guillén e as sepulturas em concha",
+      "Passear pela alameda de ciprestes até a pequena capela de St. George",
+      "Ler as histórias de cônsules, viajantes e vítimas de naufrágios"
+    ],
+    "kingTip": "Fica a dez minutos a pé da Malagueta, subindo a Avenida de Pries; combine com a praça de touros e o Paseo. É sombreado e fresco, bom refúgio do sol do meio-dia, e o donativo de entrada ajuda na conservação.",
+    "priceLevel": "~€4 (donativo, est.)",
+    "links": [
+      { "label": "Fundación Cementerio Inglés", "url": "https://cementerioinglesmalaga.org/" }
+    ],
+    "history": "Fundado em 1831 pelo cônsul britânico William Mark, pôs fim ao costume macabro de enterrar protestantes de pé na areia da praia, à mercê da maré e dos cães."
+  },
+  {
+    "id": "mlg_plaza_constitucion_chinitas",
+    "categoryId": "malaga",
+    "city": "malaga",
+    "name": "Plaza de la Constitución e Pasaje de Chinitas",
+    "tagline": "O coração histórico e seu beco lendário",
+    "description": "A praça maior de Málaga desde a Reconquista, presidida pela Fuente de Génova de mármore do século XVI, é o ponto onde desemboca a Calle Larios. Dali parte o Pasaje de Chinitas, uma travessa cruciforme de casas caiadas que abrigava o célebre café-cantante imortalizado por García Lorca. Juntos condensam a alma do centro antigo.",
+    "lat": 36.7197,
+    "lng": -4.4206,
+    "durationLabel": "30min",
+    "fit": "ANY",
+    "mapQuery": "Plaza de la Constitución, Málaga, Spain",
+    "whatToDo": [
+      "Ver a Fuente de Génova, no centro da praça pedonal",
+      "Entrar pelo arco do Pasaje de Chinitas e sentir o beco flamenco",
+      "Usar a praça como marco zero para explorar o centro histórico"
+    ],
+    "kingTip": "Entre no Pasaje de Chinitas pela porta ao lado do número 13 da praça: é curto mas guarda o espírito do velho café-cantante que Lorca celebrou. À noite a praça ganha esplanadas e músicos de rua.",
+    "priceLevel": "Grátis (praça)",
+    "history": "Chamada Plaza Mayor e depois Plaza de las Cuatro Calles, recebeu o nome atual em 1812, com a primeira constituição espanhola; o pasaje deve o nome ao ator Chinitas, que trabalhou num café ali dentro."
+  },
+  {
+    "id": "mlg_iglesia_santiago",
+    "categoryId": "malaga",
+    "city": "malaga",
+    "name": "Iglesia de Santiago Apóstol",
+    "tagline": "A igreja mais antiga, onde Picasso foi batizado",
+    "description": "Fundada em 1490, logo após a Reconquista, é a paróquia mais antiga de Málaga, erguida sobre uma antiga mesquita. Destaca-se a esbelta torre mudéjar de tijolo e azulejos, um dos raros vestígios daquele estilo na cidade, e o interior barroco. Foi aqui que, em 10 de novembro de 1881, batizaram Pablo Ruiz Picasso.",
+    "lat": 36.7223,
+    "lng": -4.4175,
+    "durationLabel": "20-30min",
+    "fit": "INDOOR",
+    "mapQuery": "Iglesia de Santiago Apóstol, Calle Granada, Málaga, Spain",
+    "whatToDo": [
+      "Admirar a torre mudéjar em tijolo, único vestígio do estilo no centro",
+      "Ver a pia batismal ligada a Picasso e o interior barroco",
+      "Combinar com um passeio pela senhorial Calle Granada"
+    ],
+    "kingTip": "Fica na Calle Granada, no caminho entre a Catedral e a Plaza de la Merced, onde nasceu Picasso; encaixe na rota picassiana. Respeite os horários de missa, quando a visita turística é desencorajada.",
+    "priceLevel": "Grátis",
+    "links": [
+      { "label": "Visita Málaga (oficial)", "url": "https://visita.malaga.eu/en/what-to-see-and-do/culture/historic-monuments/monuments/santiago-church-p103578" }
+    ],
+    "history": "Ordenada pelos Reis Católicos em 1490 sobre uma mesquita, fundiu naves góticas com a torre mudéjar; nela se casaram os avós e os pais de Picasso antes de o pintor ser ali batizado."
+  },
+  {
+    "id": "mlg_basilica_victoria",
+    "categoryId": "malaga",
+    "city": "malaga",
+    "name": "Basílica de Santa María de la Victoria",
+    "tagline": "O santuário barroco da padroeira",
+    "description": "Santuário barroco erguido no lugar onde os Reis Católicos acamparam durante o cerco de 1487, abriga a imagem de Santa María de la Victoria, padroeira de Málaga. O interior surpreende pelo camarín dourado e, sobretudo, pela cripta funerária dos condes de Buenavista, um teatro macabro de estuques negros com esqueletos e caveiras. Fica um pouco fora do circuito, o que preserva o silêncio.",
+    "lat": 36.7293,
+    "lng": -4.4129,
+    "durationLabel": "30-45min",
+    "fit": "INDOOR",
+    "mapQuery": "Basílica de Santa María de la Victoria, Málaga, Spain",
+    "whatToDo": [
+      "Ver o camarín barroco dourado atrás do altar-mor",
+      "Descer à cripta dos condes de Buenavista, com decoração de caveiras",
+      "Apreciar a torre-mausoléu, incomum entre as igrejas espanholas"
+    ],
+    "kingTip": "Vale a caminhada de dez minutos subindo do centro; a cripta negra com esqueletos é uma das visitas mais insólitas e pouco concorridas de Málaga. Confira o horário, pois fecha ao meio-dia para a sesta.",
+    "priceLevel": "Grátis (basílica) | ~€4 (est.) camarín, cripta e museu",
+    "hours": {
+      "openDays": [1, 2, 3, 4, 5, 6, 7],
+      "openHour": 9,
+      "closeHour": 20,
+      "note": "Fecha no meio do dia (aprox. 13h-18h30). Confirme horários de missa."
+    },
+    "links": [
+      { "label": "Museos de Málaga", "url": "https://www.museosdemalaga.com/museos/basilica-santa-maria-de-la-victoria/" }
+    ],
+    "history": "Erguido a partir de 1487 no acampamento real do cerco a Málaga e reconstruído no século XVII pelos condes de Buenavista, que acrescentaram o camarín e a cripta funerária da família."
+  },
+  {
+    "id": "mlg_paseo_del_parque",
+    "categoryId": "malaga",
+    "city": "malaga",
+    "name": "Paseo del Parque",
+    "tagline": "A selva subtropical no meio da cidade",
+    "description": "Alameda ajardinada criada no início do século XX sobre terrenos ganhos ao mar, é considerada um dos jardins botânicos urbanos mais ricos da Europa. Ao longo de quase um quilômetro, entre a Alcazaba e o porto, crescem ficus centenários, palmeiras, jacarandás e plantas tropicais, entremeados de fontes e esculturas. Uma travessia sombreada e perfumada que liga o centro ao mar.",
+    "lat": 36.7188,
+    "lng": -4.4168,
+    "durationLabel": "45min-1h",
+    "fit": "ANY",
+    "mapQuery": "Paseo del Parque, Málaga, Spain",
+    "whatToDo": [
+      "Caminhar sob os ficus gigantes entre a Alcazaba e a Praça da Marinha",
+      "Achar as fontes e as pequenas esculturas escondidas na vegetação",
+      "Ler as placas botânicas das espécies tropicais raras"
+    ],
+    "kingTip": "É o corredor sombreado ideal para atravessar a cidade a pé no calor de julho, ligando o centro à Malagueta e ao porto sem pegar sol. Aos domingos costuma haver bandas tocando no coreto.",
+    "priceLevel": "Grátis (passeio)",
+    "history": "Projetado no fim do século XIX sobre aterros do porto e plantado com espécies trazidas de todo o mundo tropical, tornou-se um jardim de aclimatação que hoje soma centenas de espécies."
+  },
+  {
+    "id": "mlg_jardines_pedro_luis_alonso",
+    "categoryId": "malaga",
+    "city": "malaga",
+    "name": "Jardines de Pedro Luis Alonso",
+    "tagline": "O roseiral de estilo latino ao lado do Ayuntamiento",
+    "description": "Pequeno jardim formal de 1945, encaixado entre o Ayuntamiento e o sopé do monte Gibralfaro, com traçado geométrico de influência hispano-árabe e francesa. Reúne uma das maiores coleções de roseiras da Espanha, com mais de setenta variedades, além de laranjeiras e ciprestes recortados. É o remate ajardinado do Paseo del Parque, com a fachada do Ayuntamiento como pano de fundo.",
+    "lat": 36.7185,
+    "lng": -4.4177,
+    "durationLabel": "20-30min",
+    "fit": "CLEAR_SKY",
+    "mapQuery": "Jardines de Pedro Luis Alonso, Málaga, Spain",
+    "whatToDo": [
+      "Passear entre as roseiras e os canteiros geométricos de buxo",
+      "Fotografar a fachada barroca do Ayuntamiento de Málaga ao fundo",
+      "Espiar os Jardines de Puerta Oscura, na encosta ao lado"
+    ],
+    "kingTip": "As roseiras estão no auge na primavera, mas em julho o jardim ainda perfuma no fim da tarde, quando a luz dourada bate na fachada do Ayuntamiento. Fica colado ao Paseo del Parque, junte os dois.",
+    "priceLevel": "Grátis",
+    "history": "Desenhado em 1945 pelo arquiteto Fernando Guerrero-Strachan Rosado e batizado em homenagem ao primeiro prefeito de Málaga do pós-guerra, em estilo de jardim latino."
+  },
+  {
+    "id": "mlg_plaza_toros_malagueta",
+    "categoryId": "malaga",
+    "city": "malaga",
+    "name": "Plaza de Toros de La Malagueta",
+    "tagline": "O hexágono de tijolo à beira-mar",
+    "description": "Inaugurada em 1876, a praça de touros de Málaga é um imponente edifício neomudéjar de planta hexagonal em tijolo vermelho, junto ao mar e ao pé de Gibralfaro. Mesmo sem interesse pela tauromaquia, vale contemplar o volume geométrico do exterior e vê-lo de cima, do castelo, onde a arena vira uma moldura perfeita. É um dos cartões-postais arquitetônicos da cidade.",
+    "lat": 36.7203,
+    "lng": -4.4108,
+    "durationLabel": "20-30min",
+    "fit": "CLEAR_SKY",
+    "mapQuery": "Plaza de Toros de La Malagueta, Málaga, Spain",
+    "whatToDo": [
+      "Dar a volta ao exterior hexagonal de tijolo neomudéjar",
+      "Ver a arena de cima, do Mirador de Gibralfaro, como um alvo perfeito",
+      "Combinar com o passeio pela orla e pela praça de touros a caminho da praia"
+    ],
+    "kingTip": "A imagem mais icônica não é lá de baixo, mas do alto de Gibralfaro, de onde a arena aparece redonda e completa; guarde para quando subir ao castelo. Há um museu taurino na porta 10 para quem quiser entrar.",
+    "priceLevel": "Grátis (exterior)",
+    "links": [
+      { "label": "La Malagueta (oficial)", "url": "https://www.la-malagueta.es/" }
+    ],
+    "history": "Projetada por Joaquín Rucoba e inaugurada em 1876, é obra-prima do estilo neomudéjar; sua forma hexagonal e a posição à beira-mar tornaram-na símbolo do bairro que leva o mesmo nome."
+  },
+  {
+    "id": "mlg_teatro_cervantes",
+    "categoryId": "malaga",
+    "city": "malaga",
+    "name": "Teatro Cervantes",
+    "tagline": "O teatro oitocentista de teto pintado",
+    "description": "Inaugurado em 1870, é o principal teatro histórico de Málaga, num edifício elegante escondido numa ruela ao norte da Plaza de la Merced. O grande tesouro é o teto da plateia, com a alegoria 'A indústria, o comércio e as artes em Málaga', pintada por Bernardo Ferrándiz. Palco de ópera, dança e do festival de cinema da cidade, é uma joia para ver por dentro em dia de espetáculo ou visita guiada.",
+    "lat": 36.7247,
+    "lng": -4.4186,
+    "durationLabel": "20-30min",
+    "fit": "ANY",
+    "mapQuery": "Teatro Cervantes, Málaga, Spain",
+    "whatToDo": [
+      "Ver a fachada e a ruela recolhida atrás da Plaza de la Merced",
+      "Se houver espetáculo, admirar o teto pintado por Ferrándiz",
+      "Conferir a programação de ópera, dança e do Festival de Málaga"
+    ],
+    "kingTip": "O interior só se vê em dia de função ou em visita guiada pontual; consulte a programação antes de ir. Fica a poucos passos da Plaza de la Merced, então encaixe na rota de Picasso e Lagunillas.",
+    "priceLevel": "Varia por espetáculo | fachada grátis",
+    "links": [
+      { "label": "Teatro Cervantes (oficial)", "url": "https://www.teatrocervantes.com/" }
+    ],
+    "history": "Aberto em 1870 sobre um antigo pátio de comédias, salvou-se da demolição no século XX e foi restaurado pela prefeitura em 1987, recuperando o teto alegórico de Bernardo Ferrándiz."
+  },
+  {
+    "id": "mlg_mirador_gibralfaro",
+    "categoryId": "malaga",
+    "city": "malaga",
+    "name": "Mirador de Gibralfaro",
+    "tagline": "A vista de cartão-postal da cidade inteira",
+    "description": "Terraço panorâmico a meio caminho da subida ao castelo, no Camino de Gibralfaro, a cerca de 130 metros de altura. Daqui se abre a vista mais fotografada de Málaga: a praça de touros da Malagueta como um anel perfeito, o porto, a Catedral e a mancha branca da cidade descendo até o mar. Acesso livre, sem precisar entrar no castelo.",
+    "lat": 36.7219,
+    "lng": -4.4128,
+    "durationLabel": "20min",
+    "fit": "CLEAR_SKY",
+    "mapQuery": "Mirador de Gibralfaro, Málaga, Spain",
+    "whatToDo": [
+      "Fotografar a praça de touros hexagonal vista de cima, como um alvo",
+      "Abarcar num só olhar porto, Catedral e a baía até a Malagueta",
+      "Aproveitar como parada na subida ou descida a pé do castelo"
+    ],
+    "kingTip": "Não precisa pagar entrada do castelo para chegar ao mirante, ele fica no caminho, um pouco antes. Venha ao fim da tarde para a luz dourada e evite o miolo do dia, quando a subida a pé não tem sombra.",
+    "priceLevel": "Grátis",
+    "history": "O mirante ocupa uma curva do antigo caminho militar que ligava a cidade ao castelo de Gibralfaro, hoje transformado em passeio panorâmico entre pinheiros."
+  },
+  {
+    "id": "mlg_perchel_trinidad",
+    "categoryId": "malaga",
+    "city": "malaga",
+    "name": "Barrios del Perchel e La Trinidad",
+    "tagline": "A Málaga popular do outro lado do rio",
+    "description": "Do outro lado do leito seco do rio Guadalmedina ficam El Perchel e La Trinidad, dois dos bairros mais antigos e castiços de Málaga. De ruas estreitas e casas de pátio, os chamados corralones, guardam a alma operária e flamenca da cidade, longe do roteiro turístico. É onde a Semana Santa e o cante jondo ainda pulsam com autenticidade.",
+    "lat": 36.7188,
+    "lng": -4.4268,
+    "durationLabel": "45min",
+    "fit": "ANY",
+    "mapQuery": "Barrio del Perchel, Málaga, Spain",
+    "whatToDo": [
+      "Espiar os corralones, os pátios de vizinhança tradicionais",
+      "Cruzar o rio Guadalmedina pela Ponte da Aurora, rumo à outra Málaga",
+      "Sentir o ambiente flamenco e popular longe das multidões do centro"
+    ],
+    "kingTip": "É um passeio para quem já conhece o essencial e quer a cidade dos malaguenhos; alguns corralones só abrem na Fiesta de los Patios, na primavera. Prefira a manhã e ande com o bom senso de qualquer bairro popular.",
+    "priceLevel": "Grátis",
+    "history": "Nascidos como arrabaldes de pescadores e curtidores fora das muralhas, deram à cidade parte de sua tradição flamenca e o fervor da Semana Santa, apesar das demolições do século XX."
+  }
+]

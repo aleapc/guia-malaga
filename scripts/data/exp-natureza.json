@@ -1,0 +1,281 @@
+[
+  {
+    "id": "mlg_montes_de_malaga",
+    "categoryId": "natureza",
+    "city": "malaga",
+    "name": "Parque Natural Montes de Málaga",
+    "tagline": "Bosque e miradouros a 15 min de Málaga",
+    "description": "Manto de pinheiros que recobre as colinas logo acima da cidade, resultado de um reflorestamento centenário para conter as cheias do Guadalmedina. Trilhas sinalizadas partem da área recreativa de Torrijos, onde um antigo lagar de vinho virou ecomuseu com restaurante rural. Miradouros abertos revelam a baía inteira, do porto às montanhas.",
+    "lat": 36.83530,
+    "lng": -4.34530,
+    "durationLabel": "2–4 h",
+    "fit": "CLEAR_SKY",
+    "mapQuery": "Lagar de Torrijos, Parque Natural Montes de Málaga",
+    "kingTip": "A poucos graus mais fresco que a cidade pela altitude e pela sombra dos pinheiros; ainda assim vá pela manhã, leve água e prove o plato de los montes no restaurante de Torrijos.",
+    "priceLevel": "€",
+    "links": [
+      { "label": "Visita Málaga", "url": "https://visita.malaga.eu" }
+    ]
+  },
+  {
+    "id": "mlg_senda_litoral",
+    "categoryId": "natureza",
+    "city": "malaga",
+    "name": "Senda Litoral de Málaga",
+    "tagline": "Passadiço à beira-mar pela orla de Málaga",
+    "description": "Passeio contínuo de passadiços de madeira e calçadão que costura as praias da cidade rente ao Mediterrâneo, ligando os antigos Baños del Carmen aos espigões do leste. Plano e acessível, cruza chiringuitos, palmeiras e barcos de espeto fincados na areia. Trecho urbano de uma senda que um dia percorrerá todo o litoral da província.",
+    "lat": 36.71776,
+    "lng": -4.38286,
+    "durationLabel": "1–3 h",
+    "fit": "CLEAR_SKY",
+    "windSensitive": false,
+    "mapQuery": "Baños del Carmen, Málaga",
+    "kingTip": "Sem sombra ao longo do passadiço: caminhe ao amanhecer ou no fim da tarde e emende com um banho de mar e sardinhas assadas num chiringuito.",
+    "priceLevel": "€"
+  },
+  {
+    "id": "mlg_catamaran_delfines",
+    "categoryId": "natureza",
+    "city": "malaga",
+    "name": "Catamarã e golfinhos no porto de Málaga",
+    "tagline": "Catamarã e golfinhos saindo do porto",
+    "description": "Saídas de catamarã à vela do Muelle Uno, no coração do porto, para navegar a baía e procurar os golfinhos-comuns que seguem os barcos no verão. Roteiros de uma a duas horas incluem banho em mar aberto e vista do skyline de Málaga a partir da água. Maio a outubro é a melhor janela para o avistamento.",
+    "lat": 36.71460,
+    "lng": -4.41660,
+    "durationLabel": "1,5–2 h",
+    "fit": "CLEAR_SKY",
+    "windSensitive": true,
+    "mapQuery": "Muelle Uno, Puerto de Málaga",
+    "kingTip": "O avistamento não é garantido; reserve a primeira saída da manhã, com mar mais calmo, e leve boné, protetor e uma muda para o banho a bordo.",
+    "priceLevel": "€€€",
+    "links": [
+      { "label": "Mundo Marino", "url": "https://mundomarino.es" }
+    ]
+  },
+  {
+    "id": "ant_fuente_de_piedra",
+    "categoryId": "natureza",
+    "city": "antequera",
+    "name": "Laguna de Fuente de Piedra",
+    "tagline": "Flamingos na maior laguna da Andaluzia",
+    "description": "A maior laguna natural da Andaluzia e a principal colônia de flamingos-comuns da Península, com milhares de aves rosadas espelhadas na água salobra. Passarelas e observatórios partem do Centro de Visitantes José Antonio Valverde, dedicado ao pai da anilhagem de aves na Espanha. Um dos maiores espetáculos ornitológicos da Europa.",
+    "lat": 37.12180,
+    "lng": -4.74720,
+    "durationLabel": "1–2 h",
+    "fit": "CLEAR_SKY",
+    "mapQuery": "Centro de Visitantes Laguna de Fuente de Piedra, Fuente de Piedra",
+    "kingTip": "Em julho a laguna pode secar em parte e concentrar os flamingos ao longe; leve binóculos, vá cedo pela luz e confirme antes se ainda há água e aves na temporada.",
+    "priceLevel": "€",
+    "links": [
+      { "label": "Fuente de Piedra", "url": "https://www.fuentedepiedra.es" }
+    ]
+  },
+  {
+    "id": "ant_lobo_park",
+    "categoryId": "natureza",
+    "city": "antequera",
+    "name": "Lobo Park",
+    "tagline": "Santuário de lobos ibéricos e árticos",
+    "description": "Santuário de 40 hectares a poucos quilômetros de Antequera onde vivem, em grandes recintos naturais, alcateias de lobo-ibérico, europeu, da tundra do Alasca e do timber. A visita é sempre guiada, por caminhos de terra entre encinas, com biólogos explicando o comportamento de cada matilha. Nas noites de lua cheia há sessões especiais de uivos.",
+    "lat": 36.98670,
+    "lng": -4.62330,
+    "durationLabel": "1,5 h (visita guiada)",
+    "fit": "CLEAR_SKY",
+    "mapQuery": "Lobo Park, Ctra. Antequera-Álora A-343 km 16",
+    "kingTip": "O acesso é só nos horários da visita guiada (por volta de 11h, 13h, 15h e 16h30); reserve a das 11h para pegar os lobos ativos antes do calor e confira no site se há tour noturno de lua cheia.",
+    "priceLevel": "€€",
+    "hours": {
+      "openDays": "Ter–Dom",
+      "openHour": "10:00",
+      "closeHour": "17:00",
+      "note": "Entrada só em visitas guiadas com horário marcado; confirme os turnos e feche reserva."
+    },
+    "links": [
+      { "label": "Site oficial", "url": "https://www.lobopark.com" }
+    ]
+  },
+  {
+    "id": "axq_rio_chillar",
+    "categoryId": "natureza",
+    "city": "axarquia",
+    "name": "Río Chíllar",
+    "tagline": "Caminhada dentro do rio, água até os joelhos",
+    "description": "Caminhada aquática lendária em que se avança rio acima, com os pés dentro da água fria da Sierra de Almijara, saindo de Nerja. O leito estreita nos Cahorros, um cânion de paredes verticais a poucos metros uma da outra, com poças e pequenas cascatas. Refresco natural perfeito para o verão andaluz.",
+    "lat": 36.76445,
+    "lng": -3.87313,
+    "durationLabel": "4–6 h",
+    "fit": "CLEAR_SKY",
+    "windSensitive": false,
+    "mapQuery": "Aparcamiento Río Chíllar, Nerja",
+    "kingTip": "O trajeto é dentro d'água quase todo: use tênis ou sapatilha aquática que possa molhar, comece cedo (o parking de 1€ lota) e nunca entre com previsão de chuva ou tempestade na serra, pelo risco de enxurrada.",
+    "priceLevel": "€",
+    "links": [
+      { "label": "Visita Nerja", "url": "https://visita.nerja.es" }
+    ]
+  },
+  {
+    "id": "axq_kayak_maro",
+    "categoryId": "natureza",
+    "city": "axarquia",
+    "name": "Caiaque nos Acantilados de Maro-Cerro Gordo",
+    "tagline": "Caiaque entre falésias e grutas marinhas",
+    "description": "Passeio de caiaque pelo paraje natural das falésias de Maro-Cerro Gordo, remando ao pé de paredões de até 70 metros entre Nerja e La Herradura. O trajeto revela enseadas escondidas, uma cachoeira que cai direto no mar e grutas onde só se entra pela água. Fundo marinho protegido, ideal para mergulho de snorkel nas paradas.",
+    "lat": 36.75375,
+    "lng": -3.83396,
+    "durationLabel": "2–3 h",
+    "fit": "CLEAR_SKY",
+    "windSensitive": true,
+    "mapQuery": "Playa de Maro, Nerja",
+    "kingTip": "Reserve a saída da manhã, quando o mar está de espelho; o vento da tarde levanta ondulação e cancela passeios. Leve protetor, câmera à prova d'água e sapatilha para as paradas nas calas.",
+    "priceLevel": "€€€"
+  },
+  {
+    "id": "axq_acueducto_aguila",
+    "categoryId": "natureza",
+    "city": "axarquia",
+    "name": "Acueducto del Águila",
+    "tagline": "Aqueduto de 36 arcos escondido em Maro",
+    "description": "Aqueduto do século XIX escondido num barranco verdejante a oeste das Cuevas de Nerja, com quatro níveis sobrepostos e 36 arcos em ferradura. No alto, um pavilhão coroado por um cata-vento de águia bicéfala, que batiza a obra, ainda leva água aos antigos engenhos de açúcar de Maro. Uma joia de tijolo emoldurada pela vegetação.",
+    "lat": 36.75730,
+    "lng": -3.83240,
+    "durationLabel": "20–40 min",
+    "fit": "CLEAR_SKY",
+    "mapQuery": "Acueducto del Águila, Maro, Nerja",
+    "kingTip": "Há um recuo na antiga N-340 para parar e fotografar de frente; combine com as Cuevas de Nerja e a Playa de Maro, tudo a poucos minutos, e vá no fim da tarde pela melhor luz.",
+    "priceLevel": "€"
+  },
+  {
+    "id": "rnd_sierra_nieves",
+    "categoryId": "natureza",
+    "city": "ronda",
+    "name": "Parque Nacional Sierra de las Nieves",
+    "tagline": "Teto da província: pinsapos e o Torrecilla",
+    "description": "O parque nacional mais jovem da Espanha, declarado em 2021, guarda um dos maiores bosques de pinsapo, o raro abeto-espanhol relicto da era glacial. Do trailhead de Los Quejigales sobe-se ao Torrecilla, com 1.919 metros o teto da província de Málaga e vistas de duas costas. Altas montanhas selvagens a menos de uma hora de Ronda.",
+    "lat": 36.68993,
+    "lng": -5.04580,
+    "durationLabel": "6–7 h (ida e volta)",
+    "fit": "CLEAR_SKY",
+    "windSensitive": true,
+    "mapQuery": "Área Recreativa Los Quejigales, Ronda",
+    "kingTip": "Atenção: por risco de incêndio, a estrada de acesso a Los Quejigales costuma fechar de meados de junho a meados de outubro, bem no verão. Antes de julho, confirme a abertura com o parque; se fechado, opte pelos miradouros e pelo pinsapar acessível pelo lado de Yunquera.",
+    "priceLevel": "€",
+    "links": [
+      { "label": "Sierra de las Nieves", "url": "https://www.i-sierradelasnieves.com" }
+    ]
+  },
+  {
+    "id": "rnd_cueva_gato",
+    "categoryId": "natureza",
+    "city": "ronda",
+    "name": "Cueva del Gato",
+    "tagline": "Nascente esmeralda para um banho serrano",
+    "description": "Ponto onde o rio subterrâneo do complexo Hundidero-Gato, com mais de 10 km de galerias, ressurge à luz por uma boca escura em forma de focinho de gato. Sob ela forma-se uma poça de água esmeralda e gelada, cercada de rochedos, junto a Benaoján. Monumento natural e piscina serrana das mais fotogênicas da Serranía de Ronda.",
+    "lat": 36.72230,
+    "lng": -5.23600,
+    "durationLabel": "1–2 h",
+    "fit": "CLEAR_SKY",
+    "windSensitive": false,
+    "mapQuery": "Cueva del Gato, Benaoján",
+    "kingTip": "A água é cortante mesmo em julho e a poça fica funda perto da boca; o banho é só na parte externa, pois a caverna é fechada à visita. Chegue cedo, o pequeno mirador e o parking lotam nos dias quentes.",
+    "priceLevel": "€"
+  },
+  {
+    "id": "rnd_cueva_pileta",
+    "categoryId": "natureza",
+    "city": "ronda",
+    "name": "Cueva de la Pileta",
+    "tagline": "Arte rupestre paleolítica à luz de lampião",
+    "description": "Caverna nas montanhas de Benaoján que guarda pinturas rupestres de até 20 mil anos, com cavalos, peixes e sinais traçados em ocre e carvão. A visita, guiada e à luz de lampiões a gás pela família que descobriu o sítio em 1905, mantém a atmosfera de outro tempo. Uma das grandes joias do Paleolítico andaluz, longe das multidões.",
+    "lat": 36.69250,
+    "lng": -5.26870,
+    "durationLabel": "1–1,5 h",
+    "fit": "ANY",
+    "mapQuery": "Cueva de la Pileta, Benaoján",
+    "kingTip": "A gruta é fresca e coberta, ótimo refúgio no calor, mas os grupos são de até 25 pessoas e não há venda online: ligue antes para reservar e chegue com folga pela estrada estreita de acesso.",
+    "priceLevel": "€€",
+    "hours": {
+      "openDays": "Todos os dias",
+      "openHour": "10:00",
+      "closeHour": "18:00",
+      "note": "Sessões guiadas às 10h–13h e à tarde; último grupo às 18h no verão. Reserva por telefone."
+    },
+    "links": [
+      { "label": "Site oficial", "url": "https://cuevadelapileta.com" }
+    ]
+  },
+  {
+    "id": "rnd_acinipo",
+    "categoryId": "natureza",
+    "city": "ronda",
+    "name": "Acinipo (Ronda la Vieja)",
+    "tagline": "Teatro romano solitário sobre a serra",
+    "description": "Cidade romana em ruínas sobre um planalto a quase 1.000 metros, a uns 20 km de Ronda, com um dos teatros mais bem conservados da Hispânia. O graderío escavado na rocha viva emoldura um horizonte que alcança três províncias, sem multidões nem cercas. História e paisagem cársica num sítio quase secreto da Serranía.",
+    "lat": 36.88690,
+    "lng": -5.26060,
+    "durationLabel": "1–1,5 h",
+    "fit": "CLEAR_SKY",
+    "mapQuery": "Yacimiento de Acinipo, Ronda la Vieja",
+    "kingTip": "Planalto totalmente exposto ao sol e ao vento; visite de manhã com chapéu e água. A visita livre é gratuita, mas o sítio abre poucos dias por semana, então confirme o horário antes de subir.",
+    "priceLevel": "€",
+    "hours": {
+      "openDays": "Qua–Dom",
+      "openHour": "09:00",
+      "closeHour": "14:30",
+      "note": "Entrada gratuita; fecha seg e ter. Horário pode variar no verão, confirme antes."
+    }
+  },
+  {
+    "id": "mrb_la_concha",
+    "categoryId": "natureza",
+    "city": "marbella",
+    "name": "Subida a La Concha desde Juanar",
+    "tagline": "Cume de 1.215 m com vista de 360° do mar",
+    "description": "Ascensão ao pico La Concha, a silhueta em forma de concha que domina o horizonte de Marbella, partindo do Refugio de Juanar em Ojén. O caminho cruza olivais e pinheiros até um trecho final estreito e rochoso, aéreo, com o mar de um lado e a Sierra Blanca do outro. Do cume, panorama de 360° que em dias limpos alcança o Rif marroquino.",
+    "lat": 36.55830,
+    "lng": -4.89440,
+    "durationLabel": "4–5 h (ida e volta)",
+    "fit": "CLEAR_SKY",
+    "windSensitive": true,
+    "mapQuery": "Refugio de Juanar, Ojén",
+    "kingTip": "O trecho final tem passos expostos e vira perigoso com vento forte ou neblina; não é para quem sofre de vertigem. Saia ao nascer do sol para evitar o calor da encosta e leve ao menos 2 L de água por pessoa.",
+    "priceLevel": "€"
+  },
+  {
+    "id": "mrb_charco_canalon",
+    "categoryId": "natureza",
+    "city": "marbella",
+    "name": "Charco del Canalón (Río Verde, Istán)",
+    "tagline": "Poça turquesa no desfiladeiro do Río Verde",
+    "description": "Poça funda de água turquesa encaixada entre paredes de calcário no vale do Río Verde, junto a Istán, a menos de meia hora de Marbella. Um canal de irrigação despeja no alto uma cascata que alimenta a piscina natural, sombreada por sobreiros e adelfas. Refúgio aquático dos mais bonitos da Sierra de las Nieves.",
+    "lat": 36.60830,
+    "lng": -4.96030,
+    "durationLabel": "3–4 h (ida e volta)",
+    "fit": "CLEAR_SKY",
+    "windSensitive": false,
+    "mapQuery": "Charco del Canalón, Istán",
+    "kingTip": "A poça é funda e escorregadia, só para quem nada bem; as pedras do leito têm algas traiçoeiras, use calçado aquático. Vá cedo por vaga no Vado de Bornoque e nunca com previsão de chuva na serra.",
+    "priceLevel": "€",
+    "links": [
+      { "label": "Istán", "url": "https://www.istan.es" }
+    ]
+  },
+  {
+    "id": "grn_hoya_de_la_mora",
+    "categoryId": "natureza",
+    "city": "granada",
+    "name": "Hoya de la Mora, Sierra Nevada",
+    "tagline": "Neve eterna e ar puro a 2.500 m no verão",
+    "description": "Portal de alta montanha de Sierra Nevada a cerca de 2.500 metros, fim da estrada asfaltada mais alta da Espanha e base das caminhadas de verão rumo ao Veleta. Ar rarefeito e fresco, restos de neve nos barrancos e vistas que descem até Granada e o Mediterrâneo. Contraste absoluto com o calor do vale, a uma hora da cidade.",
+    "lat": 37.09750,
+    "lng": -3.38780,
+    "durationLabel": "meio dia",
+    "fit": "CLEAR_SKY",
+    "windSensitive": true,
+    "mapQuery": "Hoya de la Mora, Sierra Nevada",
+    "kingTip": "No verão é o antídoto perfeito ao calor: pode fazer 15°C e ventar. Leve casaco, protetor forte (o sol da altitude queima rápido) e suba devagar por conta da altitude; no verão às vezes funciona o telecabina desde Pradollano.",
+    "priceLevel": "€",
+    "links": [
+      { "label": "Sierra Nevada", "url": "https://sierranevada.es" }
+    ]
+  }
+]

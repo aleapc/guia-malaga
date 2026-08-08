@@ -1,0 +1,293 @@
+[
+  {
+    "id": "mlg_revello_de_toro",
+    "categoryId": "cultura",
+    "city": "malaga",
+    "name": "Museo Revello de Toro",
+    "tagline": "Retratos na casa do escultor Pedro de Mena",
+    "description": "Reúne mais de cem obras do pintor malaguenho Félix Revello de Toro, mestre do retrato e da figura feminina, com desenhos e estudos preparatórios. O museu ocupa a casa-oficina onde viveu no século XVII o grande escultor barroco Pedro de Mena. Pequeno, luminoso e climatizado, é uma pausa serena a poucos passos do Museo Picasso.",
+    "whatToDo": [
+      "Acompanhe a evolução do retrato, dos esboços às telas finais",
+      "Observe os vestígios da antiga casa de Pedro de Mena",
+      "Combine com o Museo Picasso, que fica ao lado"
+    ],
+    "kingTip": "Fica a dois minutos do Museo Picasso; encaixe os dois no mesmo período para fugir do sol do meio-dia.",
+    "priceLevel": "~€4 (est.)",
+    "lat": 36.720336,
+    "lng": -4.418324,
+    "durationLabel": "45min–1h",
+    "fit": "INDOOR",
+    "hours": {
+      "openDays": "Ter–Sáb; Dom e feriados 10h–14h",
+      "openHour": 10,
+      "closeHour": 20,
+      "note": "Terça a sábado 10h–20h; domingos e feriados 10h–14h. Fecha às segundas."
+    },
+    "mapQuery": "Museo Revello de Toro, Calle Afligidos 5, Málaga",
+    "links": [
+      { "label": "Site oficial", "url": "https://www.museorevellodetoro.net/" }
+    ]
+  },
+  {
+    "id": "mlg_vidrio_y_cristal",
+    "categoryId": "cultura",
+    "city": "malaga",
+    "name": "Museo del Vidrio y Cristal",
+    "tagline": "Vidro e cristal num casarão do século XVIII",
+    "description": "Coleção privada de cerca de três mil peças de vidro e cristal de várias épocas e culturas, exibida em ambientes decorados com móveis, pinturas e vitrais. Ocupa um casarão restaurado de 1761 no bairro de San Felipe Neri, longe do burburinho turístico. A visita é sempre guiada e revela também a história doméstica da casa.",
+    "whatToDo": [
+      "Faça a visita guiada, incluída no ingresso, pelos salões ambientados",
+      "Repare nos vitrais e na coleção de vidro romano e fenício",
+      "Aprecie a fachada barroca e a placeta diante da igreja de San Felipe Neri"
+    ],
+    "kingTip": "As visitas são guiadas e com horário; ligue ou confira o site no mesmo dia para garantir o próximo turno.",
+    "priceLevel": "~€6 (est.)",
+    "lat": 36.725706,
+    "lng": -4.421487,
+    "durationLabel": "1h–1h15",
+    "fit": "INDOOR",
+    "hours": {
+      "openDays": "Ter–Dom",
+      "openHour": 11,
+      "closeHour": 19,
+      "note": "Terça a domingo 11h–19h. Acesso apenas por visita guiada (aprox. 1h). Fecha às segundas."
+    },
+    "mapQuery": "Museo del Vidrio y Cristal, Plazuela Santísimo Cristo de la Sangre 2, Málaga",
+    "links": [
+      { "label": "Site oficial", "url": "https://www.museovidrioycristalmalaga.com/" }
+    ]
+  },
+  {
+    "id": "mlg_museo_jorge_rando",
+    "categoryId": "cultura",
+    "city": "malaga",
+    "name": "Museo Jorge Rando",
+    "tagline": "Expressionismo intenso, entrada gratuita",
+    "description": "Primeiro museu da Espanha dedicado ao expressionismo, centrado na obra vigorosa do pintor e escultor malaguenho Jorge Rando, com mostras temporárias de outros artistas do movimento. Ocupa um edifício claro e amplo no bairro do Molinillo, com ateliê visível. A entrada e as visitas guiadas são gratuitas.",
+    "whatToDo": [
+      "Percorra as grandes telas expressionistas de Jorge Rando",
+      "Veja a mostra temporária, que costuma trazer nomes internacionais",
+      "Aproveite a visita guiada gratuita, se houver turno disponível"
+    ],
+    "kingTip": "Entrada sempre gratuita. Fecha aos domingos e faz pausa ao meio-dia no inverno; vá pela manhã ou no fim da tarde.",
+    "priceLevel": "Grátis",
+    "lat": 36.726725,
+    "lng": -4.423693,
+    "durationLabel": "45min–1h",
+    "fit": "INDOOR",
+    "hours": {
+      "openDays": "Seg–Sáb (fecha Dom)",
+      "openHour": 10,
+      "closeHour": 20,
+      "note": "Seg a sex 10h–14h e 16h–20h (verão 17h–21h); sáb 10h–14h. Fecha aos domingos."
+    },
+    "mapQuery": "Museo Jorge Rando, Calle Cruz del Molinillo 12, Málaga",
+    "links": [
+      { "label": "Site oficial", "url": "https://www.museojorgerando.org/" }
+    ]
+  },
+  {
+    "id": "grn_centro_garcia_lorca",
+    "categoryId": "cultura",
+    "city": "granada",
+    "name": "Centro Federico García Lorca",
+    "tagline": "O legado vivo de Federico García Lorca",
+    "description": "Instituição cultural moderna que guarda o legado literário do poeta granadino, com manuscritos, desenhos e cartas do arquivo da família. O edifício contemporâneo, na Plaza de la Romanilla junto à Catedral, abriga exposições, biblioteca e auditório. Um contraponto sereno e climatizado à Granada monumental.",
+    "whatToDo": [
+      "Veja as exposições sobre a vida e a obra de Lorca",
+      "Confira a programação de recitais e atividades no auditório",
+      "Descanse na praça diante da Catedral ao sair"
+    ],
+    "kingTip": "As exposições costumam ter entrada gratuita. Fica coladinho à Catedral, ótimo para intercalar com o centro.",
+    "priceLevel": "Grátis (exposições)",
+    "lat": 37.176634,
+    "lng": -3.600694,
+    "durationLabel": "45min–1h",
+    "fit": "INDOOR",
+    "hours": {
+      "openDays": "Ter–Dom (fecha Seg)",
+      "openHour": 11,
+      "closeHour": 20,
+      "note": "Ter a sáb 11h–14h e 17h/18h–20h/21h; dom e feriados 11h–14h. Fecha às segundas."
+    },
+    "mapQuery": "Centro Federico García Lorca, Plaza de la Romanilla, Granada",
+    "links": [
+      { "label": "Site oficial", "url": "https://www.centrofedericogarcialorca.es/" }
+    ]
+  },
+  {
+    "id": "grn_corral_del_carbon",
+    "categoryId": "cultura",
+    "city": "granada",
+    "name": "Corral del Carbón",
+    "tagline": "A única alhóndiga nazari da Península",
+    "description": "Antiga alhóndiga (albergue e armazém de mercadores) construída por volta de 1336, é a única de origem nazari conservada íntegra na Península Ibérica. Impressiona pela portada em arco de ferradura e pelo pátio de três andares de galerias em torno de uma fonte. Visita rápida e gratuita, no coração comercial de Granada.",
+    "whatToDo": [
+      "Entre pelo grande arco de ferradura decorado com laçarias",
+      "Contemple o pátio sombreado com suas galerias de tijolo",
+      "Siga para a vizinha Alcaicería e a Catedral"
+    ],
+    "kingTip": "Entrada gratuita e visita de dez minutos. O pátio é sombreado, ideal para uma pausa no calor entre as compras da Alcaicería.",
+    "priceLevel": "Grátis",
+    "lat": 37.17451,
+    "lng": -3.59869,
+    "durationLabel": "15–20min",
+    "fit": "Pátio sombreado, visita curta",
+    "hours": {
+      "openDays": "Todos os dias",
+      "openHour": 9,
+      "closeHour": 19,
+      "note": "Seg a sex 9h–19h; sáb e dom 10h–14h. Entrada gratuita."
+    },
+    "mapQuery": "Corral del Carbón, Calle Mariana Pineda, Granada",
+    "history": "Erguido no reinado de Yusuf I, servia de hospedaria e armazém para comerciantes. Após a conquista cristã foi teatro de comédias e, mais tarde, depósito de carvão, daí o nome atual.",
+    "links": [
+      { "label": "Turismo de Granada", "url": "https://turismo.granada.org/es/corral-del-carbon" }
+    ]
+  },
+  {
+    "id": "grn_palacio_madraza",
+    "categoryId": "cultura",
+    "city": "granada",
+    "name": "Palacio de la Madraza",
+    "tagline": "A 1ª universidade nazari e seu oratório dourado",
+    "description": "Fundada por Yusuf I em 1349 como escola corânica, foi a primeira universidade de Granada, hoje sede cultural da Universidade. Conserva um deslumbrante oratório nazari com mihrab de estuques dourados e policromados, sob uma fachada barroca posterior. Fica na Calle Oficios, de frente para a Capilla Real.",
+    "whatToDo": [
+      "Admire o oratório nazari com o mihrab de estuques dourados",
+      "Veja o salão de colunas e as exposições temporárias da Universidade",
+      "Atravesse até a Capilla Real e a Catedral, em frente"
+    ],
+    "kingTip": "Fecha em agosto, aos domingos e feriados; em julho, visite de manhã. A entrada costuma ser simbólica.",
+    "priceLevel": "~€2 (est.)",
+    "lat": 37.17632,
+    "lng": -3.59866,
+    "durationLabel": "30–45min",
+    "fit": "INDOOR",
+    "hours": {
+      "openDays": "Seg–Sex; Sáb com exposição",
+      "openHour": 9,
+      "closeHour": 21,
+      "note": "Seg a sex 9h–21h; sáb 11h–14h e 17h30–20h30 apenas com exposição. Fecha domingos, feriados e todo o mês de agosto."
+    },
+    "mapQuery": "Palacio de la Madraza, Calle Oficios 14, Granada",
+    "links": [
+      { "label": "Site oficial (La Madraza – UGR)", "url": "https://lamadraza.ugr.es/" }
+    ]
+  },
+  {
+    "id": "crd_sinagoga",
+    "categoryId": "cultura",
+    "city": "cordoba",
+    "name": "Sinagoga de Córdoba",
+    "tagline": "Rara sinagoga medieval no bairro judeu",
+    "description": "Pequena sinagoga mudéjar de 1315, uma das únicas três sinagogas medievais conservadas na Espanha e a única da Andaluzia. Encanta pelos estuques finíssimos com atauriques e inscrições hebraicas na sala de oração. Fica no coração da Judería, a poucos passos da Mezquita.",
+    "whatToDo": [
+      "Observe os estuques mudéjares e as inscrições hebraicas nas paredes",
+      "Localize a galeria alta reservada às mulheres",
+      "Perca-se depois pelas vielas caiadas da Judería"
+    ],
+    "kingTip": "Entrada gratuita e visita curta. Combine com a Mezquita e a Calleja de las Flores, tudo à sombra das ruas estreitas.",
+    "priceLevel": "Grátis",
+    "lat": 37.87981,
+    "lng": -4.78338,
+    "durationLabel": "15–20min",
+    "fit": "INDOOR",
+    "hours": {
+      "openDays": "Ter–Dom (fecha Seg)",
+      "openHour": 9,
+      "closeHour": 15,
+      "note": "Terça a domingo 9h–15h. Fecha às segundas (salvo feriados). Entrada gratuita."
+    },
+    "mapQuery": "Sinagoga de Córdoba, Calle Judíos 20, Córdoba",
+    "links": [
+      { "label": "Enclave Monumental (Junta de Andalucía)", "url": "https://www.juntadeandalucia.es/cultura/enclaves/enclave-monumental-sinagoga-de-cordoba" }
+    ]
+  },
+  {
+    "id": "crd_templo_romano",
+    "categoryId": "cultura",
+    "city": "cordoba",
+    "name": "Templo Romano",
+    "tagline": "Colunas de um templo romano do século I",
+    "description": "Conjunto de altas colunas coríntias que reconstroem um templo romano do século I, ligado ao fórum provincial da Córdoba imperial, ao lado da Câmara Municipal. Reaberto após restauro, pode ser visitado por dentro em visitas guiadas gratuitas. É um marco arqueológico surpreendente no centro moderno.",
+    "whatToDo": [
+      "Suba pela plataforma até a base das colunas na visita guiada",
+      "Entenda a relação do templo com o fórum romano de Corduba",
+      "Fotografe o conjunto iluminado ao entardecer"
+    ],
+    "kingTip": "É um recinto a céu aberto e sem sombra: reserve o primeiro turno da manhã (10h/11h) para evitar o sol forte de julho. Visitas guiadas gratuitas por ordem de chegada.",
+    "priceLevel": "Grátis",
+    "lat": 37.88458,
+    "lng": -4.77601,
+    "durationLabel": "30–45min",
+    "fit": "Recinto a céu aberto; melhor de manhã",
+    "hours": {
+      "openDays": "Ter–Dom (fecha Seg)",
+      "openHour": 10,
+      "closeHour": 13,
+      "note": "Visitas guiadas gratuitas: ter–sex 10h/11h/12h; sáb, dom e feriados também às 13h. Fecha às segundas. Acesso pela Calle Claudio Marcelo."
+    },
+    "mapQuery": "Templo Romano, Calle Capitulares, Córdoba",
+    "links": [
+      { "label": "Turismo de Córdoba", "url": "https://www.turismodecordoba.org/templo-romano-de-cordoba" }
+    ]
+  },
+  {
+    "id": "crd_bellas_artes",
+    "categoryId": "cultura",
+    "city": "cordoba",
+    "name": "Museo de Bellas Artes de Córdoba",
+    "tagline": "Pintura andaluza na Plaza del Potro cervantina",
+    "description": "Instalado no antigo Hospital de la Caridad, reúne pintura e escultura andaluzas do gótico ao século XX, com destaque para os mestres cordobeses. Abre-se para a pitoresca Plaza del Potro, citada por Cervantes no Quixote. Salas frescas e um pátio ajardinado tornam a visita agradável mesmo no calor.",
+    "whatToDo": [
+      "Percorra as salas de pintura barroca e dos pintores cordobeses",
+      "Descanse no pátio ajardinado do antigo hospital",
+      "Espie a Posada del Potro cervantina, na mesma praça"
+    ],
+    "kingTip": "Gratuito para cidadãos da UE (leve documento). O pátio e as salas são um refúgio fresco perto da Ribeira do Guadalquivir.",
+    "priceLevel": "Grátis (UE)",
+    "lat": 37.88125,
+    "lng": -4.77478,
+    "durationLabel": "45min–1h",
+    "fit": "INDOOR",
+    "hours": {
+      "openDays": "Ter–Dom (fecha Seg)",
+      "openHour": 9,
+      "closeHour": 21,
+      "note": "Inverno: ter–sáb 9h–21h, dom e feriados 9h–15h. Verão (16/jun–15/set): ter–dom 9h–15h. Fecha às segundas."
+    },
+    "mapQuery": "Museo de Bellas Artes de Córdoba, Plaza del Potro 1, Córdoba",
+    "links": [
+      { "label": "Site oficial (Museos de Andalucía)", "url": "https://www.museosdeandalucia.es/web/museodebellasartesdecordoba" }
+    ]
+  },
+  {
+    "id": "ant_museo_ciudad_najera",
+    "categoryId": "cultura",
+    "city": "antequera",
+    "name": "Museo de la Ciudad de Antequera (MVCA)",
+    "tagline": "O Efebo romano no Palácio de Nájera",
+    "description": "Um dos museus municipais mais ricos da Andaluzia, percorre a história de Antequera da pré-história aos dias de hoje em cerca de vinte salas. Sua estrela é o Efebo de Antequera, bronze romano do século I considerado uma das mais belas peças antigas da Península. Ocupa o barroco Palácio de Nájera, do século XVIII.",
+    "whatToDo": [
+      "Admire o Efebo de Antequera, o bronze romano que dá fama ao museu",
+      "Suba à torre-mirante do palácio para ver a cidade",
+      "Passeie pelo pátio de colunas de mármore vermelho de El Torcal"
+    ],
+    "kingTip": "Combine com os dolmens de Antequera (Patrimônio Mundial) numa parada a caminho de Granada ou Córdoba. Fecha às segundas.",
+    "priceLevel": "~€3 (est.)",
+    "lat": 37.01626,
+    "lng": -4.55815,
+    "durationLabel": "1h–1h30",
+    "fit": "INDOOR",
+    "hours": {
+      "openDays": "Ter–Dom (fecha Seg)",
+      "openHour": 10,
+      "closeHour": 18,
+      "note": "Verão (14/jun–17/set): ter–dom 9h–14h. Inverno: ter–sex 10h–14h e 16h30–18h30, sáb 9h30–14h e 16h30–18h30, dom 9h30–14h. Fecha às segundas."
+    },
+    "mapQuery": "Museo de la Ciudad de Antequera, Plaza del Coso Viejo, Antequera",
+    "links": [
+      { "label": "Site oficial", "url": "https://museoantequera.es/" }
+    ]
+  }
+]
