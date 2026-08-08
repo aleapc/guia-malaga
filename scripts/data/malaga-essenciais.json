@@ -1,0 +1,254 @@
+[
+  {
+    "id": "mlg_alcazaba",
+    "categoryId": "malaga",
+    "city": "malaga",
+    "name": "Alcazaba de Málaga",
+    "tagline": "A fortaleza mourisca sobre a cidade",
+    "description": "Palácio-fortaleza do século XI, uma das cidadelas muçulmanas mais bem conservadas da Espanha. Sobe-se por rampas em ziguezague entre pátios, arcos de ferradura, fontes e jardins que emolduram vistas do porto. É o coração histórico de Málaga, colado ao Teatro Romano.",
+    "lat": 36.7213,
+    "lng": -4.4160,
+    "durationLabel": "1-2h",
+    "fit": "CLEAR_SKY",
+    "mapQuery": "Alcazaba de Málaga, Spain",
+    "whatToDo": [
+      "Subir pelas rampas defensivas até o Palácio Nazarí e seus pátios",
+      "Fotografar o porto e a Catedral a partir das muralhas altas",
+      "Comprar o bilhete combinado com o Castillo de Gibralfaro"
+    ],
+    "kingTip": "Vá logo às 9h, na abertura: em julho o sol bate forte nas rampas sem sombra e o pátio superior esvazia cedo. O combinado Alcazaba + Gibralfaro sai mais barato que os dois avulsos.",
+    "priceLevel": "~€3,50 (est.) | combinado com Gibralfaro ~€5,50 (est.)",
+    "hours": {
+      "openDays": [1, 2, 3, 4, 5, 6, 7],
+      "openHour": 9,
+      "closeHour": 20,
+      "note": "Horário de verão (abr-out). Domingo grátis a partir das 14h. Fechada 24, 25 e 31/dez e 1/jan."
+    },
+    "links": [
+      { "label": "Visita Málaga (oficial)", "url": "https://visita.malaga.eu/en/what-to-see-and-do/culture/historic-monuments/monuments/alcazaba-p103555" }
+    ],
+    "history": "Erguida a partir de 1057 sobre restos fenícios e romanos, foi residência dos governadores muçulmanos e último reduto na reconquista cristã de 1487."
+  },
+  {
+    "id": "mlg_gibralfaro",
+    "categoryId": "malaga",
+    "city": "malaga",
+    "name": "Castillo de Gibralfaro",
+    "tagline": "O melhor mirante de Málaga",
+    "description": "Castelo do século XIV no alto do monte que domina a cidade, ligado à Alcazaba por uma muralha. O prêmio é o caminho de ronda: um circuito completo pelas ameias com vista de 360° sobre a baía, a praça de touros e os telhados do centro. Vale mais pela paisagem do que pelo interior.",
+    "lat": 36.7233,
+    "lng": -4.4108,
+    "durationLabel": "1h",
+    "fit": "CLEAR_SKY",
+    "mapQuery": "Castillo de Gibralfaro, Málaga, Spain",
+    "whatToDo": [
+      "Percorrer o caminho de ronda pelas muralhas com vistas panorâmicas",
+      "Ver a arena da Malagueta lá embaixo, moldura perfeita para foto",
+      "Visitar o pequeno centro de interpretação do castelo"
+    ],
+    "kingTip": "A subida a pé pela ladeira é bonita mas exige fôlego e não tem sombra; em pleno julho, pegue o ônibus 35 na Alameda ou um táxi para subir e desça caminhando no fim da tarde, com luz dourada.",
+    "priceLevel": "~€3,50 (est.) | combinado com Alcazaba ~€5,50 (est.)",
+    "hours": {
+      "openDays": [1, 2, 3, 4, 5, 6, 7],
+      "openHour": 9,
+      "closeHour": 20,
+      "note": "Horário de verão (abr-out). Domingo grátis a partir das 14h."
+    },
+    "links": [
+      { "label": "Visita Málaga (oficial)", "url": "https://visita.malaga.eu/en/what-to-see-and-do/culture/historic-monuments/monuments/gibralfaro-castle-p103556" }
+    ],
+    "history": "Construído por Yusuf I de Granada no século XIV para abrigar tropas e proteger a Alcazaba, resistiu a um longo cerco antes de cair em 1487."
+  },
+  {
+    "id": "mlg_catedral",
+    "categoryId": "malaga",
+    "city": "malaga",
+    "name": "Catedral de Málaga (La Manquita)",
+    "tagline": "A dama de uma torre só",
+    "description": "Catedral renascentista monumental, apelidada de La Manquita (a maneta) porque a torre sul nunca foi concluída. O interior impressiona pela altura das naves, pela sillería do coro e por um dos maiores órgãos históricos da Espanha. Atenção: a célebre visita às cubiertas (telhados) segue fechada por obras de restauração previstas até o fim de 2027.",
+    "lat": 36.7196,
+    "lng": -4.4197,
+    "durationLabel": "45min-1h",
+    "fit": "INDOOR",
+    "mapQuery": "Catedral de Málaga, Spain",
+    "whatToDo": [
+      "Admirar as naves góticas-renascentistas e a cúpula",
+      "Ver a sillería do coro esculpida por Pedro de Mena",
+      "Dar a volta pela fachada e pelo Patio de los Naranjos"
+    ],
+    "kingTip": "A visita às cubiertas está suspensa até por volta do fim de 2027 pela restauração do telhado; não conte com ela em julho. Como refúgio do calor, o interior fresco é um dos melhores da cidade no meio da tarde.",
+    "priceLevel": "~€10 (est.) interior + museu",
+    "hours": {
+      "openDays": [1, 2, 3, 4, 5, 6],
+      "openHour": 10,
+      "closeHour": 18,
+      "note": "Domingos e feriados abre à tarde. Cubiertas (telhados) fechadas por obras até ~fim de 2027."
+    },
+    "links": [
+      { "label": "Catedral de Málaga (oficial)", "url": "https://malagacatedral.com/" }
+    ],
+    "history": "Iniciada em 1528 sobre a antiga mesquita e concluída em grande parte no século XVIII, com dinheiro que, segundo a lenda, teria ido para a segunda torre e acabou desviado para outras causas."
+  },
+  {
+    "id": "mlg_teatro_romano",
+    "categoryId": "malaga",
+    "city": "malaga",
+    "name": "Teatro Romano de Málaga",
+    "tagline": "Roma ao pé da fortaleza mourisca",
+    "description": "Teatro romano do século I a.C., redescoberto em 1951, encravado na encosta logo abaixo da Alcazaba. Reúne dois mil anos de história numa só imagem: a bancada romana e, acima, a muralha muçulmana. A entrada é gratuita e há um pequeno centro de interpretação na base.",
+    "lat": 36.7213,
+    "lng": -4.4152,
+    "durationLabel": "30min",
+    "fit": "ANY",
+    "mapQuery": "Teatro Romano de Málaga, Spain",
+    "whatToDo": [
+      "Ver a cávea romana com a Alcazaba emoldurada ao fundo",
+      "Passar pelo centro de interpretação envidraçado na entrada",
+      "Combinar com a subida à Alcazaba, que fica ao lado"
+    ],
+    "kingTip": "É de graça e rápido: encaixe antes de subir à Alcazaba. À noite fica iluminado e a Calle Alcazabilla ao lado concentra bons bares de tapas.",
+    "priceLevel": "Grátis",
+    "hours": {
+      "openDays": [2, 3, 4, 5, 6, 7],
+      "openHour": 10,
+      "closeHour": 18,
+      "note": "Fechado às segundas. Entrada gratuita."
+    },
+    "links": [
+      { "label": "Visita Málaga (oficial)", "url": "https://visita.malaga.eu/en/what-to-see-and-do/culture/historic-monuments/monuments/teatro-romano-p103562" }
+    ],
+    "history": "Ativo do século I a.C. ao III d.C., foi depois saqueado pelos muçulmanos para erguer a Alcazaba; permaneceu enterrado até 1951, sob uma antiga Casa de Cultura."
+  },
+  {
+    "id": "mlg_muelle_uno_palmeral",
+    "categoryId": "malaga",
+    "city": "malaga",
+    "name": "Muelle Uno e Palmeral de las Sorpresas",
+    "tagline": "O passeio à beira do porto",
+    "description": "A frente marítima renovada de Málaga: o Muelle Uno reúne lojas, restaurantes e o cubo de vidro colorido do Centre Pompidou, enquanto o Palmeral de las Sorpresas é uma alameda de pérgola ondulada e centenas de palmeiras. Juntos formam o melhor passeio a pé entre o centro e o mar.",
+    "lat": 36.7156,
+    "lng": -4.4165,
+    "durationLabel": "1-2h",
+    "fit": "CLEAR_SKY",
+    "mapQuery": "Muelle Uno, Málaga, Spain",
+    "whatToDo": [
+      "Caminhar do Palmeral até a ponta do Muelle Uno com vista para o farol",
+      "Fotografar o cubo colorido do Centre Pompidou",
+      "Parar num terraço à beira-mar ao pôr do sol"
+    ],
+    "kingTip": "Deixe para o fim da tarde: a pérgola do Palmeral dá sombra e a brisa do mar torna o calor de julho suportável. O domingo tem feirinha de artesanato ao longo do cais.",
+    "priceLevel": "Grátis (passeio)",
+    "links": [
+      { "label": "Muelle Uno (oficial)", "url": "https://www.muelleuno.com/" }
+    ],
+    "history": "O antigo porto industrial foi reurbanizado entre 2011 e 2013, devolvendo à cidade uma orla que estava fechada ao público havia décadas."
+  },
+  {
+    "id": "mlg_soho_maus",
+    "categoryId": "malaga",
+    "city": "malaga",
+    "name": "Soho e arte urbana MAUS",
+    "tagline": "Galeria a céu aberto de Málaga",
+    "description": "Bairro entre a Alameda e o porto reinventado como Barrio de las Artes. O projeto MAUS (Málaga Arte Urbano Soho) trouxe murais monumentais de nomes globais do street art, como OBEY (Shepard Fairey) e D*Face, além de galerias e cafés independentes. É um museu ao ar livre para percorrer sem pressa.",
+    "lat": 36.7139,
+    "lng": -4.4231,
+    "durationLabel": "1h",
+    "fit": "ANY",
+    "mapQuery": "Soho Málaga Barrio de las Artes, Spain",
+    "whatToDo": [
+      "Ver 'Paz y Libertad' de OBEY e 'The Pilot' de D*Face, na lateral do CAC",
+      "Caçar murais de Belin, ROA e Dal East pelas ruas do bairro",
+      "Fazer uma pausa num café ou galeria independente"
+    ],
+    "kingTip": "Os dois grandes murais de OBEY e D*Face ficam na Calle Comandante Benítez, 14, atrás do CAC Málaga: comece por ali. Ruas estreitas dão sombra, então funciona bem no meio do dia.",
+    "priceLevel": "Grátis",
+    "links": [
+      { "label": "Rota de grafite no Soho (oficial)", "url": "https://visita.malaga.eu/en/what-to-see-and-do/blog/graffiti-route-a-stroll-through-soho-malaga-barrio-de-las-artes-p1640" }
+    ],
+    "history": "O projeto MAUS nasceu em 2013 como iniciativa vizinhal apoiada pela prefeitura para regenerar um bairro degradado através da arte urbana."
+  },
+  {
+    "id": "mlg_calle_larios",
+    "categoryId": "malaga",
+    "city": "malaga",
+    "name": "Calle Marqués de Larios",
+    "tagline": "O corso de mármore da cidade",
+    "description": "A grande avenida comercial de Málaga, calçada em mármore claro e ladeada por fachadas de inspiração chicaguense. É a espinha dorsal do centro pedonal, sempre animada, ligando a Plaza de la Constitución à Alameda Principal. O ponto de encontro para passear, comprar e observar a cidade.",
+    "lat": 36.7186,
+    "lng": -4.4207,
+    "durationLabel": "30-45min",
+    "fit": "ANY",
+    "mapQuery": "Calle Marqués de Larios, Málaga, Spain",
+    "whatToDo": [
+      "Descer a rua até a Plaza de la Constitución e a fonte de Génova",
+      "Entrar nas travessas para tapas e lojas históricas",
+      "Ver a rua ao anoitecer, quando esfria e enche de gente"
+    ],
+    "kingTip": "O mármore reflete o sol e ferve ao meio-dia; é uma rua para o começo da manhã ou depois das 20h, quando vira palco do passeio local. Na época de festas, ganha toldos e iluminação artística sobre a cabeça.",
+    "priceLevel": "Grátis (passeio)",
+    "history": "Inaugurada em 1891 e batizada em homenagem ao marquês de Larios, foi rasgada no traçado do centro medieval como símbolo da Málaga industrial e burguesa."
+  },
+  {
+    "id": "mlg_plaza_merced",
+    "categoryId": "malaga",
+    "city": "malaga",
+    "name": "Plaza de la Merced",
+    "tagline": "A praça de Picasso",
+    "description": "Uma das praças mais vivas do centro, com um obelisco central e fileiras de plátanos que dão sombra. Numa esquina fica a casa natal de Pablo Picasso, hoje museu-fundação. Cercada de esplanadas, é ponto de encontro dia e noite, entre o centro histórico e o bairro de Lagunillas.",
+    "lat": 36.7234,
+    "lng": -4.4175,
+    "durationLabel": "30min",
+    "fit": "ANY",
+    "mapQuery": "Plaza de la Merced, Málaga, Spain",
+    "whatToDo": [
+      "Ver a fachada da Casa Natal de Picasso na esquina norte",
+      "Sentar numa esplanada à sombra dos plátanos",
+      "Usar a praça como porta de entrada para Lagunillas"
+    ],
+    "kingTip": "Sente-se no lado sombreado no fim da tarde e observe o vaivém local; as esplanadas aqui são mais autênticas (e baratas) que as da Calle Larios.",
+    "priceLevel": "Grátis (praça)",
+    "history": "Antigo mercado e palco de execuções e comícios, ganhou em 1881 o obelisco ao general Torrijos, fuzilado na praia de Málaga com seus companheiros em 1831."
+  },
+  {
+    "id": "mlg_lagunillas",
+    "categoryId": "malaga",
+    "city": "malaga",
+    "name": "Barrio de Lagunillas",
+    "tagline": "O bairro que virou mural",
+    "description": "Bairro popular e boêmio logo acima da Plaza de la Merced, conhecido pela sua explosão de arte de rua com forte carga social e poética. Menos polido que o Soho e mais espontâneo, é onde vizinhos e artistas transformaram fachadas descascadas em galeria viva. Um passeio para quem quer a Málaga fora do roteiro.",
+    "lat": 36.7268,
+    "lng": -4.4160,
+    "durationLabel": "45min",
+    "fit": "ANY",
+    "mapQuery": "Calle Lagunillas, Málaga, Spain",
+    "whatToDo": [
+      "Perder-se pelas ruas caçando murais e mensagens poéticas nas paredes",
+      "Comparar o tom mais cru daqui com o street art do Soho",
+      "Tomar algo num bar de bairro autêntico"
+    ],
+    "kingTip": "Suba logo depois de conhecer a Plaza de la Merced, é ali ao lado. Como é bairro residencial e vivo, seja discreto com a câmera e prefira a manhã, quando o sol ainda não castiga as ruas estreitas.",
+    "priceLevel": "Grátis",
+    "history": "Bairro histórico de tradição operária e cigana, tornou-se nos anos 2010 um foco de arte urbana reivindicativa contra a especulação imobiliária."
+  },
+  {
+    "id": "mlg_farola_malagueta",
+    "categoryId": "malaga",
+    "city": "malaga",
+    "name": "La Farola e Paseo de la Malagueta",
+    "tagline": "O farol e o calçadão do mar",
+    "description": "La Farola, o farol oitocentista que é símbolo de Málaga, marca o início do calçadão que corre ao longo da praia da Malagueta. É o passeio marítimo clássico da cidade: palmeiras, esplanadas e a areia urbana mais central, a poucos passos do porto e do centro histórico.",
+    "lat": 36.7133,
+    "lng": -4.4142,
+    "durationLabel": "45min-1h",
+    "fit": "CLEAR_SKY",
+    "mapQuery": "La Farola de Málaga, Spain",
+    "whatToDo": [
+      "Fotografar La Farola, um dos poucos faróis 'femininos' com nome próprio",
+      "Caminhar pelo Paseo Marítimo até a Playa de la Malagueta",
+      "Provar espeto de sardinhas num chiringuito à beira da areia"
+    ],
+    "kingTip": "Em julho a Malagueta lota; venha de manhã cedo para o calçadão vazio ou ao pôr do sol. O espeto de sardinhas assado na brasa dos chiringuitos é o ritual imperdível da orla.",
+    "priceLevel": "Grátis (passeio)",
+    "history": "Construído em 1817, o farol resistiu a terremotos e à Guerra Civil e deu nome a todo o bairro marítimo que cresceu ao seu redor."
+  }
+]

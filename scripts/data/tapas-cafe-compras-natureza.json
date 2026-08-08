@@ -1,0 +1,477 @@
+[
+  {
+    "id": "mlg_el_pimpi",
+    "categoryId": "tapas",
+    "city": "malaga",
+    "name": "El Pimpi",
+    "tagline": "A bodega-templo de Málaga, entre tonéis e história",
+    "description": "Instalada num casarão do século XVIII ao lado do Teatro Romano e da Alcazaba, é a bodega mais icônica da cidade. Tonéis pintados assinados por celebridades, pátios frescos e uma carta que casa vinho doce local com tapas andaluzas. Ambiente vibrante e cenográfico, ideal para a primeira noite.",
+    "lat": 36.72123,
+    "lng": -4.41758,
+    "durationLabel": "1–2 h",
+    "fit": "ANY",
+    "mapQuery": "El Pimpi, Calle Granada 62, Málaga",
+    "whatToDo": "Peça um copo de Málaga Dulce direto do tonel e uma tábua de embutidos ibéricos no pátio.",
+    "kingTip": "No verão, reserve a mesa do pátio interior ou do terraço com vista para a Alcazaba; sem reserva a espera é longa.",
+    "priceLevel": "€€€",
+    "hours": {
+      "openDays": "Todos os dias",
+      "openHour": "12:00",
+      "closeHour": "00:00",
+      "note": "Cozinha contínua; picos no almoço e após as 21h."
+    },
+    "links": [
+      { "label": "Site oficial", "url": "https://www.elpimpi.com" }
+    ],
+    "history": "Aberta nos anos 1970 no antigo Palacio de Buenavista, virou símbolo cultural de Málaga; o ator Antonio Banderas é sócio da casa."
+  },
+  {
+    "id": "mlg_antigua_casa_guardia",
+    "categoryId": "tapas",
+    "city": "malaga",
+    "name": "Antigua Casa de Guardia",
+    "tagline": "O vinho doce de Málaga do tonel, desde 1840",
+    "description": "A taberna mais antiga da cidade, de pé desde 1840, com tonéis alinhados atrás de um balcão de madeira gasta. Não há mesas: bebe-se em pé enquanto o garçom anota a conta a giz no próprio balcão. Museu vivo do Moscatel e do Pedro Ximénez malaguenhos.",
+    "lat": 36.71743,
+    "lng": -4.42227,
+    "durationLabel": "30–45 min",
+    "fit": "ANY",
+    "mapQuery": "Antigua Casa de Guardia, Alameda Principal 18, Málaga",
+    "whatToDo": "Prove a sequência Seco Añejo, Pajarete e Pedro Ximénez servida direto dos tonéis, com gambas cozidas ao lado.",
+    "kingTip": "A conta é rabiscada a giz no balcão diante de você; peça de dois em dois copos para sentir a curva de doçura.",
+    "priceLevel": "€",
+    "hours": {
+      "openDays": "Seg–Sáb",
+      "openHour": "10:00",
+      "closeHour": "22:00",
+      "note": "Domingos fechado; horário reduzido em feriados."
+    },
+    "links": [
+      { "label": "Site oficial", "url": "https://antiguacasadeguardia.com" }
+    ],
+    "history": "Fundada por José de la Guardia em 1840, é a bodega mais antiga de Málaga ligada à Denominação de Origem local."
+  },
+  {
+    "id": "mlg_los_patios_de_beatas",
+    "categoryId": "tapas",
+    "city": "malaga",
+    "name": "Los Patios de Beatas",
+    "tagline": "Vinoteca premium em dois casarões restaurados",
+    "description": "Duas casas dos séculos XVIII e XIX unidas por pátios interiores, a 50 metros do Museu Picasso. Adega com centenas de referências de toda a Espanha e serviço por taça em copos Riedel, acompanhado de cozinha andaluza atualizada. A escolha refinada para quem leva vinho a sério.",
+    "lat": 36.72270,
+    "lng": -4.42035,
+    "durationLabel": "1–2 h",
+    "fit": "ANY",
+    "mapQuery": "Los Patios de Beatas, Calle Beatas 43, Málaga",
+    "whatToDo": "Peça uma degustação de vinhos de Málaga por taça com harmonização do sommelier.",
+    "kingTip": "Sente-se no pátio coberto e envidraçado, climatizado, o refúgio ideal no calor de julho.",
+    "priceLevel": "€€€",
+    "hours": {
+      "openDays": "Todos os dias",
+      "openHour": "12:30",
+      "closeHour": "00:00",
+      "note": "Reserva recomendada nas noites de fim de semana."
+    },
+    "links": [
+      { "label": "Site oficial", "url": "https://lospatiosdebeatas.com" }
+    ]
+  },
+  {
+    "id": "mlg_la_tranca",
+    "categoryId": "tapas",
+    "city": "malaga",
+    "name": "La Tranca",
+    "tagline": "Vermute, vinil e vinho doce no compasso local",
+    "description": "Bar minúsculo e cultuado da Calle Carretería, onde o vermute de torneira e o Moscatel correm ao som de discos de vinil e boleros. Paredes cobertas de azulejos e recortes, atmosfera cordial e conta anotada no balcão. Uma imersão despretensiosa na vida noturna malaguenha.",
+    "lat": 36.72460,
+    "lng": -4.42330,
+    "durationLabel": "45 min–1 h",
+    "fit": "ANY",
+    "mapQuery": "La Tranca, Calle Carretería 93, Málaga",
+    "whatToDo": "Peça um vermute de torneira e uma tapa de conservas, e fique de pé na calçada como os locais.",
+    "kingTip": "Lota depois das 21h; chegue no fim da tarde para pegar um canto no balcão.",
+    "priceLevel": "€",
+    "hours": {
+      "openDays": "Todos os dias",
+      "openHour": "12:00",
+      "closeHour": "02:00",
+      "note": "Espaço pequeno; a maioria bebe em pé na rua."
+    }
+  },
+  {
+    "id": "rnd_tragata",
+    "categoryId": "tapas",
+    "city": "ronda",
+    "name": "Tragatá",
+    "tagline": "As tapas de autor do chef Benito Gómez em Ronda",
+    "description": "A face informal do chef Benito Gómez, do biestrelado Bardal, no coração de Ronda. Balcão e mesas apertadas servindo pequenas porções criativas de raiz andaluza a preço acessível. Croquetes memoráveis e produtos da serra, executados com técnica de alta cozinha.",
+    "lat": 36.74280,
+    "lng": -5.16620,
+    "durationLabel": "1–1,5 h",
+    "fit": "ANY",
+    "mapQuery": "Tragatá, Calle Nueva 4, Ronda",
+    "whatToDo": "Peça as croquetas e dois ou três pratos de temporada para dividir, regados a vinho da Serranía de Ronda.",
+    "kingTip": "Só algumas mesas e sem grandes reservas; chegue na abertura do almoço para garantir lugar.",
+    "priceLevel": "€€€",
+    "hours": {
+      "openDays": "Qua–Dom",
+      "openHour": "13:00",
+      "closeHour": "22:30",
+      "note": "Fecha às tardes entre serviços; dias de folga variam na baixa temporada."
+    },
+    "links": [
+      { "label": "Site oficial", "url": "https://www.tragata.com" }
+    ]
+  },
+  {
+    "id": "grn_bodegas_castaneda",
+    "categoryId": "tapas",
+    "city": "granada",
+    "name": "Bodegas Castañeda",
+    "tagline": "Tapa grátis e calicasas na esquina da Calle Elvira",
+    "description": "Taberna clássica pertinho da Plaza Nueva, decorada com barris, presuntos pendurados e mármore antigo. Fiel à tradição de Granada, cada bebida vem com tapa gratuita, e o vermute de casa e as tábuas de embutidos são lendários. Ambiente ruidoso, autêntico e sempre cheio.",
+    "lat": 37.17640,
+    "lng": -3.59560,
+    "durationLabel": "45 min–1 h",
+    "fit": "ANY",
+    "mapQuery": "Bodegas Castañeda, Calle Almireceros 1, Granada",
+    "whatToDo": "Peça uma cerveja ou vermute e receba a tapa surpresa da casa; encare uma tábua de queijos e ibéricos.",
+    "kingTip": "Em Granada a tapa é grátis com a bebida e melhora a cada rodada; peça devagar e deixe a cozinha surpreender.",
+    "priceLevel": "€€",
+    "hours": {
+      "openDays": "Todos os dias",
+      "openHour": "11:30",
+      "closeHour": "00:00",
+      "note": "Cozinha contínua; enche na hora do aperitivo e à noite."
+    }
+  },
+  {
+    "id": "mlg_casa_aranda",
+    "categoryId": "cafe",
+    "city": "malaga",
+    "name": "Casa Aranda",
+    "tagline": "Churros com chocolate desde 1932",
+    "description": "A churrería por excelência de Málaga, ocupando várias esquinas de um beco próprio junto ao Mercado de Atarazanas. Churros finos e alongados fritos na hora, mergulhados em chocolate espesso, servidos por garçons de gravata desde 1932. Ritual matinal indispensável na cidade.",
+    "lat": 36.71888,
+    "lng": -4.42155,
+    "durationLabel": "30–45 min",
+    "fit": "ANY",
+    "mapQuery": "Casa Aranda, Calle Herrería del Rey 2, Málaga",
+    "whatToDo": "Peça uma ração de churros com uma xícara de chocolate quente para mergulhar.",
+    "kingTip": "Vá logo cedo, antes das 10h; no calor, prefira o café con leche gelado ao chocolate.",
+    "priceLevel": "€",
+    "hours": {
+      "openDays": "Todos os dias",
+      "openHour": "08:00",
+      "closeHour": "20:15",
+      "note": "Fecha à tarde entre turnos; domingos abre só à tarde."
+    },
+    "links": [
+      { "label": "Site oficial", "url": "http://www.casa-aranda.net" }
+    ],
+    "history": "Aberta em 1932, é a churrería histórica de Málaga, símbolo do café da manhã tradicional malaguenho."
+  },
+  {
+    "id": "mlg_santa_coffee_soho",
+    "categoryId": "cafe",
+    "city": "malaga",
+    "name": "Santa Coffee Soho",
+    "tagline": "Torrefação de especialidade no bairro Soho",
+    "description": "Café de especialidade e microtorrefação no artístico bairro Soho, entre murais urbanos. Grãos torrados no próprio laboratório e métodos filtrados feitos com precisão, além de doces e opções veganas. Parada obrigatória para quem busca o melhor espresso da cidade.",
+    "lat": 36.71618,
+    "lng": -4.42260,
+    "durationLabel": "30–45 min",
+    "fit": "ANY",
+    "mapQuery": "Santa Coffee Soho, Calle Tomás Heredia 5, Málaga",
+    "whatToDo": "Prove um filtrado V60 do lote em destaque e leve um pacote de grãos torrados na casa.",
+    "kingTip": "No calor, peça o cold brew da casa; o espaço interno é pequeno e bem climatizado.",
+    "priceLevel": "€€",
+    "hours": {
+      "openDays": "Todos os dias",
+      "openHour": "08:30",
+      "closeHour": "20:00",
+      "note": "Horário pode encurtar aos domingos."
+    },
+    "links": [
+      { "label": "Site oficial", "url": "https://santacoffee.es" }
+    ]
+  },
+  {
+    "id": "mlg_casa_mira",
+    "categoryId": "cafe",
+    "city": "malaga",
+    "name": "Casa Mira",
+    "tagline": "Sorvetes artesanais e turrón desde 1890",
+    "description": "Heladería-turronería histórica na elegante Calle Larios, de origem alicantina e aberta em Málaga desde o fim do século XIX. Sorvetes cremosos, horchata gelada e turrón artesanal servidos há gerações. O antídoto perfeito para o calor de julho no centro comercial.",
+    "lat": 36.71930,
+    "lng": -4.42060,
+    "durationLabel": "20–30 min",
+    "fit": "ANY",
+    "mapQuery": "Casa Mira, Calle Marqués de Larios 5, Málaga",
+    "whatToDo": "Peça uma bola de turrón de Jijona ou uma horchata bem gelada para caminhar pela Larios.",
+    "kingTip": "Nos dias mais quentes, a horchata com fartón supera o sorvete para se refrescar de verdade.",
+    "priceLevel": "€€",
+    "hours": {
+      "openDays": "Todos os dias",
+      "openHour": "10:00",
+      "closeHour": "23:00",
+      "note": "Fecha mais tarde nas noites quentes de verão."
+    },
+    "history": "Casa de tradição turronera com mais de um século de história, referência do doce artesanal no centro de Málaga."
+  },
+  {
+    "id": "grn_lopez_mezquita",
+    "categoryId": "cafe",
+    "city": "granada",
+    "name": "Pastelería López-Mezquita",
+    "tagline": "Doçaria histórica de Granada desde 1862",
+    "description": "Confeitaria familiar fundada em 1862, na atual loja da Calle Reyes Católicos desde 1905, a poucos passos da catedral. Vitrines de piononos, felipes, palmeras de chocolate e o célebre napolitana. Balcão de mármore e serviço clássico que atravessou gerações.",
+    "lat": 37.17490,
+    "lng": -3.59920,
+    "durationLabel": "20–30 min",
+    "fit": "ANY",
+    "mapQuery": "Pastelería López-Mezquita, Calle Reyes Católicos 39, Granada",
+    "whatToDo": "Leve uma caixa de piononos e prove a napolitana de chocolate quentinha.",
+    "kingTip": "Peça os doces batizados de 'apperley', criados a partir de um quadro deixado pelo pintor inglês em 1925.",
+    "priceLevel": "€€",
+    "hours": {
+      "openDays": "Todos os dias",
+      "openHour": "09:00",
+      "closeHour": "21:00",
+      "note": "Horário pode variar em feriados locais."
+    },
+    "history": "Fundada em 1862 pelo casal Cristóbal López e Dolores Mezquita, é uma das confeitarias mais emblemáticas de Granada."
+  },
+  {
+    "id": "mlg_mercado_atarazanas",
+    "categoryId": "compras",
+    "city": "malaga",
+    "name": "Mercado Central de Atarazanas",
+    "tagline": "Mercado coberto do século XIX com vitral monumental",
+    "description": "Ergue-se sobre um antigo estaleiro nazari, guardando um portal de mármore original e um vitral colorido que retrata marcos de Málaga. Bancas transbordam de peixe do dia, presuntos, azeites e frutas, com barras de tapas no meio do burburinho. Coração gastronômico da cidade.",
+    "lat": 36.71760,
+    "lng": -4.42320,
+    "durationLabel": "45 min–1 h",
+    "fit": "INDOOR",
+    "mapQuery": "Mercado Central de Atarazanas, Calle Atarazanas 10, Málaga",
+    "whatToDo": "Circule pelas bancas de peixe e pare numa barra interna para comer boquerones fritos e uma taça de vinho.",
+    "kingTip": "Vá pela manhã, antes das 13h; às segundas a seção de peixe fica fechada.",
+    "priceLevel": "€€",
+    "hours": {
+      "openDays": "Seg–Sáb",
+      "openHour": "08:00",
+      "closeHour": "14:00",
+      "note": "Domingos fechado; peixaria fecha às segundas."
+    },
+    "links": [
+      { "label": "Mercados de Málaga", "url": "https://mercados.malagacomercio.es/mercados/mercado-de-atarazanas/" }
+    ],
+    "history": "Construído no século XIX pelo arquiteto Joaquín de Rucoba sobre o antigo estaleiro árabe; restaurado entre 2008 e 2010."
+  },
+  {
+    "id": "mlg_calle_larios",
+    "categoryId": "compras",
+    "city": "malaga",
+    "name": "Calle Marqués de Larios",
+    "tagline": "A avenida de compras mais elegante do sul",
+    "description": "Eixo comercial nobre de Málaga, calçado de mármore e ladeado por fachadas de inspiração chicaguense do início do século XX. Reúne grandes marcas, boutiques e cafés sob toldos, e vira palco de iluminações e desfiles sazonais. Passeio obrigatório entre a Plaza de la Constitución e a Alameda.",
+    "lat": 36.71880,
+    "lng": -4.42090,
+    "durationLabel": "45 min–1,5 h",
+    "fit": "ANY",
+    "mapQuery": "Calle Marqués de Larios, Málaga",
+    "whatToDo": "Percorra a rua entre as boutiques e desvie para as ruelas laterais em busca de lojas independentes.",
+    "kingTip": "O mármore reflete o sol; caminhe no fim da tarde, quando esfria e a rua ganha vida.",
+    "priceLevel": "€€€"
+  },
+  {
+    "id": "mlg_alfajar",
+    "categoryId": "compras",
+    "city": "malaga",
+    "name": "Alfajar",
+    "tagline": "Cerâmica andaluza autoral ao lado da catedral",
+    "description": "Loja-referência de cerâmica criativa instalada no barroco Palacio de Zea-Salvatierra, colado à catedral. Peças artesanais de ceramistas andaluzes, de azulejos a louça de mesa, com desenho contemporâneo e cores mediterrâneas. Negócio familiar desde 1992, ideal para uma lembrança de valor.",
+    "lat": 36.72030,
+    "lng": -4.41890,
+    "durationLabel": "20–40 min",
+    "fit": "ANY",
+    "mapQuery": "Alfajar Cerámica, Calle Císter 1, Málaga",
+    "whatToDo": "Escolha uma peça assinada por ceramistas locais; eles orientam sobre embalagem para viagem.",
+    "kingTip": "Peça o embrulho reforçado para levar a cerâmica na bagagem de mão sem risco.",
+    "priceLevel": "€€€",
+    "hours": {
+      "openDays": "Todos os dias",
+      "openHour": "10:00",
+      "closeHour": "20:30",
+      "note": "Horário pode reduzir aos domingos."
+    },
+    "links": [
+      { "label": "Site oficial", "url": "https://alfajar.es" }
+    ]
+  },
+  {
+    "id": "grn_alcaiceria",
+    "categoryId": "compras",
+    "city": "granada",
+    "name": "Alcaicería de Granada",
+    "tagline": "O antigo bazar da seda, labirinto nazari",
+    "description": "Recriação fiel do mercado nazari da seda, entre a catedral e a Plaza Bib-Rambla, com ruelas estreitas cobertas de arcos e tecidos. Bancas de especiarias, lâmpadas árabes, marroquinaria e cerâmica evocam o antigo zoco. Perfeito para garimpar lembranças de forte identidade andaluza.",
+    "lat": 37.17550,
+    "lng": -3.59930,
+    "durationLabel": "30–45 min",
+    "fit": "ANY",
+    "mapQuery": "Alcaicería, Calle Alcaicería, Granada",
+    "whatToDo": "Pechinche lâmpadas de vidro colorido e taracea (marchetaria) granadina nas bancas cobertas.",
+    "kingTip": "As ruelas cobertas são sombreadas e frescas; ótima parada nas horas mais quentes do dia.",
+    "priceLevel": "€€",
+    "history": "Antigo grande bazar da seda de Granada; após o incêndio de 1843, restou e foi recriada a atual Calle Alcaicería."
+  },
+  {
+    "id": "mrb_el_corte_ingles_banus",
+    "categoryId": "compras",
+    "city": "marbella",
+    "name": "El Corte Inglés Puerto Banús",
+    "tagline": "Grifes de luxo na Milla de Oro de Marbella",
+    "description": "A grande loja de departamentos de luxo de Puerto Banús, na Milla de Oro entre Marbella e a marina. Reúne dezenas de grifes internacionais, gastronomia gourmet e um serviço de personal shopping exclusivo. Base natural para explorar as boutiques de Cartier a Dior à beira do porto.",
+    "lat": 36.48870,
+    "lng": -4.95250,
+    "durationLabel": "1–2 h",
+    "fit": "ANY",
+    "mapQuery": "El Corte Inglés Puerto Banús, Marbella",
+    "whatToDo": "Combine a loja com um passeio pela marina de Puerto Banús e suas vitrines de alta-costura.",
+    "kingTip": "Peça o serviço de personal shopper 'Suite Xquisit' para atendimento reservado e climatizado.",
+    "priceLevel": "€€€€",
+    "hours": {
+      "openDays": "Seg–Sáb",
+      "openHour": "10:00",
+      "closeHour": "22:00",
+      "note": "Domingos e feriados com horário especial."
+    },
+    "links": [
+      { "label": "Site oficial", "url": "https://www.elcorteingles.es/centroscomerciales/es/eci/centros/centro-comercial-puerto-banus" }
+    ]
+  },
+  {
+    "id": "ant_caminito_del_rey",
+    "categoryId": "natureza",
+    "city": "antequera",
+    "name": "Caminito del Rey",
+    "tagline": "Passarela suspensa no desfiladeiro dos Gaitanes",
+    "description": "Trilha lendária em passadiços de madeira colados à parede do desfiladeiro dos Gaitanes, cem metros acima do rio Guadalhorce. Percurso linear de cerca de 3 km (7,7 km com os acessos), de sentido único e mão obrigatória de norte a sul. Um dos passeios mais espetaculares da Espanha.",
+    "lat": 36.91464,
+    "lng": -4.80761,
+    "durationLabel": "3–4 h (com acessos)",
+    "fit": "CLEAR_SKY",
+    "mapQuery": "Caminito del Rey, acceso norte, Ardales",
+    "whatToDo": "Reserve o horário com antecedência, retire capacete no acesso norte e faça o percurso de norte a sul.",
+    "kingTip": "Julho é escaldante e sem sombra: leve 1,5 L de água por pessoa, chapéu e protetor, e escolha o primeiro horário da manhã. Ingressos esgotam com semanas de antecedência.",
+    "priceLevel": "€€",
+    "hours": {
+      "openDays": "Ter–Dom",
+      "openHour": "09:30",
+      "closeHour": "15:00",
+      "note": "Fecha às segundas e em dias de vento forte; entrada só com horário reservado."
+    },
+    "links": [
+      { "label": "Ingressos oficiais", "url": "https://www.caminitodelrey.info" }
+    ],
+    "history": "Construído em 1901–1905 para operários da hidrelétrica e inaugurado pelo rei Alfonso XIII em 1921; reaberto restaurado em 2015."
+  },
+  {
+    "id": "ant_el_torcal",
+    "categoryId": "natureza",
+    "city": "antequera",
+    "name": "El Torcal de Antequera",
+    "tagline": "Labirinto de rochas cársticas moldadas pelo mar",
+    "description": "Paisagem cársica única, com torres de calcário esculpidas por milhões de anos em formas surreais, a mais de 1.300 metros de altitude. Trilhas circulares sinalizadas cruzam o labirinto de pedra habitado por cabras-monteses. Centro de visitantes com mirante e observatório astronômico.",
+    "lat": 36.95324,
+    "lng": -4.54460,
+    "durationLabel": "2–3 h",
+    "fit": "CLEAR_SKY",
+    "mapQuery": "Centro de Visitantes Torcal Alto, Antequera",
+    "whatToDo": "Faça a Ruta Verde (1,5 km) ou a Amarilla (3 km) a partir do centro de visitantes Torcal Alto.",
+    "kingTip": "No verão o acesso ao parking alto é restrito e há lanzadera paga; chegue cedo, leve água e evite o meio-dia, quando a pedra irradia calor.",
+    "priceLevel": "€",
+    "hours": {
+      "openDays": "Todos os dias",
+      "openHour": "10:00",
+      "closeHour": "19:00",
+      "note": "Abr–out até 19h; entrada ao parque gratuita, estacionamento com lanzadera na alta temporada."
+    },
+    "links": [
+      { "label": "Site oficial", "url": "https://www.torcaldeantequera.com" }
+    ]
+  },
+  {
+    "id": "axq_cuevas_de_nerja",
+    "categoryId": "natureza",
+    "city": "axarquia",
+    "name": "Cuevas de Nerja",
+    "tagline": "Catedral subterrânea de estalactites em Maro",
+    "description": "Sistema de cavernas de quase 5 km próximo a Maro, com salas monumentais e a maior coluna estalagmítica do mundo, com 32 metros. O percurso turístico revela galerias iluminadas com pinturas rupestres e temperatura amena o ano todo. Fresco e abrigado, refúgio perfeito nos dias de calor.",
+    "lat": 36.76167,
+    "lng": -3.84583,
+    "durationLabel": "1–1,5 h",
+    "fit": "ANY",
+    "mapQuery": "Cueva de Nerja, Maro, Nerja",
+    "whatToDo": "Reserve horário online e percorra as galerias iluminadas até a grande coluna central.",
+    "kingTip": "A gruta é coberta e fresca (uns 20°C), mas o acesso e a fila são ao ar livre; compre o ingresso com hora marcada para pular a espera no sol.",
+    "priceLevel": "€€",
+    "hours": {
+      "openDays": "Todos os dias",
+      "openHour": "09:30",
+      "closeHour": "16:30",
+      "note": "Horário ampliado no verão; entrada por sessão com hora marcada."
+    },
+    "links": [
+      { "label": "Ingressos oficiais", "url": "https://cuevadenerja.es" }
+    ],
+    "history": "Redescoberta em 12 de janeiro de 1959 por cinco jovens que entraram pela fenda de La Mina; aberta ao público em 1960."
+  },
+  {
+    "id": "mlg_jardin_la_concepcion",
+    "categoryId": "natureza",
+    "city": "malaga",
+    "name": "Jardín Botánico-Histórico La Concepción",
+    "tagline": "Selva subtropical romântica aos pés de Málaga",
+    "description": "Um dos poucos jardins subtropicais da Europa continental, criado no século XIX por um casal apaixonado por botânica. Palmeiras centenárias, cascatas, pérgola de glicínias e mirantes sobre a cidade compõem um passeio à sombra densa. Oásis verde a poucos minutos do centro.",
+    "lat": 36.75490,
+    "lng": -4.40980,
+    "durationLabel": "1,5–2 h",
+    "fit": "CLEAR_SKY",
+    "mapQuery": "Jardín Botánico La Concepción, Málaga",
+    "whatToDo": "Siga a rota principal até a pérgola de glicínias e o mirante com vista para Málaga.",
+    "kingTip": "A copa das árvores dá sombra generosa, mas leve água e vá pela manhã; às segundas o jardim fecha.",
+    "priceLevel": "€",
+    "hours": {
+      "openDays": "Ter–Dom",
+      "openHour": "09:30",
+      "closeHour": "20:30",
+      "note": "Abr–set até 20:30; fechado às segundas."
+    },
+    "links": [
+      { "label": "Site oficial", "url": "https://laconcepcion.malaga.eu" }
+    ],
+    "history": "Criado em meados do século XIX pelos marqueses de Casa Loring; hoje é Bem de Interesse Cultural e jardim histórico municipal."
+  },
+  {
+    "id": "axq_playa_de_maro",
+    "categoryId": "natureza",
+    "city": "axarquia",
+    "name": "Playa de Maro e Acantilados de Maro-Cerro Gordo",
+    "tagline": "Enseadas turquesa sob falésias protegidas",
+    "description": "Praia de seixos e água cristalina encaixada num paraje natural de 12 km de falésias entre Málaga e Granada. Cachoeira que cai sobre a areia, fundo marinho protegido e enseadas selvagens acessíveis por trilhas. Paisagem virgem, das mais bonitas da costa andaluza.",
+    "lat": 36.75375,
+    "lng": -3.83396,
+    "durationLabel": "2–4 h",
+    "fit": "CLEAR_SKY",
+    "mapQuery": "Playa de Maro, Nerja",
+    "whatToDo": "Desça a trilha até a praia, mergulhe nas águas transparentes e explore as calas vizinhas de caiaque.",
+    "kingTip": "O estacionamento (30–40 vagas) lota antes das 9h30 em julho; chegue cedo ou use a lanzadera paga, e leve água, pois há pouca sombra.",
+    "priceLevel": "€",
+    "links": [
+      { "label": "Visita Nerja", "url": "https://visita.nerja.es" }
+    ],
+    "history": "Paraje Natural desde 1989, o Acantilados de Maro-Cerro Gordo protege 384 hectares, 80% deles de superfície marinha."
+  }
+]

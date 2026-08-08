@@ -1,0 +1,302 @@
+[
+  {
+    "id": "mlg_jose_carlos_garcia",
+    "categoryId": "gastronomia",
+    "city": "malaga",
+    "name": "José Carlos García",
+    "tagline": "A estrela Michelin do porto de Málaga",
+    "description": "Uma estrela Michelin e o único estrelado da cidade de Málaga, no Muelle Uno com vista para os iates. Cozinha malaguenha contemporânea e criativa em dois menus-degustação que evoluem com a estação. Ambiente elegante e informal, jardins verticais e luz mediterrânea.",
+    "lat": 36.7163,
+    "lng": -4.4162,
+    "durationLabel": "jantar 2-3h",
+    "fit": "ANY",
+    "mapQuery": "Restaurante José Carlos García, Plaza de la Capilla 1, Málaga",
+    "whatToDo": "Escolha o menu-degustação longo e deixe a harmonização de vinhos por conta da casa; peça mesa voltada para o Muelle Uno.",
+    "kingTip": "Prato-assinatura ao redor do peixe do dia da lota de Málaga. RESERVE COM 2-3 MESES DE ANTECEDÊNCIA: em julho, alta temporada, os estrelados esgotam meses antes.",
+    "priceLevel": "~€165/pessoa (est.)",
+    "hours": { "openDays": "Ter-Sáb", "openHour": "13:30", "closeHour": "23:00", "note": "Fecha domingo e segunda; confirme no site" },
+    "links": [
+      { "label": "Site oficial e reserva", "url": "https://www.restaurantejcg.com" },
+      { "label": "Guia Michelin", "url": "https://guide.michelin.com/en/andalucia/malaga/restaurant/jose-carlos-garcia" }
+    ],
+    "history": "Aberto por José Carlos García, malaguenho de nascimento e herdeiro do histórico Café de París da família, é referência da alta cozinha andaluza há mais de uma década."
+  },
+  {
+    "id": "mlg_kaleja",
+    "categoryId": "gastronomia",
+    "city": "malaga",
+    "name": "Kaleja",
+    "tagline": "Guisos de autor com uma estrela Michelin",
+    "description": "Uma estrela Michelin do chef Dani Carnero, no centro histórico de Málaga. Reinventa o guiso e o receituário andaluz de raiz com técnica de alta cozinha, memória e produto local. Menu-degustação intenso e caseiro em sala íntima.",
+    "lat": 36.7211,
+    "lng": -4.4193,
+    "durationLabel": "jantar 2-3h",
+    "fit": "ANY",
+    "mapQuery": "Restaurante Kaleja, Calle Marqués 1, Málaga",
+    "whatToDo": "Vá de menu-degustação completo; a cozinha de colher (guisos e caldos) é o coração da casa.",
+    "kingTip": "Prove os guisos de autor, a assinatura de Carnero. Sala pequena e muito procurada: RESERVE COM MESES DE ANTECEDÊNCIA, sobretudo em julho.",
+    "priceLevel": "~€110/pessoa (est.)",
+    "hours": { "openDays": "Qua-Dom", "openHour": "13:30", "closeHour": "23:00", "note": "Dias podem variar; confirme na reserva" },
+    "links": [
+      { "label": "Guia Michelin", "url": "https://guide.michelin.com/en/andalucia/malaga/restaurant/kaleja" }
+    ],
+    "history": "Dani Carnero consolidou aqui a linguagem que já ensaiara em La Cosmopolita, elevando o guiso malaguenho ao patamar Michelin."
+  },
+  {
+    "id": "mlg_ta_kumi",
+    "categoryId": "gastronomia",
+    "city": "malaga",
+    "name": "TA-KUMI",
+    "tagline": "Japonês de culto frente à Alcazaba",
+    "description": "Um dos japoneses mais respeitados da Andaluzia, unindo os chefs Toshio Tsutsui e Álvaro Arbeloa. Sushi e cozinha nipônica com produto local e excelente relação qualidade-preço, junto à Alcazaba. Barra de sushi e terraço com vista para a fortaleza.",
+    "lat": 36.7224,
+    "lng": -4.4136,
+    "durationLabel": "jantar 1h30-2h",
+    "fit": "CLEAR_SKY",
+    "mapQuery": "Restaurante Ta-Kumi, Calle Mundo Nuevo 4, Málaga",
+    "whatToDo": "Sente-se à barra de sushi para ver o corte ao vivo; em noite limpa, peça mesa no terraço voltado à Alcazaba.",
+    "kingTip": "Deixe-se levar pelo omakase do dia. Terraço disputado no verão: reserve com antecedência e peça expressamente mesa com vista.",
+    "priceLevel": "€€€",
+    "hours": { "openDays": "Ter-Dom", "openHour": "13:30", "closeHour": "23:30", "note": "Costuma fechar segunda; confirme" },
+    "links": [
+      { "label": "Site oficial e reserva", "url": "https://www.restaurantetakumi.com" }
+    ],
+    "history": "O nome funde as iniciais dos dois cozinheiros com \"kumi\", artesão-mestre em japonês, resumindo a filosofia da casa."
+  },
+  {
+    "id": "rnd_bardal",
+    "categoryId": "gastronomia",
+    "city": "ronda",
+    "name": "Bardal",
+    "tagline": "Duas estrelas Michelin no coração de Ronda",
+    "description": "Duas estrelas Michelin do chef Benito Gómez, revalidadas na guia 2026. Cozinha de autor que exalta o produto da serra de Ronda com criatividade e coerência, em menus-degustação de peregrinação gourmet. No espaço onde antes brilhou o histórico Tragabuches.",
+    "lat": 36.7427,
+    "lng": -5.1662,
+    "durationLabel": "almoço/jantar 3h",
+    "fit": "ANY",
+    "mapQuery": "Restaurante Bardal, Calle José Aparicio 1, Ronda",
+    "whatToDo": "Reserve o menu-degustação longo com harmonização; combine com a visita ao Puente Nuevo, a poucos passos.",
+    "kingTip": "Duas estrelas em tempo recorde: das mesas mais cobiçadas da Andaluzia. RESERVE COM 2-3 MESES DE ANTECEDÊNCIA, imprescindível em julho.",
+    "priceLevel": "~€190/pessoa (est.)",
+    "hours": { "openDays": "Ter-Sáb", "openHour": "13:30", "closeHour": "22:30", "note": "Fecha domingo e segunda; confirme no site" },
+    "links": [
+      { "label": "Site oficial e reserva", "url": "https://www.restaurantebardal.com" },
+      { "label": "Guia Michelin", "url": "https://guide.michelin.com/us/en/andalucia/ronda/restaurant/bardal" }
+    ],
+    "history": "Benito Gómez, catalão de Argentona, abriu o Tragatá em 2006 e dez anos depois inaugurou o Bardal, hoje uma das quatro casas de Málaga com duas estrelas."
+  },
+  {
+    "id": "rnd_tragata",
+    "categoryId": "gastronomia",
+    "city": "ronda",
+    "name": "Tragatá",
+    "tagline": "O tapas-bar canalha de Benito Gómez",
+    "description": "A casa informal do mesmo chef do Bardal, Benito Gómez, listada no Guia Michelin. Tapas de autor a preço sensato, com técnica de duas estrelas em formato descontraído. A melhor porta de entrada à cozinha de Ronda sem menu-degustação.",
+    "lat": 36.7438,
+    "lng": -5.1655,
+    "durationLabel": "almoço/jantar 1-2h",
+    "fit": "ANY",
+    "mapQuery": "Tragatá, Calle Nueva 4, Ronda",
+    "whatToDo": "Peça várias tapas para partilhar; ideal para quem não conseguiu mesa no Bardal.",
+    "kingTip": "Prove o sanduíche de pastrami e as croquetes, clássicos da casa. Não aceita reservas para grupos pequenos em alguns horários: chegue cedo no verão.",
+    "priceLevel": "€€€",
+    "hours": { "openDays": "Ter-Sáb", "openHour": "13:00", "closeHour": "23:00", "note": "Dias podem variar; confirme" },
+    "links": [
+      { "label": "Guia Michelin", "url": "https://guide.michelin.com/en/andalucia/ronda/restaurant/tragata" }
+    ],
+    "history": "Foi o primeiro projeto de Benito Gómez em Ronda, em 2006, antes do salto que o levaria às duas estrelas do Bardal."
+  },
+  {
+    "id": "mrb_skina",
+    "categoryId": "gastronomia",
+    "city": "marbella",
+    "name": "Skina",
+    "tagline": "Duas estrelas Michelin no casco antigo",
+    "description": "Duas estrelas Michelin numa das ruas estreitas do centro histórico de Marbella. Alta cozinha andaluza de produto excepcional e adega de referência, num dos menores e mais íntimos biestrelados da Espanha. Serviço de gala em espaço minúsculo.",
+    "lat": 36.5101,
+    "lng": -4.8853,
+    "durationLabel": "jantar 2-3h",
+    "fit": "ANY",
+    "mapQuery": "Restaurante Skina, Calle Aduar 12, Marbella",
+    "whatToDo": "Confie no menu-degustação e explore a carta de vinhos, uma das joias da casa, com o sommelier.",
+    "kingTip": "Pouquíssimas mesas: é dos jantares mais difíceis de conseguir na Costa del Sol. RESERVE COM MESES DE ANTECEDÊNCIA para julho.",
+    "priceLevel": "~€220/pessoa (est.)",
+    "hours": { "openDays": "Ter-Sáb", "openHour": "13:30", "closeHour": "22:30", "note": "Fecha domingo e segunda; confirme no site" },
+    "links": [
+      { "label": "Site oficial e reserva", "url": "https://www.restauranteskina.com" },
+      { "label": "Guia Michelin", "url": "https://guide.michelin.com/us/en/andalucia/marbella/restaurant/skina" }
+    ],
+    "history": "Escondido nas vielas caiadas do casco antigo, tornou-se símbolo da ascensão gastronômica de Marbella."
+  },
+  {
+    "id": "mrb_messina",
+    "categoryId": "gastronomia",
+    "city": "marbella",
+    "name": "Messina",
+    "tagline": "Uma estrela Michelin de fusão criativa",
+    "description": "Uma estrela Michelin do chef ítalo-argentino Mauricio Giovanini. Cozinha de autor que cruza técnica de vanguarda com produtos andaluzes e acentos latino-americanos e asiáticos. Menus-degustação surpreendentes junto ao paseo marítimo.",
+    "lat": 36.5069,
+    "lng": -4.8799,
+    "durationLabel": "jantar 2-3h",
+    "fit": "ANY",
+    "mapQuery": "Restaurante Messina, Avenida Severo Ochoa 12, Marbella",
+    "whatToDo": "Peça o menu-degustação mais longo para captar a amplitude criativa de Giovanini.",
+    "kingTip": "Cozinha de vanguarda muito pessoal, uma das mais interessantes de Marbella. Reserve com antecedência, especialmente na alta temporada de julho.",
+    "priceLevel": "~€150/pessoa (est.)",
+    "hours": { "openDays": "Ter-Sáb", "openHour": "13:30", "closeHour": "22:30", "note": "Fecha domingo e segunda; confirme" },
+    "links": [
+      { "label": "Guia Michelin", "url": "https://guide.michelin.com/en/andalucia/marbella/restaurant/messina" }
+    ],
+    "history": "Mauricio Giovanini construiu no Messina uma das trajetórias criativas mais longevas e respeitadas da Costa del Sol."
+  },
+  {
+    "id": "mrb_back",
+    "categoryId": "gastronomia",
+    "city": "marbella",
+    "name": "Back",
+    "tagline": "Estrela Michelin de técnica e diversão",
+    "description": "Uma estrela Michelin (desde 2023) dos chefs David Olivas e Fabián Villar, no centro de Marbella. Alta cozinha que une precisão técnica a surpresa e um toque lúdico em cada prato. Menus-degustação de perfil jovem e vibrante.",
+    "lat": 36.5093,
+    "lng": -4.8933,
+    "durationLabel": "jantar 2-3h",
+    "fit": "ANY",
+    "mapQuery": "Restaurante Back, Calle Pablo Casals 8, Marbella",
+    "whatToDo": "Vá de menu-degustação e deixe-se surpreender pela sequência; ótimo para quem busca cozinha criativa sem formalidade excessiva.",
+    "kingTip": "David Olivas, de Úbeda, aposta em técnica com humor. Sala pequena: reserve com semanas a meses de antecedência para julho.",
+    "priceLevel": "~€120/pessoa (est.)",
+    "hours": { "openDays": "Ter-Sáb", "openHour": "13:30", "closeHour": "22:30", "note": "Fecha domingo e segunda; confirme no site" },
+    "links": [
+      { "label": "Site oficial e reserva", "url": "https://backrestaurante.com" },
+      { "label": "Guia Michelin", "url": "https://guide.michelin.com/en/andalucia/marbella/restaurant/back" }
+    ],
+    "history": "Conquistou a primeira estrela em novembro de 2023, colocando a dupla Olivas-Villar no mapa da alta cozinha da Costa del Sol."
+  },
+  {
+    "id": "mrb_lena",
+    "categoryId": "gastronomia",
+    "city": "marbella",
+    "name": "Leña Marbella",
+    "tagline": "O asador global de Dani García",
+    "description": "Asador de autor do chef Dani García (ex-três estrelas Michelin) no resort Puente Romano. Brasa, cortes de carne selecionados e técnica aprendida pelo mundo, num dos espaços mais cenográficos de Marbella, premiado pelo design. Ícone da alta gastronomia de grelha da Costa del Sol.",
+    "lat": 36.4996,
+    "lng": -4.9185,
+    "durationLabel": "jantar 2h",
+    "fit": "ANY",
+    "mapQuery": "Leña Marbella, Puente Romano, Bulevar Príncipe Alfonso de Hohenlohe, Marbella",
+    "whatToDo": "Peça os grandes cortes maturados na brasa; explore os coquetéis de autor do bar antes de sentar.",
+    "kingTip": "Prato-assinatura na carne maturada ao carvão. Casa muito procurada por famosos no verão: reserve com antecedência e vá arrumado (dress code).",
+    "priceLevel": "€€€€",
+    "hours": { "openDays": "Seg-Dom", "openHour": "13:00", "closeHour": "00:00", "note": "Aberto todos os dias em temporada; confirme" },
+    "links": [
+      { "label": "Site oficial e reserva", "url": "https://lenarestaurants.com/es/marbella/" }
+    ],
+    "history": "Depois de devolver as três estrelas do seu restaurante epônimo, Dani García reinventou-se com formatos como o Leña, eleito um dos restaurantes mais bonitos do mundo em 2021."
+  },
+  {
+    "id": "mrb_nobu",
+    "categoryId": "gastronomia",
+    "city": "marbella",
+    "name": "Nobu Marbella",
+    "tagline": "O nipo-peruano de culto do Puente Romano",
+    "description": "Filial da célebre marca de Nobu Matsuhisa, no Nobu Hotel dentro do Puente Romano. Cozinha nipo-peruana com os clássicos globais da casa e produto local, em ambiente sofisticado e animado. Referência do jantar de luxo em Marbella.",
+    "lat": 36.4993,
+    "lng": -4.9177,
+    "durationLabel": "jantar 2h",
+    "fit": "ANY",
+    "mapQuery": "Nobu Marbella, Puente Romano Beach Resort, Marbella",
+    "whatToDo": "Peça os clássicos black cod miso e o tiradito; reserve pela plataforma para garantir horário de jantar.",
+    "kingTip": "Ambiente adults-only e com dress code. Prato-assinatura no bacalhau negro ao missô. Reserve 6-8 semanas antes para julho, o pico da temporada.",
+    "priceLevel": "€€€€",
+    "hours": { "openDays": "Seg-Dom", "openHour": "19:00", "closeHour": "00:00", "note": "Jantar; horários e terraço variam por temporada" },
+    "links": [
+      { "label": "Site oficial", "url": "https://www.puenteromano.com/dining-drinks/nobu/" },
+      { "label": "Reserva", "url": "https://www.sevenrooms.com/reservations/nobupuenteromano" }
+    ],
+    "history": "Aberto em 2017 no Nobu Hotel Marbella, trouxe à Costa del Sol a assinatura nipo-peruana criada por Nobu Matsuhisa e Robert De Niro."
+  },
+  {
+    "id": "grn_farala",
+    "categoryId": "gastronomia",
+    "city": "granada",
+    "name": "Faralá",
+    "tagline": "A primeira estrela Michelin de Granada",
+    "description": "Uma estrela Michelin da chef Cristina Jiménez, a primeira concedida à cidade de Granada, na guia 2026. Alta cozinha de produto local em preparos precisos e diretos, aos pés da Alhambra, na subida da Cuesta de Gomérez. Espaço que combina gastronomia, arte e programação de flamenco.",
+    "lat": 37.1758,
+    "lng": -3.5920,
+    "durationLabel": "jantar 2-3h",
+    "fit": "ANY",
+    "mapQuery": "Faralá, Cuesta de Gomérez 11, Granada",
+    "whatToDo": "Combine o menu-degustação com o El Quejío Wine Bar da casa; ideal antes ou depois da visita à Alhambra.",
+    "kingTip": "Estrela recém-conquistada e muita procura: RESERVE COM MESES DE ANTECEDÊNCIA. Pergunte pela programação de flamenco ao reservar.",
+    "priceLevel": "~€110/pessoa (est.)",
+    "hours": { "openDays": "Ter-Sáb", "openHour": "13:30", "closeHour": "23:00", "note": "Dias e horários podem variar; confirme na reserva" },
+    "links": [
+      { "label": "Guia Michelin", "url": "https://guide.michelin.com/es/es/andalucia/granada/restaurante/farala" }
+    ],
+    "history": "Com Cristina Jiménez, de 33 anos, Granada conquistou em 2026 a sua primeira estrela Michelin, na porta dos jardins da Alhambra."
+  },
+  {
+    "id": "crd_noor",
+    "categoryId": "gastronomia",
+    "city": "cordoba",
+    "name": "Noor",
+    "tagline": "Três estrelas Michelin ao sabor de Al-Andalus",
+    "description": "Três estrelas Michelin do chef Paco Morales, no bairro do Cañero, longe do centro turístico. Uma viagem à cozinha de Al-Andalus reconstruída com técnica de vanguarda e ingredientes históricos. Um dos poucos triestrelados da Andaluzia e experiência gastronômica de destino.",
+    "lat": 37.8759,
+    "lng": -4.7548,
+    "durationLabel": "jantar 3h+",
+    "fit": "ANY",
+    "mapQuery": "Noor Restaurant, Calle Pablo Ruiz Picasso 8, Córdoba",
+    "whatToDo": "Reserve o menu-degustação com harmonização; reserve a noite inteira para a experiência completa de imersão andalusí.",
+    "kingTip": "Um dos triestrelados mais difíceis da Espanha e com temporada limitada. RESERVE ASSIM QUE ABRIREM AS DATAS, com vários meses de antecedência.",
+    "priceLevel": "~€250/pessoa (est.)",
+    "hours": { "openDays": "Ter-Sáb", "openHour": "13:30", "closeHour": "22:30", "note": "Temporada limitada; confirme período de abertura e dias" },
+    "links": [
+      { "label": "Guia Michelin", "url": "https://guide.michelin.com/en/andalucia/cordoba/restaurant/noor" }
+    ],
+    "history": "Paco Morales dedicou Noor a recriar a cozinha do califado de Córdoba, subindo de uma a três estrelas até se tornar templo da gastronomia andalusí."
+  },
+  {
+    "id": "crd_choco",
+    "categoryId": "gastronomia",
+    "city": "cordoba",
+    "name": "Choco",
+    "tagline": "A estrela Michelin de bairro de Kisko García",
+    "description": "Uma estrela Michelin do chef Kisko García, no bairro onde cresceu, em Córdoba. Cozinha criativa enraizada no produto do Valle de los Pedroches, em dois menus-degustação que celebram a memória local. Casa próxima e pessoal, contraponto perfeito ao Noor.",
+    "lat": 37.8828,
+    "lng": -4.7647,
+    "durationLabel": "jantar 2-3h",
+    "fit": "ANY",
+    "mapQuery": "Choco Restaurante, Calle Compositor Serrano Lucena 14, Córdoba",
+    "whatToDo": "Escolha entre os menus Barrio Antiguo e Kisko García; peça sugestão de harmonização à casa.",
+    "kingTip": "Estrela consolidada e sala reduzida. Reserve com antecedência; em julho, a demanda de Córdoba se concentra nos poucos estrelados.",
+    "priceLevel": "~€120/pessoa (est.)",
+    "hours": { "openDays": "Ter-Sáb", "openHour": "13:30", "closeHour": "22:30", "note": "Fecha domingo e segunda; confirme" },
+    "links": [
+      { "label": "Guia Michelin", "url": "https://guide.michelin.com/us/en/andalucia/cordoba/restaurant/choco" }
+    ],
+    "history": "Kisko García transformou o restaurante de família num estrelado, mantendo o vínculo com o bairro e o campo cordovês."
+  },
+  {
+    "id": "mlg_los_marinos_jose",
+    "categoryId": "gastronomia",
+    "city": "malaga",
+    "name": "Los Marinos José",
+    "tagline": "O chiringuito premium do espeto e do marisco",
+    "description": "O chiringuito mais celebrado da Costa del Sol, à beira-mar em Fuengirola, frente à praia de Carvajal. Peixe e marisco de lota do dia e o clássico espeto de sardinha assado na barca de lenha, com qualidade de joalheria marinha. O contraponto descontraído — porém premium — aos estrelados.",
+    "lat": 36.5388,
+    "lng": -4.6060,
+    "durationLabel": "almoço 1h30-2h",
+    "fit": "CLEAR_SKY",
+    "mapQuery": "Los Marinos José, Paseo Marítimo Rey de España 161, Fuengirola",
+    "whatToDo": "Peça o espeto de sardinha e deixe o garçom sugerir o marisco fresco do dia; almoço à beira-mar de frente para a praia.",
+    "kingTip": "Espeto de sardinha na brasa é obrigatório. Não estrelado, mas dos mais disputados: reserve com antecedência e prefira o almoço; fecha domingo e segunda.",
+    "priceLevel": "€€€",
+    "hours": { "openDays": "Ter-Sáb", "openHour": "13:00", "closeHour": "22:30", "note": "Fecha domingo e segunda; serve almoço e jantar" },
+    "links": [
+      { "label": "Site oficial e reserva", "url": "https://www.marinosjose.com" },
+      { "label": "Guia Michelin", "url": "https://guide.michelin.com/en/andalucia/fuengirola/restaurant/los-marinos-jose" }
+    ],
+    "history": "Aberto há mais de quarenta anos pelos irmãos Sánchez, passou de humilde chiringuito a referência nacional do peixe fresco e do espeto."
+  }
+]

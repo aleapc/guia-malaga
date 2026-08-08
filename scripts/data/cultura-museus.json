@@ -1,0 +1,320 @@
+[
+  {
+    "id": "mlg_museo_picasso",
+    "categoryId": "cultura",
+    "city": "malaga",
+    "name": "Museo Picasso Málaga",
+    "tagline": "O Picasso essencial no palácio renascentista",
+    "description": "A coleção permanente reúne mais de 200 obras doadas pela família do artista, cobrindo oito décadas de criação. Ocupa o Palacio de Buenavista, joia do século XVI com pátio andaluz e vestígios fenícios no subsolo. É o museu-âncora da cidade que Picasso viu nascer.",
+    "whatToDo": [
+      "Percorra a coleção em ordem cronológica, do cubismo às cerâmicas finais",
+      "Desça à cripta arqueológica com restos fenícios e romanos",
+      "Reserve tempo para a exposição temporária e a loja"
+    ],
+    "kingTip": "Compre ingresso online com hora marcada; entrada gratuita nas últimas duas horas de domingo.",
+    "priceLevel": "~€13 (est.)",
+    "lat": 36.72135,
+    "lng": -4.41895,
+    "durationLabel": "1h30–2h",
+    "fit": "INDOOR",
+    "hours": {
+      "openHour": 10,
+      "closeHour": 19,
+      "note": "Aberto todos os dias; verifique horário estendido no verão."
+    },
+    "mapQuery": "Museo Picasso Málaga, Calle San Agustín 8, Málaga",
+    "history": "A doação de Christine e Bernard Ruiz-Picasso tornou realidade um desejo antigo do próprio artista: ter um museu na sua cidade natal. Inaugurado em 2003, ocupa um palácio que já foi residência dos condes de Buenavista.",
+    "links": [
+      { "label": "Site oficial", "url": "https://www.museopicassomalaga.org/" },
+      { "label": "Ingressos", "url": "https://www.museopicassomalaga.org/en/plan-your-visit/tickets" }
+    ]
+  },
+  {
+    "id": "mlg_casa_natal_picasso",
+    "categoryId": "cultura",
+    "city": "malaga",
+    "name": "Casa Natal de Picasso",
+    "tagline": "Onde o gênio nasceu, na Plaza de la Merced",
+    "description": "A casa onde Pablo Picasso nasceu em 1881 hoje é museu e fundação, com objetos da família, cadernos e obras gráficas do artista. O prédio recria o ambiente doméstico do fim do século XIX. Pequeno e íntimo, complementa a visita ao Museo Picasso.",
+    "whatToDo": [
+      "Veja objetos pessoais da família Ruiz-Picasso",
+      "Aprecie a coleção de gravuras e cerâmicas",
+      "Descanse na arborizada Plaza de la Merced ao sair"
+    ],
+    "kingTip": "Combine com o Museo Picasso no mesmo dia; ficam a cinco minutos a pé.",
+    "priceLevel": "~€4 (est.)",
+    "lat": 36.72555,
+    "lng": -4.41787,
+    "durationLabel": "45min–1h",
+    "fit": "INDOOR",
+    "hours": {
+      "openHour": 9,
+      "closeHour": 20,
+      "note": "Aberto todos os dias; consulte fechamento em feriados."
+    },
+    "mapQuery": "Casa Natal de Picasso, Plaza de la Merced 15, Málaga",
+    "links": [
+      { "label": "Site oficial", "url": "https://fundacionpicasso.malaga.eu/" }
+    ]
+  },
+  {
+    "id": "mlg_carmen_thyssen",
+    "categoryId": "cultura",
+    "city": "malaga",
+    "name": "Museo Carmen Thyssen Málaga",
+    "tagline": "A grande pintura andaluza do século XIX",
+    "description": "Instalado no palacete renascentista de Villalón, reúne a coleção de Carmen Thyssen dedicada à pintura espanhola, com forte presença do costumbrismo andaluz e do paisagismo. Salas luminosas mostram Zuloaga, Sorolla e os mestres românticos. Um mergulho na Andaluzia idealizada dos pintores.",
+    "whatToDo": [
+      "Concentre-se nas salas de pintura andaluza e paisagem",
+      "Visite o pátio e o palacete restaurado",
+      "Confira a mostra temporária, que costuma ser forte"
+    ],
+    "kingTip": "Domingo à tarde a coleção permanente costuma ter entrada gratuita.",
+    "priceLevel": "~€10 (est.)",
+    "lat": 36.72073,
+    "lng": -4.42222,
+    "durationLabel": "1h–1h30",
+    "fit": "INDOOR",
+    "hours": {
+      "openDays": [2, 3, 4, 5, 6, 7],
+      "openHour": 10,
+      "closeHour": 20,
+      "note": "Fecha às segundas."
+    },
+    "mapQuery": "Museo Carmen Thyssen Málaga, Calle Compañía 10, Málaga",
+    "links": [
+      { "label": "Site oficial", "url": "https://www.carmenthyssenmalaga.org/" },
+      { "label": "Ingressos", "url": "https://www.carmenthyssenmalaga.org/en/visit" }
+    ]
+  },
+  {
+    "id": "mlg_centre_pompidou",
+    "categoryId": "cultura",
+    "city": "malaga",
+    "name": "Centre Pompidou Málaga",
+    "tagline": "Arte do século XX sob o cubo colorido",
+    "description": "A primeira sede do Pompidou fora da França, num edifício subterrâneo à beira do porto coroado por 'El Cubo', o cubo de vidro multicolor de Daniel Buren. A seleção semipermanente traz Picasso, Frida Kahlo, Bacon e Magritte, entre outros. O acordo com Málaga foi renovado até 2035.",
+    "whatToDo": [
+      "Percorra a mostra semipermanente de arte moderna e contemporânea",
+      "Fotografe 'El Cubo' de fora, no Muelle Uno",
+      "Aproveite a passagem à beira-mar antes ou depois"
+    ],
+    "kingTip": "Fica no Muelle Uno: encaixe a visita entre o porto e La Malagueta.",
+    "priceLevel": "~€9 (est.)",
+    "lat": 36.71558,
+    "lng": -4.41548,
+    "durationLabel": "1h–1h30",
+    "fit": "INDOOR",
+    "hours": {
+      "openDays": [3, 4, 5, 6, 7, 1],
+      "openHour": 9,
+      "closeHour": 20,
+      "note": "Fecha às terças."
+    },
+    "mapQuery": "Centre Pompidou Málaga, Pasaje Doctor Carrillo Casaux, Muelle Uno, Málaga",
+    "links": [
+      { "label": "Site oficial", "url": "https://centrepompidou-malaga.eu/" },
+      { "label": "Ingressos", "url": "https://centrepompidou-malaga.eu/entradas/" }
+    ]
+  },
+  {
+    "id": "mlg_coleccion_museo_ruso",
+    "categoryId": "cultura",
+    "city": "malaga",
+    "name": "Colección del Museo Ruso",
+    "tagline": "Arte russa na antiga Tabacalera",
+    "description": "Sede do Museo Estatal Ruso de São Petersburgo instalada na monumental Tabacalera de Málaga, com ícones, vanguarda e realismo social russos. Ocupa amplas salas do antigo edifício da fábrica de tabaco. Segue aberto em 2026, com programação temporária que se renova.",
+    "whatToDo": [
+      "Veja a mostra semipermanente de arte russa dos séculos XV ao XX",
+      "Explore a arquitetura industrial restaurada da Tabacalera",
+      "Combine com o Museo Automovilístico, no mesmo complexo"
+    ],
+    "kingTip": "Fica a oeste do centro; venha de táxi ou combine com a Tabacalera inteira.",
+    "priceLevel": "~€8 (est.)",
+    "lat": 36.69048,
+    "lng": -4.44228,
+    "durationLabel": "1h–1h30",
+    "fit": "INDOOR",
+    "hours": {
+      "openDays": [2, 3, 4, 5, 6, 7],
+      "openHour": 9,
+      "closeHour": 20,
+      "note": "Ter–Dom 9h30–20h; fecha às segundas."
+    },
+    "mapQuery": "Colección del Museo Ruso, Avenida Sor Teresa Prat 15, Tabacalera, Málaga",
+    "links": [
+      { "label": "Site oficial", "url": "https://www.coleccionmuseoruso.es/" }
+    ]
+  },
+  {
+    "id": "mlg_cac_malaga",
+    "categoryId": "cultura",
+    "city": "malaga",
+    "name": "CAC Málaga",
+    "tagline": "Arte contemporânea grátis à beira do Guadalmedina",
+    "description": "O Centro de Arte Contemporáneo ocupa o antigo mercado de atacado, um marco racionalista dos anos 1930. Exibe arte internacional das últimas décadas e nomes como Louise Bourgeois, Julian Opie e Art&Language. A entrada é gratuita, o que o torna parada certa nas horas de calor.",
+    "whatToDo": [
+      "Veja a coleção permanente e as mostras temporárias rotativas",
+      "Observe o edifício racionalista em forma de estrela",
+      "Passe pelo Soho e seus murais ao redor"
+    ],
+    "kingTip": "Entrada gratuita; ótimo refúgio climatizado no meio da tarde.",
+    "priceLevel": "Grátis",
+    "lat": 36.71258,
+    "lng": -4.42663,
+    "durationLabel": "1h",
+    "fit": "INDOOR",
+    "hours": {
+      "openDays": [2, 3, 4, 5, 6, 7],
+      "openHour": 9,
+      "closeHour": 20,
+      "note": "Fecha às segundas; horário reduzido no verão à tarde."
+    },
+    "mapQuery": "CAC Málaga, Calle Alemania, Málaga",
+    "links": [
+      { "label": "Site oficial", "url": "https://cacmalaga.eu/" }
+    ]
+  },
+  {
+    "id": "mlg_museo_de_malaga",
+    "categoryId": "cultura",
+    "city": "malaga",
+    "name": "Museo de Málaga",
+    "tagline": "Belas Artes e Arqueologia no Palacio de la Aduana",
+    "description": "O maior museu da Andaluzia reúne mais de 15 mil peças entre belas artes e arqueologia, do mundo fenício e romano à pintura málaga do século XIX. Ocupa o imponente Palacio de la Aduana, aos pés da Alcazaba. As salas são vastas, frescas e pouco lotadas.",
+    "whatToDo": [
+      "Suba à cobertura para ver a Alcazaba e o porto",
+      "Percorra a seção arqueológica e o mosaico romano",
+      "Aprecie a pintura málaga do XIX na pinacoteca"
+    ],
+    "kingTip": "Entrada gratuita para cidadãos da UE; leve passaporte para conferência.",
+    "priceLevel": "~€1,50 (est.); grátis p/ UE",
+    "lat": 36.72033,
+    "lng": -4.41596,
+    "durationLabel": "1h30–2h",
+    "fit": "INDOOR",
+    "hours": {
+      "openDays": [2, 3, 4, 5, 6, 7],
+      "openHour": 9,
+      "closeHour": 21,
+      "note": "Fecha às segundas; horário varia no verão."
+    },
+    "mapQuery": "Museo de Málaga, Palacio de la Aduana, Plaza de la Aduana, Málaga",
+    "links": [
+      { "label": "Site oficial", "url": "https://www.museosdeandalucia.es/web/museodemalaga" }
+    ]
+  },
+  {
+    "id": "mlg_museo_automovilistico_moda",
+    "categoryId": "cultura",
+    "city": "malaga",
+    "name": "Museo Automovilístico y de la Moda",
+    "tagline": "Carros clássicos e alta-costura lado a lado",
+    "description": "Um dos museus mais originais da cidade, cruza cerca de cem automóveis de coleção com peças de alta-costura e obras de arte. Ocupa uma ala restaurada da Tabacalera, com cenografia impecável. Agrada tanto a curiosos de design quanto a apaixonados por carros.",
+    "whatToDo": [
+      "Veja os automóveis art déco e os motores a energia alternativa",
+      "Aprecie os vestidos de grandes casas de moda",
+      "Combine com o Museo Ruso, no mesmo edifício"
+    ],
+    "kingTip": "Fica na Tabacalera, a oeste do centro; reserve táxi para a volta.",
+    "priceLevel": "~€10 (est.)",
+    "lat": 36.69006,
+    "lng": -4.44299,
+    "durationLabel": "1h–1h30",
+    "fit": "INDOOR",
+    "hours": {
+      "openHour": 10,
+      "closeHour": 19,
+      "note": "Aberto todos os dias; confira fechamento sazonal."
+    },
+    "mapQuery": "Museo Automovilístico y de la Moda, Avenida Sor Teresa Prat 15, Málaga",
+    "links": [
+      { "label": "Site oficial", "url": "https://www.museoautomovilmalaga.com/" }
+    ]
+  },
+  {
+    "id": "mlg_museo_del_vino",
+    "categoryId": "cultura",
+    "city": "malaga",
+    "name": "Museo del Vino Málaga",
+    "tagline": "A história dos vinhos da Denominação Málaga",
+    "description": "No palacete de Biedmas, o museu conta a tradição vinícola de Málaga e da Sierras de Málaga por meio de rótulos, cartazes litográficos e utensílios. A visita costuma incluir degustação de dois vinhos da denominação de origem. Cultura e prova numa parada curta e fresca.",
+    "whatToDo": [
+      "Percorra a coleção de cartazes e rótulos históricos",
+      "Faça a degustação de vinhos doces e secos incluída",
+      "Compre garrafas da D.O. na loja"
+    ],
+    "kingTip": "O ingresso já inclui duas taças; ótimo fim de tarde antes das tapas.",
+    "priceLevel": "~€6 (est.), com degustação",
+    "lat": 36.72547,
+    "lng": -4.42675,
+    "durationLabel": "45min–1h",
+    "fit": "INDOOR",
+    "hours": {
+      "openDays": [1, 2, 3, 4, 5],
+      "openHour": 10,
+      "closeHour": 17,
+      "note": "Seg–Sex; sábado só manhã; fecha domingos."
+    },
+    "mapQuery": "Museo del Vino Málaga, Plaza de los Viñeros 1, Málaga",
+    "links": [
+      { "label": "Site oficial", "url": "https://museovinomalaga.com/" }
+    ]
+  },
+  {
+    "id": "rnd_museo_lara",
+    "categoryId": "cultura",
+    "city": "ronda",
+    "name": "Museo Lara",
+    "tagline": "O gabinete de curiosidades de Ronda",
+    "description": "Coleção reunida por Juan Antonio Lara ao longo da vida, num palacete do bairro histórico. Relógios, armas, instrumentos científicos e objetos do cotidiano andaluz enchem as salas. Inclui seções sobre bruxaria e Inquisição no subsolo, curiosas e temáticas.",
+    "whatToDo": [
+      "Veja a coleção de relógios e instrumentos antigos",
+      "Desça às salas de bruxaria e Inquisição",
+      "Aprecie o palacete e o jardim interno"
+    ],
+    "kingTip": "Fica na Calle Armiñán, a caminho do bairro velho; ótimo escape do sol.",
+    "priceLevel": "~€4 (est.)",
+    "lat": 36.74078,
+    "lng": -4.92679,
+    "durationLabel": "45min–1h",
+    "fit": "INDOOR",
+    "hours": {
+      "openHour": 11,
+      "closeHour": 19,
+      "note": "Aberto todos os dias; horário reduzido no inverno."
+    },
+    "mapQuery": "Museo Lara, Calle Armiñán 29, Ronda",
+    "links": [
+      { "label": "Site oficial", "url": "https://www.museolara.org/" }
+    ]
+  },
+  {
+    "id": "rnd_museo_bandolero",
+    "categoryId": "cultura",
+    "city": "ronda",
+    "name": "Museo del Bandolero",
+    "tagline": "A lenda dos bandoleiros da serrania",
+    "description": "Único museu da Espanha dedicado ao bandoleirismo andaluz, o fenômeno romântico dos foras-da-lei da serrania de Ronda no século XIX. Reúne armas, documentos, trajes e histórias de figuras como El Tempranillo. Pequeno, temático e muito ligado à identidade local.",
+    "whatToDo": [
+      "Conheça a história dos bandoleiros mais famosos da serra",
+      "Veja armas, cartazes de recompensa e trajes de época",
+      "Combine com um passeio pelo casco antiguo de Ronda"
+    ],
+    "kingTip": "A poucos passos do Museo Lara; dá para ver os dois na mesma manhã.",
+    "priceLevel": "~€3,75 (est.)",
+    "lat": 36.73953,
+    "lng": -4.92707,
+    "durationLabel": "30–45min",
+    "fit": "INDOOR",
+    "hours": {
+      "openHour": 10,
+      "closeHour": 19,
+      "note": "Aberto todos os dias; confira horário sazonal."
+    },
+    "mapQuery": "Museo del Bandolero, Calle Armiñán 65, Ronda",
+    "links": [
+      { "label": "Site oficial", "url": "https://www.museobandolero.com/" }
+    ]
+  }
+]
