@@ -3208,7 +3208,8 @@ export const extraAttractions: Attraction[] = [
         "url": "https://www.museosdemalaga.com/museos/basilica-santa-maria-de-la-victoria/"
       }
     ],
-    "history": "Erguido a partir de 1487 no acampamento real do cerco a Málaga e reconstruído no século XVII pelos condes de Buenavista, que acrescentaram o camarín e a cripta funerária da família."
+    "history": "Erguido a partir de 1487 no acampamento real do cerco a Málaga e reconstruído no século XVII pelos condes de Buenavista, que acrescentaram o camarín e a cripta funerária da família.",
+    "image": "mlg_basilica_victoria.jpg"
   },
   {
     "id": "mlg_paseo_del_parque",
@@ -3346,7 +3347,8 @@ export const extraAttractions: Attraction[] = [
     ],
     "kingTip": "É um passeio para quem já conhece o essencial e quer a cidade dos malaguenhos; alguns corralones só abrem na Fiesta de los Patios, na primavera. Prefira a manhã e ande com o bom senso de qualquer bairro popular.",
     "priceLevel": "Grátis",
-    "history": "Nascidos como arrabaldes de pescadores e curtidores fora das muralhas, deram à cidade parte de sua tradição flamenca e o fervor da Semana Santa, apesar das demolições do século XX."
+    "history": "Nascidos como arrabaldes de pescadores e curtidores fora das muralhas, deram à cidade parte de sua tradição flamenca e o fervor da Semana Santa, apesar das demolições do século XX.",
+    "image": "mlg_perchel_trinidad.jpg"
   },
   {
     "id": "mrb_mijas_pueblo",
@@ -5198,7 +5200,8 @@ export const extraAttractions: Attraction[] = [
         "url": "https://visita.malaga.eu/en/what-to-see-and-do/culture/historic-monuments/monuments/alcazaba-p103555"
       }
     ],
-    "history": "Erguida a partir de 1057 sobre restos fenícios e romanos, foi residência dos governadores muçulmanos e último reduto na reconquista cristã de 1487."
+    "history": "Erguida a partir de 1057 sobre restos fenícios e romanos, foi residência dos governadores muçulmanos e último reduto na reconquista cristã de 1487.",
+    "image": "mlg_alcazaba.jpg"
   },
   {
     "id": "mlg_gibralfaro",
@@ -5436,7 +5439,8 @@ export const extraAttractions: Attraction[] = [
     ],
     "kingTip": "Suba logo depois de conhecer a Plaza de la Merced, é ali ao lado. Como é bairro residencial e vivo, seja discreto com a câmera e prefira a manhã, quando o sol ainda não castiga as ruas estreitas.",
     "priceLevel": "Grátis",
-    "history": "Bairro histórico de tradição operária e cigana, tornou-se nos anos 2010 um foco de arte urbana reivindicativa contra a especulação imobiliária."
+    "history": "Bairro histórico de tradição operária e cigana, tornou-se nos anos 2010 um foco de arte urbana reivindicativa contra a especulação imobiliária.",
+    "image": "mlg_lagunillas.jpg"
   },
   {
     "id": "mlg_farola_malagueta",
@@ -5533,7 +5537,8 @@ export const extraAttractions: Attraction[] = [
     "windSensitive": true,
     "mapQuery": "Baños del Carmen, Málaga",
     "kingTip": "Chegue no fim da tarde para o sol descendo atrás das palmeiras — é o melhor drink com vista de Málaga, e não custa o preço de um beach club.",
-    "whereToEat": "O próprio restaurante/chiringuito do Balneario, na esplanada sobre as rochas."
+    "whereToEat": "O próprio restaurante/chiringuito do Balneario, na esplanada sobre as rochas.",
+    "image": "mlg_banos_del_carmen.jpg"
   },
   {
     "id": "nrj_playa_burriana",
@@ -5759,7 +5764,8 @@ export const extraAttractions: Attraction[] = [
         "url": "https://antiguacasadeguardia.com"
       }
     ],
-    "history": "Fundada por José de la Guardia em 1840, é a bodega mais antiga de Málaga ligada à Denominação de Origem local."
+    "history": "Fundada por José de la Guardia em 1840, é a bodega mais antiga de Málaga ligada à Denominação de Origem local.",
+    "image": "mlg_antigua_casa_guardia.jpg"
   },
   {
     "id": "mlg_los_patios_de_beatas",
@@ -5991,7 +5997,8 @@ export const extraAttractions: Attraction[] = [
         "label": "Site oficial",
         "url": "https://alfajar.es"
       }
-    ]
+    ],
+    "image": "mlg_alfajar.jpg"
   },
   {
     "id": "mrb_el_corte_ingles_banus",
