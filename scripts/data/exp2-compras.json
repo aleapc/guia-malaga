@@ -1,0 +1,222 @@
+[
+  {
+    "id": "mlg_corte_ingles_centro",
+    "categoryId": "compras",
+    "city": "malaga",
+    "name": "El Corte Inglés Málaga",
+    "tagline": "Grande armazém junto ao centro histórico",
+    "description": "O grande armazém mais emblemático de Málaga ergue-se na Avenida de Andalucía, a poucos passos do centro histórico e do rio Guadalmedina. Reúne sob o mesmo teto moda de marcas nacionais e internacionais, perfumaria, eletrônica, casa e uma extensa seção Gourmet com azeites, vinhos e presuntos andaluzes. Prático para resolver compras variadas em ambiente climatizado e com devolução de IVA para turistas.",
+    "lat": 36.7154,
+    "lng": -4.4283,
+    "durationLabel": "1–2 h",
+    "fit": "INDOOR",
+    "mapQuery": "El Corte Inglés, Avenida de Andalucía 4, Málaga",
+    "whatToDo": "Percorra os andares de moda e desça ao supermercado Gourmet para levar azeite virgem extra, pimentón e vinhos de Málaga.",
+    "kingTip": "Peça o formulário de Tax Free na loja: compras acima de certo valor dão direito a reembolso do IVA no aeroporto antes de voltar ao Brasil.",
+    "priceLevel": "€€€",
+    "hours": {
+      "openDays": "Seg–Sáb",
+      "openHour": "10:00",
+      "closeHour": "22:00",
+      "note": "Aberturas pontuais aos domingos e feriados; supermercado com horário próprio."
+    },
+    "links": [
+      {
+        "label": "Site oficial",
+        "url": "https://www.elcorteingles.es/centroscomerciales/es/eci/centros/centro-comercial-malaga"
+      }
+    ]
+  },
+  {
+    "id": "mlg_la_recova",
+    "categoryId": "compras",
+    "city": "malaga",
+    "name": "La Recova",
+    "tagline": "Artesanato espanhol e café junto a San Juan",
+    "description": "Num beco tranquilo do centro histórico, ao lado da igreja de San Juan, La Recova reúne o melhor do artesanato espanhol feito à mão longe do circuito de souvenires. Cerâmica tradicional, esparto, cestaria, jarapas, bijuteria, vidros e cosméticos convivem com um cantinho de café e produtos gastronômicos malaguenhos. Um lugar de alma para levar uma peça com história.",
+    "lat": 36.7196,
+    "lng": -4.4219,
+    "durationLabel": "30–45 min",
+    "fit": "INDOOR",
+    "mapQuery": "La Recova artesanía, Pasaje Niño de Guevara, Málaga",
+    "whatToDo": "Garimpe cerâmica de pequenas olarias e têxteis tipo jarapa, e faça uma pausa no café interno entre as compras.",
+    "kingTip": "Fica escondida numa travessa junto à igreja de San Juan; entre mesmo que a fachada pareça discreta, o interior surpreende.",
+    "priceLevel": "€€"
+  },
+  {
+    "id": "mlg_pasaje_chinitas",
+    "categoryId": "compras",
+    "city": "malaga",
+    "name": "Pasaje de Chinitas",
+    "tagline": "Passagem histórica de lojas junto à praça",
+    "description": "Esta estreita passagem em forma de cruz nasce na Plaza de la Constitución e é um dos recantos mais boêmios e queridos do centro de Málaga. Erguida no século XIX sobre um antigo convento, ficou famosa pelo Café de Chinitas, imortalizado num poema de Federico García Lorca. Hoje guarda pequenas lojas, ateliês e esplanadas num pátio central cheio de duende.",
+    "lat": 36.7202,
+    "lng": -4.4206,
+    "durationLabel": "20–30 min",
+    "fit": "ANY",
+    "mapQuery": "Pasaje de Chinitas, Málaga",
+    "whatToDo": "Passeie entre as lojinhas e ateliês da passagem e procure o painel de azulejos que recorda o verso de Lorca sobre o Café de Chinitas.",
+    "kingTip": "Abre direto na Plaza de la Constitución; combine com a Calle Larios e o Pasaje continua até a Calle Fresca, poucos metros à frente.",
+    "priceLevel": "€€"
+  },
+  {
+    "id": "mlg_mercadillo_cortijo_torres",
+    "categoryId": "compras",
+    "city": "malaga",
+    "name": "Mercadillo de Cortijo de Torres",
+    "tagline": "Rastro dominical com 300+ bancas",
+    "description": "O maior mercadillo ambulante de Málaga arma-se todos os domingos no recinto ferial de Cortijo de Torres, com mais de 300 bancas divididas em duas zonas. Uma reúne roupa, calçado, artesanato, cerâmica e produtos frescos novos; a outra é um autêntico rastro de antiguidades, moedas, discos e peças de coleção. Manhã ideal para garimpar preços e sentir o pulso popular da cidade.",
+    "lat": 36.6866,
+    "lng": -4.4577,
+    "durationLabel": "1–2 h",
+    "fit": "ANY",
+    "mapQuery": "Recinto Ferial Cortijo de Torres, Málaga",
+    "whatToDo": "Reserve tempo para a zona de antiguidades e coleção, onde aparecem azulejos antigos, moedas e discos; pechinche com respeito, faz parte do jogo.",
+    "kingTip": "Só funciona aos domingos de manhã, das 9h às 15h; chegue cedo, leve dinheiro em espécie e calce sapato confortável para o chão de terra.",
+    "priceLevel": "€",
+    "hours": {
+      "openDays": "Domingo",
+      "openHour": "09:00",
+      "closeHour": "15:00",
+      "note": "Apenas aos domingos; encerra ao início da tarde."
+    }
+  },
+  {
+    "id": "mrb_mercadillo_fuengirola",
+    "categoryId": "compras",
+    "city": "marbella",
+    "name": "Mercadillo de Fuengirola",
+    "tagline": "Mercadillo de terça, o maior da costa",
+    "description": "Todas as terças-feiras o recinto ferial de Los Boliches, em Fuengirola, recebe um dos maiores mercadillos ao ar livre da Costa del Sol, com quase 500 bancas. Roupa, calçado, complementos, couro, têxteis de casa, ervas e alimentos espalham-se numa maré de cores e sotaques internacionais. Parada obrigatória para quem gosta de garimpo e preços de rua na costa central.",
+    "lat": 36.5352,
+    "lng": -4.6167,
+    "durationLabel": "1–1,5 h",
+    "fit": "ANY",
+    "mapQuery": "Recinto Ferial de Fuengirola, Avenida Jesús Cautivo, Fuengirola",
+    "whatToDo": "Procure as bancas de couro e de têxteis e negocie; ao lado costuma haver postos de azeitonas, frutos secos e ervas para prova.",
+    "kingTip": "Só às terças, das 9h às 14h; vá de trem de cercanías (linha C1, estação Los Boliches) para fugir do estacionamento lotado.",
+    "priceLevel": "€",
+    "hours": {
+      "openDays": "Terça",
+      "openHour": "09:00",
+      "closeHour": "14:00",
+      "note": "Semanal às terças, exceto Natal, Ano Novo e Reis."
+    }
+  },
+  {
+    "id": "mlg_designer_outlet_plaza_mayor",
+    "categoryId": "compras",
+    "city": "malaga",
+    "name": "McArthurGlen Designer Outlet Málaga",
+    "tagline": "Outlet de grifes com até 70% off",
+    "description": "Junto ao complexo Plaza Mayor, a caminho do aeroporto, este outlet a céu aberto reúne mais de cem marcas com descontos permanentes que chegam a 70%. Adidas, Nike, Tommy Hilfiger, Hugo Boss, Lacoste e Polo Ralph Lauren dividem ruas ao ar livre com zona de restauração e área infantil. A melhor opção da região para moda de marca a preço de ponta de estoque.",
+    "lat": 36.6716,
+    "lng": -4.4995,
+    "durationLabel": "1,5–2,5 h",
+    "fit": "ANY",
+    "mapQuery": "McArthurGlen Designer Outlet Málaga, Plaza Mayor, Málaga",
+    "whatToDo": "Circule pelas lojas de esporte e moda internacional comparando descontos; muitas marcas somam Tax Free ao preço já rebaixado.",
+    "kingTip": "Fica a três paradas de trem do centro (estação Plaza Mayor, linha C1); combine com o vizinho centro comercial Plaza Mayor no mesmo passeio.",
+    "priceLevel": "€€",
+    "hours": {
+      "openDays": "Seg–Sáb",
+      "openHour": "10:00",
+      "closeHour": "22:00",
+      "note": "Abre em domingos e feriados selecionados; confirme no site."
+    },
+    "links": [
+      {
+        "label": "Site oficial",
+        "url": "https://www.mcarthurglen.com/en/outlets/es/designer-outlet-malaga/"
+      }
+    ]
+  },
+  {
+    "id": "mrb_puerto_marina_benalmadena",
+    "categoryId": "compras",
+    "city": "marbella",
+    "name": "Puerto Marina de Benalmádena",
+    "tagline": "Compras e lojas na marina premiada",
+    "description": "Eleita várias vezes a melhor marina do mundo, o Puerto Marina de Benalmádena mistura arquitetura de ilhas artificiais, iates e uma animada zona comercial no Dique de Levante. Entre lojas de moda, souvenires, complementos e supermercados, aos sábados monta-se o Marina Market, com mais de sessenta bancas de artesanato, antiguidades e gourmet. Passeio de compras com vista para o mar.",
+    "lat": 36.5955,
+    "lng": -4.5165,
+    "durationLabel": "1–1,5 h",
+    "fit": "ANY",
+    "mapQuery": "Puerto Marina, Benalmádena",
+    "whatToDo": "Percorra as lojas do Dique de Levante e, se for sábado, garimpe o Marina Market de artesanato e antiguidades entre 10h e 16h.",
+    "kingTip": "Aos sábados vale o Marina Market; nas outras noites o porto é ponto de fim de tarde, ótimo para souvenires depois da praia.",
+    "priceLevel": "€€",
+    "links": [
+      {
+        "label": "Puerto Marina Shopping",
+        "url": "https://puertomarinashopping.es/en/"
+      }
+    ]
+  },
+  {
+    "id": "mrb_calle_san_miguel_torremolinos",
+    "categoryId": "compras",
+    "city": "marbella",
+    "name": "Calle San Miguel (Torremolinos)",
+    "tagline": "Rua-comércio peatonal de Torremolinos",
+    "description": "A artéria comercial de Torremolinos é uma das ruas pedonais mais movimentadas da Europa, com meio quilômetro de lojas ininterruptas. Ao longo do calçadão convivem souvenires, moda, joalherias, perfumarias e padarias típicas, entre esplanadas e o burburinho de tantos idiomas. No fim da rua espreitam a torre nazari e a igreja de San Miguel, do século XVIII.",
+    "lat": 36.6215,
+    "lng": -4.4997,
+    "durationLabel": "45 min–1,5 h",
+    "fit": "ANY",
+    "mapQuery": "Calle San Miguel, Torremolinos",
+    "whatToDo": "Desça a rua toda comparando preços de complementos e perfumes, e ramifique pelas travessas Cauce e Casablanca para lojas menos turísticas.",
+    "kingTip": "Ligue a compra ao Balcón de Europa no topo e à descida da Cuesta del Tajo rumo à praia da Carihuela, no mesmo eixo pedonal.",
+    "priceLevel": "€€"
+  },
+  {
+    "id": "mrb_miramar_fuengirola",
+    "categoryId": "compras",
+    "city": "marbella",
+    "name": "Centro Comercial Miramar",
+    "tagline": "Shopping coberto à beira-mar",
+    "description": "À entrada de Fuengirola, junto à saída da autovia, o Miramar é o grande centro comercial coberto da zona sul da Costa del Sol. Reúne moda, esporte, tecnologia, hipermercado, cinema e uma ampla praça de alimentação em ambiente climatizado. Refúgio prático em dias de calor forte ou de chuva, com estacionamento amplo e gratuito.",
+    "lat": 36.5410,
+    "lng": -4.6250,
+    "durationLabel": "1–2 h",
+    "fit": "INDOOR",
+    "mapQuery": "Centro Comercial Miramar, Fuengirola",
+    "whatToDo": "Faça as compras variadas de moda e esporte e aproveite o cinema ou a praça de alimentação nas horas de sol mais forte.",
+    "kingTip": "Ao contrário dos mercados de rua, abre também aos domingos e feriados na temporada alta; ideal para um dia sem praia.",
+    "priceLevel": "€€",
+    "hours": {
+      "openDays": "Seg–Dom",
+      "openHour": "10:00",
+      "closeHour": "22:00",
+      "note": "Hipermercado e restauração com horários próprios."
+    },
+    "links": [
+      {
+        "label": "Site oficial",
+        "url": "https://www.ccmiramar.es/"
+      }
+    ]
+  },
+  {
+    "id": "ant_dulces_belen",
+    "categoryId": "compras",
+    "city": "antequera",
+    "name": "Dulces Conventuales de Belén",
+    "tagline": "Doçaria conventual no torno das clarissas",
+    "description": "No convento de Belén, as monjas clarissas mantêm viva a doçaria conventual de Antequera, vendida pelo tradicional torno giratório à esquerda da fachada da igreja. É o lugar mais célebre para o bienmesabe antequerano, além de mantecados, polvorones, roscos de aceite, magdalenas e o bolo de Santa Clara. Uma compra doce e discreta, feita sem ver quem atende, como manda a clausura.",
+    "lat": 37.0188,
+    "lng": -4.5557,
+    "durationLabel": "15–30 min",
+    "fit": "ANY",
+    "mapQuery": "Convento de Belén, Calle Belén, Antequera",
+    "whatToDo": "Toque a campainha do torno e peça o bienmesabe, especialidade da casa; no fim do ano acrescente mantecados e polvorones caseiros.",
+    "kingTip": "Compra-se pelo torno giratório, sem contato direto com as freiras; leve trocado e evite o horário da sesta, quando fecha.",
+    "priceLevel": "€",
+    "hours": {
+      "openDays": "Seg–Sex",
+      "openHour": "09:30",
+      "closeHour": "18:30",
+      "note": "Pausa aproximada das 13h30 às 15h30; horário ampliado no Natal."
+    }
+  }
+]

@@ -1,5 +1,5 @@
 // AUTO-GERADO por scripts/build-extra.mjs — não editar à mão.
-// 269 locais (pesquisa por zona). Fonte: scripts/data/*.json
+// 385 locais (pesquisa por zona). Fonte: scripts/data/*.json
 import type { Attraction, LinkRef } from './content';
 
 export const extraAttractions: Attraction[] = [
@@ -68,7 +68,8 @@ export const extraAttractions: Attraction[] = [
         "label": "Site oficial",
         "url": "https://fundacionpicasso.malaga.eu/"
       }
-    ]
+    ],
+    "image": "mlg_casa_natal_picasso.jpg"
   },
   {
     "id": "mlg_carmen_thyssen",
@@ -232,7 +233,8 @@ export const extraAttractions: Attraction[] = [
         "label": "Site oficial",
         "url": "https://cacmalaga.eu/"
       }
-    ]
+    ],
+    "image": "mlg_cac_malaga.jpg"
   },
   {
     "id": "mlg_museo_de_malaga",
@@ -1952,7 +1954,8 @@ export const extraAttractions: Attraction[] = [
         "label": "Mundo Marino",
         "url": "https://mundomarino.es"
       }
-    ]
+    ],
+    "image": "mlg_catamaran_delfines.jpg"
   },
   {
     "id": "ant_fuente_de_piedra",
@@ -3771,6 +3774,2745 @@ export const extraAttractions: Attraction[] = [
     "history": "De nome derivado do árabe 'Montexaquez' (monte perdido), conserva o traçado andalusí e foi doado após a Reconquista aos senhores de Benaoján."
   },
   {
+    "id": "mlg_syra_coffee",
+    "categoryId": "cafe",
+    "city": "malaga",
+    "name": "Syra Coffee",
+    "tagline": "Torra catalã de especialidade na Calle Mártires",
+    "description": "Filial malaguenha da microtorrefação barcelonesa Syra, uma barra minúscula e clean na Calle Mártires, a poucos passos da Plaza de la Constitución. Trabalha só com café de especialidade ético e sustentável, com espresso preciso e filtrados que trocam de origem a cada lote. Abre cedo, ideal para o primeiro café antes de o centro acordar.",
+    "lat": 36.72192,
+    "lng": -4.42294,
+    "durationLabel": "15–30 min",
+    "fit": "ANY",
+    "mapQuery": "Syra Coffee, Calle Mártires 13, Málaga",
+    "whatToDo": "Peça um cortado ou um filtrado do lote do dia na barra e leve para caminhar até a Plaza de la Constitución.",
+    "kingTip": "Abre às 8h, quando quase tudo no centro ainda está fechado; é a melhor aposta para café de especialidade logo cedo.",
+    "priceLevel": "€€",
+    "hours": {
+      "openDays": "Todos os dias",
+      "openHour": "08:00",
+      "closeHour": "19:00",
+      "note": "Espaço pequeno, voltado sobretudo ao café para viagem."
+    },
+    "links": [
+      {
+        "label": "Site oficial",
+        "url": "https://syra.coffee"
+      }
+    ]
+  },
+  {
+    "id": "mlg_cafe_con_libros",
+    "categoryId": "cafe",
+    "city": "malaga",
+    "name": "Café con Libros",
+    "tagline": "Café literário e boêmio na Plaza de la Merced",
+    "description": "Café histórico e bohemio na Plaza de la Merced, aberto desde 1998 e tomado por estantes de livros que convidam a ficar. Serve cafés, sucos, sanduíches, saladas, bolos e crepes num ambiente familiar, com música ao vivo, micro-teatro e exposições ao longo da semana. Uma parada tranquila para ler sem pressa a poucos metros da casa natal de Picasso.",
+    "lat": 36.72364,
+    "lng": -4.4171,
+    "durationLabel": "30–45 min",
+    "fit": "ANY",
+    "mapQuery": "Café con Libros, Plaza de la Merced 19, Málaga",
+    "whatToDo": "Pegue um livro da estante, peça um café com um pedaço de bolo caseiro e sente-se na esplanada de frente para a praça.",
+    "kingTip": "Confira a programação: em muitas noites há música ao vivo ou micro-teatro no salão interno.",
+    "priceLevel": "€€"
+  },
+  {
+    "id": "mlg_recyclo_bike_cafe",
+    "categoryId": "cafe",
+    "city": "malaga",
+    "name": "Recyclo Bike Café",
+    "tagline": "Café, oficina e aluguel de bikes num só lugar",
+    "description": "Café-oficina descontraído na Plaza Enrique García-Herrera, que junta cafeteria, loja e taller de bicicletas no mesmo espaço. Serve cafés da manhã, almoços leves, café e bebidas num ambiente descolado e cheio de bikes penduradas. Ponto natural para quem quer alugar uma bicicleta e explorar Málaga sobre duas rodas.",
+    "lat": 36.71979,
+    "lng": -4.42436,
+    "durationLabel": "30–45 min",
+    "fit": "ANY",
+    "mapQuery": "Recyclo Bike Café, Plaza Enrique García-Herrera 16, Málaga",
+    "whatToDo": "Tome um café da manhã na esplanada e aproveite para alugar uma bike para pedalar até a praia da Malagueta.",
+    "kingTip": "Fecha aos domingos e cedo aos sábados; para juntar café e aluguel de bike, vá num dia de semana pela manhã.",
+    "priceLevel": "€€",
+    "hours": {
+      "openDays": "Segunda a sábado",
+      "openHour": "09:00",
+      "closeHour": "17:00",
+      "note": "Sábado até 14h; fecha aos domingos."
+    },
+    "links": [
+      {
+        "label": "Site oficial",
+        "url": "https://www.recyclobike.com"
+      }
+    ]
+  },
+  {
+    "id": "mlg_la_bella_julieta",
+    "categoryId": "cafe",
+    "city": "malaga",
+    "name": "La Bella Julieta",
+    "tagline": "Brunch criativo e fotogênico na Puerta del Mar",
+    "description": "Cafeteria chique e moderna na Calle Puerta del Mar, popular pelos cafés da manhã e brunches caprichados e muito instagramáveis. Cardápio variado com pan con tomate, waffles, bolos caseiros, smoothie bowls e boas opções veganas. Ambiente jovem e descontraído no coração do centro histórico.",
+    "lat": 36.71794,
+    "lng": -4.42286,
+    "durationLabel": "45 min–1 h",
+    "fit": "ANY",
+    "mapQuery": "La Bella Julieta, Calle Puerta del Mar 20, Málaga",
+    "whatToDo": "Peça um smoothie bowl ou um waffle com um café especial e aproveite a decoração colorida para as fotos.",
+    "kingTip": "Tem várias unidades pela cidade; a da Puerta del Mar é a mais central para juntar com o Mercado de Atarazanas.",
+    "priceLevel": "€€"
+  },
+  {
+    "id": "mlg_freskitto",
+    "categoryId": "cafe",
+    "city": "malaga",
+    "name": "Heladería Freskitto",
+    "tagline": "Sorvete artesanal desde 1999, ao lado do Picasso",
+    "description": "Heladería artesanal fundada em Málaga em 1999 pelo maestro heladero José Romero, com uma loja na Calle Granada, pertíssimo do Museu Picasso. Produz o sorvete diariamente no próprio obrador, com ingredientes naturais e sem aditivos. Parada certeira e refrescante entre uma visita e outra pelo centro histórico.",
+    "lat": 36.72199,
+    "lng": -4.41806,
+    "durationLabel": "15–30 min",
+    "fit": "ANY",
+    "mapQuery": "Heladería Freskitto, Calle Granada 55, Málaga",
+    "whatToDo": "Escolha um creme e um sorbetto de fruta da estação e coma a caminho do Museu Picasso ou da catedral.",
+    "kingTip": "Fica na Calle Granada, rota natural entre a catedral e a Plaza de la Merced; ótimo para o calor de julho.",
+    "priceLevel": "€",
+    "links": [
+      {
+        "label": "Site oficial",
+        "url": "https://www.heladeriafreskitto.com"
+      }
+    ]
+  },
+  {
+    "id": "grn_cafeteria_lisboa",
+    "categoryId": "cafe",
+    "city": "granada",
+    "name": "Cafetería Lisboa",
+    "tagline": "Café clássico com torra própria junto à Plaza Nueva",
+    "description": "Cafeteria clássica de Granada na esquina da Calle Reyes Católicos com a Plaza Nueva, com torrefação própria de café 100% arábica. Serve cafés da manhã, churros e um enxuto cardápio de almoço num salão sempre movimentado. Localização imbatível para começar o dia antes de subir ao Albaicín ou à Alhambra.",
+    "lat": 37.1764,
+    "lng": -3.5972,
+    "durationLabel": "30–45 min",
+    "fit": "ANY",
+    "mapQuery": "Cafetería Lisboa, Calle Reyes Católicos, Plaza Nueva, Granada",
+    "whatToDo": "Peça churros com um café da casa e tome numa das mesas de frente para a Plaza Nueva.",
+    "kingTip": "Fica no ponto de partida das subidas ao Albaicín e à Alhambra; ideal para o café da manhã antes da caminhada.",
+    "priceLevel": "€€"
+  },
+  {
+    "id": "grn_cafe_futbol",
+    "categoryId": "cafe",
+    "city": "granada",
+    "name": "Café Fútbol",
+    "tagline": "Churros com chocolate na Plaza Mariana Pineda, desde 1903",
+    "description": "Café emblemático de Granada aberto em 1903 na Plaza Mariana Pineda, hoje na quarta geração da mesma família. Referência absoluta em churros e porras com chocolate espesso e no leite espumoso da casa, servidos numa ampla esplanada. Instituição centenária para o clássico café da manhã doce granadino.",
+    "lat": 37.17201,
+    "lng": -3.59679,
+    "durationLabel": "30–45 min",
+    "fit": "ANY",
+    "mapQuery": "Café Fútbol, Plaza de Mariana Pineda 6, Granada",
+    "whatToDo": "Sente-se na esplanada da praça e peça churros ou porras com uma xícara de chocolate quente para mergulhar.",
+    "kingTip": "O chocolate com churros sai na parte da manhã e de novo à noite; à tarde nem sempre está disponível.",
+    "priceLevel": "€€",
+    "hours": {
+      "openDays": "Todos os dias",
+      "openHour": "08:00",
+      "closeHour": "00:00",
+      "note": "Churros com chocolate servidos por volta de 6h–13h30 e 18h–00h."
+    },
+    "links": [
+      {
+        "label": "Site oficial",
+        "url": "https://cafefutbol.com"
+      }
+    ],
+    "history": "Fundado em 1903 por D. Antonio Suárez Martín, é um dos cafés mais antigos da Espanha, mantido por quatro gerações da mesma família."
+  },
+  {
+    "id": "grn_la_finca_coffee",
+    "categoryId": "cafe",
+    "city": "granada",
+    "name": "La Finca Coffee",
+    "tagline": "Microtorrefação de especialidade no centro",
+    "description": "Microtorrefação de café de especialidade com casas no centro de Granada, referência para quem busca grão bem tostado e ambiente acolhedor. Trabalha só com especialidade e acompanha o café com bolos e folhados frescos, como o croissant de pistache e o danish de cheesecake. Parada moderna e tranquila a poucos passos da catedral.",
+    "lat": 37.17621,
+    "lng": -3.60014,
+    "durationLabel": "20–40 min",
+    "fit": "ANY",
+    "mapQuery": "La Finca Coffee, Calle Colegio Catalino 3, Granada",
+    "whatToDo": "Prove um filtrado da torra da casa com um croissant de pistache e observe o vaivém do centro.",
+    "kingTip": "Eles torram o próprio café; pergunte pela origem em destaque e leve um pacote de grãos como lembrança.",
+    "priceLevel": "€€",
+    "links": [
+      {
+        "label": "Site oficial",
+        "url": "https://lafincaroaster.com"
+      }
+    ]
+  },
+  {
+    "id": "rnd_teteria_al_zahra",
+    "categoryId": "cafe",
+    "city": "ronda",
+    "name": "Tetería Al-Zahra",
+    "tagline": "Chás, doces árabes e crepes em clima andalusí",
+    "description": "Tetería de charme na Calle las Tiendas, no centro histórico de Ronda, dedicada ao mundo do chá em puro estilo árabe. Longa carta de infusões, batidos e sucos naturais, além de pastelaria árabe e crepes, num ambiente de almofadas, tapetes e luz baixa. Refúgio aconchegante para uma pausa diferente entre os mirantes da cidade.",
+    "lat": 36.74232,
+    "lng": -5.16446,
+    "durationLabel": "30–45 min",
+    "fit": "ANY",
+    "mapQuery": "Tetería Al-Zahra, Calle las Tiendas 19, Ronda",
+    "whatToDo": "Escolha um chá aromático da carta com um doce árabe ou um crepe e relaxe no ambiente com almofadas.",
+    "kingTip": "É uma ótima pausa à sombra no calor de julho, quando os mirantes ao sol de Ronda ficam intensos.",
+    "priceLevel": "€€"
+  },
+  {
+    "id": "mrb_gioelia_fuengirola",
+    "categoryId": "cafe",
+    "city": "marbella",
+    "name": "GIOELIA Cremeria",
+    "tagline": "Gelato italiano à beira-mar em Los Boliches",
+    "description": "Cremeria de gelato artesanal de estilo italiano no Paseo Marítimo Rey de España, no trecho de Los Boliches, em Fuengirola. Uma das heladerías mais bem avaliadas da Costa del Sol central, com texturas cremosas e sabores feitos em pequenas fornadas. Parada perfeita para um gelato de frente para o mar num passeio pela praia.",
+    "lat": 36.538,
+    "lng": -4.6095,
+    "durationLabel": "15–30 min",
+    "fit": "ANY",
+    "mapQuery": "GIOELIA Cremeria, Paseo Marítimo Rey de España 62, Fuengirola",
+    "whatToDo": "Peça uma casquinha com dois sabores e coma caminhando pelo paseo marítimo de Los Boliches à beira-mar.",
+    "kingTip": "Fica no calçadão de Los Boliches; combine com um mergulho na praia e o pôr do sol sobre o mar.",
+    "priceLevel": "€€",
+    "links": [
+      {
+        "label": "Site oficial",
+        "url": "https://gioelia.com"
+      }
+    ]
+  },
+  {
+    "id": "mrb_darbini_torremolinos",
+    "categoryId": "cafe",
+    "city": "marbella",
+    "name": "Heladería D'Arbini",
+    "tagline": "Sorvete 100% artesanal na praia da Carihuela",
+    "description": "Heladería 100% artesanal no paseo marítimo da Carihuela, o antigo bairro de pescadores de Torremolinos. Uma das mais bem avaliadas da cidade, com sorvete cremoso feito no obrador e opções de tortas geladas. Ótimo fecho doce depois de um dia de praia ou de um passeio pelas ruelas caiadas da Carihuela.",
+    "lat": 36.6072,
+    "lng": -4.5049,
+    "durationLabel": "15–30 min",
+    "fit": "ANY",
+    "mapQuery": "Heladería D'Arbini, Paseo Marítimo La Carihuela 24, Torremolinos",
+    "whatToDo": "Escolha um creme e um sorbetto e coma no calçadão da Carihuela, de frente para o mar.",
+    "kingTip": "A Carihuela é o trecho mais gostoso de Torremolinos para caminhar à beira-mar; deixe o gelato para o entardecer.",
+    "priceLevel": "€€"
+  },
+  {
+    "id": "mlg_corte_ingles_centro",
+    "categoryId": "compras",
+    "city": "malaga",
+    "name": "El Corte Inglés Málaga",
+    "tagline": "Grande armazém junto ao centro histórico",
+    "description": "O grande armazém mais emblemático de Málaga ergue-se na Avenida de Andalucía, a poucos passos do centro histórico e do rio Guadalmedina. Reúne sob o mesmo teto moda de marcas nacionais e internacionais, perfumaria, eletrônica, casa e uma extensa seção Gourmet com azeites, vinhos e presuntos andaluzes. Prático para resolver compras variadas em ambiente climatizado e com devolução de IVA para turistas.",
+    "lat": 36.7154,
+    "lng": -4.4283,
+    "durationLabel": "1–2 h",
+    "fit": "INDOOR",
+    "mapQuery": "El Corte Inglés, Avenida de Andalucía 4, Málaga",
+    "whatToDo": "Percorra os andares de moda e desça ao supermercado Gourmet para levar azeite virgem extra, pimentón e vinhos de Málaga.",
+    "kingTip": "Peça o formulário de Tax Free na loja: compras acima de certo valor dão direito a reembolso do IVA no aeroporto antes de voltar ao Brasil.",
+    "priceLevel": "€€€",
+    "hours": {
+      "openDays": "Seg–Sáb",
+      "openHour": "10:00",
+      "closeHour": "22:00",
+      "note": "Aberturas pontuais aos domingos e feriados; supermercado com horário próprio."
+    },
+    "links": [
+      {
+        "label": "Site oficial",
+        "url": "https://www.elcorteingles.es/centroscomerciales/es/eci/centros/centro-comercial-malaga"
+      }
+    ]
+  },
+  {
+    "id": "mlg_la_recova",
+    "categoryId": "compras",
+    "city": "malaga",
+    "name": "La Recova",
+    "tagline": "Artesanato espanhol e café junto a San Juan",
+    "description": "Num beco tranquilo do centro histórico, ao lado da igreja de San Juan, La Recova reúne o melhor do artesanato espanhol feito à mão longe do circuito de souvenires. Cerâmica tradicional, esparto, cestaria, jarapas, bijuteria, vidros e cosméticos convivem com um cantinho de café e produtos gastronômicos malaguenhos. Um lugar de alma para levar uma peça com história.",
+    "lat": 36.7196,
+    "lng": -4.4219,
+    "durationLabel": "30–45 min",
+    "fit": "INDOOR",
+    "mapQuery": "La Recova artesanía, Pasaje Niño de Guevara, Málaga",
+    "whatToDo": "Garimpe cerâmica de pequenas olarias e têxteis tipo jarapa, e faça uma pausa no café interno entre as compras.",
+    "kingTip": "Fica escondida numa travessa junto à igreja de San Juan; entre mesmo que a fachada pareça discreta, o interior surpreende.",
+    "priceLevel": "€€"
+  },
+  {
+    "id": "mlg_pasaje_chinitas",
+    "categoryId": "compras",
+    "city": "malaga",
+    "name": "Pasaje de Chinitas",
+    "tagline": "Passagem histórica de lojas junto à praça",
+    "description": "Esta estreita passagem em forma de cruz nasce na Plaza de la Constitución e é um dos recantos mais boêmios e queridos do centro de Málaga. Erguida no século XIX sobre um antigo convento, ficou famosa pelo Café de Chinitas, imortalizado num poema de Federico García Lorca. Hoje guarda pequenas lojas, ateliês e esplanadas num pátio central cheio de duende.",
+    "lat": 36.7202,
+    "lng": -4.4206,
+    "durationLabel": "20–30 min",
+    "fit": "ANY",
+    "mapQuery": "Pasaje de Chinitas, Málaga",
+    "whatToDo": "Passeie entre as lojinhas e ateliês da passagem e procure o painel de azulejos que recorda o verso de Lorca sobre o Café de Chinitas.",
+    "kingTip": "Abre direto na Plaza de la Constitución; combine com a Calle Larios e o Pasaje continua até a Calle Fresca, poucos metros à frente.",
+    "priceLevel": "€€"
+  },
+  {
+    "id": "mlg_mercadillo_cortijo_torres",
+    "categoryId": "compras",
+    "city": "malaga",
+    "name": "Mercadillo de Cortijo de Torres",
+    "tagline": "Rastro dominical com 300+ bancas",
+    "description": "O maior mercadillo ambulante de Málaga arma-se todos os domingos no recinto ferial de Cortijo de Torres, com mais de 300 bancas divididas em duas zonas. Uma reúne roupa, calçado, artesanato, cerâmica e produtos frescos novos; a outra é um autêntico rastro de antiguidades, moedas, discos e peças de coleção. Manhã ideal para garimpar preços e sentir o pulso popular da cidade.",
+    "lat": 36.6866,
+    "lng": -4.4577,
+    "durationLabel": "1–2 h",
+    "fit": "ANY",
+    "mapQuery": "Recinto Ferial Cortijo de Torres, Málaga",
+    "whatToDo": "Reserve tempo para a zona de antiguidades e coleção, onde aparecem azulejos antigos, moedas e discos; pechinche com respeito, faz parte do jogo.",
+    "kingTip": "Só funciona aos domingos de manhã, das 9h às 15h; chegue cedo, leve dinheiro em espécie e calce sapato confortável para o chão de terra.",
+    "priceLevel": "€",
+    "hours": {
+      "openDays": "Domingo",
+      "openHour": "09:00",
+      "closeHour": "15:00",
+      "note": "Apenas aos domingos; encerra ao início da tarde."
+    }
+  },
+  {
+    "id": "mrb_mercadillo_fuengirola",
+    "categoryId": "compras",
+    "city": "marbella",
+    "name": "Mercadillo de Fuengirola",
+    "tagline": "Mercadillo de terça, o maior da costa",
+    "description": "Todas as terças-feiras o recinto ferial de Los Boliches, em Fuengirola, recebe um dos maiores mercadillos ao ar livre da Costa del Sol, com quase 500 bancas. Roupa, calçado, complementos, couro, têxteis de casa, ervas e alimentos espalham-se numa maré de cores e sotaques internacionais. Parada obrigatória para quem gosta de garimpo e preços de rua na costa central.",
+    "lat": 36.5352,
+    "lng": -4.6167,
+    "durationLabel": "1–1,5 h",
+    "fit": "ANY",
+    "mapQuery": "Recinto Ferial de Fuengirola, Avenida Jesús Cautivo, Fuengirola",
+    "whatToDo": "Procure as bancas de couro e de têxteis e negocie; ao lado costuma haver postos de azeitonas, frutos secos e ervas para prova.",
+    "kingTip": "Só às terças, das 9h às 14h; vá de trem de cercanías (linha C1, estação Los Boliches) para fugir do estacionamento lotado.",
+    "priceLevel": "€",
+    "hours": {
+      "openDays": "Terça",
+      "openHour": "09:00",
+      "closeHour": "14:00",
+      "note": "Semanal às terças, exceto Natal, Ano Novo e Reis."
+    }
+  },
+  {
+    "id": "mlg_designer_outlet_plaza_mayor",
+    "categoryId": "compras",
+    "city": "malaga",
+    "name": "McArthurGlen Designer Outlet Málaga",
+    "tagline": "Outlet de grifes com até 70% off",
+    "description": "Junto ao complexo Plaza Mayor, a caminho do aeroporto, este outlet a céu aberto reúne mais de cem marcas com descontos permanentes que chegam a 70%. Adidas, Nike, Tommy Hilfiger, Hugo Boss, Lacoste e Polo Ralph Lauren dividem ruas ao ar livre com zona de restauração e área infantil. A melhor opção da região para moda de marca a preço de ponta de estoque.",
+    "lat": 36.6716,
+    "lng": -4.4995,
+    "durationLabel": "1,5–2,5 h",
+    "fit": "ANY",
+    "mapQuery": "McArthurGlen Designer Outlet Málaga, Plaza Mayor, Málaga",
+    "whatToDo": "Circule pelas lojas de esporte e moda internacional comparando descontos; muitas marcas somam Tax Free ao preço já rebaixado.",
+    "kingTip": "Fica a três paradas de trem do centro (estação Plaza Mayor, linha C1); combine com o vizinho centro comercial Plaza Mayor no mesmo passeio.",
+    "priceLevel": "€€",
+    "hours": {
+      "openDays": "Seg–Sáb",
+      "openHour": "10:00",
+      "closeHour": "22:00",
+      "note": "Abre em domingos e feriados selecionados; confirme no site."
+    },
+    "links": [
+      {
+        "label": "Site oficial",
+        "url": "https://www.mcarthurglen.com/en/outlets/es/designer-outlet-malaga/"
+      }
+    ]
+  },
+  {
+    "id": "mrb_puerto_marina_benalmadena",
+    "categoryId": "compras",
+    "city": "marbella",
+    "name": "Puerto Marina de Benalmádena",
+    "tagline": "Compras e lojas na marina premiada",
+    "description": "Eleita várias vezes a melhor marina do mundo, o Puerto Marina de Benalmádena mistura arquitetura de ilhas artificiais, iates e uma animada zona comercial no Dique de Levante. Entre lojas de moda, souvenires, complementos e supermercados, aos sábados monta-se o Marina Market, com mais de sessenta bancas de artesanato, antiguidades e gourmet. Passeio de compras com vista para o mar.",
+    "lat": 36.5955,
+    "lng": -4.5165,
+    "durationLabel": "1–1,5 h",
+    "fit": "ANY",
+    "mapQuery": "Puerto Marina, Benalmádena",
+    "whatToDo": "Percorra as lojas do Dique de Levante e, se for sábado, garimpe o Marina Market de artesanato e antiguidades entre 10h e 16h.",
+    "kingTip": "Aos sábados vale o Marina Market; nas outras noites o porto é ponto de fim de tarde, ótimo para souvenires depois da praia.",
+    "priceLevel": "€€",
+    "links": [
+      {
+        "label": "Puerto Marina Shopping",
+        "url": "https://puertomarinashopping.es/en/"
+      }
+    ]
+  },
+  {
+    "id": "mrb_calle_san_miguel_torremolinos",
+    "categoryId": "compras",
+    "city": "marbella",
+    "name": "Calle San Miguel (Torremolinos)",
+    "tagline": "Rua-comércio peatonal de Torremolinos",
+    "description": "A artéria comercial de Torremolinos é uma das ruas pedonais mais movimentadas da Europa, com meio quilômetro de lojas ininterruptas. Ao longo do calçadão convivem souvenires, moda, joalherias, perfumarias e padarias típicas, entre esplanadas e o burburinho de tantos idiomas. No fim da rua espreitam a torre nazari e a igreja de San Miguel, do século XVIII.",
+    "lat": 36.6215,
+    "lng": -4.4997,
+    "durationLabel": "45 min–1,5 h",
+    "fit": "ANY",
+    "mapQuery": "Calle San Miguel, Torremolinos",
+    "whatToDo": "Desça a rua toda comparando preços de complementos e perfumes, e ramifique pelas travessas Cauce e Casablanca para lojas menos turísticas.",
+    "kingTip": "Ligue a compra ao Balcón de Europa no topo e à descida da Cuesta del Tajo rumo à praia da Carihuela, no mesmo eixo pedonal.",
+    "priceLevel": "€€"
+  },
+  {
+    "id": "mrb_miramar_fuengirola",
+    "categoryId": "compras",
+    "city": "marbella",
+    "name": "Centro Comercial Miramar",
+    "tagline": "Shopping coberto à beira-mar",
+    "description": "À entrada de Fuengirola, junto à saída da autovia, o Miramar é o grande centro comercial coberto da zona sul da Costa del Sol. Reúne moda, esporte, tecnologia, hipermercado, cinema e uma ampla praça de alimentação em ambiente climatizado. Refúgio prático em dias de calor forte ou de chuva, com estacionamento amplo e gratuito.",
+    "lat": 36.541,
+    "lng": -4.625,
+    "durationLabel": "1–2 h",
+    "fit": "INDOOR",
+    "mapQuery": "Centro Comercial Miramar, Fuengirola",
+    "whatToDo": "Faça as compras variadas de moda e esporte e aproveite o cinema ou a praça de alimentação nas horas de sol mais forte.",
+    "kingTip": "Ao contrário dos mercados de rua, abre também aos domingos e feriados na temporada alta; ideal para um dia sem praia.",
+    "priceLevel": "€€",
+    "hours": {
+      "openDays": "Seg–Dom",
+      "openHour": "10:00",
+      "closeHour": "22:00",
+      "note": "Hipermercado e restauração com horários próprios."
+    },
+    "links": [
+      {
+        "label": "Site oficial",
+        "url": "https://www.ccmiramar.es/"
+      }
+    ]
+  },
+  {
+    "id": "ant_dulces_belen",
+    "categoryId": "compras",
+    "city": "antequera",
+    "name": "Dulces Conventuales de Belén",
+    "tagline": "Doçaria conventual no torno das clarissas",
+    "description": "No convento de Belén, as monjas clarissas mantêm viva a doçaria conventual de Antequera, vendida pelo tradicional torno giratório à esquerda da fachada da igreja. É o lugar mais célebre para o bienmesabe antequerano, além de mantecados, polvorones, roscos de aceite, magdalenas e o bolo de Santa Clara. Uma compra doce e discreta, feita sem ver quem atende, como manda a clausura.",
+    "lat": 37.0188,
+    "lng": -4.5557,
+    "durationLabel": "15–30 min",
+    "fit": "ANY",
+    "mapQuery": "Convento de Belén, Calle Belén, Antequera",
+    "whatToDo": "Toque a campainha do torno e peça o bienmesabe, especialidade da casa; no fim do ano acrescente mantecados e polvorones caseiros.",
+    "kingTip": "Compra-se pelo torno giratório, sem contato direto com as freiras; leve trocado e evite o horário da sesta, quando fecha.",
+    "priceLevel": "€",
+    "hours": {
+      "openDays": "Seg–Sex",
+      "openHour": "09:30",
+      "closeHour": "18:30",
+      "note": "Pausa aproximada das 13h30 às 15h30; horário ampliado no Natal."
+    }
+  },
+  {
+    "id": "ben_castillo_colomares",
+    "categoryId": "cultura",
+    "city": "marbella",
+    "name": "Castillo de Colomares",
+    "tagline": "Um castelo-monumento a Cristóvão Colombo",
+    "description": "Erguido entre 1987 e 1994 por um médico apaixonado pela história, é um exuberante monumento-castelo dedicado a Cristóvão Colombo e ao descobrimento da América. Mistura estilos gótico, românico, mudéjar e bizantino num labirinto de torres, arcos e escadarias sobre a serra de Benalmádena. Guarda ainda a menor igreja do mundo, com pouco mais de um metro quadrado. As vistas para o Mediterrâneo são deslumbrantes.",
+    "whatToDo": [
+      "Suba pelas torres e passarelas em busca dos mirantes sobre o mar",
+      "Procure a capela minúscula, citada como a menor igreja do mundo",
+      "Decifre os símbolos das três caravelas espalhados pela pedra"
+    ],
+    "kingTip": "É todo a céu aberto e sobe bastante; vá logo na abertura, às 10h, para fugir do sol forte de julho. Fica em Benalmádena Pueblo, longe da praia.",
+    "priceLevel": "~€2,50",
+    "lat": 36.5966,
+    "lng": -4.5726,
+    "durationLabel": "1h–1h15",
+    "fit": "CLEAR_SKY",
+    "hours": {
+      "openDays": "Qua–Dom (fecha Seg e Ter)",
+      "openHour": 10,
+      "closeHour": 21,
+      "note": "Verão: qua–dom 10h–14h e 17h–21h. Inverno: qua–dom 10h–18h. Fecha segundas e terças."
+    },
+    "mapQuery": "Castillo Monumento Colomares, Finca la Carraca, Benalmádena Pueblo",
+    "links": [
+      {
+        "label": "Turismo de Benalmádena",
+        "url": "https://www.benalmadena.es/"
+      }
+    ]
+  },
+  {
+    "id": "fgr_castillo_sohail",
+    "categoryId": "cultura",
+    "city": "marbella",
+    "name": "Castillo Sohail",
+    "tagline": "Fortaleza à beira-mar em Fuengirola",
+    "description": "Castelo de origem árabe do século X, reconstruído no período nazari e depois pelos cristãos, plantado numa colina sobre a foz do rio Fuengirola e o Mediterrâneo. Suas muralhas e torres são hoje totalmente visitáveis, com passeios pelo adarve e vistas amplas da costa. No verão, a esplanada recebe mercado medieval, concertos e festivais. A entrada é gratuita.",
+    "whatToDo": [
+      "Percorra o caminho de ronda no alto das muralhas",
+      "Contemple a foz do rio e a praia de Fuengirola lá do topo",
+      "Confira a agenda de concertos e do mercado medieval no verão"
+    ],
+    "kingTip": "Entrada gratuita. É exposto ao sol; prefira o fim da tarde, quando refresca e a luz sobre a costa fica linda. Há estacionamento vigiado ao lado.",
+    "priceLevel": "Grátis",
+    "lat": 36.5311,
+    "lng": -4.6246,
+    "durationLabel": "45min–1h",
+    "fit": "CLEAR_SKY",
+    "hours": {
+      "openDays": "Ter–Dom (fecha Seg)",
+      "openHour": 10,
+      "closeHour": 18,
+      "note": "Ter–sex 10h–14h; sáb, dom e feriados 10h–18h. Fecha às segundas (salvo feriados). Entrada gratuita."
+    },
+    "mapQuery": "Castillo Sohail, Fuengirola, Málaga",
+    "history": "Ergueu-se por volta do ano 956 sobre um assentamento fenício e romano. Disputado por muçulmanos e cristãos, viu passar as tropas dos Reis Católicos e, séculos depois, as batalhas napoleônicas antes de virar palco cultural.",
+    "links": [
+      {
+        "label": "Site oficial",
+        "url": "https://www.castillosohail.es/"
+      }
+    ]
+  },
+  {
+    "id": "mrb_museo_grabado",
+    "categoryId": "cultura",
+    "city": "marbella",
+    "name": "Museo del Grabado Español Contemporáneo",
+    "tagline": "Gravura espanhola no casco antigo de Marbella",
+    "description": "Único museu da Espanha dedicado à gravura contemporânea, reúne mais de quatro mil obras com nomes como Picasso, Miró, Tàpies e Chillida. Ocupa o Hospital Bazán, elegante edifício renascentista do século XVI no casco histórico caiado de Marbella. Salas frescas e íntimas fazem dele uma pausa cultural entre as ruelas floridas do centro.",
+    "whatToDo": [
+      "Reconheça gravuras dos grandes mestres espanhóis do século XX",
+      "Aprecie a arquitetura gótico-mudéjar do antigo Hospital Bazán",
+      "Saia para o labirinto de becos brancos e pátios do casco antigo"
+    ],
+    "kingTip": "Fica no coração do casco antigo de Marbella; encaixe entre a Plaza de los Naranjos e um café. Abre também à noite de quarta a sexta, ótimo para fugir do calor.",
+    "priceLevel": "~€4 (est.)",
+    "lat": 36.5101,
+    "lng": -4.8829,
+    "durationLabel": "45min–1h",
+    "fit": "INDOOR",
+    "hours": {
+      "openDays": "Seg–Dom (varia por turno)",
+      "openHour": 10,
+      "closeHour": 22,
+      "note": "Manhãs: seg–sex 10h–14h; sáb e dom 11h–14h. Tardes: qua, qui e sex 17h–22h. Última entrada 20 min antes."
+    },
+    "mapQuery": "Museo del Grabado Español Contemporáneo, Calle Hospital Bazán, Marbella",
+    "links": [
+      {
+        "label": "Site oficial",
+        "url": "https://www.mgec.es/"
+      }
+    ]
+  },
+  {
+    "id": "mrb_museo_ralli",
+    "categoryId": "cultura",
+    "city": "marbella",
+    "name": "Museo Ralli Marbella",
+    "tagline": "Arte latino-americana e surrealista, grátis",
+    "description": "Um dos cinco museus Ralli do mundo, guarda uma das mais importantes coleções de arte contemporânea latino-americana da Europa, ao lado de obras europeias e surrealistas com nomes como Dalí e Chagall. O edifício amplo e luminoso fica na urbanização Coral Beach, entre Marbella e Puerto Banús, a poucos metros do mar. A entrada é sempre gratuita.",
+    "whatToDo": [
+      "Percorra as salas de surrealismo e arte latino-americana",
+      "Descubra esculturas espalhadas pelos jardins do museu",
+      "Combine com um passeio pelo paseo marítimo ali ao lado"
+    ],
+    "kingTip": "Entrada gratuita e climatizado. Fecha aos domingos e segundas e fica entre Marbella e Puerto Banús; chegue de carro ou táxi.",
+    "priceLevel": "Grátis",
+    "lat": 36.4936,
+    "lng": -4.9527,
+    "durationLabel": "1h–1h30",
+    "fit": "INDOOR",
+    "hours": {
+      "openDays": "Ter–Sáb (fecha Dom e Seg)",
+      "openHour": 10,
+      "closeHour": 17,
+      "note": "Ter–sex 10h–17h; sáb 10h–16h. Fecha domingos e segundas. Entrada gratuita."
+    },
+    "mapQuery": "Museo Ralli Marbella, Urbanización Coral Beach, Marbella",
+    "links": [
+      {
+        "label": "Site oficial",
+        "url": "https://museoralli.es/"
+      }
+    ]
+  },
+  {
+    "id": "ben_museo_precolombino",
+    "categoryId": "cultura",
+    "city": "marbella",
+    "name": "Museo Precolombino Felipe Orlando",
+    "tagline": "Arte pré-colombina em Benalmádena Pueblo",
+    "description": "Coleção reunida pelo artista e humanista cubano Felipe Orlando, com cerca de mil e quinhentas peças de culturas pré-colombianas da América, de cerâmicas a figuras rituais. Ocupa um espaço tranquilo na Plaza de las Tres Culturas, no charmoso Benalmádena Pueblo. A entrada é gratuita e o acervo dá um mergulho raro na América antiga, longe do bulício da praia.",
+    "whatToDo": [
+      "Observe as cerâmicas e figuras rituais das culturas pré-colombianas",
+      "Aprenda sobre a trajetória do artista Felipe Orlando",
+      "Passeie depois pelas ruelas caiadas de Benalmádena Pueblo"
+    ],
+    "kingTip": "Entrada gratuita. Está no pueblo, na parte alta; combine com o Castillo de Colomares, que fica pertinho. Fecha às segundas e terças.",
+    "priceLevel": "Grátis",
+    "lat": 36.5967,
+    "lng": -4.5709,
+    "durationLabel": "45min–1h",
+    "fit": "INDOOR",
+    "hours": {
+      "openDays": "Qua–Dom (fecha Seg e Ter)",
+      "openHour": 9,
+      "closeHour": 19,
+      "note": "Qua–sáb 9h30–13h30 e 17h–19h; dom e feriados 10h–14h. Fecha segundas e terças. Entrada gratuita."
+    },
+    "mapQuery": "Museo de Arte Precolombino Felipe Orlando, Plaza de las Tres Culturas, Benalmádena Pueblo",
+    "links": [
+      {
+        "label": "Turismo de Benalmádena",
+        "url": "https://www.benalmadena.es/"
+      }
+    ]
+  },
+  {
+    "id": "mlg_mimma",
+    "categoryId": "cultura",
+    "city": "malaga",
+    "name": "Museo Interactivo de la Música (MIMMA)",
+    "tagline": "Toque os instrumentos num palácio do século XVIII",
+    "description": "Museu interativo com centenas de instrumentos de todas as épocas e cantos do mundo, sob o lema \"por favor, toque\". Muitas peças podem ser experimentadas em salas dedicadas, o que encanta adultos e crianças. Ocupa o Palácio do Conde de las Navas, casarão do século XVIII na Calle Beatas, no centro histórico de Málaga.",
+    "whatToDo": [
+      "Toque os instrumentos liberados nas salas interativas",
+      "Percorra a coleção de instrumentos de várias culturas e séculos",
+      "Aprecie o pátio e a arquitetura do palácio setecentista"
+    ],
+    "kingTip": "Ideal para quem viaja com crianças e nos dias de calor: é coberto, climatizado e prático. Fica a poucos minutos da Catedral.",
+    "priceLevel": "~€4 (est.)",
+    "lat": 36.7236,
+    "lng": -4.4213,
+    "durationLabel": "1h–1h30",
+    "fit": "INDOOR",
+    "hours": {
+      "openDays": "Todos os dias",
+      "openHour": 10,
+      "closeHour": 19,
+      "note": "Inverno (7/set–24/jun): seg 10h–16h, ter–dom 10h–19h. Verão (25/jun–6/set): seg 10h30–16h, ter–dom 10h30–19h30."
+    },
+    "mapQuery": "MIMMA Museo Interactivo de la Música, Calle Beatas 15, Málaga",
+    "links": [
+      {
+        "label": "Site oficial",
+        "url": "https://www.musicaenaccion.com/"
+      }
+    ]
+  },
+  {
+    "id": "grn_casa_de_los_tiros",
+    "categoryId": "cultura",
+    "city": "granada",
+    "name": "Museo Casa de los Tiros",
+    "tagline": "Palacete renascentista com teto de heróis",
+    "description": "Casa-fortaleza do século XVI no bairro do Realejo, com fachada de pedra ornada por esculturas e arcabuzes que dão nome ao lugar. Abriga o museu de história de Granada, com pintura, gravuras e objetos que contam a cidade dos séculos XIX e XX. Sua joia é a Cuadra Dorada, salão com um extraordinário teto de madeira policromada e retratos de reis e heróis.",
+    "whatToDo": [
+      "Admire o teto policromado e os retratos da Cuadra Dorada",
+      "Veja gravuras e fotografias antigas da Granada romântica",
+      "Repare na fachada com as figuras e os arcabuzes de pedra"
+    ],
+    "kingTip": "Gratuito para cidadãos da UE (leve documento). Fica no Realejo, ótimo para intercalar com uma volta pelo bairro judeu.",
+    "priceLevel": "Grátis (UE)",
+    "lat": 37.1745,
+    "lng": -3.5945,
+    "durationLabel": "45min–1h",
+    "fit": "INDOOR",
+    "hours": {
+      "openDays": "Ter–Dom (fecha Seg)",
+      "openHour": 9,
+      "closeHour": 21,
+      "note": "Inverno (16/set–15/jun): ter–sáb 9h–21h, dom e feriados 9h–15h. Verão (16/jun–15/set): ter–dom e feriados 9h–15h. Fecha às segundas."
+    },
+    "mapQuery": "Museo Casa de los Tiros, Calle Pavaneras 19, Granada",
+    "links": [
+      {
+        "label": "Site oficial (Museos de Andalucía)",
+        "url": "https://www.museosdeandalucia.es/web/museocasadelostirosdegranada"
+      }
+    ]
+  },
+  {
+    "id": "grn_hospital_real",
+    "categoryId": "cultura",
+    "city": "granada",
+    "name": "Hospital Real de Granada",
+    "tagline": "Joia renascentista dos Reis Católicos",
+    "description": "Grandioso edifício iniciado pelos Reis Católicos no início do século XVI, um dos marcos do Renascimento espanhol, hoje sede da reitoria e da biblioteca da Universidade de Granada. Impressiona pela fachada plateresca de janelas lavradas e por quatro pátios simétricos em planta de cruz. O acesso aos pátios e às exposições costuma ser livre, num respiro sereno perto do centro.",
+    "whatToDo": [
+      "Contemple a fachada plateresca com os emblemas dos fundadores",
+      "Passeie pelos quatro pátios renascentistas do interior",
+      "Espie o salão nobre e as mostras temporárias, quando abertas"
+    ],
+    "kingTip": "Por ser edifício universitário, o acesso aos pátios costuma ser gratuito em dias úteis; confirme se há exposição em cartaz. Fica junto à estação de ônibus e ao Albaicín.",
+    "priceLevel": "Grátis (pátios)",
+    "lat": 37.184,
+    "lng": -3.6017,
+    "durationLabel": "30–45min",
+    "fit": "CLEAR_SKY",
+    "hours": {
+      "openDays": "Seg–Sex (dias úteis)",
+      "openHour": 9,
+      "closeHour": 20,
+      "note": "Acesso a pátios e exposições em geral seg–sex em horário universitário. Fins de semana e agosto podem ter acesso restrito; confirme antes."
+    },
+    "mapQuery": "Hospital Real, Avenida del Hospicio, Granada",
+    "history": "Fundado em 1504 por ordem de Isabel e Fernando para acolher doentes e peregrinos, levou mais de um século para ser concluído. Passou por usos diversos até ser cedido, em 1971, à Universidade de Granada.",
+    "links": [
+      {
+        "label": "Universidad de Granada",
+        "url": "https://patrimonio.ugr.es/bien-inmueble/610/"
+      }
+    ]
+  },
+  {
+    "id": "crd_julio_romero_de_torres",
+    "categoryId": "cultura",
+    "city": "cordoba",
+    "name": "Museo Julio Romero de Torres",
+    "tagline": "A alma cordobesa em retratos sensuais",
+    "description": "Dedicado ao pintor cordobês Julio Romero de Torres (1874–1930), reúne suas obras mais célebres, com as morenas melancólicas e simbólicas que fizeram sua fama. Ocupa a antiga casa da família, na pitoresca Plaza del Potro citada por Cervantes, ao lado do Museu de Belas Artes. Salas íntimas e frescas guardam telas como \"La chiquita piconera\".",
+    "whatToDo": [
+      "Encontre \"La chiquita piconera\" e outras obras-símbolo do pintor",
+      "Entenda o simbolismo andaluz por trás dos retratos femininos",
+      "Combine com o Museu de Belas Artes, na mesma praça"
+    ],
+    "kingTip": "Fica na Plaza del Potro, coladinho ao Museu de Belas Artes; visite os dois juntos. No verão abre só de manhã, das 10h às 17h.",
+    "priceLevel": "~€4,50 (est.)",
+    "lat": 37.8812,
+    "lng": -4.7747,
+    "durationLabel": "45min–1h",
+    "fit": "INDOOR",
+    "hours": {
+      "openDays": "Ter–Dom (fecha Seg)",
+      "openHour": 10,
+      "closeHour": 20,
+      "note": "Verão (16/jun–15/set): ter–dom e feriados 10h–17h. Inverno: ter–sáb 10h–20h30, dom e feriados 10h–17h. Fecha às segundas."
+    },
+    "mapQuery": "Museo Julio Romero de Torres, Plaza del Potro, Córdoba",
+    "links": [
+      {
+        "label": "Turismo de Córdoba",
+        "url": "https://www.turismodecordoba.org/museo-julio-romero-de-torres"
+      }
+    ]
+  },
+  {
+    "id": "crd_casa_de_sefarad",
+    "categoryId": "cultura",
+    "city": "cordoba",
+    "name": "Casa de Sefarad",
+    "tagline": "A memória sefardita no coração da Judería",
+    "description": "Centro cultural instalado numa casa do século XIV, de frente para a Sinagoga, dedicado à história, à música e às tradições dos judeus sefarditas. Nove salas percorrem a vida na Judería, as mulheres de Al-Andalus, a Inquisição e a música sefardita, entre pátios e alcovas. É uma parada íntima e envolvente no coração do bairro judeu de Córdoba.",
+    "whatToDo": [
+      "Percorra as nove salas sobre a vida e a cultura sefardita",
+      "Descubra a sala dedicada às mulheres de Al-Andalus",
+      "Confira a agenda de concertos de música sefardita ao vivo"
+    ],
+    "kingTip": "Fica em frente à Sinagoga, na Calle Judíos; junte os dois numa só caminhada à sombra das ruelas. Abre todos os dias, das 11h às 18h.",
+    "priceLevel": "~€5 (est.)",
+    "lat": 37.8794,
+    "lng": -4.7838,
+    "durationLabel": "45min–1h",
+    "fit": "INDOOR",
+    "hours": {
+      "openDays": "Ter–Dom (fecha Seg)",
+      "openHour": 11,
+      "closeHour": 18,
+      "note": "Terça a domingo 11h–18h. Fecha às segundas. Confira no site os concertos de música sefardita."
+    },
+    "mapQuery": "Casa de Sefarad, Calle Judíos esquina Averroes, Córdoba",
+    "links": [
+      {
+        "label": "Site oficial",
+        "url": "https://lacasadesefarad.com/"
+      }
+    ]
+  },
+  {
+    "id": "mlg_el_tintero",
+    "categoryId": "gastronomia",
+    "city": "malaga",
+    "name": "El Tintero",
+    "tagline": "O chiringuito da subasta na praia de El Palo",
+    "description": "Instituição malaguenha na ponta leste da praia de El Dedo, no bairro pescador de El Palo. Aqui não há cardápio: os garçons saem da cozinha aos gritos, leiloando à viva voz os pratos de peixe frito e marisco recém-feitos, e você levanta a mão para ficar com o que passar. No fim, contam-se os pratos vazios para fechar a conta. Barulhento, rápido e divertidíssimo, é o mais autêntico sabor da cultura de praia local.",
+    "lat": 36.7178,
+    "lng": -4.3559,
+    "durationLabel": "almoço 1h30",
+    "fit": "CLEAR_SKY",
+    "mapQuery": "El Tintero II, Avenida Salvador Allende 340, El Palo, Málaga",
+    "whatToDo": "Sente-se na esplanada de frente para o mar e vá levantando a mão conforme passam os pratos de fritura, chopitos e espetos; deixe a conta por conta dos pratos vazios.",
+    "kingTip": "Não se reserva e não há carta: chegue cedo no almoço de verão e fique atento ao garçom que passa gritando o prato que você quer. Só dinheiro em algumas mesas: leve trocado.",
+    "priceLevel": "€€",
+    "hours": {
+      "openDays": "Seg-Dom",
+      "openHour": "12:30",
+      "closeHour": "23:30",
+      "note": "Horário amplo em temporada; almoço é o auge da subasta"
+    },
+    "history": "Nascido como merendero de praia em El Palo, o Tintero transformou o leilão de pratos numa tradição malaguenha única, hoje repetida por gerações de famílias aos fins de semana."
+  },
+  {
+    "id": "mlg_balausta",
+    "categoryId": "gastronomia",
+    "city": "malaga",
+    "name": "Balausta",
+    "tagline": "Recomendado Michelin no pátio do Palacio Solecio",
+    "description": "Restaurante gastronômico recomendado pela Guia Michelin, instalado no pátio envidraçado do Hotel Palacio Solecio, um palácio andaluz do século XVIII no coração de Málaga. A partir de 2026 passou à direção do chef Dani Carnero (uma estrela Michelin no Kaleja), com uma proposta contemporânea e de partilha que homenageia o receituário tradicional malaguenho. Cenário elegante para uma refeição de autor no centro histórico.",
+    "lat": 36.7223,
+    "lng": -4.4188,
+    "durationLabel": "almoço/jantar 2h",
+    "fit": "ANY",
+    "mapQuery": "Restaurante Balausta, Hotel Palacio Solecio, Calle Granada 61, Málaga",
+    "whatToDo": "Peça os pratos de partilha da nova etapa de Dani Carnero e reserve mesa no pátio envidraçado do palácio; combine com harmonização de vinhos andaluzes.",
+    "kingTip": "É a cozinha de autor de Dani Carnero em formato mais relaxado que o Kaleja. Sala pequena dentro do hotel: reserve com antecedência para o jantar de verão.",
+    "priceLevel": "€€€€",
+    "hours": {
+      "openDays": "Ter-Sáb",
+      "openHour": "13:30",
+      "closeHour": "22:30",
+      "note": "Dias podem variar; confirme na reserva"
+    },
+    "links": [
+      {
+        "label": "Site oficial e reserva",
+        "url": "https://palaciosolecio.com/restaurante-balausta/"
+      }
+    ],
+    "history": "O restaurante do Palacio Solecio teve o selo de José Carlos García e, em janeiro de 2026, passou às mãos de Dani Carnero, que assumiu a direção gastronômica com uma leitura contemporânea da tradição malaguenha.",
+    "image": "mlg_balausta.jpg"
+  },
+  {
+    "id": "mlg_oleo",
+    "categoryId": "gastronomia",
+    "city": "malaga",
+    "name": "Óleo",
+    "tagline": "Cozinha mediterrânea e sushi bar no Soho",
+    "description": "Casa dos chefs Sergio del Río e Rui Da Mata no bairro do Soho de Málaga, junto ao Centro de Arte Contemporáneo. Une a tradição malaguenha com um toque de autor e um sushi bar de qualidade, num conceito de fusão mediterrânea e asiática pouco comum na cidade. Ambiente moderno e descontraído, ideal para quem quer variar do peixe frito clássico.",
+    "lat": 36.7133,
+    "lng": -4.4239,
+    "durationLabel": "almoço/jantar 1h30-2h",
+    "fit": "ANY",
+    "mapQuery": "Óleo Restaurante, Calle Casas de Campos 4, Soho, Málaga",
+    "whatToDo": "Combine pratos de autor de raiz mediterrânea com uma seleção do sushi bar de Rui; ótimo para partilhar antes ou depois de visitar o CAC, ao lado.",
+    "kingTip": "A fusão mediterrânea-asiática e o sushi são o diferencial da casa. Bairro do Soho movimentado: reserve para o jantar de fim de semana.",
+    "priceLevel": "€€€",
+    "hours": {
+      "openDays": "Ter-Dom",
+      "openHour": "13:00",
+      "closeHour": "23:30",
+      "note": "Dias podem variar; confirme na reserva"
+    },
+    "links": [
+      {
+        "label": "Site oficial e reserva",
+        "url": "https://www.oleorestaurante.es/"
+      }
+    ],
+    "history": "Aberto junto ao CAC, o Óleo firmou-se como um dos endereços de fusão mais populares de Málaga, cruzando a cozinha malaguenha de Sergio del Río com o sushi de Rui Da Mata."
+  },
+  {
+    "id": "mlg_la_reserva_12",
+    "categoryId": "gastronomia",
+    "city": "malaga",
+    "name": "La Reserva 12",
+    "tagline": "Arrozes e produto no centro histórico",
+    "description": "Restaurante tradicional andaluz na Calle Bolsa, a poucos passos da Calle Larios e da catedral de Málaga. Cozinha de produto com boas frituras, ovos rotos, carnes vermelhas na brasa e, sobretudo, arrozes bem executados, tudo apoiado numa adega ampla de rótulos nacionais e internacionais. Tem esplanada na rua pedonal, perfeita para uma refeição no coração da cidade.",
+    "lat": 36.7196,
+    "lng": -4.4207,
+    "durationLabel": "almoço/jantar 1h30-2h",
+    "fit": "ANY",
+    "mapQuery": "La Reserva 12, Calle Bolsa 12, Málaga",
+    "whatToDo": "Peça um arroz e uma carne vermelha na brasa para partilhar e escolha um vinho da adega; em dia de sol, sente-se na esplanada da Calle Bolsa.",
+    "kingTip": "Os arrozes e a seleção de vinhos são o forte. Localização central e muito procurada: reserve a esplanada para o almoço.",
+    "priceLevel": "€€€",
+    "hours": {
+      "openDays": "Seg-Dom",
+      "openHour": "13:00",
+      "closeHour": "23:30",
+      "note": "Aberto todos os dias em temporada; confirme"
+    },
+    "links": [
+      {
+        "label": "Reserva (TheFork)",
+        "url": "https://www.thefork.es/restaurante/la-reserva-12-r842582"
+      }
+    ],
+    "history": "A poucos metros da Calle Larios, La Reserva 12 consolidou-se como uma parada segura de cozinha andaluza de produto e boa adega no centro histórico de Málaga."
+  },
+  {
+    "id": "mrb_espeto_torremolinos",
+    "categoryId": "gastronomia",
+    "city": "marbella",
+    "name": "Chiringuito El Espeto (Torremolinos)",
+    "tagline": "Espetos de sardinha na Playa Bajondillo",
+    "description": "Chiringuito clássico à beira-mar na Playa Bajondillo, em Torremolinos, no coração da Costa del Sol Central. Especialista no espeto de sardinha assado na barca de lenha à moda malaguenha, além de fritura variada e peixe fresco do dia com os pés quase na areia. O ícone acessível para provar o ritual do espeto num dia de sol.",
+    "lat": 36.6208,
+    "lng": -4.4957,
+    "durationLabel": "almoço 1h30",
+    "fit": "CLEAR_SKY",
+    "mapQuery": "Chiringuito El Espeto Playa, Paseo de los Álamos, Playa Bajondillo, Torremolinos",
+    "whatToDo": "Peça o espeto de sardinhas assado na lenha e fritura malaguenha; sente-se na esplanada de frente para o Mediterrâneo ao meio-dia.",
+    "kingTip": "O espeto de sardinha assado na barca de lenha é a razão da visita. Chiringuito muito concorrido no verão: vá cedo no almoço para pegar mesa na areia.",
+    "priceLevel": "€€",
+    "hours": {
+      "openDays": "Seg-Dom",
+      "openHour": "12:00",
+      "closeHour": "23:00",
+      "note": "Sazonal e sujeito ao tempo; almoço é o forte"
+    },
+    "history": "Na longa praia de Torremolinos, o espeto de sardinha na barca de lenha é uma herança dos antigos merenderos malaguenhos, mantida viva pelos chiringuitos do Bajondillo."
+  },
+  {
+    "id": "mrb_casanis",
+    "categoryId": "gastronomia",
+    "city": "marbella",
+    "name": "Casanis Bistrot",
+    "tagline": "Bistrô franco-belga no casco antigo",
+    "description": "Bistrô mediterrâneo com influências francesas e belgas no casco antigo de Marbella, sob a cozinha criativa do chef Fabian Cangas. Reinterpreta a gastronomia francesa com produto de proximidade, numa sala acolhedora numa das ruas mais bonitas do centro histórico. Um contraponto europeu e romântico aos formatos andaluzes da cidade.",
+    "lat": 36.5108,
+    "lng": -4.8846,
+    "durationLabel": "jantar 1h30-2h",
+    "fit": "ANY",
+    "mapQuery": "Casanis Bistrot, Calle Ancha 8, Casco Antiguo, Marbella",
+    "whatToDo": "Vá de menu com pratos franco-belgas reinterpretados e reserve mesa no charmoso casco antigo; ambiente intimista, ideal para uma noite a dois.",
+    "kingTip": "Cozinha francesa criativa rara na zona. Casa pequena no centro histórico: reserve com antecedência, sobretudo aos fins de semana de verão.",
+    "priceLevel": "€€€",
+    "hours": {
+      "openDays": "Seg-Sáb",
+      "openHour": "19:00",
+      "closeHour": "23:30",
+      "note": "Serve sobretudo ao jantar; confirme na reserva"
+    },
+    "links": [
+      {
+        "label": "Site oficial e reserva",
+        "url": "https://casanisbistrot.com/"
+      }
+    ],
+    "history": "O Casanis tornou-se um dos endereços mais queridos do casco antigo de Marbella, defendendo a cozinha franco-belga numa cidade dominada pela tradição andaluza e pelo luxo internacional."
+  },
+  {
+    "id": "mrb_santiago",
+    "categoryId": "gastronomia",
+    "city": "marbella",
+    "name": "Restaurante Santiago",
+    "tagline": "O templo do peixe e marisco de Marbella",
+    "description": "Clássico marisqueiro de Marbella no Paseo Marítimo, com origem na primeira barraca de praia da cidade nos anos 1950 e casa própria desde 1973. Referência absoluta em peixe e marisco fresco da lonja, servido com o rigor de uma casa histórica reaberta em 2024 sob a direção de Santiago Domínguez. A mesa de sempre para comer o melhor do mar em Marbella.",
+    "lat": 36.5064,
+    "lng": -4.8828,
+    "durationLabel": "almoço/jantar 1h30-2h",
+    "fit": "ANY",
+    "mapQuery": "Restaurante Santiago, Paseo Marítimo esquina Gregorio Marañón 8, Marbella",
+    "whatToDo": "Peça o peixe do dia ao peso e uma seleção de marisco fresco; deixe o garçom sugerir a lonja do dia e sente-se de frente para o mar.",
+    "kingTip": "Peça o peixe fresco ao peso, a especialidade histórica da casa. Instituição muito procurada: reserve para o almoço de domingo.",
+    "priceLevel": "€€€€",
+    "hours": {
+      "openDays": "Seg-Dom",
+      "openHour": "13:00",
+      "closeHour": "23:30",
+      "note": "Aberto todos os dias em temporada; confirme"
+    },
+    "links": [
+      {
+        "label": "Site oficial",
+        "url": "https://marbella.costasur.com/sites/santiago/en/index.html"
+      }
+    ],
+    "history": "Fundado a partir da primeira barraca de praia de Marbella nos anos 1950, o Santiago mudou-se para o Paseo Marítimo em 1973 e reabriu em 2024, mantendo o estatuto de grande casa de peixe e marisco da cidade."
+  },
+  {
+    "id": "nrj_oliva",
+    "categoryId": "gastronomia",
+    "city": "axarquia",
+    "name": "Oliva",
+    "tagline": "Recomendado Michelin na Plaza de España de Nerja",
+    "description": "Restaurante recomendado pela Guia Michelin desde 2016, na Plaza de España de Nerja, tocado pelo casal Carlos (cozinha) e Kim (sala). Cozinha contemporânea de raiz mediterrânea com produto de temporada, entre uma carta sazonal e um menu-degustação de autor, servida numa sala elegante com terraço agradável. A alternativa refinada ao clássico Sollun na Axarquía.",
+    "lat": 36.7461,
+    "lng": -3.8767,
+    "durationLabel": "jantar 2h",
+    "fit": "ANY",
+    "mapQuery": "Restaurante Oliva, Plaza de España, Nerja",
+    "whatToDo": "Opte pelo menu-degustação sazonal ou pela carta mediterrânea; peça mesa no terraço e combine com um passeio pelo Balcón de Europa, ao lado.",
+    "kingTip": "Recomendado Michelin ano após ano, com sala reduzida numa vila que lota em julho: reserve o jantar com antecedência.",
+    "priceLevel": "€€€",
+    "hours": {
+      "openDays": "Ter-Sáb",
+      "openHour": "13:30",
+      "closeHour": "22:30",
+      "note": "Dias podem variar; confirme na reserva"
+    },
+    "links": [
+      {
+        "label": "Site oficial e reserva",
+        "url": "https://www.restauranteoliva.com/"
+      },
+      {
+        "label": "Guia Michelin",
+        "url": "https://guide.michelin.com/en/andalucia/nerja/restaurant/oliva-1195827"
+      }
+    ],
+    "history": "Aberto por Carlos e Kim, o Oliva mudou-se em 2021 para a Plaza de España e mantém desde 2016 a recomendação da Guia Michelin, sendo uma das mesas de autor de referência da costa de Nerja."
+  },
+  {
+    "id": "grn_cala",
+    "categoryId": "gastronomia",
+    "city": "granada",
+    "name": "Cala",
+    "tagline": "Recomendado Michelin, quatro mesas de autor",
+    "description": "Casa de autor recomendada pela Guia Michelin do chef Samuel Hernández, na zona do Forum, perto do Parque de las Ciencias de Granada. Apenas quatro mesas para uma cozinha íntima que funde tradições francesas, portuguesas e espanholas com o produto andaluz de temporada. Menu-degustação único que muda com a estação, num interior contemporâneo e minucioso.",
+    "lat": 37.1587,
+    "lng": -3.6038,
+    "durationLabel": "jantar 2-3h",
+    "fit": "ANY",
+    "mapQuery": "Restaurante Cala, Calle José Luis Pérez Pujadas, Granada",
+    "whatToDo": "Vá de menu-degustação único com harmonização de vinhos; a sala minúscula favorece a conversa com o chef, prato a prato.",
+    "kingTip": "Só quatro mesas: das reservas mais difíceis de Granada. Reserve com semanas de antecedência para o jantar de verão.",
+    "priceLevel": "~€75/pessoa (est.)",
+    "hours": {
+      "openDays": "Mié-Sáb",
+      "openHour": "13:30",
+      "closeHour": "22:30",
+      "note": "Dias podem variar; confirme na reserva"
+    },
+    "links": [
+      {
+        "label": "Guia Michelin",
+        "url": "https://guide.michelin.com/us/en/andalucia/granada/restaurant/cala1154913"
+      },
+      {
+        "label": "Reserva (TheFork)",
+        "url": "https://www.thefork.es/restaurante/cala-r752405"
+      }
+    ],
+    "history": "Samuel Hernández, de formação francesa, abriu o Cala como um projeto íntimo de quatro mesas na zona do Forum, cruzando as suas raízes europeias com o produto de temporada granadino."
+  },
+  {
+    "id": "crd_garum_21",
+    "categoryId": "gastronomia",
+    "city": "cordoba",
+    "name": "Garum 2.1",
+    "tagline": "Bib Gourmand bistronômico na Judería",
+    "description": "Tapas bar bistronômico com Bib Gourmand da Guia Michelin, de gestão familiar, na Judería de Córdoba, com um troço de muralha romana à vista dentro da sala. Visão contemporânea do receituário cordovês com excelente relação qualidade-preço, famoso pelo salmorejo de amontillado, o polvo defumado e o rabo de touro. Uma das melhores mesas informais da cidade.",
+    "lat": 37.8843,
+    "lng": -4.7817,
+    "durationLabel": "almoço/jantar 1h30",
+    "fit": "ANY",
+    "mapQuery": "Garum 2.1, Calle San Fernando 122, Córdoba",
+    "whatToDo": "Peça o salmorejo de amontillado (melhor tapa de Córdoba num concurso) e o rabo de touro; formato de partilha, ótimo para provar vários pratos.",
+    "kingTip": "O salmorejo de amontillado é a assinatura premiada da casa. Bib Gourmand pequeno e muito procurado: reserve para o jantar.",
+    "priceLevel": "€€€",
+    "hours": {
+      "openDays": "Mar-Dom",
+      "openHour": "13:00",
+      "closeHour": "23:00",
+      "note": "Dias podem variar; confirme na reserva"
+    },
+    "links": [
+      {
+        "label": "Site oficial",
+        "url": "https://www.garum2punto1.com/"
+      },
+      {
+        "label": "Guia Michelin",
+        "url": "https://guide.michelin.com/be/nl/andalucia/cordoba/restaurant/garum-2-1"
+      }
+    ],
+    "history": "De gestão familiar, o Garum 2.1 renova ano após ano o Bib Gourmand da Guia Michelin com a sua releitura bistronômica da cozinha cordovesa, na Judería e sobre restos de muralha romana."
+  },
+  {
+    "id": "crd_terra_olea",
+    "categoryId": "gastronomia",
+    "city": "cordoba",
+    "name": "Terra Olea",
+    "tagline": "Bib Gourmand em torno da azeitona",
+    "description": "Restaurante com Bib Gourmand da Guia Michelin no bairro de Arruzafilla, a noroeste de Córdoba, com sala luminosa e cozinha à vista. Cozinha contemporânea assente no produto local e nos pequenos produtores cordoveses, articulada em dois menus-degustação, Flos e Cibarium, que homenageiam a azeitona e a sua importância histórica. Ótima relação qualidade-preço fora do circuito estrelado.",
+    "lat": 37.8928,
+    "lng": -4.8058,
+    "durationLabel": "almoço/jantar 2h",
+    "fit": "ANY",
+    "mapQuery": "Terra Olea, Calle Rigoberta Menchú 2, Córdoba",
+    "whatToDo": "Escolha um dos menus-degustação (Flos ou Cibarium), centrados na azeitona e no produto local; peça harmonização com azeites e vinhos da terra.",
+    "kingTip": "Bib Gourmand com menus-degustação a preço justo. Fica fora do centro: vale o táxi curto e a reserva antecipada.",
+    "priceLevel": "~€45/pessoa (est.)",
+    "hours": {
+      "openDays": "Mar-Sáb",
+      "openHour": "13:30",
+      "closeHour": "22:30",
+      "note": "Dias podem variar; confirme na reserva"
+    },
+    "links": [
+      {
+        "label": "Guia Michelin",
+        "url": "https://guide.michelin.com/us/en/andalucia/cordoba/restaurant/terra-olea-1194951"
+      }
+    ],
+    "history": "No bairro de Arruzafilla, o Terra Olea construiu a sua identidade em torno da azeitona e do produto cordovês, renovando o Bib Gourmand da Guia Michelin com uma cozinha contemporânea acessível."
+  },
+  {
+    "id": "grn_realejo_campo_principe",
+    "categoryId": "granada",
+    "city": "granada",
+    "name": "Realejo e Campo del Príncipe",
+    "tagline": "A antiga judiaria e sua praça de tapas",
+    "description": "O Realejo é o antigo bairro judeu de Granada, um dédalo de ladeiras, cármenes e muros grafitados pelo artista El Niño de las Pinturas. Seu coração é o Campo del Príncipe, largo aberto em 1497 para as bodas do príncipe Juan, hoje cercado de esplanadas de tapas e presidido pelo Cristo de los Favores, crucifixo de jaspe de 1640. Bairro boêmio, autêntico e menos turístico que o Albaicín.",
+    "lat": 37.17331,
+    "lng": -3.59211,
+    "durationLabel": "1–2 h a pé",
+    "fit": "ANY",
+    "mapQuery": "Campo del Principe, Realejo, Granada",
+    "kingTip": "Sente-se numa esplanada do Campo del Príncipe ao entardecer para as tapas gratuitas que acompanham a bebida — tradição que em Granada ainda se cumpre à risca. Suba depois pela Cuesta de los Molinos rumo ao Carmen de los Mártires.",
+    "priceLevel": "Gratuito (consumo à parte)",
+    "history": "Chamado Garnata al-Yahud (Granada dos Judeus) na época nazarí, foi rebatizado Realejo após a conquista cristã; o Campo del Príncipe, aberto sobre um antigo cemitério muçulmano, ganhou o Cristo de los Favores em 1640, ainda mais venerado após a peste de 1679-1682."
+  },
+  {
+    "id": "grn_basilica_angustias",
+    "categoryId": "granada",
+    "city": "granada",
+    "name": "Basílica de las Angustias",
+    "tagline": "O santuário da padroeira de Granada",
+    "description": "Na arborizada Carrera de la Virgen ergue-se a basílica barroca da Virgen de las Angustias, padroeira da cidade e da província desde a ratificação papal de 1887. Concluída em 1671, guarda no camarín do altar-mor a imagem quinhentista da Virgem, envolta em um esplendor churrigueresco de talha dourada, mármores coloridos e prata. É o coração devocional dos granadinos.",
+    "lat": 37.16988,
+    "lng": -3.59711,
+    "durationLabel": "20–30 min",
+    "fit": "INDOOR",
+    "mapQuery": "Basilica de las Angustias, Granada",
+    "kingTip": "Fica na Carrera de la Virgen, alameda ideal para caminhar até a Fuente de las Batallas e o centro. Fecha nas horas de culto; visite pela manhã, fora dos horários de missa.",
+    "priceLevel": "Gratuito",
+    "hours": {
+      "openDays": "Todos os dias",
+      "openHour": "10:00",
+      "closeHour": "13:30",
+      "note": "Reabre à tarde; fecha durante missas. Grande devoção em setembro, mês da padroeira."
+    },
+    "links": [
+      {
+        "label": "Site oficial",
+        "url": "https://www.basilicadelasangustias.org"
+      }
+    ],
+    "history": "Nasceu de uma ermida do início do século XVI dedicada às santas Úrsula e Susana; o templo barroco atual foi concluído em 1671 e Leão XIII confirmou em 1887 o patronato da Virgen de las Angustias sobre Granada."
+  },
+  {
+    "id": "grn_palacio_cordova",
+    "categoryId": "granada",
+    "city": "granada",
+    "name": "Palacio de los Córdova",
+    "tagline": "Jardins com vista da Alhambra no fim do Darro",
+    "description": "No arranque da Cuesta del Chapiz, onde o Paseo de los Tristes encontra o Sacromonte, este casarão do século XVI de fachada renascentista se cerca de jardins, hortas e uma torre. Hoje abriga o Arquivo Municipal, mas o que encanta são os jardins escalonados e gratuitos, com fontes, pomares e uma das vistas mais tranquilas da Alhambra suspensa em frente.",
+    "lat": 37.17982,
+    "lng": -3.58715,
+    "durationLabel": "30–40 min",
+    "fit": "ANY",
+    "mapQuery": "Palacio de los Cordova, Granada",
+    "kingTip": "A entrada aos jardins é gratuita e quase sempre deserta — um oásis à sombra no fim do Paseo de los Tristes, antes de subir ao Sacromonte. Suba até a base da torre para a melhor vista da Alhambra.",
+    "priceLevel": "Gratuito",
+    "hours": {
+      "openDays": "Seg a sex",
+      "openHour": "09:00",
+      "closeHour": "14:00",
+      "note": "Horário do Arquivo Municipal; jardins acessíveis em horário de expediente."
+    },
+    "links": [
+      {
+        "label": "Turismo Granada",
+        "url": "https://turismo.granada.org/es/areas-tematicas/bodas-palacios/palacio-cordova"
+      }
+    ],
+    "history": "Construído entre 1530 e 1592 na Placeta de las Descalzas, foi desmontado e remontado pedra a pedra em 1960 na Cuesta del Chapiz; desde 1984 sedia o Arquivo Municipal de Granada."
+  },
+  {
+    "id": "grn_mirador_carvajales",
+    "categoryId": "granada",
+    "city": "granada",
+    "name": "Mirador de la Placeta de Carvajales",
+    "tagline": "A Alhambra de pertinho, sem multidão",
+    "description": "Escondido no baixo Albaicín, entre a Cuesta de San Gregorio e a Calle San Juan de los Reyes, este pequeno miradouro oferece uma das visões mais íntimas da Alhambra. Daqui a Torre de la Vela e a Alcazaba erguem-se logo à frente sobre o morro da Sabika, com as torres dos Palácios Nazaríes ao fundo. Silencioso e quase secreto, ao contrário do lotado San Nicolás.",
+    "lat": 37.17893,
+    "lng": -3.59425,
+    "durationLabel": "15–20 min",
+    "fit": "CLEAR_SKY",
+    "mapQuery": "Mirador Placeta de los Carvajales, Granada",
+    "kingTip": "Vá ao fim da tarde: a luz dourada bate de frente na Alhambra e há bancos para sentar em paz. Fica muito perto da Plaza Nueva, subindo poucos metros — não confunda com o San Nicolás.",
+    "priceLevel": "Gratuito",
+    "history": "Antiga horta da família nobre dos Carvajales, influente em Granada nos séculos XV e XVI; ganhou traçado de praça pública nas reformas urbanas do Albaicín no século XIX."
+  },
+  {
+    "id": "crd_cristo_faroles",
+    "categoryId": "cordoba",
+    "city": "cordoba",
+    "name": "Cristo de los Faroles",
+    "tagline": "A imagem mais cordobesa: um Cristo e oito lanternas",
+    "description": "Na sóbria Plaza de Capuchinos, de paredes caiadas de branco, ergue-se o crucifixo barroco esculpido por Juan Navarro León em 1794, iluminado por oito lanternas de ferro forjado que lhe deram o apelido. O contraste do Cristo escuro sobre a cal ofuscante faz desta uma das estampas mais recolhidas e fotografadas de Córdoba, sobretudo à noite.",
+    "lat": 37.88817,
+    "lng": -4.77759,
+    "durationLabel": "15–20 min",
+    "fit": "CLEAR_SKY",
+    "mapQuery": "Cristo de los Faroles, Plaza de Capuchinos, Cordoba",
+    "kingTip": "Venha depois do anoitecer, quando as lanternas acesas dramatizam o Cristo contra o branco — a foto clássica. De dia, a praça calçada com pedra original fica em silêncio quase total.",
+    "priceLevel": "Gratuito",
+    "history": "Erguido em 1794 por encomenda do frei capuchinho Diego José de Cádiz e obra do escultor Juan Navarro León, chama-se oficialmente Cristo de la Expiración y del Perdón; o povo o rebatizou pelas oito lanternas que o cercam."
+  },
+  {
+    "id": "crd_plaza_tendillas",
+    "categoryId": "cordoba",
+    "city": "cordoba",
+    "name": "Plaza de las Tendillas",
+    "tagline": "O coração moderno de Córdoba",
+    "description": "A grande praça central de Córdoba, ponto de encontro e marco-zero da cidade moderna. No meio ergue-se a estátua equestre do Gran Capitán, Gonzalo Fernández de Córdoba, obra de Mateo Inurria de 1923. Seu relógio toca as horas com acordes de guitarra flamenca gravados. Cercada de cafés e lojas, é a fronteira entre a Córdoba antiga e a comercial.",
+    "lat": 37.88451,
+    "lng": -4.77956,
+    "durationLabel": "15–20 min",
+    "fit": "CLEAR_SKY",
+    "mapQuery": "Plaza de las Tendillas, Cordoba",
+    "kingTip": "Fique atento ao relógio no alto: em vez de badaladas, marca as horas com toques de guitarra flamenca. É o melhor ponto de partida para descer à Judería e à Mesquita-Catedral a pé.",
+    "priceLevel": "Gratuito",
+    "history": "De origem no século XIV, quando abrigava as casas dos comendadores de Calatrava e pequenas 'tendillas' (lojinhas) que lhe deram o nome; ganhou a feição atual na grande reforma urbana de 1925-1930, com o Gran Capitán transferido ao centro em 1927."
+  },
+  {
+    "id": "crd_iglesia_san_lorenzo",
+    "categoryId": "cordoba",
+    "city": "cordoba",
+    "name": "Iglesia de San Lorenzo",
+    "tagline": "A joia gótico-mudéjar das igrejas fernandinas",
+    "description": "Uma das igrejas fernandinas erguidas após a Reconquista de Fernando III, no fim do século XIII, e talvez a mais bela do grupo. Distingue-se por um raro pórtico de três arcos diante da entrada e por um grande rosetão gótico-mudéjar, um dos melhores da época. Guarda afrescos do século XIV e uma torre-campanário desenhada por Hernán Ruiz II em 1555.",
+    "lat": 37.88856,
+    "lng": -4.76889,
+    "durationLabel": "20–30 min",
+    "fit": "INDOOR",
+    "mapQuery": "Iglesia de San Lorenzo, Cordoba",
+    "kingTip": "Fica no bairro de San Lorenzo, longe das rotas turísticas — combine com a Torre de la Malmuerta e a Plaza de Capuchinos numa caminhada pela Córdoba autêntica dos bairros do norte.",
+    "priceLevel": "Gratuito ou simbólico",
+    "history": "Construída entre cerca de 1244 e 1300 sobre uma antiga mesquita, é uma das igrejas fernandinas do reinado de Fernando III, o Santo; a torre é de Hernán Ruiz II (1555) e o restauro de 1963 recuperou seu aspecto gótico-mudéjar original."
+  },
+  {
+    "id": "crd_puerta_almodovar",
+    "categoryId": "cordoba",
+    "city": "cordoba",
+    "name": "Puerta de Almodóvar",
+    "tagline": "A porta árabe da muralha, guardada por Séneca",
+    "description": "A única porta de origem árabe que Córdoba conserva, encaixada num dos melhores trechos preservados da muralha medieval, ao lado da Judería. Reconstruída no século XIV sobre a porta andalusí Bab al-Chawz, é ladeada por torreões e por uma estátua de bronze do filósofo cordobês Séneca. Dela parte a estreita Calle Judíos, coração do bairro judeu.",
+    "lat": 37.88283,
+    "lng": -4.7862,
+    "durationLabel": "15–20 min",
+    "fit": "CLEAR_SKY",
+    "mapQuery": "Puerta de Almodovar, Cordoba",
+    "kingTip": "Atravesse a porta e siga pela Calle Judíos até a Sinagoga e o Zoco — é a entrada mais atmosférica da Judería. O trecho de muralha ao longo da Calle Cairuán, com sua alberca, rende ótimas fotos ao entardecer.",
+    "priceLevel": "Gratuito",
+    "history": "Conhecida como Bab al-Chawz (Porta da Nogueira) na época muçulmana, remonta à Córdoba andalusí e foi reconstruída no século XIV; a estátua de Séneca, de Amadeo Ruiz Olmos, foi inaugurada em 1965 no XIX centenário da morte do filósofo."
+  },
+  {
+    "id": "ant_iglesia_san_juan_de_dios",
+    "categoryId": "antequera",
+    "city": "antequera",
+    "name": "Iglesia de San Juan de Dios",
+    "tagline": "Uma joia do barroco andaluz em azul e branco",
+    "description": "Na rua Infante Don Fernando, esta igreja da Ordem Hospitaleira foi iniciada em 1696 por Melchor de Aguirre e é um dos interiores barrocos mais delicados da Andaluzia. De planta em cruz latina e cúpula sobre pendentes, encanta pela decoração em estuque branco ondulante com detalhes azuis, entremeada de motivos vegetais e animais. A portada é de calcário vermelho do Torcal.",
+    "lat": 37.02044,
+    "lng": -4.56397,
+    "durationLabel": "20–30 min",
+    "fit": "INDOOR",
+    "mapQuery": "Iglesia de San Juan de Dios, Antequera",
+    "kingTip": "Aberta ao público de forma permanente desde 2013 — refúgio fresco e pouco visitado sobre a artéria principal. Repare que a pedra do templo veio das ruínas romanas de Singilia Barba.",
+    "priceLevel": "Gratuito ou simbólico",
+    "links": [
+      {
+        "label": "Turismo Antequera",
+        "url": "https://turismo.antequera.es/puntos-de-interes/iglesia-san-juan-de-dios/"
+      }
+    ],
+    "history": "A Ordem Hospitaleira chegou a Antequera na segunda metade do século XVII; a igreja começou em 1696 sob projeto de Melchor de Aguirre e foi bendita em 1716, com hospital e convento concluídos só no fim do século XVIII. É Bem de Interesse Cultural desde 2005."
+  },
+  {
+    "id": "ant_mirador_torcal_ventanillas",
+    "categoryId": "antequera",
+    "city": "antequera",
+    "name": "El Torcal — Mirador de las Ventanillas",
+    "tagline": "Um labirinto kárstico com vista até a África",
+    "description": "A poucos passos do centro de visitantes Torcal Alto, este miradouro se abre sobre um dos paisagens kársticas mais espetaculares da Europa: torres de calcário de 150 milhões de anos esculpidas pela erosão em formas surreais. Do balcão descortina-se Villanueva de la Concepción, o vale do Campanillas, Málaga e, em dias limpos, a linha da costa africana. Trilhas sinalizadas partem dali.",
+    "lat": 36.9581,
+    "lng": -4.5436,
+    "durationLabel": "1,5–2 h (com trilha)",
+    "fit": "CLEAR_SKY",
+    "mapQuery": "Centro de Visitantes Torcal Alto, Antequera",
+    "whatToDo": "Comece no centro de visitantes, admire a vista do Mirador de las Ventanillas e percorra a Rota Verde (1,5 km) entre os pilares de calcário.",
+    "kingTip": "No verão, o acesso de carro à parte alta é restrito e há lançadeira a partir do posto inferior — chegue cedo. Leve água e calçado firme; a rocha é escorregadia. A serra fica bem mais fresca que Antequera lá embaixo.",
+    "priceLevel": "Gratuito (lançadeira/estacionamento à parte)",
+    "links": [
+      {
+        "label": "Turismo Antequera",
+        "url": "https://turismo.antequera.es/activity/el-torcal-de-antequera/"
+      },
+      {
+        "label": "Torcal de Antequera",
+        "url": "https://www.torcaldeantequera.com"
+      }
+    ],
+    "history": "Paraje Natural desde 1989 e parte do sítio Patrimônio Mundial dos Dólmenes de Antequera desde 2016, o Torcal formou-se a partir de sedimentos marinhos do Jurássico, erguidos e depois moldados pela dissolução da chuva ao longo de milhões de anos."
+  },
+  {
+    "id": "ant_plaza_coso_viejo",
+    "categoryId": "antequera",
+    "city": "antequera",
+    "name": "Plaza del Coso Viejo",
+    "tagline": "O largo senhorial no coração de Antequera",
+    "description": "No coração do casco histórico, esta praça empedrada nasceu no século XVI como ampliação da Plaza de San Sebastián e foi antigo mercado e palco de touradas. Preside-a o Palácio de Nájera, casa senhorial setecentista que abriga o museu da cidade, com a estátua equestre do Infante Don Fernando, conquistador de Antequera em 1410, e a Fonte dos Quatro Elementos.",
+    "lat": 37.01645,
+    "lng": -4.55789,
+    "durationLabel": "20–30 min",
+    "fit": "ANY",
+    "mapQuery": "Plaza del Coso Viejo, Antequera",
+    "kingTip": "É o ponto de partida natural para subir a cidade alta: daqui pegue a Cuesta de Zapateros rumo ao Arco de los Gigantes e à Colegiata. As esplanadas à sombra convidam a uma pausa antes da ladeira.",
+    "priceLevel": "Gratuito",
+    "links": [
+      {
+        "label": "Turismo Antequera",
+        "url": "https://turismo.antequera.es/puntos-de-interes/plaza-coso-viejo/"
+      }
+    ],
+    "history": "Surgida no século XVI como ampliação da Plaza de San Sebastián e antes chamada Plaza de las Verduras pelos mercados que abrigava; passou a Coso Viejo por acolher festas e touradas, e hoje reúne o Palácio de Nájera e o monumento ao Infante Don Fernando."
+  },
+  {
+    "id": "mlg_ac_palacio",
+    "categoryId": "hospedagem",
+    "city": "malaga",
+    "name": "AC Málaga Palacio",
+    "tagline": "4★ com rooftop de piscina sobre a Catedral",
+    "description": "Torre clássica na Cortina del Muelle, entre a Catedral e o porto, com quartos amplos e vista para o Mediterrâneo ou para a cidade antiga. O trunfo é o rooftop no último andar, com piscina, bar e panorama frontal para a torre da Catedral. Central, confortável e com ótimo custo-benefício para a categoria.",
+    "whatToDo": [
+      "rooftop com piscina",
+      "bar panorâmico",
+      "a 2 min da Catedral"
+    ],
+    "kingTip": "Suba ao terraço ao entardecer; a vista da Catedral iluminada dali é a melhor da cidade num hotel deste preço.",
+    "lat": 36.7178,
+    "lng": -4.4177,
+    "durationLabel": "estadia",
+    "fit": "ANY",
+    "priceLevel": "~€170–290/noite (est., jul)",
+    "mapQuery": "AC Hotel Málaga Palacio",
+    "links": [
+      {
+        "label": "Site oficial",
+        "url": "https://www.marriott.com/en-us/hotels/agpap-ac-hotel-malaga-palacio/overview/"
+      },
+      {
+        "label": "Reservar (Booking)",
+        "url": "https://www.booking.com/searchresults.pt-br.html?ss=AC+Hotel+Malaga+Palacio"
+      }
+    ],
+    "image": "mlg_ac_palacio.jpg"
+  },
+  {
+    "id": "mlg_vincci_posada_patio",
+    "categoryId": "hospedagem",
+    "city": "malaga",
+    "name": "Vincci Selección Posada del Patio",
+    "tagline": "5★ com muralha romana no lobby",
+    "description": "Boutique 5★ no Pasillo Santa Isabel, à beira do rio Guadalmedina e a passos do Mercado de Atarazanas. Um vestígio da muralha árabe-romana atravessa o átrio sob piso de vidro, num diálogo raro entre ruína e design. Elegante e tranquilo, na borda oeste do centro histórico.",
+    "whatToDo": [
+      "muralha histórica no átrio",
+      "spa e terraço",
+      "a 5 min do Mercado de Atarazanas"
+    ],
+    "kingTip": "Peça um quarto nos andares altos com vista para a cidade; os inferiores dão para a rua movimentada do pasillo.",
+    "lat": 36.7186,
+    "lng": -4.4255,
+    "durationLabel": "estadia",
+    "fit": "ANY",
+    "priceLevel": "~€200–340/noite (est., jul)",
+    "mapQuery": "Vincci Selección Posada del Patio, Málaga",
+    "links": [
+      {
+        "label": "Site oficial",
+        "url": "https://www.vinccihoteles.com/hoteles/espana/malaga/vincci-seleccion-posada-del-patio"
+      },
+      {
+        "label": "Reservar (Booking)",
+        "url": "https://www.booking.com/searchresults.pt-br.html?ss=Vincci+Posada+del+Patio+Malaga"
+      }
+    ]
+  },
+  {
+    "id": "mlg_room_mate_larios",
+    "categoryId": "hospedagem",
+    "city": "malaga",
+    "name": "Room Mate Larios",
+    "tagline": "Design art déco na esquina da Larios",
+    "description": "Hotel de design instalado num edifício art déco na própria Calle Marqués de Larios, a artéria nobre de Málaga. Quartos com estilo e um rooftop terraço com vista para a rua elegante e os telhados do centro. Impossível ficar mais no coração comercial e de tapas da cidade.",
+    "whatToDo": [
+      "rooftop",
+      "na própria Calle Larios",
+      "a 4 min da Catedral"
+    ],
+    "kingTip": "A localização é imbatível, mas peça quarto afastado da fachada: a Larios fica cheia e barulhenta até tarde no verão.",
+    "lat": 36.7183,
+    "lng": -4.4206,
+    "durationLabel": "estadia",
+    "fit": "ANY",
+    "priceLevel": "~€180–310/noite (est., jul)",
+    "mapQuery": "Room Mate Larios, Málaga",
+    "links": [
+      {
+        "label": "Site oficial",
+        "url": "https://room-matehotels.com/en/larios/"
+      },
+      {
+        "label": "Reservar (Booking)",
+        "url": "https://www.booking.com/searchresults.pt-br.html?ss=Room+Mate+Larios+Malaga"
+      }
+    ]
+  },
+  {
+    "id": "mlg_barcelo_malaga",
+    "categoryId": "hospedagem",
+    "city": "malaga",
+    "name": "Barceló Málaga",
+    "tagline": "4★ de design colado à estação AVE",
+    "description": "Hotel de design conectado à estação María Zambrano (trem de alta velocidade), com um lobby marcante e um escorregador que desce ao térreo. Prático para quem chega de AVE de Madri, Córdoba ou Sevilha e quer emendar a cidade. Fica a poucos minutos de táxi do centro histórico.",
+    "whatToDo": [
+      "ligado à estação AVE",
+      "fitness e bar",
+      "a 10 min do centro histórico"
+    ],
+    "kingTip": "Ideal como primeira ou última noite se você viaja de trem; escolha quarto nas faces altas para fugir do ruído dos trilhos.",
+    "lat": 36.7118,
+    "lng": -4.4318,
+    "durationLabel": "estadia",
+    "fit": "ANY",
+    "priceLevel": "~€130–230/noite (est., jul)",
+    "mapQuery": "Barceló Málaga",
+    "links": [
+      {
+        "label": "Site oficial",
+        "url": "https://www.barcelo.com/pt-br/barcelo-malaga/"
+      },
+      {
+        "label": "Reservar (Booking)",
+        "url": "https://www.booking.com/searchresults.pt-br.html?ss=Barcelo+Malaga"
+      }
+    ],
+    "image": "mlg_barcelo_malaga.jpg"
+  },
+  {
+    "id": "mrb_higueron_curio",
+    "categoryId": "hospedagem",
+    "city": "marbella",
+    "name": "Higuerón Hotel Curio by Hilton (Fuengirola)",
+    "tagline": "Resort de vista mar na Reserva del Higuerón",
+    "description": "Grande resort da Curio Collection by Hilton no alto da Reserva del Higuerón, entre Benalmádena e Fuengirola, com vista panorâmica para o Mediterrâneo. Múltiplas piscinas, spa Nammu, ginásios e teleférico/shuttle até o beach club à beira-mar. Ótima base familiar na Costa del Sol central.",
+    "whatToDo": [
+      "piscinas com vista mar",
+      "spa Nammu",
+      "beach club próprio"
+    ],
+    "kingTip": "Reserve quarto 'sea view' nos andares altos; o resort fica na encosta, então use o shuttle para descer à praia.",
+    "lat": 36.5268,
+    "lng": -4.6268,
+    "durationLabel": "estadia",
+    "fit": "ANY",
+    "priceLevel": "~€220–420/noite (est., jul)",
+    "mapQuery": "Higuerón Hotel Málaga Curio Collection by Hilton",
+    "links": [
+      {
+        "label": "Site oficial",
+        "url": "https://www.higueronhotel.com/en/"
+      },
+      {
+        "label": "Reservar (Booking)",
+        "url": "https://www.booking.com/searchresults.pt-br.html?ss=Higueron+Hotel+Curio+Hilton+Fuengirola"
+      }
+    ]
+  },
+  {
+    "id": "mrb_vincci_aleysa_benalmadena",
+    "categoryId": "hospedagem",
+    "city": "marbella",
+    "name": "Vincci Selección Aleysa Benalmádena",
+    "tagline": "Boutique 5★ à beira-mar em Benalmádena",
+    "description": "Pequeno hotel boutique 5★ de frente para a praia de Benalmádena Costa, com estilo mediterrâneo luminoso e ambiente sereno. Piscina, spa e um restaurante voltado ao mar, a poucos passos do passeio marítimo. Refinado e tranquilo, no coração da Costa del Sol central.",
+    "whatToDo": [
+      "piscina de frente para o mar",
+      "spa",
+      "passeio marítimo na porta"
+    ],
+    "kingTip": "Peça quarto com terraço e vista mar; a diferença compensa pela varanda sobre a praia e o café da manhã ao ar livre.",
+    "lat": 36.5936,
+    "lng": -4.5166,
+    "durationLabel": "estadia",
+    "fit": "ANY",
+    "priceLevel": "~€200–360/noite (est., jul)",
+    "mapQuery": "Vincci Selección Aleysa Benalmádena",
+    "links": [
+      {
+        "label": "Site oficial",
+        "url": "https://www.vinccihoteles.com/hoteles/espana/benalmadena/vincci-seleccion-aleysa-hotel-boutique-spa"
+      },
+      {
+        "label": "Reservar (Booking)",
+        "url": "https://www.booking.com/searchresults.pt-br.html?ss=Vincci+Aleysa+Benalmadena"
+      }
+    ]
+  },
+  {
+    "id": "mrb_fuerte_marbella",
+    "categoryId": "hospedagem",
+    "city": "marbella",
+    "name": "Hotel Fuerte Marbella",
+    "tagline": "Beira-mar colado ao centro antigo",
+    "description": "Clássico de frente para a praia de La Fontanilla, num jardim subtropical entre o Paseo Marítimo e o casco antiguo de Marbella. Piscinas, spa e acesso direto à areia, com a vantagem rara de estar a poucos minutos a pé das praças e vielas históricas. Familiar, arborizado e muito bem situado.",
+    "whatToDo": [
+      "praia na porta",
+      "piscinas e spa",
+      "a 5 min do centro antigo"
+    ],
+    "kingTip": "É o único grande hotel de praia de Marbella colado ao casco antiguo: peça quarto vista mar e faça o centro histórico a pé.",
+    "lat": 36.5085,
+    "lng": -4.883,
+    "durationLabel": "estadia",
+    "fit": "ANY",
+    "priceLevel": "~€230–420/noite (est., jul)",
+    "mapQuery": "Hotel Fuerte Marbella",
+    "links": [
+      {
+        "label": "Site oficial",
+        "url": "https://www.fuertehoteles.com/en/hotels/hotel-fuerte-marbella/"
+      },
+      {
+        "label": "Reservar (Booking)",
+        "url": "https://www.booking.com/searchresults.pt-br.html?ss=Hotel+Fuerte+Marbella"
+      }
+    ]
+  },
+  {
+    "id": "mrb_los_monteros",
+    "categoryId": "hospedagem",
+    "city": "marbella",
+    "name": "Los Monteros Marbella",
+    "tagline": "Grande-dame 5★ entre pinheiros e mar",
+    "description": "Um dos resorts históricos de Marbella, a leste da cidade, cercado de jardins e pinhais, com o célebre beach club La Cabane na areia. Piscinas, tênis, spa e um ar de clube clássico e discreto. Elegância à moda antiga, longe do burburinho de Puerto Banús.",
+    "whatToDo": [
+      "beach club La Cabane",
+      "piscinas e tênis",
+      "spa"
+    ],
+    "kingTip": "Fica a leste, mais calmo: bom para quem quer sossego. Reserve almoço no La Cabane, o beach club é o coração social do hotel.",
+    "lat": 36.4983,
+    "lng": -4.8442,
+    "durationLabel": "estadia",
+    "fit": "ANY",
+    "priceLevel": "~€300–560/noite (est., jul)",
+    "mapQuery": "Los Monteros Marbella",
+    "links": [
+      {
+        "label": "Site oficial",
+        "url": "https://www.monteros.com/en/"
+      },
+      {
+        "label": "Reservar (Booking)",
+        "url": "https://www.booking.com/searchresults.pt-br.html?ss=Los+Monteros+Marbella"
+      }
+    ]
+  },
+  {
+    "id": "mrb_amare_beach",
+    "categoryId": "hospedagem",
+    "city": "marbella",
+    "name": "Amàre Beach Hotel Marbella",
+    "tagline": "Adults-only de rooftop no Paseo Marítimo",
+    "description": "Hotel só para adultos no Paseo Marítimo de Marbella, com pegada moderna e social. Rooftop com piscina, bar e vista para o mar, além de beach club próprio na areia. Para casais e amigos que querem praia, drinques e vibe descontraída a pé do centro.",
+    "whatToDo": [
+      "rooftop com piscina",
+      "beach club",
+      "passeio marítimo na porta"
+    ],
+    "kingTip": "Adults-only (16+): não é para famílias com crianças. O rooftop Belvue ao pôr do sol é o programa da casa.",
+    "lat": 36.5057,
+    "lng": -4.8996,
+    "durationLabel": "estadia",
+    "fit": "ANY",
+    "priceLevel": "~€240–440/noite (est., jul)",
+    "mapQuery": "Amàre Beach Hotel Marbella",
+    "links": [
+      {
+        "label": "Site oficial",
+        "url": "https://www.amarehotels.com/en/amare-beach-hotel-marbella/"
+      },
+      {
+        "label": "Reservar (Booking)",
+        "url": "https://www.booking.com/searchresults.pt-br.html?ss=Amare+Beach+Hotel+Marbella"
+      }
+    ]
+  },
+  {
+    "id": "mrb_flats_costa_central",
+    "categoryId": "hospedagem",
+    "city": "marbella",
+    "name": "Flats na Costa Central (Torremolinos/Benalmádena/Fuengirola)",
+    "tagline": "Apartamentos de praia na Costa del Sol",
+    "description": "Aluguel de temporada nos balneários centrais da Costa del Sol: Torremolinos, Benalmádena e Fuengirola. Apartamentos à beira-mar, muitos com piscina de condomínio e varanda sobre o Mediterrâneo, bem servidos de trem de cercanías até Málaga. Prático e econômico para famílias e estadas longas de praia.",
+    "whatToDo": [
+      "cozinha própria",
+      "piscina de condomínio",
+      "trem direto a Málaga"
+    ],
+    "kingTip": "Escolha algo perto de uma estação do Cercanías C-1 (Benalmádena-Arroyo, Torremolinos ou Fuengirola) para ir e voltar de Málaga sem carro.",
+    "lat": 36.5988,
+    "lng": -4.539,
+    "durationLabel": "estadia",
+    "fit": "ANY",
+    "priceLevel": "~€100–220/noite (est., jul)",
+    "mapQuery": "Benalmádena Costa, Málaga, Spain",
+    "links": [
+      {
+        "label": "Buscar no Airbnb (Benalmádena)",
+        "url": "https://www.airbnb.com.br/s/Benalm%C3%A1dena--Spain/homes"
+      },
+      {
+        "label": "Buscar no Airbnb (Fuengirola)",
+        "url": "https://www.airbnb.com.br/s/Fuengirola--Spain/homes"
+      }
+    ]
+  },
+  {
+    "id": "grn_aurea_washington_irving",
+    "categoryId": "hospedagem",
+    "city": "granada",
+    "name": "Áurea Washington Irving",
+    "tagline": "Histórico no caminho da Alhambra",
+    "description": "Hotel histórico no Paseo del Generalife, na subida arborizada rumo à Alhambra, herdeiro do clássico Washington Irving que hospedou viajantes desde o séc. XIX. Reformado com conforto contemporâneo, fica a poucos passos da bilheteria do monumento. Base cômoda para chegar cedo à Alhambra, antes das multidões.",
+    "whatToDo": [
+      "a 5 min da entrada da Alhambra",
+      "terraço",
+      "no bosque do Generalife"
+    ],
+    "kingTip": "A localização paga sozinha: durma aqui para ser dos primeiros a entrar na Alhambra sem depender de táxi na subida.",
+    "lat": 37.1747,
+    "lng": -3.5893,
+    "durationLabel": "estadia",
+    "fit": "ANY",
+    "priceLevel": "~€180–320/noite (est., jul)",
+    "mapQuery": "Áurea Washington Irving, Granada",
+    "links": [
+      {
+        "label": "Site oficial",
+        "url": "https://www.eurostarshotels.com/aurea-washington-irving.html"
+      },
+      {
+        "label": "Reservar (Booking)",
+        "url": "https://www.booking.com/searchresults.pt-br.html?ss=Aurea+Washington+Irving+Granada"
+      }
+    ]
+  },
+  {
+    "id": "grn_ac_santa_paula",
+    "categoryId": "hospedagem",
+    "city": "granada",
+    "name": "AC Palacio de Santa Paula",
+    "tagline": "Convento-palácio 5★ na Gran Vía",
+    "description": "Luxo 5★ da Autograph Collection num conjunto que reúne convento do séc. XVI, casas mouriscas e fachada senhorial na Gran Vía de Colón. Claustro ajardinado, biblioteca-restaurante El Claustro e spa, no centro comercial de Granada. Histórico e elegante, a poucos minutos da Catedral e da Capela Real.",
+    "whatToDo": [
+      "claustro histórico",
+      "spa",
+      "a 5 min da Catedral"
+    ],
+    "kingTip": "Peça um quarto voltado ao claustro interno; são mais silenciosos que os da Gran Vía, avenida de tráfego constante.",
+    "lat": 37.1782,
+    "lng": -3.5987,
+    "durationLabel": "estadia",
+    "fit": "ANY",
+    "priceLevel": "~€230–390/noite (est., jul)",
+    "mapQuery": "AC Palacio de Santa Paula, Granada",
+    "links": [
+      {
+        "label": "Site oficial",
+        "url": "https://www.marriott.com/en-us/hotels/grxak-ac-hotel-palacio-de-santa-paula/overview/"
+      },
+      {
+        "label": "Reservar (Booking)",
+        "url": "https://www.booking.com/searchresults.pt-br.html?ss=AC+Palacio+de+Santa+Paula+Granada"
+      }
+    ]
+  },
+  {
+    "id": "grn_palacio_santa_ines",
+    "categoryId": "hospedagem",
+    "city": "granada",
+    "name": "Palacio de Santa Inés",
+    "tagline": "Casa-palácio do séc. XVI no Albaicín",
+    "description": "Pequeno hotel numa casa senhorial renascentista da Carrera del Darro, no sopé do Albaicín, com pátio de colunas e afrescos atribuídos à escola de Rafael. Poucos quartos, muito charme e um terraço com vista para a Alhambra. Atmosfera íntima e histórica, dentro do bairro mouro.",
+    "whatToDo": [
+      "pátio renascentista",
+      "terraço com vista da Alhambra",
+      "na Carrera del Darro"
+    ],
+    "kingTip": "Reserve os quartos superiores com vista da Alhambra; o hotel é pequeno e essas unidades esgotam primeiro no verão.",
+    "lat": 37.1769,
+    "lng": -3.592,
+    "durationLabel": "estadia",
+    "fit": "ANY",
+    "priceLevel": "~€150–260/noite (est., jul)",
+    "mapQuery": "Palacio de Santa Inés, Granada",
+    "links": [
+      {
+        "label": "Site oficial",
+        "url": "https://www.palaciosantaines.com/"
+      },
+      {
+        "label": "Reservar (Booking)",
+        "url": "https://www.booking.com/searchresults.pt-br.html?ss=Palacio+de+Santa+Ines+Granada"
+      }
+    ]
+  },
+  {
+    "id": "rnd_catalonia_ronda",
+    "categoryId": "hospedagem",
+    "city": "ronda",
+    "name": "Catalonia Ronda",
+    "tagline": "4★ com rooftop e vista do campo bravo",
+    "description": "Hotel moderno junto à Plaza de Toros e à Alameda del Tajo, com spa e um rooftop de piscina com vista panorâmica para a serrania e o vale. Confortável e bem equipado, num raro exemplo de hotel novo dentro do casco de Ronda. Ótimo para famílias que querem piscina e localização central.",
+    "whatToDo": [
+      "rooftop com piscina panorâmica",
+      "spa",
+      "a 3 min da Plaza de Toros"
+    ],
+    "kingTip": "Suba ao rooftop ao fim do dia: a vista aberta para a serrania rondeña é a melhor surpresa da casa.",
+    "lat": 36.7443,
+    "lng": -5.1646,
+    "durationLabel": "estadia",
+    "fit": "ANY",
+    "priceLevel": "~€150–260/noite (est., jul)",
+    "mapQuery": "Catalonia Ronda",
+    "links": [
+      {
+        "label": "Site oficial",
+        "url": "https://www.cataloniahotels.com/en/hotel/catalonia-ronda"
+      },
+      {
+        "label": "Reservar (Booking)",
+        "url": "https://www.booking.com/searchresults.pt-br.html?ss=Catalonia+Ronda"
+      }
+    ]
+  },
+  {
+    "id": "rnd_san_gabriel",
+    "categoryId": "hospedagem",
+    "city": "ronda",
+    "name": "Hotel San Gabriel",
+    "tagline": "Casa-museu de família no casco antigo",
+    "description": "Charmoso hotel familiar numa mansão de 1736 no casco antiguo de Ronda, cheia de antiguidades, uma escadaria senhorial e até uma minissala de cinema com poltronas de teatro. Quartos únicos e um pátio acolhedor, a passos da Casa del Rey Moro e da Puente Nuevo. Autêntico, pessoal e cheio de história.",
+    "whatToDo": [
+      "pátio e salões de antiguidades",
+      "biblioteca e sala de cinema",
+      "a 4 min da Puente Nuevo"
+    ],
+    "kingTip": "Cada quarto é diferente; peça um dos maiores do andar nobre e tome o café da manhã no pátio histórico.",
+    "lat": 36.7398,
+    "lng": -5.1656,
+    "durationLabel": "estadia",
+    "fit": "ANY",
+    "priceLevel": "~€110–180/noite (est., jul)",
+    "mapQuery": "Hotel San Gabriel, Ronda",
+    "links": [
+      {
+        "label": "Site oficial",
+        "url": "https://www.hotelsangabriel.com/en/"
+      },
+      {
+        "label": "Reservar (Booking)",
+        "url": "https://www.booking.com/searchresults.pt-br.html?ss=Hotel+San+Gabriel+Ronda"
+      }
+    ]
+  },
+  {
+    "id": "nrj_carabeo_boutique",
+    "categoryId": "hospedagem",
+    "city": "axarquia",
+    "name": "Hotel Carabeo (boutique) Nerja",
+    "tagline": "Boutique à beira da falésia em Nerja",
+    "description": "Pequeno hotel boutique de estilo inglês na Calle Carabeo, sobre a falésia da zona antiga de Nerja, cheio de antiguidades e obras de arte. Jardim escalonado com piscina descendo até um mirante sobre o mar e acesso próximo às calas. Íntimo, romântico e a passos do Balcón de Europa.",
+    "whatToDo": [
+      "jardim com piscina sobre o mar",
+      "restaurante 34",
+      "a 5 min do Balcón de Europa"
+    ],
+    "kingTip": "Poucos quartos e muito procurado: reserve cedo e peça um com terraço e vista mar sobre o jardim em socalcos.",
+    "lat": 36.7456,
+    "lng": -3.8728,
+    "durationLabel": "estadia",
+    "fit": "ANY",
+    "priceLevel": "~€150–260/noite (est., jul)",
+    "mapQuery": "Hotel Carabeo, Nerja",
+    "links": [
+      {
+        "label": "Site oficial",
+        "url": "https://www.hotelcarabeo.com/"
+      },
+      {
+        "label": "Reservar (Booking)",
+        "url": "https://www.booking.com/searchresults.pt-br.html?ss=Hotel+Carabeo+Nerja"
+      }
+    ]
+  },
+  {
+    "id": "crd_hospes_bailio",
+    "categoryId": "hospedagem",
+    "city": "cordoba",
+    "name": "Hospes Palacio del Bailío",
+    "tagline": "Palácio 5★ com ruínas romanas sob o spa",
+    "description": "Palácio dos séculos XVI-XVIII no centro histórico de Córdoba, com uma sucessão de pátios andaluzes, jardins e piscina. O spa se assenta sobre ruínas de uma casa romana, visíveis sob piso de vidro no restaurante. Um dos endereços mais belos da cidade, entre a Judería e a Plaza de Colón.",
+    "whatToDo": [
+      "pátios e jardins",
+      "spa sobre ruínas romanas",
+      "piscina"
+    ],
+    "kingTip": "Peça um quarto que dê para os pátios ajardinados; são o coração do palácio e ficam frescos até no calor de julho.",
+    "lat": 37.8878,
+    "lng": -4.7768,
+    "durationLabel": "estadia",
+    "fit": "ANY",
+    "priceLevel": "~€230–400/noite (est., jul)",
+    "mapQuery": "Hospes Palacio del Bailío, Córdoba",
+    "links": [
+      {
+        "label": "Site oficial",
+        "url": "https://www.hospes.com/cordoba-palacio-bailio/"
+      },
+      {
+        "label": "Reservar (Booking)",
+        "url": "https://www.booking.com/searchresults.pt-br.html?ss=Hospes+Palacio+del+Bailio+Cordoba"
+      }
+    ]
+  },
+  {
+    "id": "crd_eurostars_palace",
+    "categoryId": "hospedagem",
+    "city": "cordoba",
+    "name": "Eurostars Palace Córdoba",
+    "tagline": "4★ moderno com rooftop no Paseo da Vitória",
+    "description": "Hotel contemporâneo no Paseo de la Victoria, na borda oeste do centro, com quartos amplos e um rooftop de piscina e bar com vista para a cidade. Prático, confortável e a uma caminhada plana até a Mesquita-Catedral e a Judería. Boa opção para quem prefere estrutura moderna à intimidade dos boutiques.",
+    "whatToDo": [
+      "rooftop com piscina",
+      "a 10 min da Mesquita-Catedral",
+      "estrutura moderna"
+    ],
+    "kingTip": "O rooftop abre no verão e é o ponto alto: vá ao anoitecer. Fica pertinho da estação AVE, cômodo para chegadas de trem.",
+    "lat": 37.8832,
+    "lng": -4.7856,
+    "durationLabel": "estadia",
+    "fit": "ANY",
+    "priceLevel": "~€130–230/noite (est., jul)",
+    "mapQuery": "Eurostars Palace, Córdoba",
+    "links": [
+      {
+        "label": "Site oficial",
+        "url": "https://www.eurostarshotels.com/eurostars-palace.html"
+      },
+      {
+        "label": "Reservar (Booking)",
+        "url": "https://www.booking.com/searchresults.pt-br.html?ss=Eurostars+Palace+Cordoba"
+      }
+    ]
+  },
+  {
+    "id": "mrb_teleferico_benalmadena",
+    "categoryId": "natureza",
+    "city": "marbella",
+    "name": "Teleférico de Benalmádena (Monte Calamorro)",
+    "tagline": "Bondinho ao cume de 771 m sobre a costa",
+    "description": "Teleférico que sobe em 15 minutos da Explanada do Tívoli, em Arroyo de la Miel, até o alto do Monte Calamorro, na Sierra de Mijas. Lá em cima abrem-se trilhas curtas de monte mediterrâneo e miradouros que alcançam de Málaga a Gibraltar e, em dias limpos, o Rif marroquino. No terraço há sessões de voo livre de aves de rapina em pleno horizonte da baía.",
+    "lat": 36.599,
+    "lng": -4.5488,
+    "durationLabel": "2–3 h",
+    "fit": "CLEAR_SKY",
+    "windSensitive": true,
+    "mapQuery": "Teleférico Benalmádena, Explanada del Tívoli, Arroyo de la Miel",
+    "kingTip": "O teleférico fecha com vento forte e o cume fica bem mais fresco e ventoso que a costa: leve um casaco leve mesmo em julho, suba na primeira hora pela luz e confira antes se há voo de aves rapaces no dia.",
+    "priceLevel": "€€€",
+    "hours": {
+      "openDays": "Todos os dias (verão)",
+      "openHour": "10:00",
+      "closeHour": "19:00",
+      "note": "Horário do verão costuma esticar até o fim da tarde; confirme no site, pois muda por temporada e pode fechar por vento."
+    },
+    "links": [
+      {
+        "label": "Site oficial",
+        "url": "https://www.telefericobenalmadena.com"
+      }
+    ]
+  },
+  {
+    "id": "mrb_bioparc_fuengirola",
+    "categoryId": "natureza",
+    "city": "marbella",
+    "name": "Bioparc Fuengirola",
+    "tagline": "Zoo de imersão em plena selva urbana",
+    "description": "Parque de nova geração no centro de Fuengirola, onde os animais vivem em recriações fiéis de selvas de Madagascar, África Equatorial, Sudeste Asiático e Indo-Pacífico, sem grades à vista. Passarelas cruzam a vegetação densa junto a gorilas, tigres, lêmures e crocodilos, com forte trabalho de conservação de espécies ameaçadas. Um dos zoológicos mais premiados da Europa, ótimo para famílias.",
+    "lat": 36.5373,
+    "lng": -4.6274,
+    "durationLabel": "3–4 h",
+    "fit": "ANY",
+    "mapQuery": "Bioparc Fuengirola, Calle Camilo José Cela 6, Fuengirola",
+    "kingTip": "A vegetação densa dá bastante sombra, o que ajuda no calor, mas ainda assim vá na abertura às 10h para ver os animais ativos antes do meio-dia; fica a 600 m da estação de trem de Fuengirola.",
+    "priceLevel": "€€€",
+    "hours": {
+      "openDays": "Todos os dias",
+      "openHour": "10:00",
+      "closeHour": "20:00",
+      "note": "Abre todo o dia às 10h; o fechamento estica no verão (até 20h em maio–agosto). Confirme o horário do dia no site."
+    },
+    "links": [
+      {
+        "label": "Site oficial",
+        "url": "https://www.bioparcfuengirola.es"
+      }
+    ]
+  },
+  {
+    "id": "mrb_selwo_aventura",
+    "categoryId": "natureza",
+    "city": "marbella",
+    "name": "Selwo Aventura (Estepona)",
+    "tagline": "Safári a pé e de veículo entre serras",
+    "description": "Grande parque de aventura na serra de Estepona onde mais de 2.000 animais de três continentes vivem em vastos recintos que imitam a savana e a floresta. Percorre-se a pé e em veículos 4x4 tipo safári, com girafas, rinocerontes, leões, elefantes e uma reserva de aves. Tem tirolesas, pontes tibetanas e experiências de tratador para quem quer mais adrenalina.",
+    "lat": 36.4456,
+    "lng": -5.0078,
+    "durationLabel": "meio dia",
+    "fit": "CLEAR_SKY",
+    "mapQuery": "Selwo Aventura, A-7 km 162.5, Estepona",
+    "kingTip": "O terreno é aberto e serrano, com pouca sombra e muita subida: vá cedo, leve boné, protetor e água, e reserve o passeio de 4x4 e a tirolesa online para não pegar fila no calor.",
+    "priceLevel": "€€€",
+    "hours": {
+      "openDays": "Todos os dias (verão)",
+      "openHour": "10:00",
+      "closeHour": "18:00",
+      "note": "Abre às 10h; horário e dias podem variar fora do verão. Confirme no site antes de ir."
+    },
+    "links": [
+      {
+        "label": "Site oficial",
+        "url": "https://www.selwo.es"
+      }
+    ]
+  },
+  {
+    "id": "mrb_selwo_marina",
+    "categoryId": "natureza",
+    "city": "marbella",
+    "name": "Selwo Marina (Delfinário de Benalmádena)",
+    "tagline": "Golfinhos, pinguins e selva tropical",
+    "description": "Parque marinho junto ao Parque de la Paloma, em Benalmádena Costa, com o único delfinário da Andaluzia e uma grande pinguineira antártica com aves de várias espécies. Há ainda uma cúpula de selva tropical amazônica, répteis, aves exóticas e apresentações educativas de golfinhos e leões-marinhos ao longo do dia. Compacto e sombreado, funciona bem mesmo com tempo instável.",
+    "lat": 36.5951,
+    "lng": -4.5339,
+    "durationLabel": "2–3 h",
+    "fit": "ANY",
+    "mapQuery": "Selwo Marina, Parque de la Paloma, Benalmádena",
+    "kingTip": "Chegue cedo e cheque o quadro de horários logo na entrada para encaixar as apresentações de golfinhos e pinguins sem correria; boa opção de dia nublado ou muito quente, por ter áreas cobertas e climatizadas.",
+    "priceLevel": "€€€",
+    "hours": {
+      "openDays": "Todos os dias (verão)",
+      "openHour": "10:00",
+      "closeHour": "18:00",
+      "note": "Abre às 10h no verão; dias e horários variam por temporada. Confirme no site."
+    },
+    "links": [
+      {
+        "label": "Site oficial",
+        "url": "https://www.selwomarina.es"
+      }
+    ]
+  },
+  {
+    "id": "mrb_sea_life_benalmadena",
+    "categoryId": "natureza",
+    "city": "marbella",
+    "name": "Sea Life Benalmádena",
+    "tagline": "Aquário com túnel e tanque de tubarões",
+    "description": "Aquário à beira do glamouroso Puerto Marina de Benalmádena, com dezenas de tanques que recriam do Mediterrâneo aos mares tropicais. O ponto alto é o túnel submerso que atravessa o oceânico, com tubarões, raias e tartarugas passando por cima da cabeça. Espaço interativo com poças de toque, cavalos-marinhos e trabalho de resgate de tartarugas marinhas.",
+    "lat": 36.5966,
+    "lng": -4.5164,
+    "durationLabel": "1,5–2 h",
+    "fit": "ANY",
+    "mapQuery": "Sea Life Benalmádena, Puerto Marina",
+    "kingTip": "Totalmente coberto e climatizado, é o refúgio ideal nas horas de sol mais forte ou em dia de vento; emende com um passeio pelo Puerto Marina e reserve online para poupar até 20% e evitar fila.",
+    "priceLevel": "€€",
+    "hours": {
+      "openDays": "Todos os dias",
+      "openHour": "10:00",
+      "closeHour": "19:00",
+      "note": "Última entrada cerca de 1h antes do fechamento; horário estica no verão. Confirme no site."
+    },
+    "links": [
+      {
+        "label": "Site oficial",
+        "url": "https://www.visitsealife.com/benalmadena"
+      }
+    ]
+  },
+  {
+    "id": "mrb_cocodrilos_park",
+    "categoryId": "natureza",
+    "city": "marbella",
+    "name": "Cocodrilos Park (Torremolinos)",
+    "tagline": "Centenas de crocodilos a 15 min do centro",
+    "description": "Parque de conservação em Torremolinos dedicado aos crocodilos, com centenas de exemplares de várias espécies, do anão africano ao imponente crocodilo-do-nilo. Percursos passam por lagos e viveiros até o veterano Big Daddy, um dos maiores da Europa, além de tartarugas e répteis num museu temático. Visitas guiadas mostram alimentação e o trabalho de criação.",
+    "lat": 36.6262,
+    "lng": -4.5057,
+    "durationLabel": "1,5–2 h",
+    "fit": "ANY",
+    "mapQuery": "Cocodrilos Park, Calle Cuba 14, Torremolinos",
+    "kingTip": "Compacto e com boa parte à sombra e coberta, é uma parada rápida e boa até com tempo instável; confira o horário da alimentação dos crocodilos, o momento mais movimentado da visita, e há estacionamento próprio grátis.",
+    "priceLevel": "€€",
+    "hours": {
+      "openDays": "Todos os dias (verão)",
+      "openHour": "10:00",
+      "closeHour": "18:00",
+      "note": "Jul–ago costuma abrir 10:00–18:00; nos demais meses fecha mais cedo. Confirme no site."
+    },
+    "links": [
+      {
+        "label": "Site oficial",
+        "url": "https://www.cocodrilospark.com"
+      }
+    ]
+  },
+  {
+    "id": "mlg_embalse_guadalhorce",
+    "categoryId": "natureza",
+    "city": "malaga",
+    "name": "Embalse Conde de Guadalhorce (Lagos de El Chorro)",
+    "tagline": "Espelhos turquesa aos pés do Caminito del Rey",
+    "description": "Conjunto de represas de água turquesa encaixadas na paisagem cársica de Ardales, junto à entrada do Caminito del Rey. Miradouros como o Luis Morales revelam os lagos entre pinheiros e paredões, e nas margens dá para nadar, alugar caiaque e pedalinho ou fazer um roteiro guiado de remo. Restaurantes rústicos à beira-d'água completam um dia de natureza no interior de Málaga.",
+    "lat": 36.9184,
+    "lng": -4.7888,
+    "durationLabel": "2–4 h",
+    "fit": "CLEAR_SKY",
+    "windSensitive": false,
+    "mapQuery": "Mirador Embalse Conde de Guadalhorce, Ardales",
+    "kingTip": "Água refrescante e ótima para caiaque no calor, mas as margens têm pouca sombra: leve chapéu, protetor e água, e combine com o Caminito del Rey, logo ali, reservando o caiaque com antecedência na alta temporada.",
+    "priceLevel": "€",
+    "links": [
+      {
+        "label": "Diputación de Málaga",
+        "url": "https://www.malaga.es/es/laprovincia/naturaleza/lis_cd-17018/pantano-conde-guadalhorce"
+      }
+    ]
+  },
+  {
+    "id": "mrb_parque_paloma",
+    "categoryId": "natureza",
+    "city": "marbella",
+    "name": "Parque de la Paloma (Benalmádena)",
+    "tagline": "Parque enorme com animais soltos e lago",
+    "description": "Um dos maiores parques urbanos da Costa del Sol, com mais de 200.000 m² de gramados, trilhas e um grande lago central em Benalmádena Costa. Coelhos, galinhas, pavões, patos e até um pônei circulam soltos entre os visitantes, para alegria das crianças. Tem área de piquenique, playground, cafeteria e fica a poucos passos da praia de Santa Ana.",
+    "lat": 36.5966,
+    "lng": -4.5361,
+    "durationLabel": "1–2 h",
+    "fit": "CLEAR_SKY",
+    "windSensitive": false,
+    "mapQuery": "Parque de la Paloma, Benalmádena Costa",
+    "kingTip": "Entrada gratuita e muita sombra de árvores: perfeito para o fim da tarde com crianças, levando pão ou ração própria para os animais soltos, e emendando com um banho na praia de Santa Ana ao lado.",
+    "priceLevel": "€"
+  },
+  {
+    "id": "mrb_los_reales_bermeja",
+    "categoryId": "natureza",
+    "city": "marbella",
+    "name": "Los Reales de Sierra Bermeja (Estepona)",
+    "tagline": "Pinsapar sobre peridotita a 1.452 m",
+    "description": "Paraje natural sobre Estepona coroado pelo Pico de Los Reales, com 1.452 metros o ponto mais alto de toda a linha costeira da Península. A serra de rocha vermelha de peridotita abriga um dos raros bosques relictos de pinsapo, o abeto-espanhol. Do Mirador Salvador Guerrero, a 380 m do estacionamento, a vista varre da baía de Marbella ao Estreito e, em dias limpos, à África.",
+    "lat": 36.487,
+    "lng": -5.1585,
+    "durationLabel": "2–4 h",
+    "fit": "CLEAR_SKY",
+    "windSensitive": true,
+    "mapQuery": "Mirador Salvador Guerrero, Los Reales de Sierra Bermeja, Estepona",
+    "kingTip": "A altitude deixa o ar bem mais fresco e ventoso que a costa, alívio perfeito no calor; a estrada de acesso é estreita e sinuosa, então suba com calma pela manhã e confira antes se não há fechamento por risco de incêndio no verão.",
+    "priceLevel": "€",
+    "links": [
+      {
+        "label": "Estepona Natural",
+        "url": "https://www.estepona-natural.es"
+      }
+    ]
+  },
+  {
+    "id": "rnd_garganta_verde",
+    "categoryId": "natureza",
+    "city": "ronda",
+    "name": "Garganta Verde (Zahara de la Sierra)",
+    "tagline": "Cânion de 100 m com colônia de grifos",
+    "description": "Desfiladeiro espetacular escavado pelo arroio Bocaleones no Parque Natural Sierra de Grazalema, a oeste de Ronda. As paredes verticais de até 100 metros abrigam uma das maiores colônias de grifos da Andaluzia, que planam sobre o abismo. No fundo do cânion escondem-se a Ermita de la Garganta, uma gruta de formações calcárias, num dos trekkings mais impressionantes da região.",
+    "lat": 36.8203,
+    "lng": -5.3838,
+    "durationLabel": "2–3 h",
+    "fit": "CLEAR_SKY",
+    "windSensitive": false,
+    "mapQuery": "Sendero Garganta Verde, Zahara de la Sierra",
+    "kingTip": "Atenção: a descida completa ao cânion exige autorização gratuita (pelo centro de visitantes de El Bosque) e fica fechada de 1º de junho a 15 de outubro por risco de incêndio, justo no verão; nesse período só se chega ao primeiro miradouro dos grifos. Confirme antes e vá cedo.",
+    "priceLevel": "€",
+    "links": [
+      {
+        "label": "Cádiz Turismo",
+        "url": "https://www.cadizturismo.com/rutas/sendero-garganta-verde"
+      }
+    ]
+  },
+  {
+    "id": "mrb_carihuela",
+    "categoryId": "praias",
+    "city": "marbella",
+    "name": "Playa de la Carihuela",
+    "tagline": "O reino dos espetos em Torremolinos",
+    "description": "A praia mais castiça de Torremolinos, no antigo bairro de pescadores da Carihuela, com mais de dois quilômetros de areia colada a Benalmádena. É um dos melhores lugares da Costa del Sol para comer espeto de sardinha, com uma fileira de chiringuitos históricos onde o peixe assa na brasa à vista de todos. Passeio marítimo pedonal, ambiente familiar e vida de bairro andaluz.",
+    "lat": 36.6072,
+    "lng": -4.5049,
+    "durationLabel": "meia diária",
+    "fit": "CLEAR_SKY",
+    "windSensitive": false,
+    "mapQuery": "Playa de la Carihuela, Torremolinos",
+    "kingTip": "Reserve o almoço num chiringuito da Carihuela e peça o espeto de sardinha assado na barca de brasa: é aqui que muitos malaguenhos juram estar o melhor da costa.",
+    "whereToEat": "Chiringuitos clássicos da orla da Carihuela, como El Roqueo e La Chana, especialistas em peixe fresco e frituras."
+  },
+  {
+    "id": "mrb_bajondillo",
+    "categoryId": "praias",
+    "city": "marbella",
+    "name": "Playa del Bajondillo",
+    "tagline": "A praia central de Torremolinos",
+    "description": "A praia mais central e movimentada de Torremolinos, um extenso areal urbano logo abaixo do centro histórico. Larga e com todos os serviços, é prática para um banho sem sair da cidade, com palmeiras, passeio marítimo e chiringuitos ao longo de toda a orla. Um elevador público na Praça Panorama poupa a descida pela íngreme Cuesta del Tajo.",
+    "lat": 36.6183,
+    "lng": -4.4966,
+    "durationLabel": "meia diária",
+    "fit": "CLEAR_SKY",
+    "windSensitive": false,
+    "mapQuery": "Playa El Bajondillo, Torremolinos",
+    "kingTip": "Para evitar a ladeira, use o elevador gratuito da Praça Panorama, que desce direto do centro à areia."
+  },
+  {
+    "id": "mrb_malapesquera",
+    "categoryId": "praias",
+    "city": "marbella",
+    "name": "Playa de Malapesquera",
+    "tagline": "Areia escura ao lado do Puerto Marina",
+    "description": "Praia urbana de areia escura em Benalmádena Costa, a poucos passos do vistoso Puerto Marina e do castelo de Bil-Bil. Bem equipada e animada, é boa base para um dia de praia combinado com um passeio pela marina, suas lojas e restaurantes. Ondas moderadas e todos os serviços à mão, muito frequentada no verão.",
+    "lat": 36.5958,
+    "lng": -4.5195,
+    "durationLabel": "meia diária",
+    "fit": "CLEAR_SKY",
+    "windSensitive": false,
+    "mapQuery": "Playa de Malapesquera, Benalmádena"
+  },
+  {
+    "id": "mrb_santa_ana",
+    "categoryId": "praias",
+    "city": "marbella",
+    "name": "Playa de Santa Ana",
+    "tagline": "Águas calmas junto ao Puerto Marina",
+    "description": "Praia protegida e de águas rasas em Benalmádena Costa, praticamente uma extensão da orla que sai do Puerto Marina. O fundo suave e o mar tranquilo fazem dela uma das mais indicadas para famílias com crianças, com Bandeira Azul e serviços completos. Ao lado ficam o Sea Life e a badalada vida noturna da marina.",
+    "lat": 36.5983,
+    "lng": -4.5128,
+    "durationLabel": "meia diária",
+    "fit": "CLEAR_SKY",
+    "windSensitive": false,
+    "mapQuery": "Playa de Santa Ana, Benalmádena"
+  },
+  {
+    "id": "mrb_fuente_salud",
+    "categoryId": "praias",
+    "city": "marbella",
+    "name": "Playa de Fuente de la Salud",
+    "tagline": "A fonte que corre para o mar",
+    "description": "A praia mais a leste de Benalmádena, na fronteira com Torremolinos, deve o nome a uma nascente natural que deságua no mar e a que se atribuíam propriedades curativas. É um areal tranquilo e familiar, com passeio arborizado de palmeiras e boa oferta de chiringuitos. Ambiente calmo apesar de central, ideal para um dia sem agito.",
+    "lat": 36.6018,
+    "lng": -4.5058,
+    "durationLabel": "meia diária",
+    "fit": "CLEAR_SKY",
+    "windSensitive": false,
+    "mapQuery": "Playa Fuente de la Salud, Benalmádena"
+  },
+  {
+    "id": "mrb_los_boliches",
+    "categoryId": "praias",
+    "city": "marbella",
+    "name": "Playa de Los Boliches",
+    "tagline": "A longa orla de Fuengirola",
+    "description": "Trecho central da imensa praia de Fuengirola, no bairro de Los Boliches, parte de um areal contínuo de vários quilômetros. Areia fina e escura, mar calmo e um passeio marítimo interminável cheio de chiringuitos, sorveterias e esplanadas. Fácil de alcançar de trem pela linha de cercanias que liga a Málaga capital.",
+    "lat": 36.5378,
+    "lng": -4.615,
+    "durationLabel": "meia diária",
+    "fit": "CLEAR_SKY",
+    "windSensitive": false,
+    "mapQuery": "Playa de Los Boliches, Fuengirola",
+    "kingTip": "Chegue de trem: a estação Los Boliches da linha C-1 de Cercanías deixa você a poucos minutos a pé da areia, sem dor de cabeça com estacionamento."
+  },
+  {
+    "id": "mrb_castillo_sohail",
+    "categoryId": "praias",
+    "city": "marbella",
+    "name": "Playa del Castillo",
+    "tagline": "Areia sob o castelo de Sohail",
+    "description": "Praia larga de areia dourada aos pés do castelo de Sohail, na foz do rio Fuengirola, no extremo sul da cidade. O ambiente é mais desafogado que o do centro, e a fortaleza de origem muçulmana no alto da colina rende as melhores vistas da orla. Palco tradicional das moragas, as noitadas de fogueira na areia com barcas de peixe.",
+    "lat": 36.534,
+    "lng": -4.6268,
+    "durationLabel": "meia diária",
+    "fit": "CLEAR_SKY",
+    "windSensitive": false,
+    "mapQuery": "Playa del Castillo, Fuengirola",
+    "kingTip": "Suba ao castelo de Sohail no fim da tarde: a muralha no alto da colina emoldura o pôr do sol sobre toda a Costa del Sol."
+  },
+  {
+    "id": "mrb_bajadilla",
+    "categoryId": "praias",
+    "city": "marbella",
+    "name": "Playa de la Bajadilla",
+    "tagline": "Praia de bairro no coração de Marbella",
+    "description": "Praia urbana e popular junto ao antigo porto pesqueiro de Marbella, a leste do centro histórico. Mar calmo e fundo raso a tornam segura e familiar, com um passeio marítimo bem servido de bares e restaurantes. Aqui se come o peixe recém-desembarcado do porto vizinho, longe do brilho de Puerto Banús.",
+    "lat": 36.5078,
+    "lng": -4.8785,
+    "durationLabel": "meia diária",
+    "fit": "CLEAR_SKY",
+    "windSensitive": false,
+    "mapQuery": "Playa de la Bajadilla, Marbella",
+    "whereToEat": "Marisquerias junto ao porto pesqueiro da Bajadilla, com peixe e frutos do mar do dia."
+  },
+  {
+    "id": "mrb_siroko_beach",
+    "categoryId": "praias",
+    "city": "marbella",
+    "name": "Siroko Beach",
+    "tagline": "Beach club descalço na Marbella leste",
+    "description": "Beach club de espírito mediterrâneo e descontraído numa praia com dunas na zona de Costabella, no leste de Marbella, a poucos minutos de Puerto Banús. Arquitetura de madeira natural, tons claros e um clima barefoot combinam com cozinha mediterrânea de peixe, arrozes e grelhados. Música ao vivo e DJs ao fim da tarde, sem o exagero dos clubes mais festivos.",
+    "lat": 36.5015,
+    "lng": -4.8318,
+    "durationLabel": "meia diária",
+    "fit": "CLEAR_SKY",
+    "windSensitive": false,
+    "mapQuery": "Siroko Beach, Marbella",
+    "priceLevel": "€€€",
+    "links": [
+      {
+        "label": "Site oficial do Siroko Beach",
+        "url": "https://sirokobeach.com/"
+      }
+    ]
+  },
+  {
+    "id": "mrb_nao_pool_club",
+    "categoryId": "praias",
+    "city": "marbella",
+    "name": "Naô Pool Club",
+    "tagline": "Piscina e cabanas perto de Puerto Banús",
+    "description": "Pool club elegante em Nueva Andalucía, a poucos minutos de Puerto Banús, cercado de vegetação e voltado para o dia à beira da piscina. Espreguiçadeiras, cabanas privadas, coquetéis e cozinha internacional montam o cenário, com DJs e festas de piscina no verão. Escolha para quem quer o glamour de Marbella com estrutura de resort.",
+    "lat": 36.489,
+    "lng": -4.9535,
+    "durationLabel": "meia diária",
+    "fit": "CLEAR_SKY",
+    "windSensitive": false,
+    "mapQuery": "Naô Pool Club, Marbella",
+    "priceLevel": "€€€€",
+    "links": [
+      {
+        "label": "Site oficial do Naô Pool Club",
+        "url": "https://naopoolclub.com/"
+      }
+    ]
+  },
+  {
+    "id": "mrb_purobeach",
+    "categoryId": "praias",
+    "city": "marbella",
+    "name": "Purobeach Marbella",
+    "tagline": "Oásis chill-out com vista para Gibraltar",
+    "description": "Um dos beach clubs mais elegantes da Costa del Sol, dentro do complexo Laguna Village, na praia El Padrón entre Puerto Banús e Estepona. Ambiente relaxado com boa música, piscina, spa e cozinha internacional de inspiração global, com vistas que alcançam Gibraltar e o Atlas marroquino nos dias claros. Reabriu renovado em 2024 sob nova gestão.",
+    "lat": 36.4389,
+    "lng": -5.1015,
+    "durationLabel": "meia diária",
+    "fit": "CLEAR_SKY",
+    "windSensitive": false,
+    "mapQuery": "Purobeach Marbella, Laguna Village",
+    "priceLevel": "€€€€",
+    "links": [
+      {
+        "label": "Site oficial do Purobeach",
+        "url": "https://www.purobeach.com/en/"
+      }
+    ]
+  },
+  {
+    "id": "mlg_casa_lola",
+    "categoryId": "tapas",
+    "city": "malaga",
+    "name": "Casa Lola",
+    "tagline": "Tapas malaguenhas na Calle Granada",
+    "description": "Taberna de azulejos e barris aberta na movimentada Calle Granada, coração da rota de tapeo do centro histórico. A casa que inaugurou o grupo serve uma carta larga de tapas e montaditos clássicos a preços honestos, com vermute de torneira e um vaivém constante de gente no balcão. Colorida, animada e sempre cheia, é parada certa para começar a noite.",
+    "lat": 36.72206,
+    "lng": -4.41904,
+    "durationLabel": "45 min–1 h",
+    "fit": "ANY",
+    "mapQuery": "Casa Lola, Calle Granada 46, Málaga",
+    "kingTip": "Peça o pincho de tortilla cremosa e o vermute de torneira, a dupla que os malaguenhos repetem no aperitivo.",
+    "priceLevel": "€€",
+    "hours": {
+      "openDays": "Todos os dias",
+      "openHour": "12:00",
+      "closeHour": "00:00",
+      "note": "Costuma lotar no fim da tarde; há outras casas do grupo pela cidade (Strachan e porto)."
+    },
+    "links": [
+      {
+        "label": "Site oficial",
+        "url": "https://grupocasalola.com"
+      }
+    ]
+  },
+  {
+    "id": "mlg_el_yerno",
+    "categoryId": "tapas",
+    "city": "malaga",
+    "name": "Bodega El Yerno",
+    "tagline": "Marisco fresco no Mercado de Atarazanas",
+    "description": "Barra de mariscos encravada dentro do Mercado Central de Atarazanas, o belo mercado de ferro e vitral do centro. A família compra o pescado do dia ali mesmo e serve boquerones, gambas, chocos e atum vermelho fritos ou grelhados na hora, regados a vinho de Málaga. Come-se em pé, no balcão, no burburinho do mercado. Ganhou em 2025 o prêmio de melhor boquerón frito da cidade.",
+    "lat": 36.71841,
+    "lng": -4.42406,
+    "durationLabel": "45 min–1 h",
+    "fit": "ANY",
+    "mapQuery": "Bar Marisquería El Yerno, Mercado de Atarazanas, Málaga",
+    "kingTip": "Peça os boquerones fritos premiados e uma taça de moscatel seco, direto no balcão do mercado.",
+    "priceLevel": "€€",
+    "hours": {
+      "openDays": "Seg–Sáb",
+      "openHour": "10:00",
+      "closeHour": "16:00",
+      "note": "Segue o horário do mercado; fecha à tarde e aos domingos. Melhor pela manhã e no aperitivo do meio-dia."
+    }
+  },
+  {
+    "id": "mlg_barra_zapata",
+    "categoryId": "tapas",
+    "city": "malaga",
+    "name": "La Barra de Zapata",
+    "tagline": "Tapas criativas de fusão no centro",
+    "description": "Bar de tapas pequeno e familiar junto à Plaza de la Constitución, com poucas mesas altas de barril na calçada. A cozinha cruza raiz andaluza com pinceladas latinas, italianas e asiáticas em porções de apresentação cuidada, com um carpaccio de fama local. O atendimento explica cada prato com calma, o que combina com um jantar sem pressa.",
+    "lat": 36.72018,
+    "lng": -4.42089,
+    "durationLabel": "1–1,5 h",
+    "fit": "ANY",
+    "mapQuery": "La Barra de Zapata, Calle Salinas 10, Málaga",
+    "kingTip": "Peça o carpaccio da casa, a tapa que consagrou o balcão, acompanhado de uma taça de tinto.",
+    "priceLevel": "€€",
+    "hours": {
+      "openDays": "Todos os dias",
+      "openHour": "13:00",
+      "closeHour": "23:30",
+      "note": "Espaço pequeno; reserve nos fins de semana. Confirme o dia de descanso na baixa temporada."
+    }
+  },
+  {
+    "id": "mlg_gorki",
+    "categoryId": "tapas",
+    "city": "malaga",
+    "name": "Gorki",
+    "tagline": "Vinhos e tapas gourmet na Strachan",
+    "description": "Casa de vinhos e tapas nascida em 1992 como loja gourmet na central Calle Strachan, a passos da Calle Larios. Equilibra taberna mediterrânea e bistrô refinado, com tapas espertas de produto fresco e uma carta de vinhos extensa. Tem terraço agradável para ver o vaivém do centro com um copo na mão.",
+    "lat": 36.71963,
+    "lng": -4.42095,
+    "durationLabel": "1–1,5 h",
+    "fit": "ANY",
+    "mapQuery": "Gorki, Calle Strachan 6, Málaga",
+    "kingTip": "Peça uma tábua de queijos e ibéricos com um vinho da carta, o forte da casa desde os tempos de loja gourmet.",
+    "priceLevel": "€€",
+    "hours": {
+      "openDays": "Todos os dias",
+      "openHour": "12:00",
+      "closeHour": "00:00",
+      "note": "Terraço disputado nos fins de semana; há uma segunda casa no porto (Muelle Uno)."
+    },
+    "links": [
+      {
+        "label": "Site oficial",
+        "url": "https://www.grupogorki.es"
+      }
+    ]
+  },
+  {
+    "id": "cor_bodega_guzman",
+    "categoryId": "tapas",
+    "city": "cordoba",
+    "name": "Bodega Guzmán",
+    "tagline": "Fino do tonel na Judería cordovesa",
+    "description": "Bodega centenária escondida na Calle Judíos, no coração da Judería, a poucos passos da Sinagoga. Quase nada mudou desde que abriu: cartazes de touros, cabeças de toro na parede e enormes tonéis de onde saem o fino Amargoso e o oloroso da Sierra de Montilla, servidos direto do barril a preço de bairro. Tapas simples e baratas acompanham o vinho num ambiente sem concessões ao turismo.",
+    "lat": 37.88036,
+    "lng": -4.78367,
+    "durationLabel": "45 min–1 h",
+    "fit": "ANY",
+    "mapQuery": "Bodega Guzmán, Calle Judíos 7, Córdoba",
+    "kingTip": "Peça um fino Amargoso do tonel com berinjelas em conserva ou chorizo ao vinho, a experiência mais autêntica da Judería.",
+    "priceLevel": "€",
+    "hours": {
+      "openDays": "Sex–Qua",
+      "openHour": "12:30",
+      "closeHour": "16:00",
+      "note": "Reabre à noite (20h–00h); fecha às quintas e à tarde entre serviços. Só dinheiro em muitas ocasiões."
+    }
+  },
+  {
+    "id": "cor_sociedad_plateros",
+    "categoryId": "tapas",
+    "city": "cordoba",
+    "name": "Sociedad de Plateros María Auxiliadora",
+    "tagline": "Bacalhau e pátio cordovês desde 1868",
+    "description": "Taberna histórica do bairro de San Lorenzo, aberta em 1868 e tocada por gerações da mesma sociedade de artesãos. Em torno de um belo pátio andaluz de colunas, serve mais de trinta pratos de bacalhau que lhe valeram o apelido de La Posada del Bacalao, além de salmorejo, rabo de toro e flamenquines. Longe das rotas mais concorridas, é um clássico dos cordoveses.",
+    "lat": 37.88913,
+    "lng": -4.76754,
+    "durationLabel": "1–1,5 h",
+    "fit": "ANY",
+    "mapQuery": "Sociedad de Plateros María Auxiliadora, Calle María Auxiliadora 25, Córdoba",
+    "kingTip": "Peça o bacalhau em qualquer versão da casa e o salmorejo cordovês, sentado no pátio de colunas.",
+    "priceLevel": "€€",
+    "hours": {
+      "openDays": "Todos os dias",
+      "openHour": "13:00",
+      "closeHour": "23:30",
+      "note": "Fecha à tarde entre serviços; oferece opções sem glúten e vegetarianas. Confirme o descanso semanal."
+    },
+    "links": [
+      {
+        "label": "Site oficial",
+        "url": "https://www.sociedadplateros.com"
+      }
+    ]
+  },
+  {
+    "id": "grn_taberna_la_tana",
+    "categoryId": "tapas",
+    "city": "granada",
+    "name": "Taberna La Tana",
+    "tagline": "Melhor bar de vinhos, no Realejo",
+    "description": "Taberna minúscula do bairro Realejo, fundada em 1993 e tocada pelo sommelier Jesús González, com as paredes forradas de garrafas do chão ao teto. Eleita melhor bar de vinhos da Espanha em 2020, mantém viva a tapa gratuita de Granada, aqui pareada a taças de vinho escolhidas a dedo e boas tábuas de queijos e embutidos. Íntima e calorosa, é ponto de peregrinação de quem gosta de vinho.",
+    "lat": 37.17275,
+    "lng": -3.59609,
+    "durationLabel": "45 min–1,5 h",
+    "fit": "ANY",
+    "mapQuery": "Taberna La Tana, Placeta del Agua 3, Realejo, Granada",
+    "kingTip": "Peça uma taça e deixe o dono sugerir a tapa que combina; em Granada ela vem grátis com a bebida.",
+    "priceLevel": "€€",
+    "hours": {
+      "openDays": "Todos os dias",
+      "openHour": "12:30",
+      "closeHour": "23:30",
+      "note": "Espaço muito pequeno; costuma lotar à noite. Fecha à tarde entre serviços."
+    },
+    "links": [
+      {
+        "label": "Site oficial",
+        "url": "https://www.tabernalatana.com"
+      }
+    ]
+  },
+  {
+    "id": "grn_bar_aliatar",
+    "categoryId": "tapas",
+    "city": "granada",
+    "name": "Bar Aliatar",
+    "tagline": "Caracoles e tapa grátis no Albaicín",
+    "description": "Bar de bairro na recolhida Plaza Aliatar, no alto do Albaicín, o quarteirão mouro de ruelas caiadas tombado pela UNESCO. Antiga parada de arrieiros, mantém o ritual granadino da tapa gratuita a cada bebida e é famoso pelos caracoles em caldo picante servidos na temporada. Terraço na praça e clientela local dão o tom despretensioso.",
+    "lat": 37.18279,
+    "lng": -3.59132,
+    "durationLabel": "45 min–1 h",
+    "fit": "ANY",
+    "mapQuery": "Bar Aliatar, Plaza Aliatar 4, Albaicín, Granada",
+    "kingTip": "A tapa vem grátis com a bebida; no verão peça os caracoles em caldo picante, a especialidade da casa.",
+    "priceLevel": "€",
+    "hours": {
+      "openDays": "Todos os dias",
+      "openHour": "12:00",
+      "closeHour": "23:30",
+      "note": "Os caracoles são sazonais (fim da primavera e verão); a subida ao Albaicín é íngreme."
+    }
+  },
+  {
+    "id": "mrb_balcon_virgen",
+    "categoryId": "tapas",
+    "city": "marbella",
+    "name": "El Balcón de la Virgen",
+    "tagline": "Peixe frito sob a buganvília",
+    "description": "Taberna de 1978 num casarão dos séculos XVI–XVII no casco antigo de Marbella, a passos da Plaza de los Naranjos. A fachada some sob uma buganvília gigante e um balcão com capela da Virgem dá nome à casa. A cozinha mediterrânea brilha nas frituras de peixe fresco da Costa del Sol e nas carnes na brasa, servidas no ambiente caiado e florido da cidade velha.",
+    "lat": 36.51098,
+    "lng": -4.88507,
+    "durationLabel": "1–1,5 h",
+    "fit": "ANY",
+    "mapQuery": "El Balcón de la Virgen, Calle Remedios 2, Marbella",
+    "kingTip": "Peça o pescaíto frito em azeite bem quente, a especialidade da casa, à sombra da buganvília.",
+    "priceLevel": "€€",
+    "hours": {
+      "openDays": "Todos os dias",
+      "openHour": "12:30",
+      "closeHour": "23:30",
+      "note": "Muito procurado no verão; as mesas sob a buganvília são as mais disputadas."
+    },
+    "links": [
+      {
+        "label": "Site oficial",
+        "url": "https://www.elbalcondelavirgen.com"
+      }
+    ]
+  },
+  {
+    "id": "mrb_taberna_pintxo_fuengirola",
+    "categoryId": "tapas",
+    "city": "marbella",
+    "name": "La Taberna del Pintxo",
+    "tagline": "Pintxos bascos à beira-mar",
+    "description": "Taberna de conceito basco no centro de Fuengirola, pertinho do paseo marítimo, onde os pintxos desfilam no balcão espetados em fatias de pão. Serve-se à moda de San Sebastián: pega-se o que apetece e paga-se pelo número de palitos ao final, entre versões frias e quentes. Informal e divertido, funciona bem em grupo e para provar muitas coisas de uma vez.",
+    "lat": 36.54038,
+    "lng": -4.62408,
+    "durationLabel": "45 min–1 h",
+    "fit": "ANY",
+    "mapQuery": "La Taberna del Pintxo, Calle Hermanos Pinzón, Fuengirola",
+    "kingTip": "Guarde os palitos: a conta sai pelo número de pintxos consumidos; peça também os quentes na hora.",
+    "priceLevel": "€€",
+    "hours": {
+      "openDays": "Todos os dias",
+      "openHour": "12:00",
+      "closeHour": "23:30",
+      "note": "Na Costa del Sol central (Fuengirola); enche na hora do aperitivo. Há casas do mesmo conceito em Marbella."
+    }
+  },
+  {
+    "id": "mrb_bodega_quitapenas_torremolinos",
+    "categoryId": "tapas",
+    "city": "marbella",
+    "name": "Bodega Quitapenas (Torremolinos)",
+    "tagline": "Bodega de 1961 junto ao mar",
+    "description": "Bodega histórica na Cuesta del Tajo, a ladeira que desce ao mar em Torremolinos, aberta desde 1961. Barris de moscatel e uma barra farta de pescado servem pescaíto frito, polvo, tortillitas de camarão e conservas, no melhor estilo da tapa marinha malaguenha. Ambiente popular e de solera, a caminho da praia do Bajondillo.",
+    "lat": 36.62206,
+    "lng": -4.49692,
+    "durationLabel": "45 min–1 h",
+    "fit": "ANY",
+    "mapQuery": "Bodega Quitapenas, Cuesta del Tajo 3, Torremolinos",
+    "kingTip": "Peça o pescaíto frito com uma taça do moscatel da casa, o Quitapenas, descendo para o Bajondillo.",
+    "priceLevel": "€€",
+    "hours": {
+      "openDays": "Todos os dias",
+      "openHour": "11:00",
+      "closeHour": "23:00",
+      "note": "Na Costa del Sol central (Torremolinos); a ladeira leva direto à praia do Bajondillo."
+    }
+  },
+  {
+    "id": "trm_casco_cuesta_tajo",
+    "categoryId": "marbella",
+    "city": "marbella",
+    "name": "Casco Antiguo & Cuesta del Tajo de Torremolinos",
+    "tagline": "A ladeira histórica até o mar",
+    "description": "Poucos imaginam que a badalada Torremolinos guarda um casco antigo. Da Plaza Costa del Sol, a Calle San Miguel puxa o passeio pedonal até a Cuesta del Tajo, ladeira empedrada de casas caiadas que desce em degraus rumo à praia de El Bajondillo. É o Torremolinos anterior ao turismo de massa, com pátios floridos e a Torre de Pimentel guardando a memória mourisca.",
+    "lat": 36.6205,
+    "lng": -4.4988,
+    "durationLabel": "1–1,5 h",
+    "fit": "ANY",
+    "mapQuery": "Cuesta del Tajo, Torremolinos",
+    "kingTip": "Desça a Cuesta del Tajo até o fim: a ladeira termina no calçadão de El Bajondillo, com vista aberta para o mar e boas paradas de peixe frito.",
+    "priceLevel": "Gratuito (passeio)"
+  },
+  {
+    "id": "trm_pueblo_blanco",
+    "categoryId": "marbella",
+    "city": "marbella",
+    "name": "Pueblo Blanco de Torremolinos",
+    "tagline": "O recanto andaluz escondido no centro",
+    "description": "Um beco-praça cenográfico logo ao lado da Cuesta del Tajo, recriando um pueblo blanco em miniatura: cal imaculada, arcos, vasos azuis e trepadeiras concentrados num pátio íntimo. É a fotografia mais andaluza que Torremolinos oferece, a poucos passos do burburinho da Calle San Miguel. Parada curta, ideal para emendar com o casco antigo.",
+    "lat": 36.6198,
+    "lng": -4.4972,
+    "durationLabel": "15–20 min",
+    "fit": "ANY",
+    "mapQuery": "Pueblo Blanco, Torremolinos",
+    "priceLevel": "Gratuito"
+  },
+  {
+    "id": "bnm_pueblo",
+    "categoryId": "marbella",
+    "city": "marbella",
+    "name": "Benalmádena Pueblo",
+    "tagline": "O casco branco no alto da montanha",
+    "description": "Enquanto a costa de Benalmádena ferve de turismo, o pueblo original resiste no alto da serra, com ruas caiadas, cantos floridos e a Plaza de España como coração. Dos miradouros do casco, como a Plaza de la Mezquita, abre-se um panorama que vai da baía inteira até Fuengirola. É o contraponto tranquilo e autêntico à agitação do litoral.",
+    "lat": 36.5985,
+    "lng": -4.5697,
+    "durationLabel": "1–1,5 h",
+    "fit": "CLEAR_SKY",
+    "mapQuery": "Benalmádena Pueblo",
+    "kingTip": "Suba de carro e estacione no alto: as ruas do casco são íngremes, e é dos miradouros do topo que sai a melhor vista da costa.",
+    "priceLevel": "Gratuito (passeio)"
+  },
+  {
+    "id": "bnm_estupa",
+    "categoryId": "marbella",
+    "city": "marbella",
+    "name": "Estupa de la Iluminación",
+    "tagline": "A maior estupa budista do Ocidente",
+    "description": "Erguida em 2003, esta estupa budista de 33 metros é a maior do mundo ocidental, plantada numa colina de Benalmádena com vista para o mar. O interior guarda uma sala de meditação decorada com murais e um grande Buda dourado, aberta ao público e gratuita. O contraste entre a arquitetura tibetana e a paisagem mediterrânea rende um dos passeios mais insólitos da costa.",
+    "lat": 36.5882,
+    "lng": -4.5812,
+    "durationLabel": "30–45 min",
+    "fit": "CLEAR_SKY",
+    "mapQuery": "Estupa de la Iluminación, Benalmádena",
+    "kingTip": "Vá ao fim da tarde: a luz dourada realça a estupa branca e a esplanada em frente vira mirante sobre toda a baía.",
+    "priceLevel": "Gratuito",
+    "hours": {
+      "note": "Ter–Dom ~10:00–14:00 e 16:00–20:00 (verão); seg fechado; confirmar"
+    }
+  },
+  {
+    "id": "fgr_plaza_constitucion",
+    "categoryId": "marbella",
+    "city": "marbella",
+    "name": "Plaza de la Constitución de Fuengirola",
+    "tagline": "O coração pedonal da cidade velha",
+    "description": "A praça-mãe de Fuengirola, ladeada pela Igreja de Nuestra Señora del Rosario e por casarios brancos com esplanadas, é o ponto de encontro do casco antigo. Palmeiras, fonte central e um vaivém constante de vizinhos e turistas dão o tom mediterrâneo; das vielas ao redor partem as ruas de tapas mais animadas. É a base natural para conhecer a Fuengirola de sempre, longe dos arranha-céus da praia.",
+    "lat": 36.5397,
+    "lng": -4.6252,
+    "durationLabel": "45 min – 1 h",
+    "fit": "ANY",
+    "mapQuery": "Plaza de la Constitución, Fuengirola",
+    "priceLevel": "Gratuito (passeio)"
+  },
+  {
+    "id": "fgr_paseo_maritimo",
+    "categoryId": "marbella",
+    "city": "marbella",
+    "name": "Paseo Marítimo Rey de España",
+    "tagline": "Sete quilômetros de calçadão à beira-mar",
+    "description": "Um dos calçadões mais longos da Andaluzia, o Paseo Marítimo Rey de España estende-se por cerca de 7 km ao longo de toda a orla de Fuengirola, ladeado de palmeiras, esculturas, praças e esplanadas. É onde a cidade caminha, pedala e vê o pôr do sol, ligando o Castillo Sohail ao porto num percurso plano e contínuo. Passeio urbano à beira-mar, ideal ao amanhecer ou no fim da tarde.",
+    "lat": 36.5375,
+    "lng": -4.623,
+    "durationLabel": "1–1,5 h",
+    "fit": "CLEAR_SKY",
+    "mapQuery": "Paseo Marítimo Rey de España, Fuengirola",
+    "priceLevel": "Gratuito"
+  },
+  {
+    "id": "mrb_jardines_muralla_mijas",
+    "categoryId": "marbella",
+    "city": "marbella",
+    "name": "Jardines de la Muralla & Mirador de Mijas",
+    "tagline": "Os terraços floridos sobre o Mediterrâneo",
+    "description": "Escalonados sobre os restos da antiga muralha árabe de Mijas, estes jardins de canteiros floridos, fontes e pérgulas culminam num mirante que se debruça sobre toda a Costa del Sol. Em dias claros a vista alcança de Fuengirola a Gibraltar e, ao longe, a costa africana. É o melhor ponto panorâmico da vila branca, a poucos passos da Plaza de Toros oval.",
+    "lat": 36.596,
+    "lng": -4.6378,
+    "durationLabel": "20–30 min",
+    "fit": "CLEAR_SKY",
+    "mapQuery": "Jardines de la Muralla, Mijas Pueblo",
+    "kingTip": "Reserve o mirante para um dia sem bruma: só com o céu limpo a linha da costa africana aparece no horizonte.",
+    "priceLevel": "Gratuito"
+  },
+  {
+    "id": "axq_comares",
+    "categoryId": "axarquia",
+    "city": "axarquia",
+    "name": "Comares",
+    "tagline": "O balcão da Axarquía no alto da serra",
+    "description": "Empoleirada a mais de 700 metros no topo de um morro, Comares é apelidada de \"balcón de la Axarquía\" pela vista de 360º que domina toda a comarca até o mar. O casco de origem andalusí é um labirinto de becos brancos que se sobe seguindo pegadas de cerâmica cravadas no chão, a Ruta de la Villa, até os restos do antigo castelo e a igreja de la Encarnación. Uma das vilas mais espetaculares e menos visitadas do leste da província.",
+    "lat": 36.8378,
+    "lng": -4.236,
+    "durationLabel": "1,5–2 h",
+    "fit": "CLEAR_SKY",
+    "mapQuery": "Comares, Málaga",
+    "kingTip": "Siga as pegadas de cerâmica no chão: elas traçam a Ruta de la Villa pelos becos até o mirante do castelo, o ponto mais alto e panorâmico.",
+    "priceLevel": "Gratuito"
+  },
+  {
+    "id": "axq_canillas_aceituno",
+    "categoryId": "axarquia",
+    "city": "axarquia",
+    "name": "Canillas de Aceituno",
+    "tagline": "Vila branca na saia da Maroma",
+    "description": "Encravada na encosta sul da Sierra de Tejeda, aos pés do pico La Maroma, Canillas de Aceituno conserva um casco mourisco de ruas íngremes e a Casa de los Diezmos, com portal mudéjar. É porta de entrada para uma das rotas mais famosas da comarca, a Ruta de la Cueva de la Fájara, e terra do embutido de morcilla celebrado em festa própria. Ambiente serrano autêntico, com o vale e o mar ao fundo.",
+    "lat": 36.8763,
+    "lng": -4.0533,
+    "durationLabel": "1–1,5 h",
+    "fit": "ANY",
+    "mapQuery": "Canillas de Aceituno, Málaga",
+    "kingTip": "Reserve energia para as ruas: o desnível é forte. Deixe o carro na parte baixa e suba a pé até a igreja para a melhor vista da serra.",
+    "priceLevel": "Gratuito"
+  },
+  {
+    "id": "axq_alcaucin_zalia",
+    "categoryId": "axarquia",
+    "city": "axarquia",
+    "name": "Alcaucín & Castillo de Zalia",
+    "tagline": "As ruínas árabes no portão da serra",
+    "description": "A vila branca de Alcaucín, de fontes e ruas floridas, guarda no seu termo uma das ruínas mais lendárias da Axarquía: o Castillo de Zalia, fortaleza árabe erguida sobre uma povoação anterior, no desfiladeiro que abre caminho para o Boquete de Zafarraya. Restam muralhas e torres semiderruídas num promontório de vistas amplas sobre o vale. Sítio histórico e cenário de mil lendas mouras.",
+    "lat": 36.9039,
+    "lng": -4.143,
+    "durationLabel": "1–1,5 h",
+    "fit": "CLEAR_SKY",
+    "mapQuery": "Castillo de Zalia, Alcaucín",
+    "kingTip": "As ruínas ficam fora do casco, junto à A-402; combine a parada com uma volta pela vila de Alcaucín e suas fontes.",
+    "priceLevel": "Gratuito"
+  },
+  {
+    "id": "axq_cutar",
+    "categoryId": "axarquia",
+    "city": "axarquia",
+    "name": "Cútar",
+    "tagline": "Vila moura da rota da passa e do vinho",
+    "description": "Pequeno povoado de origem andalusí sobre o vale do rio Cútar, com um casco de becos brancos que quase não mudou desde o tempo mourisco. Guarda a Fuente Árabe medieval e a igreja da Encarnación, e é parada da Ruta Mudéjar e da Ruta de la Pasa, ligada à uva moscatel seca ao sol. No mês da passa, em setembro, a vila revive as tradições de colheita.",
+    "lat": 36.831,
+    "lng": -4.2288,
+    "durationLabel": "45 min – 1 h",
+    "fit": "ANY",
+    "mapQuery": "Cútar, Málaga",
+    "priceLevel": "Gratuito"
+  },
+  {
+    "id": "axq_macharaviaya",
+    "categoryId": "axarquia",
+    "city": "axarquia",
+    "name": "Macharaviaya",
+    "tagline": "A pequena vila dos Gálvez",
+    "description": "Diminuta e tranquila, Macharaviaya teve um passado grandioso no século XVIII graças à família Gálvez, cujo membro Bernardo foi governador da Luisiana e ajudou na independência dos Estados Unidos. Do apogeu restam a monumental igreja de San Jacinto, o panteão familiar e o traçado nobre que rendeu o apelido de \"pequeno El Escorial\". Vila de becos brancos e silêncio, cercada de olivais e vinhas.",
+    "lat": 36.7597,
+    "lng": -4.2108,
+    "durationLabel": "45 min – 1 h",
+    "fit": "ANY",
+    "mapQuery": "Macharaviaya, Málaga",
+    "kingTip": "A ligação histórica com os EUA é levada a sério: em anos ímpares, a vila encena a Batalha de Pensacola em festa própria.",
+    "priceLevel": "Gratuito"
+  },
+  {
+    "id": "axq_canillas_albaida",
+    "categoryId": "axarquia",
+    "city": "axarquia",
+    "name": "Canillas de Albaida",
+    "tagline": "Casario branco no portal da Almijara",
+    "description": "Vizinha de Cómpeta e igualmente debruçada sobre a Sierra de Almijara, Canillas de Albaida é um casco caiado de ruas estreitas coroado pela igreja de la Expectación e pela pitoresca ermita de San Antón, na entrada da vila. É um dos acessos ao Parque Natural das Sierras Tejeda, Almijara y Alhama, com trilhas e um antigo lavadouro. Menos visitada que a vizinha, guarda o ritmo pausado das aldeias do vinho.",
+    "lat": 36.8422,
+    "lng": -3.977,
+    "durationLabel": "45 min – 1 h",
+    "fit": "ANY",
+    "mapQuery": "Canillas de Albaida, Málaga",
+    "kingTip": "Combine no mesmo roteiro com Cómpeta, a 2 km, e com o alminar de Árchez: as três ficam encadeadas pela estrada do vale.",
+    "priceLevel": "Gratuito"
+  },
+  {
     "id": "mlg_jose_carlos_garcia",
     "categoryId": "gastronomia",
     "city": "malaga",
@@ -5242,7 +7984,8 @@ export const extraAttractions: Attraction[] = [
         "url": "https://visita.malaga.eu/en/what-to-see-and-do/culture/historic-monuments/monuments/gibralfaro-castle-p103556"
       }
     ],
-    "history": "Construído por Yusuf I de Granada no século XIV para abrigar tropas e proteger a Alcazaba, resistiu a um longo cerco antes de cair em 1487."
+    "history": "Construído por Yusuf I de Granada no século XIV para abrigar tropas e proteger a Alcazaba, resistiu a um longo cerco antes de cair em 1487.",
+    "image": "mlg_gibralfaro.jpg"
   },
   {
     "id": "mlg_catedral",
@@ -5397,7 +8140,8 @@ export const extraAttractions: Attraction[] = [
     ],
     "kingTip": "O mármore reflete o sol e ferve ao meio-dia; é uma rua para o começo da manhã ou depois das 20h, quando vira palco do passeio local. Na época de festas, ganha toldos e iluminação artística sobre a cabeça.",
     "priceLevel": "Grátis (passeio)",
-    "history": "Inaugurada em 1891 e batizada em homenagem ao marquês de Larios, foi rasgada no traçado do centro medieval como símbolo da Málaga industrial e burguesa."
+    "history": "Inaugurada em 1891 e batizada em homenagem ao marquês de Larios, foi rasgada no traçado do centro medieval como símbolo da Málaga industrial e burguesa.",
+    "image": "mlg_calle_larios.jpg"
   },
   {
     "id": "mlg_plaza_merced",
@@ -5866,7 +8610,8 @@ export const extraAttractions: Attraction[] = [
         "url": "http://www.casa-aranda.net"
       }
     ],
-    "history": "Aberta em 1932, é a churrería histórica de Málaga, símbolo do café da manhã tradicional malaguenho."
+    "history": "Aberta em 1932, é a churrería histórica de Málaga, símbolo do café da manhã tradicional malaguenho.",
+    "image": "mlg_casa_aranda.jpg"
   },
   {
     "id": "mlg_santa_coffee_soho",
@@ -5917,7 +8662,8 @@ export const extraAttractions: Attraction[] = [
       "closeHour": "23:00",
       "note": "Fecha mais tarde nas noites quentes de verão."
     },
-    "history": "Casa de tradição turronera com mais de um século de história, referência do doce artesanal no centro de Málaga."
+    "history": "Casa de tradição turronera com mais de um século de história, referência do doce artesanal no centro de Málaga.",
+    "image": "mlg_casa_mira.jpg"
   },
   {
     "id": "grn_lopez_mezquita",

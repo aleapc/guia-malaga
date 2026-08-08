@@ -1,0 +1,294 @@
+[
+  {
+    "id": "ben_castillo_colomares",
+    "categoryId": "cultura",
+    "city": "marbella",
+    "name": "Castillo de Colomares",
+    "tagline": "Um castelo-monumento a Cristóvão Colombo",
+    "description": "Erguido entre 1987 e 1994 por um médico apaixonado pela história, é um exuberante monumento-castelo dedicado a Cristóvão Colombo e ao descobrimento da América. Mistura estilos gótico, românico, mudéjar e bizantino num labirinto de torres, arcos e escadarias sobre a serra de Benalmádena. Guarda ainda a menor igreja do mundo, com pouco mais de um metro quadrado. As vistas para o Mediterrâneo são deslumbrantes.",
+    "whatToDo": [
+      "Suba pelas torres e passarelas em busca dos mirantes sobre o mar",
+      "Procure a capela minúscula, citada como a menor igreja do mundo",
+      "Decifre os símbolos das três caravelas espalhados pela pedra"
+    ],
+    "kingTip": "É todo a céu aberto e sobe bastante; vá logo na abertura, às 10h, para fugir do sol forte de julho. Fica em Benalmádena Pueblo, longe da praia.",
+    "priceLevel": "~€2,50",
+    "lat": 36.5966,
+    "lng": -4.5726,
+    "durationLabel": "1h–1h15",
+    "fit": "CLEAR_SKY",
+    "hours": {
+      "openDays": "Qua–Dom (fecha Seg e Ter)",
+      "openHour": 10,
+      "closeHour": 21,
+      "note": "Verão: qua–dom 10h–14h e 17h–21h. Inverno: qua–dom 10h–18h. Fecha segundas e terças."
+    },
+    "mapQuery": "Castillo Monumento Colomares, Finca la Carraca, Benalmádena Pueblo",
+    "links": [
+      { "label": "Turismo de Benalmádena", "url": "https://www.benalmadena.es/" }
+    ]
+  },
+  {
+    "id": "fgr_castillo_sohail",
+    "categoryId": "cultura",
+    "city": "marbella",
+    "name": "Castillo Sohail",
+    "tagline": "Fortaleza à beira-mar em Fuengirola",
+    "description": "Castelo de origem árabe do século X, reconstruído no período nazari e depois pelos cristãos, plantado numa colina sobre a foz do rio Fuengirola e o Mediterrâneo. Suas muralhas e torres são hoje totalmente visitáveis, com passeios pelo adarve e vistas amplas da costa. No verão, a esplanada recebe mercado medieval, concertos e festivais. A entrada é gratuita.",
+    "whatToDo": [
+      "Percorra o caminho de ronda no alto das muralhas",
+      "Contemple a foz do rio e a praia de Fuengirola lá do topo",
+      "Confira a agenda de concertos e do mercado medieval no verão"
+    ],
+    "kingTip": "Entrada gratuita. É exposto ao sol; prefira o fim da tarde, quando refresca e a luz sobre a costa fica linda. Há estacionamento vigiado ao lado.",
+    "priceLevel": "Grátis",
+    "lat": 36.5311,
+    "lng": -4.6246,
+    "durationLabel": "45min–1h",
+    "fit": "CLEAR_SKY",
+    "hours": {
+      "openDays": "Ter–Dom (fecha Seg)",
+      "openHour": 10,
+      "closeHour": 18,
+      "note": "Ter–sex 10h–14h; sáb, dom e feriados 10h–18h. Fecha às segundas (salvo feriados). Entrada gratuita."
+    },
+    "mapQuery": "Castillo Sohail, Fuengirola, Málaga",
+    "history": "Ergueu-se por volta do ano 956 sobre um assentamento fenício e romano. Disputado por muçulmanos e cristãos, viu passar as tropas dos Reis Católicos e, séculos depois, as batalhas napoleônicas antes de virar palco cultural.",
+    "links": [
+      { "label": "Site oficial", "url": "https://www.castillosohail.es/" }
+    ]
+  },
+  {
+    "id": "mrb_museo_grabado",
+    "categoryId": "cultura",
+    "city": "marbella",
+    "name": "Museo del Grabado Español Contemporáneo",
+    "tagline": "Gravura espanhola no casco antigo de Marbella",
+    "description": "Único museu da Espanha dedicado à gravura contemporânea, reúne mais de quatro mil obras com nomes como Picasso, Miró, Tàpies e Chillida. Ocupa o Hospital Bazán, elegante edifício renascentista do século XVI no casco histórico caiado de Marbella. Salas frescas e íntimas fazem dele uma pausa cultural entre as ruelas floridas do centro.",
+    "whatToDo": [
+      "Reconheça gravuras dos grandes mestres espanhóis do século XX",
+      "Aprecie a arquitetura gótico-mudéjar do antigo Hospital Bazán",
+      "Saia para o labirinto de becos brancos e pátios do casco antigo"
+    ],
+    "kingTip": "Fica no coração do casco antigo de Marbella; encaixe entre a Plaza de los Naranjos e um café. Abre também à noite de quarta a sexta, ótimo para fugir do calor.",
+    "priceLevel": "~€4 (est.)",
+    "lat": 36.5101,
+    "lng": -4.8829,
+    "durationLabel": "45min–1h",
+    "fit": "INDOOR",
+    "hours": {
+      "openDays": "Seg–Dom (varia por turno)",
+      "openHour": 10,
+      "closeHour": 22,
+      "note": "Manhãs: seg–sex 10h–14h; sáb e dom 11h–14h. Tardes: qua, qui e sex 17h–22h. Última entrada 20 min antes."
+    },
+    "mapQuery": "Museo del Grabado Español Contemporáneo, Calle Hospital Bazán, Marbella",
+    "links": [
+      { "label": "Site oficial", "url": "https://www.mgec.es/" }
+    ]
+  },
+  {
+    "id": "mrb_museo_ralli",
+    "categoryId": "cultura",
+    "city": "marbella",
+    "name": "Museo Ralli Marbella",
+    "tagline": "Arte latino-americana e surrealista, grátis",
+    "description": "Um dos cinco museus Ralli do mundo, guarda uma das mais importantes coleções de arte contemporânea latino-americana da Europa, ao lado de obras europeias e surrealistas com nomes como Dalí e Chagall. O edifício amplo e luminoso fica na urbanização Coral Beach, entre Marbella e Puerto Banús, a poucos metros do mar. A entrada é sempre gratuita.",
+    "whatToDo": [
+      "Percorra as salas de surrealismo e arte latino-americana",
+      "Descubra esculturas espalhadas pelos jardins do museu",
+      "Combine com um passeio pelo paseo marítimo ali ao lado"
+    ],
+    "kingTip": "Entrada gratuita e climatizado. Fecha aos domingos e segundas e fica entre Marbella e Puerto Banús; chegue de carro ou táxi.",
+    "priceLevel": "Grátis",
+    "lat": 36.4936,
+    "lng": -4.9527,
+    "durationLabel": "1h–1h30",
+    "fit": "INDOOR",
+    "hours": {
+      "openDays": "Ter–Sáb (fecha Dom e Seg)",
+      "openHour": 10,
+      "closeHour": 17,
+      "note": "Ter–sex 10h–17h; sáb 10h–16h. Fecha domingos e segundas. Entrada gratuita."
+    },
+    "mapQuery": "Museo Ralli Marbella, Urbanización Coral Beach, Marbella",
+    "links": [
+      { "label": "Site oficial", "url": "https://museoralli.es/" }
+    ]
+  },
+  {
+    "id": "ben_museo_precolombino",
+    "categoryId": "cultura",
+    "city": "marbella",
+    "name": "Museo Precolombino Felipe Orlando",
+    "tagline": "Arte pré-colombina em Benalmádena Pueblo",
+    "description": "Coleção reunida pelo artista e humanista cubano Felipe Orlando, com cerca de mil e quinhentas peças de culturas pré-colombianas da América, de cerâmicas a figuras rituais. Ocupa um espaço tranquilo na Plaza de las Tres Culturas, no charmoso Benalmádena Pueblo. A entrada é gratuita e o acervo dá um mergulho raro na América antiga, longe do bulício da praia.",
+    "whatToDo": [
+      "Observe as cerâmicas e figuras rituais das culturas pré-colombianas",
+      "Aprenda sobre a trajetória do artista Felipe Orlando",
+      "Passeie depois pelas ruelas caiadas de Benalmádena Pueblo"
+    ],
+    "kingTip": "Entrada gratuita. Está no pueblo, na parte alta; combine com o Castillo de Colomares, que fica pertinho. Fecha às segundas e terças.",
+    "priceLevel": "Grátis",
+    "lat": 36.5967,
+    "lng": -4.5709,
+    "durationLabel": "45min–1h",
+    "fit": "INDOOR",
+    "hours": {
+      "openDays": "Qua–Dom (fecha Seg e Ter)",
+      "openHour": 9,
+      "closeHour": 19,
+      "note": "Qua–sáb 9h30–13h30 e 17h–19h; dom e feriados 10h–14h. Fecha segundas e terças. Entrada gratuita."
+    },
+    "mapQuery": "Museo de Arte Precolombino Felipe Orlando, Plaza de las Tres Culturas, Benalmádena Pueblo",
+    "links": [
+      { "label": "Turismo de Benalmádena", "url": "https://www.benalmadena.es/" }
+    ]
+  },
+  {
+    "id": "mlg_mimma",
+    "categoryId": "cultura",
+    "city": "malaga",
+    "name": "Museo Interactivo de la Música (MIMMA)",
+    "tagline": "Toque os instrumentos num palácio do século XVIII",
+    "description": "Museu interativo com centenas de instrumentos de todas as épocas e cantos do mundo, sob o lema \"por favor, toque\". Muitas peças podem ser experimentadas em salas dedicadas, o que encanta adultos e crianças. Ocupa o Palácio do Conde de las Navas, casarão do século XVIII na Calle Beatas, no centro histórico de Málaga.",
+    "whatToDo": [
+      "Toque os instrumentos liberados nas salas interativas",
+      "Percorra a coleção de instrumentos de várias culturas e séculos",
+      "Aprecie o pátio e a arquitetura do palácio setecentista"
+    ],
+    "kingTip": "Ideal para quem viaja com crianças e nos dias de calor: é coberto, climatizado e prático. Fica a poucos minutos da Catedral.",
+    "priceLevel": "~€4 (est.)",
+    "lat": 36.7236,
+    "lng": -4.4213,
+    "durationLabel": "1h–1h30",
+    "fit": "INDOOR",
+    "hours": {
+      "openDays": "Todos os dias",
+      "openHour": 10,
+      "closeHour": 19,
+      "note": "Inverno (7/set–24/jun): seg 10h–16h, ter–dom 10h–19h. Verão (25/jun–6/set): seg 10h30–16h, ter–dom 10h30–19h30."
+    },
+    "mapQuery": "MIMMA Museo Interactivo de la Música, Calle Beatas 15, Málaga",
+    "links": [
+      { "label": "Site oficial", "url": "https://www.musicaenaccion.com/" }
+    ]
+  },
+  {
+    "id": "grn_casa_de_los_tiros",
+    "categoryId": "cultura",
+    "city": "granada",
+    "name": "Museo Casa de los Tiros",
+    "tagline": "Palacete renascentista com teto de heróis",
+    "description": "Casa-fortaleza do século XVI no bairro do Realejo, com fachada de pedra ornada por esculturas e arcabuzes que dão nome ao lugar. Abriga o museu de história de Granada, com pintura, gravuras e objetos que contam a cidade dos séculos XIX e XX. Sua joia é a Cuadra Dorada, salão com um extraordinário teto de madeira policromada e retratos de reis e heróis.",
+    "whatToDo": [
+      "Admire o teto policromado e os retratos da Cuadra Dorada",
+      "Veja gravuras e fotografias antigas da Granada romântica",
+      "Repare na fachada com as figuras e os arcabuzes de pedra"
+    ],
+    "kingTip": "Gratuito para cidadãos da UE (leve documento). Fica no Realejo, ótimo para intercalar com uma volta pelo bairro judeu.",
+    "priceLevel": "Grátis (UE)",
+    "lat": 37.1745,
+    "lng": -3.5945,
+    "durationLabel": "45min–1h",
+    "fit": "INDOOR",
+    "hours": {
+      "openDays": "Ter–Dom (fecha Seg)",
+      "openHour": 9,
+      "closeHour": 21,
+      "note": "Inverno (16/set–15/jun): ter–sáb 9h–21h, dom e feriados 9h–15h. Verão (16/jun–15/set): ter–dom e feriados 9h–15h. Fecha às segundas."
+    },
+    "mapQuery": "Museo Casa de los Tiros, Calle Pavaneras 19, Granada",
+    "links": [
+      { "label": "Site oficial (Museos de Andalucía)", "url": "https://www.museosdeandalucia.es/web/museocasadelostirosdegranada" }
+    ]
+  },
+  {
+    "id": "grn_hospital_real",
+    "categoryId": "cultura",
+    "city": "granada",
+    "name": "Hospital Real de Granada",
+    "tagline": "Joia renascentista dos Reis Católicos",
+    "description": "Grandioso edifício iniciado pelos Reis Católicos no início do século XVI, um dos marcos do Renascimento espanhol, hoje sede da reitoria e da biblioteca da Universidade de Granada. Impressiona pela fachada plateresca de janelas lavradas e por quatro pátios simétricos em planta de cruz. O acesso aos pátios e às exposições costuma ser livre, num respiro sereno perto do centro.",
+    "whatToDo": [
+      "Contemple a fachada plateresca com os emblemas dos fundadores",
+      "Passeie pelos quatro pátios renascentistas do interior",
+      "Espie o salão nobre e as mostras temporárias, quando abertas"
+    ],
+    "kingTip": "Por ser edifício universitário, o acesso aos pátios costuma ser gratuito em dias úteis; confirme se há exposição em cartaz. Fica junto à estação de ônibus e ao Albaicín.",
+    "priceLevel": "Grátis (pátios)",
+    "lat": 37.1840,
+    "lng": -3.6017,
+    "durationLabel": "30–45min",
+    "fit": "CLEAR_SKY",
+    "hours": {
+      "openDays": "Seg–Sex (dias úteis)",
+      "openHour": 9,
+      "closeHour": 20,
+      "note": "Acesso a pátios e exposições em geral seg–sex em horário universitário. Fins de semana e agosto podem ter acesso restrito; confirme antes."
+    },
+    "mapQuery": "Hospital Real, Avenida del Hospicio, Granada",
+    "history": "Fundado em 1504 por ordem de Isabel e Fernando para acolher doentes e peregrinos, levou mais de um século para ser concluído. Passou por usos diversos até ser cedido, em 1971, à Universidade de Granada.",
+    "links": [
+      { "label": "Universidad de Granada", "url": "https://patrimonio.ugr.es/bien-inmueble/610/" }
+    ]
+  },
+  {
+    "id": "crd_julio_romero_de_torres",
+    "categoryId": "cultura",
+    "city": "cordoba",
+    "name": "Museo Julio Romero de Torres",
+    "tagline": "A alma cordobesa em retratos sensuais",
+    "description": "Dedicado ao pintor cordobês Julio Romero de Torres (1874–1930), reúne suas obras mais célebres, com as morenas melancólicas e simbólicas que fizeram sua fama. Ocupa a antiga casa da família, na pitoresca Plaza del Potro citada por Cervantes, ao lado do Museu de Belas Artes. Salas íntimas e frescas guardam telas como \"La chiquita piconera\".",
+    "whatToDo": [
+      "Encontre \"La chiquita piconera\" e outras obras-símbolo do pintor",
+      "Entenda o simbolismo andaluz por trás dos retratos femininos",
+      "Combine com o Museu de Belas Artes, na mesma praça"
+    ],
+    "kingTip": "Fica na Plaza del Potro, coladinho ao Museu de Belas Artes; visite os dois juntos. No verão abre só de manhã, das 10h às 17h.",
+    "priceLevel": "~€4,50 (est.)",
+    "lat": 37.8812,
+    "lng": -4.7747,
+    "durationLabel": "45min–1h",
+    "fit": "INDOOR",
+    "hours": {
+      "openDays": "Ter–Dom (fecha Seg)",
+      "openHour": 10,
+      "closeHour": 20,
+      "note": "Verão (16/jun–15/set): ter–dom e feriados 10h–17h. Inverno: ter–sáb 10h–20h30, dom e feriados 10h–17h. Fecha às segundas."
+    },
+    "mapQuery": "Museo Julio Romero de Torres, Plaza del Potro, Córdoba",
+    "links": [
+      { "label": "Turismo de Córdoba", "url": "https://www.turismodecordoba.org/museo-julio-romero-de-torres" }
+    ]
+  },
+  {
+    "id": "crd_casa_de_sefarad",
+    "categoryId": "cultura",
+    "city": "cordoba",
+    "name": "Casa de Sefarad",
+    "tagline": "A memória sefardita no coração da Judería",
+    "description": "Centro cultural instalado numa casa do século XIV, de frente para a Sinagoga, dedicado à história, à música e às tradições dos judeus sefarditas. Nove salas percorrem a vida na Judería, as mulheres de Al-Andalus, a Inquisição e a música sefardita, entre pátios e alcovas. É uma parada íntima e envolvente no coração do bairro judeu de Córdoba.",
+    "whatToDo": [
+      "Percorra as nove salas sobre a vida e a cultura sefardita",
+      "Descubra a sala dedicada às mulheres de Al-Andalus",
+      "Confira a agenda de concertos de música sefardita ao vivo"
+    ],
+    "kingTip": "Fica em frente à Sinagoga, na Calle Judíos; junte os dois numa só caminhada à sombra das ruelas. Abre todos os dias, das 11h às 18h.",
+    "priceLevel": "~€5 (est.)",
+    "lat": 37.8794,
+    "lng": -4.7838,
+    "durationLabel": "45min–1h",
+    "fit": "INDOOR",
+    "hours": {
+      "openDays": "Ter–Dom (fecha Seg)",
+      "openHour": 11,
+      "closeHour": 18,
+      "note": "Terça a domingo 11h–18h. Fecha às segundas. Confira no site os concertos de música sefardita."
+    },
+    "mapQuery": "Casa de Sefarad, Calle Judíos esquina Averroes, Córdoba",
+    "links": [
+      { "label": "Site oficial", "url": "https://lacasadesefarad.com/" }
+    ]
+  }
+]

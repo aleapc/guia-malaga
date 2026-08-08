@@ -7,6 +7,7 @@
   const links = [
     { href: `${base}/`, label: 'Início', emoji: '🏠' },
     { href: `${base}/roteiro`, label: 'Roteiro · 10 dias', emoji: '🗺️' },
+    { href: `${base}/acontece`, label: 'Acontece agora', emoji: '📅' },
     { href: `${base}/voos`, label: 'Voos', emoji: '🛫' },
     { href: `${base}/reservas`, label: 'Minhas reservas', emoji: '🎫' },
     { href: `${base}/perto`, label: 'Perto de mim', emoji: '📍' },

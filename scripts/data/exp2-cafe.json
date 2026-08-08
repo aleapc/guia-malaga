@@ -1,0 +1,215 @@
+[
+  {
+    "id": "mlg_syra_coffee",
+    "categoryId": "cafe",
+    "city": "malaga",
+    "name": "Syra Coffee",
+    "tagline": "Torra catalã de especialidade na Calle Mártires",
+    "description": "Filial malaguenha da microtorrefação barcelonesa Syra, uma barra minúscula e clean na Calle Mártires, a poucos passos da Plaza de la Constitución. Trabalha só com café de especialidade ético e sustentável, com espresso preciso e filtrados que trocam de origem a cada lote. Abre cedo, ideal para o primeiro café antes de o centro acordar.",
+    "lat": 36.72192,
+    "lng": -4.42294,
+    "durationLabel": "15–30 min",
+    "fit": "ANY",
+    "mapQuery": "Syra Coffee, Calle Mártires 13, Málaga",
+    "whatToDo": "Peça um cortado ou um filtrado do lote do dia na barra e leve para caminhar até a Plaza de la Constitución.",
+    "kingTip": "Abre às 8h, quando quase tudo no centro ainda está fechado; é a melhor aposta para café de especialidade logo cedo.",
+    "priceLevel": "€€",
+    "hours": {
+      "openDays": "Todos os dias",
+      "openHour": "08:00",
+      "closeHour": "19:00",
+      "note": "Espaço pequeno, voltado sobretudo ao café para viagem."
+    },
+    "links": [
+      { "label": "Site oficial", "url": "https://syra.coffee" }
+    ]
+  },
+  {
+    "id": "mlg_cafe_con_libros",
+    "categoryId": "cafe",
+    "city": "malaga",
+    "name": "Café con Libros",
+    "tagline": "Café literário e boêmio na Plaza de la Merced",
+    "description": "Café histórico e bohemio na Plaza de la Merced, aberto desde 1998 e tomado por estantes de livros que convidam a ficar. Serve cafés, sucos, sanduíches, saladas, bolos e crepes num ambiente familiar, com música ao vivo, micro-teatro e exposições ao longo da semana. Uma parada tranquila para ler sem pressa a poucos metros da casa natal de Picasso.",
+    "lat": 36.72364,
+    "lng": -4.41710,
+    "durationLabel": "30–45 min",
+    "fit": "ANY",
+    "mapQuery": "Café con Libros, Plaza de la Merced 19, Málaga",
+    "whatToDo": "Pegue um livro da estante, peça um café com um pedaço de bolo caseiro e sente-se na esplanada de frente para a praça.",
+    "kingTip": "Confira a programação: em muitas noites há música ao vivo ou micro-teatro no salão interno.",
+    "priceLevel": "€€"
+  },
+  {
+    "id": "mlg_recyclo_bike_cafe",
+    "categoryId": "cafe",
+    "city": "malaga",
+    "name": "Recyclo Bike Café",
+    "tagline": "Café, oficina e aluguel de bikes num só lugar",
+    "description": "Café-oficina descontraído na Plaza Enrique García-Herrera, que junta cafeteria, loja e taller de bicicletas no mesmo espaço. Serve cafés da manhã, almoços leves, café e bebidas num ambiente descolado e cheio de bikes penduradas. Ponto natural para quem quer alugar uma bicicleta e explorar Málaga sobre duas rodas.",
+    "lat": 36.71979,
+    "lng": -4.42436,
+    "durationLabel": "30–45 min",
+    "fit": "ANY",
+    "mapQuery": "Recyclo Bike Café, Plaza Enrique García-Herrera 16, Málaga",
+    "whatToDo": "Tome um café da manhã na esplanada e aproveite para alugar uma bike para pedalar até a praia da Malagueta.",
+    "kingTip": "Fecha aos domingos e cedo aos sábados; para juntar café e aluguel de bike, vá num dia de semana pela manhã.",
+    "priceLevel": "€€",
+    "hours": {
+      "openDays": "Segunda a sábado",
+      "openHour": "09:00",
+      "closeHour": "17:00",
+      "note": "Sábado até 14h; fecha aos domingos."
+    },
+    "links": [
+      { "label": "Site oficial", "url": "https://www.recyclobike.com" }
+    ]
+  },
+  {
+    "id": "mlg_la_bella_julieta",
+    "categoryId": "cafe",
+    "city": "malaga",
+    "name": "La Bella Julieta",
+    "tagline": "Brunch criativo e fotogênico na Puerta del Mar",
+    "description": "Cafeteria chique e moderna na Calle Puerta del Mar, popular pelos cafés da manhã e brunches caprichados e muito instagramáveis. Cardápio variado com pan con tomate, waffles, bolos caseiros, smoothie bowls e boas opções veganas. Ambiente jovem e descontraído no coração do centro histórico.",
+    "lat": 36.71794,
+    "lng": -4.42286,
+    "durationLabel": "45 min–1 h",
+    "fit": "ANY",
+    "mapQuery": "La Bella Julieta, Calle Puerta del Mar 20, Málaga",
+    "whatToDo": "Peça um smoothie bowl ou um waffle com um café especial e aproveite a decoração colorida para as fotos.",
+    "kingTip": "Tem várias unidades pela cidade; a da Puerta del Mar é a mais central para juntar com o Mercado de Atarazanas.",
+    "priceLevel": "€€"
+  },
+  {
+    "id": "mlg_freskitto",
+    "categoryId": "cafe",
+    "city": "malaga",
+    "name": "Heladería Freskitto",
+    "tagline": "Sorvete artesanal desde 1999, ao lado do Picasso",
+    "description": "Heladería artesanal fundada em Málaga em 1999 pelo maestro heladero José Romero, com uma loja na Calle Granada, pertíssimo do Museu Picasso. Produz o sorvete diariamente no próprio obrador, com ingredientes naturais e sem aditivos. Parada certeira e refrescante entre uma visita e outra pelo centro histórico.",
+    "lat": 36.72199,
+    "lng": -4.41806,
+    "durationLabel": "15–30 min",
+    "fit": "ANY",
+    "mapQuery": "Heladería Freskitto, Calle Granada 55, Málaga",
+    "whatToDo": "Escolha um creme e um sorbetto de fruta da estação e coma a caminho do Museu Picasso ou da catedral.",
+    "kingTip": "Fica na Calle Granada, rota natural entre a catedral e a Plaza de la Merced; ótimo para o calor de julho.",
+    "priceLevel": "€",
+    "links": [
+      { "label": "Site oficial", "url": "https://www.heladeriafreskitto.com" }
+    ]
+  },
+  {
+    "id": "grn_cafeteria_lisboa",
+    "categoryId": "cafe",
+    "city": "granada",
+    "name": "Cafetería Lisboa",
+    "tagline": "Café clássico com torra própria junto à Plaza Nueva",
+    "description": "Cafeteria clássica de Granada na esquina da Calle Reyes Católicos com a Plaza Nueva, com torrefação própria de café 100% arábica. Serve cafés da manhã, churros e um enxuto cardápio de almoço num salão sempre movimentado. Localização imbatível para começar o dia antes de subir ao Albaicín ou à Alhambra.",
+    "lat": 37.17640,
+    "lng": -3.59720,
+    "durationLabel": "30–45 min",
+    "fit": "ANY",
+    "mapQuery": "Cafetería Lisboa, Calle Reyes Católicos, Plaza Nueva, Granada",
+    "whatToDo": "Peça churros com um café da casa e tome numa das mesas de frente para a Plaza Nueva.",
+    "kingTip": "Fica no ponto de partida das subidas ao Albaicín e à Alhambra; ideal para o café da manhã antes da caminhada.",
+    "priceLevel": "€€"
+  },
+  {
+    "id": "grn_cafe_futbol",
+    "categoryId": "cafe",
+    "city": "granada",
+    "name": "Café Fútbol",
+    "tagline": "Churros com chocolate na Plaza Mariana Pineda, desde 1903",
+    "description": "Café emblemático de Granada aberto em 1903 na Plaza Mariana Pineda, hoje na quarta geração da mesma família. Referência absoluta em churros e porras com chocolate espesso e no leite espumoso da casa, servidos numa ampla esplanada. Instituição centenária para o clássico café da manhã doce granadino.",
+    "lat": 37.17201,
+    "lng": -3.59679,
+    "durationLabel": "30–45 min",
+    "fit": "ANY",
+    "mapQuery": "Café Fútbol, Plaza de Mariana Pineda 6, Granada",
+    "whatToDo": "Sente-se na esplanada da praça e peça churros ou porras com uma xícara de chocolate quente para mergulhar.",
+    "kingTip": "O chocolate com churros sai na parte da manhã e de novo à noite; à tarde nem sempre está disponível.",
+    "priceLevel": "€€",
+    "hours": {
+      "openDays": "Todos os dias",
+      "openHour": "08:00",
+      "closeHour": "00:00",
+      "note": "Churros com chocolate servidos por volta de 6h–13h30 e 18h–00h."
+    },
+    "links": [
+      { "label": "Site oficial", "url": "https://cafefutbol.com" }
+    ],
+    "history": "Fundado em 1903 por D. Antonio Suárez Martín, é um dos cafés mais antigos da Espanha, mantido por quatro gerações da mesma família."
+  },
+  {
+    "id": "grn_la_finca_coffee",
+    "categoryId": "cafe",
+    "city": "granada",
+    "name": "La Finca Coffee",
+    "tagline": "Microtorrefação de especialidade no centro",
+    "description": "Microtorrefação de café de especialidade com casas no centro de Granada, referência para quem busca grão bem tostado e ambiente acolhedor. Trabalha só com especialidade e acompanha o café com bolos e folhados frescos, como o croissant de pistache e o danish de cheesecake. Parada moderna e tranquila a poucos passos da catedral.",
+    "lat": 37.17621,
+    "lng": -3.60014,
+    "durationLabel": "20–40 min",
+    "fit": "ANY",
+    "mapQuery": "La Finca Coffee, Calle Colegio Catalino 3, Granada",
+    "whatToDo": "Prove um filtrado da torra da casa com um croissant de pistache e observe o vaivém do centro.",
+    "kingTip": "Eles torram o próprio café; pergunte pela origem em destaque e leve um pacote de grãos como lembrança.",
+    "priceLevel": "€€",
+    "links": [
+      { "label": "Site oficial", "url": "https://lafincaroaster.com" }
+    ]
+  },
+  {
+    "id": "rnd_teteria_al_zahra",
+    "categoryId": "cafe",
+    "city": "ronda",
+    "name": "Tetería Al-Zahra",
+    "tagline": "Chás, doces árabes e crepes em clima andalusí",
+    "description": "Tetería de charme na Calle las Tiendas, no centro histórico de Ronda, dedicada ao mundo do chá em puro estilo árabe. Longa carta de infusões, batidos e sucos naturais, além de pastelaria árabe e crepes, num ambiente de almofadas, tapetes e luz baixa. Refúgio aconchegante para uma pausa diferente entre os mirantes da cidade.",
+    "lat": 36.74232,
+    "lng": -5.16446,
+    "durationLabel": "30–45 min",
+    "fit": "ANY",
+    "mapQuery": "Tetería Al-Zahra, Calle las Tiendas 19, Ronda",
+    "whatToDo": "Escolha um chá aromático da carta com um doce árabe ou um crepe e relaxe no ambiente com almofadas.",
+    "kingTip": "É uma ótima pausa à sombra no calor de julho, quando os mirantes ao sol de Ronda ficam intensos.",
+    "priceLevel": "€€"
+  },
+  {
+    "id": "mrb_gioelia_fuengirola",
+    "categoryId": "cafe",
+    "city": "marbella",
+    "name": "GIOELIA Cremeria",
+    "tagline": "Gelato italiano à beira-mar em Los Boliches",
+    "description": "Cremeria de gelato artesanal de estilo italiano no Paseo Marítimo Rey de España, no trecho de Los Boliches, em Fuengirola. Uma das heladerías mais bem avaliadas da Costa del Sol central, com texturas cremosas e sabores feitos em pequenas fornadas. Parada perfeita para um gelato de frente para o mar num passeio pela praia.",
+    "lat": 36.53800,
+    "lng": -4.60950,
+    "durationLabel": "15–30 min",
+    "fit": "ANY",
+    "mapQuery": "GIOELIA Cremeria, Paseo Marítimo Rey de España 62, Fuengirola",
+    "whatToDo": "Peça uma casquinha com dois sabores e coma caminhando pelo paseo marítimo de Los Boliches à beira-mar.",
+    "kingTip": "Fica no calçadão de Los Boliches; combine com um mergulho na praia e o pôr do sol sobre o mar.",
+    "priceLevel": "€€",
+    "links": [
+      { "label": "Site oficial", "url": "https://gioelia.com" }
+    ]
+  },
+  {
+    "id": "mrb_darbini_torremolinos",
+    "categoryId": "cafe",
+    "city": "marbella",
+    "name": "Heladería D'Arbini",
+    "tagline": "Sorvete 100% artesanal na praia da Carihuela",
+    "description": "Heladería 100% artesanal no paseo marítimo da Carihuela, o antigo bairro de pescadores de Torremolinos. Uma das mais bem avaliadas da cidade, com sorvete cremoso feito no obrador e opções de tortas geladas. Ótimo fecho doce depois de um dia de praia ou de um passeio pelas ruelas caiadas da Carihuela.",
+    "lat": 36.60720,
+    "lng": -4.50490,
+    "durationLabel": "15–30 min",
+    "fit": "ANY",
+    "mapQuery": "Heladería D'Arbini, Paseo Marítimo La Carihuela 24, Torremolinos",
+    "whatToDo": "Escolha um creme e um sorbetto e coma no calçadão da Carihuela, de frente para o mar.",
+    "kingTip": "A Carihuela é o trecho mais gostoso de Torremolinos para caminhar à beira-mar; deixe o gelato para o entardecer.",
+    "priceLevel": "€€"
+  }
+]

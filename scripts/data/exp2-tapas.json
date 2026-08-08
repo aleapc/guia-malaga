@@ -1,0 +1,269 @@
+[
+  {
+    "id": "mlg_casa_lola",
+    "categoryId": "tapas",
+    "city": "malaga",
+    "name": "Casa Lola",
+    "tagline": "Tapas malaguenhas na Calle Granada",
+    "description": "Taberna de azulejos e barris aberta na movimentada Calle Granada, coração da rota de tapeo do centro histórico. A casa que inaugurou o grupo serve uma carta larga de tapas e montaditos clássicos a preços honestos, com vermute de torneira e um vaivém constante de gente no balcão. Colorida, animada e sempre cheia, é parada certa para começar a noite.",
+    "lat": 36.72206,
+    "lng": -4.41904,
+    "durationLabel": "45 min–1 h",
+    "fit": "ANY",
+    "mapQuery": "Casa Lola, Calle Granada 46, Málaga",
+    "kingTip": "Peça o pincho de tortilla cremosa e o vermute de torneira, a dupla que os malaguenhos repetem no aperitivo.",
+    "priceLevel": "€€",
+    "hours": {
+      "openDays": "Todos os dias",
+      "openHour": "12:00",
+      "closeHour": "00:00",
+      "note": "Costuma lotar no fim da tarde; há outras casas do grupo pela cidade (Strachan e porto)."
+    },
+    "links": [
+      { "label": "Site oficial", "url": "https://grupocasalola.com" }
+    ]
+  },
+  {
+    "id": "mlg_el_yerno",
+    "categoryId": "tapas",
+    "city": "malaga",
+    "name": "Bodega El Yerno",
+    "tagline": "Marisco fresco no Mercado de Atarazanas",
+    "description": "Barra de mariscos encravada dentro do Mercado Central de Atarazanas, o belo mercado de ferro e vitral do centro. A família compra o pescado do dia ali mesmo e serve boquerones, gambas, chocos e atum vermelho fritos ou grelhados na hora, regados a vinho de Málaga. Come-se em pé, no balcão, no burburinho do mercado. Ganhou em 2025 o prêmio de melhor boquerón frito da cidade.",
+    "lat": 36.71841,
+    "lng": -4.42406,
+    "durationLabel": "45 min–1 h",
+    "fit": "ANY",
+    "mapQuery": "Bar Marisquería El Yerno, Mercado de Atarazanas, Málaga",
+    "kingTip": "Peça os boquerones fritos premiados e uma taça de moscatel seco, direto no balcão do mercado.",
+    "priceLevel": "€€",
+    "hours": {
+      "openDays": "Seg–Sáb",
+      "openHour": "10:00",
+      "closeHour": "16:00",
+      "note": "Segue o horário do mercado; fecha à tarde e aos domingos. Melhor pela manhã e no aperitivo do meio-dia."
+    }
+  },
+  {
+    "id": "mlg_barra_zapata",
+    "categoryId": "tapas",
+    "city": "malaga",
+    "name": "La Barra de Zapata",
+    "tagline": "Tapas criativas de fusão no centro",
+    "description": "Bar de tapas pequeno e familiar junto à Plaza de la Constitución, com poucas mesas altas de barril na calçada. A cozinha cruza raiz andaluza com pinceladas latinas, italianas e asiáticas em porções de apresentação cuidada, com um carpaccio de fama local. O atendimento explica cada prato com calma, o que combina com um jantar sem pressa.",
+    "lat": 36.72018,
+    "lng": -4.42089,
+    "durationLabel": "1–1,5 h",
+    "fit": "ANY",
+    "mapQuery": "La Barra de Zapata, Calle Salinas 10, Málaga",
+    "kingTip": "Peça o carpaccio da casa, a tapa que consagrou o balcão, acompanhado de uma taça de tinto.",
+    "priceLevel": "€€",
+    "hours": {
+      "openDays": "Todos os dias",
+      "openHour": "13:00",
+      "closeHour": "23:30",
+      "note": "Espaço pequeno; reserve nos fins de semana. Confirme o dia de descanso na baixa temporada."
+    }
+  },
+  {
+    "id": "mlg_gorki",
+    "categoryId": "tapas",
+    "city": "malaga",
+    "name": "Gorki",
+    "tagline": "Vinhos e tapas gourmet na Strachan",
+    "description": "Casa de vinhos e tapas nascida em 1992 como loja gourmet na central Calle Strachan, a passos da Calle Larios. Equilibra taberna mediterrânea e bistrô refinado, com tapas espertas de produto fresco e uma carta de vinhos extensa. Tem terraço agradável para ver o vaivém do centro com um copo na mão.",
+    "lat": 36.71963,
+    "lng": -4.42095,
+    "durationLabel": "1–1,5 h",
+    "fit": "ANY",
+    "mapQuery": "Gorki, Calle Strachan 6, Málaga",
+    "kingTip": "Peça uma tábua de queijos e ibéricos com um vinho da carta, o forte da casa desde os tempos de loja gourmet.",
+    "priceLevel": "€€",
+    "hours": {
+      "openDays": "Todos os dias",
+      "openHour": "12:00",
+      "closeHour": "00:00",
+      "note": "Terraço disputado nos fins de semana; há uma segunda casa no porto (Muelle Uno)."
+    },
+    "links": [
+      { "label": "Site oficial", "url": "https://www.grupogorki.es" }
+    ]
+  },
+  {
+    "id": "cor_bodega_guzman",
+    "categoryId": "tapas",
+    "city": "cordoba",
+    "name": "Bodega Guzmán",
+    "tagline": "Fino do tonel na Judería cordovesa",
+    "description": "Bodega centenária escondida na Calle Judíos, no coração da Judería, a poucos passos da Sinagoga. Quase nada mudou desde que abriu: cartazes de touros, cabeças de toro na parede e enormes tonéis de onde saem o fino Amargoso e o oloroso da Sierra de Montilla, servidos direto do barril a preço de bairro. Tapas simples e baratas acompanham o vinho num ambiente sem concessões ao turismo.",
+    "lat": 37.88036,
+    "lng": -4.78367,
+    "durationLabel": "45 min–1 h",
+    "fit": "ANY",
+    "mapQuery": "Bodega Guzmán, Calle Judíos 7, Córdoba",
+    "kingTip": "Peça um fino Amargoso do tonel com berinjelas em conserva ou chorizo ao vinho, a experiência mais autêntica da Judería.",
+    "priceLevel": "€",
+    "hours": {
+      "openDays": "Sex–Qua",
+      "openHour": "12:30",
+      "closeHour": "16:00",
+      "note": "Reabre à noite (20h–00h); fecha às quintas e à tarde entre serviços. Só dinheiro em muitas ocasiões."
+    }
+  },
+  {
+    "id": "cor_sociedad_plateros",
+    "categoryId": "tapas",
+    "city": "cordoba",
+    "name": "Sociedad de Plateros María Auxiliadora",
+    "tagline": "Bacalhau e pátio cordovês desde 1868",
+    "description": "Taberna histórica do bairro de San Lorenzo, aberta em 1868 e tocada por gerações da mesma sociedade de artesãos. Em torno de um belo pátio andaluz de colunas, serve mais de trinta pratos de bacalhau que lhe valeram o apelido de La Posada del Bacalao, além de salmorejo, rabo de toro e flamenquines. Longe das rotas mais concorridas, é um clássico dos cordoveses.",
+    "lat": 37.88913,
+    "lng": -4.76754,
+    "durationLabel": "1–1,5 h",
+    "fit": "ANY",
+    "mapQuery": "Sociedad de Plateros María Auxiliadora, Calle María Auxiliadora 25, Córdoba",
+    "kingTip": "Peça o bacalhau em qualquer versão da casa e o salmorejo cordovês, sentado no pátio de colunas.",
+    "priceLevel": "€€",
+    "hours": {
+      "openDays": "Todos os dias",
+      "openHour": "13:00",
+      "closeHour": "23:30",
+      "note": "Fecha à tarde entre serviços; oferece opções sem glúten e vegetarianas. Confirme o descanso semanal."
+    },
+    "links": [
+      { "label": "Site oficial", "url": "https://www.sociedadplateros.com" }
+    ]
+  },
+  {
+    "id": "grn_taberna_la_tana",
+    "categoryId": "tapas",
+    "city": "granada",
+    "name": "Taberna La Tana",
+    "tagline": "Melhor bar de vinhos, no Realejo",
+    "description": "Taberna minúscula do bairro Realejo, fundada em 1993 e tocada pelo sommelier Jesús González, com as paredes forradas de garrafas do chão ao teto. Eleita melhor bar de vinhos da Espanha em 2020, mantém viva a tapa gratuita de Granada, aqui pareada a taças de vinho escolhidas a dedo e boas tábuas de queijos e embutidos. Íntima e calorosa, é ponto de peregrinação de quem gosta de vinho.",
+    "lat": 37.17275,
+    "lng": -3.59609,
+    "durationLabel": "45 min–1,5 h",
+    "fit": "ANY",
+    "mapQuery": "Taberna La Tana, Placeta del Agua 3, Realejo, Granada",
+    "kingTip": "Peça uma taça e deixe o dono sugerir a tapa que combina; em Granada ela vem grátis com a bebida.",
+    "priceLevel": "€€",
+    "hours": {
+      "openDays": "Todos os dias",
+      "openHour": "12:30",
+      "closeHour": "23:30",
+      "note": "Espaço muito pequeno; costuma lotar à noite. Fecha à tarde entre serviços."
+    },
+    "links": [
+      { "label": "Site oficial", "url": "https://www.tabernalatana.com" }
+    ]
+  },
+  {
+    "id": "grn_bar_aliatar",
+    "categoryId": "tapas",
+    "city": "granada",
+    "name": "Bar Aliatar",
+    "tagline": "Caracoles e tapa grátis no Albaicín",
+    "description": "Bar de bairro na recolhida Plaza Aliatar, no alto do Albaicín, o quarteirão mouro de ruelas caiadas tombado pela UNESCO. Antiga parada de arrieiros, mantém o ritual granadino da tapa gratuita a cada bebida e é famoso pelos caracoles em caldo picante servidos na temporada. Terraço na praça e clientela local dão o tom despretensioso.",
+    "lat": 37.18279,
+    "lng": -3.59132,
+    "durationLabel": "45 min–1 h",
+    "fit": "ANY",
+    "mapQuery": "Bar Aliatar, Plaza Aliatar 4, Albaicín, Granada",
+    "kingTip": "A tapa vem grátis com a bebida; no verão peça os caracoles em caldo picante, a especialidade da casa.",
+    "priceLevel": "€",
+    "hours": {
+      "openDays": "Todos os dias",
+      "openHour": "12:00",
+      "closeHour": "23:30",
+      "note": "Os caracoles são sazonais (fim da primavera e verão); a subida ao Albaicín é íngreme."
+    }
+  },
+  {
+    "id": "rnd_almocabar",
+    "categoryId": "tapas",
+    "city": "ronda",
+    "name": "Almocábar",
+    "tagline": "Tapas árabe-andaluzas junto à muralha",
+    "description": "Casa de tapas e cozinha no bairro San Francisco, ao pé da Puerta de Almocábar e da muralha antiga, no sul da cidade velha. Ambiente rústico com toque árabe-andaluz, barra de tapas dentro e um terraço à sombra das árvores com vista para o portão. A cozinha é caseira com um sopro de imaginação, com destaque para carnes, salmorejo e o ovo com trufa e presunto.",
+    "lat": 36.73427,
+    "lng": -5.16457,
+    "durationLabel": "1–1,5 h",
+    "fit": "ANY",
+    "mapQuery": "Restaurante Almocábar, Calle Ruedo Alameda 5, Ronda",
+    "kingTip": "Fique na barra de tapas e peça o rabo de toro e o ovo com trufa e presunto, os campeões da casa.",
+    "priceLevel": "€€",
+    "hours": {
+      "openDays": "Qua–Seg",
+      "openHour": "12:30",
+      "closeHour": "23:00",
+      "note": "Costuma descansar às terças e fechar à tarde entre serviços; reserve o terraço na alta temporada."
+    }
+  },
+  {
+    "id": "mrb_balcon_virgen",
+    "categoryId": "tapas",
+    "city": "marbella",
+    "name": "El Balcón de la Virgen",
+    "tagline": "Peixe frito sob a buganvília",
+    "description": "Taberna de 1978 num casarão dos séculos XVI–XVII no casco antigo de Marbella, a passos da Plaza de los Naranjos. A fachada some sob uma buganvília gigante e um balcão com capela da Virgem dá nome à casa. A cozinha mediterrânea brilha nas frituras de peixe fresco da Costa del Sol e nas carnes na brasa, servidas no ambiente caiado e florido da cidade velha.",
+    "lat": 36.51098,
+    "lng": -4.88507,
+    "durationLabel": "1–1,5 h",
+    "fit": "ANY",
+    "mapQuery": "El Balcón de la Virgen, Calle Remedios 2, Marbella",
+    "kingTip": "Peça o pescaíto frito em azeite bem quente, a especialidade da casa, à sombra da buganvília.",
+    "priceLevel": "€€",
+    "hours": {
+      "openDays": "Todos os dias",
+      "openHour": "12:30",
+      "closeHour": "23:30",
+      "note": "Muito procurado no verão; as mesas sob a buganvília são as mais disputadas."
+    },
+    "links": [
+      { "label": "Site oficial", "url": "https://www.elbalcondelavirgen.com" }
+    ]
+  },
+  {
+    "id": "mrb_taberna_pintxo_fuengirola",
+    "categoryId": "tapas",
+    "city": "marbella",
+    "name": "La Taberna del Pintxo",
+    "tagline": "Pintxos bascos à beira-mar",
+    "description": "Taberna de conceito basco no centro de Fuengirola, pertinho do paseo marítimo, onde os pintxos desfilam no balcão espetados em fatias de pão. Serve-se à moda de San Sebastián: pega-se o que apetece e paga-se pelo número de palitos ao final, entre versões frias e quentes. Informal e divertido, funciona bem em grupo e para provar muitas coisas de uma vez.",
+    "lat": 36.54038,
+    "lng": -4.62408,
+    "durationLabel": "45 min–1 h",
+    "fit": "ANY",
+    "mapQuery": "La Taberna del Pintxo, Calle Hermanos Pinzón, Fuengirola",
+    "kingTip": "Guarde os palitos: a conta sai pelo número de pintxos consumidos; peça também os quentes na hora.",
+    "priceLevel": "€€",
+    "hours": {
+      "openDays": "Todos os dias",
+      "openHour": "12:00",
+      "closeHour": "23:30",
+      "note": "Na Costa del Sol central (Fuengirola); enche na hora do aperitivo. Há casas do mesmo conceito em Marbella."
+    }
+  },
+  {
+    "id": "mrb_bodega_quitapenas_torremolinos",
+    "categoryId": "tapas",
+    "city": "marbella",
+    "name": "Bodega Quitapenas (Torremolinos)",
+    "tagline": "Bodega de 1961 junto ao mar",
+    "description": "Bodega histórica na Cuesta del Tajo, a ladeira que desce ao mar em Torremolinos, aberta desde 1961. Barris de moscatel e uma barra farta de pescado servem pescaíto frito, polvo, tortillitas de camarão e conservas, no melhor estilo da tapa marinha malaguenha. Ambiente popular e de solera, a caminho da praia do Bajondillo.",
+    "lat": 36.62206,
+    "lng": -4.49692,
+    "durationLabel": "45 min–1 h",
+    "fit": "ANY",
+    "mapQuery": "Bodega Quitapenas, Cuesta del Tajo 3, Torremolinos",
+    "kingTip": "Peça o pescaíto frito com uma taça do moscatel da casa, o Quitapenas, descendo para o Bajondillo.",
+    "priceLevel": "€€",
+    "hours": {
+      "openDays": "Todos os dias",
+      "openHour": "11:00",
+      "closeHour": "23:00",
+      "note": "Na Costa del Sol central (Torremolinos); a ladeira leva direto à praia do Bajondillo."
+    }
+  }
+]

@@ -1,0 +1,220 @@
+[
+  {
+    "id": "mrb_teleferico_benalmadena",
+    "categoryId": "natureza",
+    "city": "marbella",
+    "name": "Teleférico de Benalmádena (Monte Calamorro)",
+    "tagline": "Bondinho ao cume de 771 m sobre a costa",
+    "description": "Teleférico que sobe em 15 minutos da Explanada do Tívoli, em Arroyo de la Miel, até o alto do Monte Calamorro, na Sierra de Mijas. Lá em cima abrem-se trilhas curtas de monte mediterrâneo e miradouros que alcançam de Málaga a Gibraltar e, em dias limpos, o Rif marroquino. No terraço há sessões de voo livre de aves de rapina em pleno horizonte da baía.",
+    "lat": 36.59900,
+    "lng": -4.54880,
+    "durationLabel": "2–3 h",
+    "fit": "CLEAR_SKY",
+    "windSensitive": true,
+    "mapQuery": "Teleférico Benalmádena, Explanada del Tívoli, Arroyo de la Miel",
+    "kingTip": "O teleférico fecha com vento forte e o cume fica bem mais fresco e ventoso que a costa: leve um casaco leve mesmo em julho, suba na primeira hora pela luz e confira antes se há voo de aves rapaces no dia.",
+    "priceLevel": "€€€",
+    "hours": {
+      "openDays": "Todos os dias (verão)",
+      "openHour": "10:00",
+      "closeHour": "19:00",
+      "note": "Horário do verão costuma esticar até o fim da tarde; confirme no site, pois muda por temporada e pode fechar por vento."
+    },
+    "links": [
+      { "label": "Site oficial", "url": "https://www.telefericobenalmadena.com" }
+    ]
+  },
+  {
+    "id": "mrb_bioparc_fuengirola",
+    "categoryId": "natureza",
+    "city": "marbella",
+    "name": "Bioparc Fuengirola",
+    "tagline": "Zoo de imersão em plena selva urbana",
+    "description": "Parque de nova geração no centro de Fuengirola, onde os animais vivem em recriações fiéis de selvas de Madagascar, África Equatorial, Sudeste Asiático e Indo-Pacífico, sem grades à vista. Passarelas cruzam a vegetação densa junto a gorilas, tigres, lêmures e crocodilos, com forte trabalho de conservação de espécies ameaçadas. Um dos zoológicos mais premiados da Europa, ótimo para famílias.",
+    "lat": 36.53730,
+    "lng": -4.62740,
+    "durationLabel": "3–4 h",
+    "fit": "ANY",
+    "mapQuery": "Bioparc Fuengirola, Calle Camilo José Cela 6, Fuengirola",
+    "kingTip": "A vegetação densa dá bastante sombra, o que ajuda no calor, mas ainda assim vá na abertura às 10h para ver os animais ativos antes do meio-dia; fica a 600 m da estação de trem de Fuengirola.",
+    "priceLevel": "€€€",
+    "hours": {
+      "openDays": "Todos os dias",
+      "openHour": "10:00",
+      "closeHour": "20:00",
+      "note": "Abre todo o dia às 10h; o fechamento estica no verão (até 20h em maio–agosto). Confirme o horário do dia no site."
+    },
+    "links": [
+      { "label": "Site oficial", "url": "https://www.bioparcfuengirola.es" }
+    ]
+  },
+  {
+    "id": "mrb_selwo_aventura",
+    "categoryId": "natureza",
+    "city": "marbella",
+    "name": "Selwo Aventura (Estepona)",
+    "tagline": "Safári a pé e de veículo entre serras",
+    "description": "Grande parque de aventura na serra de Estepona onde mais de 2.000 animais de três continentes vivem em vastos recintos que imitam a savana e a floresta. Percorre-se a pé e em veículos 4x4 tipo safári, com girafas, rinocerontes, leões, elefantes e uma reserva de aves. Tem tirolesas, pontes tibetanas e experiências de tratador para quem quer mais adrenalina.",
+    "lat": 36.44560,
+    "lng": -5.00780,
+    "durationLabel": "meio dia",
+    "fit": "CLEAR_SKY",
+    "mapQuery": "Selwo Aventura, A-7 km 162.5, Estepona",
+    "kingTip": "O terreno é aberto e serrano, com pouca sombra e muita subida: vá cedo, leve boné, protetor e água, e reserve o passeio de 4x4 e a tirolesa online para não pegar fila no calor.",
+    "priceLevel": "€€€",
+    "hours": {
+      "openDays": "Todos os dias (verão)",
+      "openHour": "10:00",
+      "closeHour": "18:00",
+      "note": "Abre às 10h; horário e dias podem variar fora do verão. Confirme no site antes de ir."
+    },
+    "links": [
+      { "label": "Site oficial", "url": "https://www.selwo.es" }
+    ]
+  },
+  {
+    "id": "mrb_selwo_marina",
+    "categoryId": "natureza",
+    "city": "marbella",
+    "name": "Selwo Marina (Delfinário de Benalmádena)",
+    "tagline": "Golfinhos, pinguins e selva tropical",
+    "description": "Parque marinho junto ao Parque de la Paloma, em Benalmádena Costa, com o único delfinário da Andaluzia e uma grande pinguineira antártica com aves de várias espécies. Há ainda uma cúpula de selva tropical amazônica, répteis, aves exóticas e apresentações educativas de golfinhos e leões-marinhos ao longo do dia. Compacto e sombreado, funciona bem mesmo com tempo instável.",
+    "lat": 36.59510,
+    "lng": -4.53390,
+    "durationLabel": "2–3 h",
+    "fit": "ANY",
+    "mapQuery": "Selwo Marina, Parque de la Paloma, Benalmádena",
+    "kingTip": "Chegue cedo e cheque o quadro de horários logo na entrada para encaixar as apresentações de golfinhos e pinguins sem correria; boa opção de dia nublado ou muito quente, por ter áreas cobertas e climatizadas.",
+    "priceLevel": "€€€",
+    "hours": {
+      "openDays": "Todos os dias (verão)",
+      "openHour": "10:00",
+      "closeHour": "18:00",
+      "note": "Abre às 10h no verão; dias e horários variam por temporada. Confirme no site."
+    },
+    "links": [
+      { "label": "Site oficial", "url": "https://www.selwomarina.es" }
+    ]
+  },
+  {
+    "id": "mrb_sea_life_benalmadena",
+    "categoryId": "natureza",
+    "city": "marbella",
+    "name": "Sea Life Benalmádena",
+    "tagline": "Aquário com túnel e tanque de tubarões",
+    "description": "Aquário à beira do glamouroso Puerto Marina de Benalmádena, com dezenas de tanques que recriam do Mediterrâneo aos mares tropicais. O ponto alto é o túnel submerso que atravessa o oceânico, com tubarões, raias e tartarugas passando por cima da cabeça. Espaço interativo com poças de toque, cavalos-marinhos e trabalho de resgate de tartarugas marinhas.",
+    "lat": 36.59660,
+    "lng": -4.51640,
+    "durationLabel": "1,5–2 h",
+    "fit": "ANY",
+    "mapQuery": "Sea Life Benalmádena, Puerto Marina",
+    "kingTip": "Totalmente coberto e climatizado, é o refúgio ideal nas horas de sol mais forte ou em dia de vento; emende com um passeio pelo Puerto Marina e reserve online para poupar até 20% e evitar fila.",
+    "priceLevel": "€€",
+    "hours": {
+      "openDays": "Todos os dias",
+      "openHour": "10:00",
+      "closeHour": "19:00",
+      "note": "Última entrada cerca de 1h antes do fechamento; horário estica no verão. Confirme no site."
+    },
+    "links": [
+      { "label": "Site oficial", "url": "https://www.visitsealife.com/benalmadena" }
+    ]
+  },
+  {
+    "id": "mrb_cocodrilos_park",
+    "categoryId": "natureza",
+    "city": "marbella",
+    "name": "Cocodrilos Park (Torremolinos)",
+    "tagline": "Centenas de crocodilos a 15 min do centro",
+    "description": "Parque de conservação em Torremolinos dedicado aos crocodilos, com centenas de exemplares de várias espécies, do anão africano ao imponente crocodilo-do-nilo. Percursos passam por lagos e viveiros até o veterano Big Daddy, um dos maiores da Europa, além de tartarugas e répteis num museu temático. Visitas guiadas mostram alimentação e o trabalho de criação.",
+    "lat": 36.62620,
+    "lng": -4.50570,
+    "durationLabel": "1,5–2 h",
+    "fit": "ANY",
+    "mapQuery": "Cocodrilos Park, Calle Cuba 14, Torremolinos",
+    "kingTip": "Compacto e com boa parte à sombra e coberta, é uma parada rápida e boa até com tempo instável; confira o horário da alimentação dos crocodilos, o momento mais movimentado da visita, e há estacionamento próprio grátis.",
+    "priceLevel": "€€",
+    "hours": {
+      "openDays": "Todos os dias (verão)",
+      "openHour": "10:00",
+      "closeHour": "18:00",
+      "note": "Jul–ago costuma abrir 10:00–18:00; nos demais meses fecha mais cedo. Confirme no site."
+    },
+    "links": [
+      { "label": "Site oficial", "url": "https://www.cocodrilospark.com" }
+    ]
+  },
+  {
+    "id": "mlg_embalse_guadalhorce",
+    "categoryId": "natureza",
+    "city": "malaga",
+    "name": "Embalse Conde de Guadalhorce (Lagos de El Chorro)",
+    "tagline": "Espelhos turquesa aos pés do Caminito del Rey",
+    "description": "Conjunto de represas de água turquesa encaixadas na paisagem cársica de Ardales, junto à entrada do Caminito del Rey. Miradouros como o Luis Morales revelam os lagos entre pinheiros e paredões, e nas margens dá para nadar, alugar caiaque e pedalinho ou fazer um roteiro guiado de remo. Restaurantes rústicos à beira-d'água completam um dia de natureza no interior de Málaga.",
+    "lat": 36.91840,
+    "lng": -4.78880,
+    "durationLabel": "2–4 h",
+    "fit": "CLEAR_SKY",
+    "windSensitive": false,
+    "mapQuery": "Mirador Embalse Conde de Guadalhorce, Ardales",
+    "kingTip": "Água refrescante e ótima para caiaque no calor, mas as margens têm pouca sombra: leve chapéu, protetor e água, e combine com o Caminito del Rey, logo ali, reservando o caiaque com antecedência na alta temporada.",
+    "priceLevel": "€",
+    "links": [
+      { "label": "Diputación de Málaga", "url": "https://www.malaga.es/es/laprovincia/naturaleza/lis_cd-17018/pantano-conde-guadalhorce" }
+    ]
+  },
+  {
+    "id": "mrb_parque_paloma",
+    "categoryId": "natureza",
+    "city": "marbella",
+    "name": "Parque de la Paloma (Benalmádena)",
+    "tagline": "Parque enorme com animais soltos e lago",
+    "description": "Um dos maiores parques urbanos da Costa del Sol, com mais de 200.000 m² de gramados, trilhas e um grande lago central em Benalmádena Costa. Coelhos, galinhas, pavões, patos e até um pônei circulam soltos entre os visitantes, para alegria das crianças. Tem área de piquenique, playground, cafeteria e fica a poucos passos da praia de Santa Ana.",
+    "lat": 36.59660,
+    "lng": -4.53610,
+    "durationLabel": "1–2 h",
+    "fit": "CLEAR_SKY",
+    "windSensitive": false,
+    "mapQuery": "Parque de la Paloma, Benalmádena Costa",
+    "kingTip": "Entrada gratuita e muita sombra de árvores: perfeito para o fim da tarde com crianças, levando pão ou ração própria para os animais soltos, e emendando com um banho na praia de Santa Ana ao lado.",
+    "priceLevel": "€"
+  },
+  {
+    "id": "mrb_los_reales_bermeja",
+    "categoryId": "natureza",
+    "city": "marbella",
+    "name": "Los Reales de Sierra Bermeja (Estepona)",
+    "tagline": "Pinsapar sobre peridotita a 1.452 m",
+    "description": "Paraje natural sobre Estepona coroado pelo Pico de Los Reales, com 1.452 metros o ponto mais alto de toda a linha costeira da Península. A serra de rocha vermelha de peridotita abriga um dos raros bosques relictos de pinsapo, o abeto-espanhol. Do Mirador Salvador Guerrero, a 380 m do estacionamento, a vista varre da baía de Marbella ao Estreito e, em dias limpos, à África.",
+    "lat": 36.48700,
+    "lng": -5.15850,
+    "durationLabel": "2–4 h",
+    "fit": "CLEAR_SKY",
+    "windSensitive": true,
+    "mapQuery": "Mirador Salvador Guerrero, Los Reales de Sierra Bermeja, Estepona",
+    "kingTip": "A altitude deixa o ar bem mais fresco e ventoso que a costa, alívio perfeito no calor; a estrada de acesso é estreita e sinuosa, então suba com calma pela manhã e confira antes se não há fechamento por risco de incêndio no verão.",
+    "priceLevel": "€",
+    "links": [
+      { "label": "Estepona Natural", "url": "https://www.estepona-natural.es" }
+    ]
+  },
+  {
+    "id": "rnd_garganta_verde",
+    "categoryId": "natureza",
+    "city": "ronda",
+    "name": "Garganta Verde (Zahara de la Sierra)",
+    "tagline": "Cânion de 100 m com colônia de grifos",
+    "description": "Desfiladeiro espetacular escavado pelo arroio Bocaleones no Parque Natural Sierra de Grazalema, a oeste de Ronda. As paredes verticais de até 100 metros abrigam uma das maiores colônias de grifos da Andaluzia, que planam sobre o abismo. No fundo do cânion escondem-se a Ermita de la Garganta, uma gruta de formações calcárias, num dos trekkings mais impressionantes da região.",
+    "lat": 36.82030,
+    "lng": -5.38380,
+    "durationLabel": "2–3 h",
+    "fit": "CLEAR_SKY",
+    "windSensitive": false,
+    "mapQuery": "Sendero Garganta Verde, Zahara de la Sierra",
+    "kingTip": "Atenção: a descida completa ao cânion exige autorização gratuita (pelo centro de visitantes de El Bosque) e fica fechada de 1º de junho a 15 de outubro por risco de incêndio, justo no verão; nesse período só se chega ao primeiro miradouro dos grifos. Confirme antes e vá cedo.",
+    "priceLevel": "€",
+    "links": [
+      { "label": "Cádiz Turismo", "url": "https://www.cadizturismo.com/rutas/sendero-garganta-verde" }
+    ]
+  }
+]
