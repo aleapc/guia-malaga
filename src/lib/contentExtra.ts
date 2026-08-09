@@ -37,7 +37,8 @@ export const extraAttractions: Attraction[] = [
         "label": "Ingressos",
         "url": "https://www.museopicassomalaga.org/en/plan-your-visit/tickets"
       }
-    ]
+    ],
+    "image": "mlg_museo_picasso.jpg"
   },
   {
     "id": "mlg_casa_natal_picasso",
@@ -112,7 +113,8 @@ export const extraAttractions: Attraction[] = [
         "label": "Ingressos",
         "url": "https://www.carmenthyssenmalaga.org/en/visit"
       }
-    ]
+    ],
+    "image": "mlg_carmen_thyssen.jpg"
   },
   {
     "id": "mlg_centre_pompidou",
@@ -155,7 +157,8 @@ export const extraAttractions: Attraction[] = [
         "label": "Ingressos",
         "url": "https://centrepompidou-malaga.eu/entradas/"
       }
-    ]
+    ],
+    "image": "mlg_centre_pompidou.jpg"
   },
   {
     "id": "mlg_coleccion_museo_ruso",
@@ -194,7 +197,8 @@ export const extraAttractions: Attraction[] = [
         "label": "Site oficial",
         "url": "https://www.coleccionmuseoruso.es/"
       }
-    ]
+    ],
+    "image": "mlg_coleccion_museo_ruso.jpg"
   },
   {
     "id": "mlg_cac_malaga",
@@ -273,7 +277,8 @@ export const extraAttractions: Attraction[] = [
         "label": "Site oficial",
         "url": "https://www.museosdeandalucia.es/web/museodemalaga"
       }
-    ]
+    ],
+    "image": "mlg_museo_de_malaga.jpg"
   },
   {
     "id": "mlg_museo_automovilistico_moda",
@@ -304,7 +309,8 @@ export const extraAttractions: Attraction[] = [
         "label": "Site oficial",
         "url": "https://www.museoautomovilmalaga.com/"
       }
-    ]
+    ],
+    "image": "mlg_museo_automovilistico_moda.jpg"
   },
   {
     "id": "mlg_museo_del_vino",
@@ -342,7 +348,8 @@ export const extraAttractions: Attraction[] = [
         "label": "Site oficial",
         "url": "https://museovinomalaga.com/"
       }
-    ]
+    ],
+    "image": "mlg_museo_del_vino.jpg"
   },
   {
     "id": "rnd_museo_lara",
@@ -373,7 +380,8 @@ export const extraAttractions: Attraction[] = [
         "label": "Site oficial",
         "url": "https://www.museolara.org/"
       }
-    ]
+    ],
+    "image": "rnd_museo_lara.jpg"
   },
   {
     "id": "rnd_museo_bandolero",
@@ -404,7 +412,8 @@ export const extraAttractions: Attraction[] = [
         "label": "Site oficial",
         "url": "https://www.museobandolero.com/"
       }
-    ]
+    ],
+    "image": "rnd_museo_bandolero.jpg"
   },
   {
     "id": "mlg_mia_coffee",
@@ -420,7 +429,8 @@ export const extraAttractions: Attraction[] = [
     "mapQuery": "Mía Coffee Shop, Plaza de los Mártires, Málaga",
     "whatToDo": "Peça um flat white e um dos bolos caseiros na barra estreita, ou leve o café para caminhar pelo centro.",
     "kingTip": "O espaço é pequeníssimo e enche rápido; vá em horário de baixa ou peça para viagem.",
-    "priceLevel": "€€"
+    "priceLevel": "€€",
+    "image": "mlg_mia_coffee.jpg"
   },
   {
     "id": "mlg_next_level_coffee",
@@ -442,7 +452,8 @@ export const extraAttractions: Attraction[] = [
       "openHour": "08:00",
       "closeHour": "17:00",
       "note": "Fecha no fim da tarde; foco em cafés da manhã e brunch."
-    }
+    },
+    "image": "mlg_next_level_coffee.jpg"
   },
   {
     "id": "mlg_el_ultimo_mono",
@@ -458,7 +469,8 @@ export const extraAttractions: Attraction[] = [
     "mapQuery": "El Último Mono Juice & Coffee, Calle Santa María 9, Málaga",
     "whatToDo": "Combine um suco verde prensado na hora com uma torrada de brunch e um cortado de especialidade.",
     "kingTip": "Nos fins de semana o brunch enche; chegue antes das 11h para pegar mesa.",
-    "priceLevel": "€€"
+    "priceLevel": "€€",
+    "image": "mlg_el_ultimo_mono.jpg"
   },
   {
     "id": "mlg_julia_bakery",
@@ -474,7 +486,8 @@ export const extraAttractions: Attraction[] = [
     "mapQuery": "Julia Bakery, Calle Carretería 44, Málaga",
     "whatToDo": "Prove uma fatia de cheesecake e leve um pão de fermentação natural ou uma napolitana quentinha.",
     "kingTip": "A carta de cheesecakes muda; pergunte pelas fatias do dia recém-saídas do forno.",
-    "priceLevel": "€€"
+    "priceLevel": "€€",
+    "image": "mlg_julia_bakery.jpg"
   },
   {
     "id": "mlg_eccolo_gelato",
@@ -490,7 +503,8 @@ export const extraAttractions: Attraction[] = [
     "mapQuery": "Eccolo Gelato, Calle San Juan 32, Málaga",
     "whatToDo": "Peça uma casquinha com pistache siciliano e um sorbetto de fruta da estação para o calor de julho.",
     "kingTip": "Nos dias mais quentes, o sorbetto de limão ou de morango refresca mais que os cremes.",
-    "priceLevel": "€€"
+    "priceLevel": "€€",
+    "image": "mlg_eccolo_gelato.jpg"
   },
   {
     "id": "mlg_levi_angelo_gelato",
@@ -506,7 +520,8 @@ export const extraAttractions: Attraction[] = [
     "mapQuery": "Levi Angelo Gelato, Calle Vendeja, Málaga",
     "whatToDo": "Escolha duas bolas contrastantes, um creme e um sorbetto, e coma à sombra a caminho do Muelle Uno.",
     "kingTip": "Fica a poucos passos do porto; ótimo fecho depois de um passeio à beira-mar ao entardecer.",
-    "priceLevel": "€€"
+    "priceLevel": "€€",
+    "image": "mlg_levi_angelo_gelato.jpg"
   },
   {
     "id": "grn_gran_cafe_bib_rambla",
@@ -528,7 +543,8 @@ export const extraAttractions: Attraction[] = [
         "label": "Site oficial",
         "url": "https://cafebibrambla.com"
       }
-    ]
+    ],
+    "image": "grn_gran_cafe_bib_rambla.jpg"
   },
   {
     "id": "grn_los_italianos",
@@ -557,7 +573,8 @@ export const extraAttractions: Attraction[] = [
         "url": "https://www.lositalianos.es"
       }
     ],
-    "history": "Fundada em 1936 por uma família de imigrantes italianos, tornou-se uma das heladerías mais queridas de Granada."
+    "history": "Fundada em 1936 por uma família de imigrantes italianos, tornou-se uma das heladerías mais queridas de Granada.",
+    "image": "grn_los_italianos.jpg"
   },
   {
     "id": "rnd_confiteria_daver",
@@ -579,7 +596,8 @@ export const extraAttractions: Attraction[] = [
         "label": "Site oficial",
         "url": "https://confiteriadaver.es"
       }
-    ]
+    ],
+    "image": "rnd_confiteria_daver.jpg"
   },
   {
     "id": "ant_la_antequerana",
@@ -601,7 +619,8 @@ export const extraAttractions: Attraction[] = [
       "openHour": "08:30",
       "closeHour": "21:00",
       "note": "Fecha à tarde entre turnos nos dias de semana; fins de semana horário contínuo."
-    }
+    },
+    "image": "ant_la_antequerana.jpg"
   },
   {
     "id": "cor_the_coffee_club",
@@ -617,7 +636,8 @@ export const extraAttractions: Attraction[] = [
     "mapQuery": "The Coffee Club, Calle Céspedes 2, Córdoba",
     "whatToDo": "Peça um flat white de torra andaluza e um brownie morno para levar rumo à Mesquita-Catedral.",
     "kingTip": "Poucos lugares para sentar; pegue o café para viagem e beba passeando pelas ruelas da Judería.",
-    "priceLevel": "€€"
+    "priceLevel": "€€",
+    "image": "cor_the_coffee_club.jpg"
   },
   {
     "id": "mrb_kafein_coffee",
@@ -633,7 +653,8 @@ export const extraAttractions: Attraction[] = [
     "mapQuery": "Kafein Coffee & Kitchen, Calle Pedraza 3, Marbella",
     "whatToDo": "Peça um cappuccino com um croissant recheado e sente-se na ruela do casco antiguo para ver o vaivém.",
     "kingTip": "É pequena e concorrida; chegue cedo de manhã para garantir uma das poucas mesas na rua.",
-    "priceLevel": "€€"
+    "priceLevel": "€€",
+    "image": "mrb_kafein_coffee.jpg"
   },
   {
     "id": "mlg_mercado_salamanca",
@@ -662,7 +683,8 @@ export const extraAttractions: Attraction[] = [
         "url": "https://mercados.malagacomercio.es/mercados/mercado-de-salamanca/"
       }
     ],
-    "history": "Projetado pelo arquiteto Daniel Rubio Sánchez e construído entre 1922 e 1925, no bairro do Molinillo."
+    "history": "Projetado pelo arquiteto Daniel Rubio Sánchez e construído entre 1922 e 1925, no bairro do Molinillo.",
+    "image": "mlg_mercado_salamanca.jpg"
   },
   {
     "id": "mlg_mercado_merced",
@@ -690,7 +712,8 @@ export const extraAttractions: Attraction[] = [
         "label": "Mercados de Málaga",
         "url": "https://mercados.malagacomercio.es/mercados/mercado-de-la-merced/"
       }
-    ]
+    ],
+    "image": "mlg_mercado_merced.jpg"
   },
   {
     "id": "mlg_libreria_luces",
@@ -718,7 +741,8 @@ export const extraAttractions: Attraction[] = [
         "label": "Site oficial",
         "url": "https://www.librerialuces.com/"
       }
-    ]
+    ],
+    "image": "mlg_libreria_luces.jpg"
   },
   {
     "id": "mlg_la_mallorquina",
@@ -740,7 +764,8 @@ export const extraAttractions: Attraction[] = [
       "openHour": "09:30",
       "closeHour": "20:30",
       "note": "Domingos fechado; pausa ao meio-dia possível fora da temporada alta."
-    }
+    },
+    "image": "mlg_la_mallorquina.jpg"
   },
   {
     "id": "grn_ceramica_fajalauza",
@@ -769,7 +794,8 @@ export const extraAttractions: Attraction[] = [
         "url": "https://fajalauza.es/"
       }
     ],
-    "history": "Tradição oleira ligada à família Morales desde o início do século XVI, no bairro do Albaicín."
+    "history": "Tradição oleira ligada à família Morales desde o início do século XVI, no bairro do Albaicín.",
+    "image": "grn_ceramica_fajalauza.jpg"
   },
   {
     "id": "grn_mercado_san_agustin",
@@ -791,7 +817,8 @@ export const extraAttractions: Attraction[] = [
       "openHour": "09:00",
       "closeHour": "15:00",
       "note": "A seção gourmet estende-se à tarde e à noite; bancas de fresco fecham ao início da tarde."
-    }
+    },
+    "image": "grn_mercado_san_agustin.jpg"
   },
   {
     "id": "grn_casa_ferrer",
@@ -819,7 +846,8 @@ export const extraAttractions: Attraction[] = [
         "label": "Site oficial",
         "url": "https://guitarreriacasaferrer.com/"
       }
-    ]
+    ],
+    "image": "grn_casa_ferrer.jpg"
   },
   {
     "id": "grn_bib_rambla_flores",
@@ -835,7 +863,8 @@ export const extraAttractions: Attraction[] = [
     "mapQuery": "Plaza Bib-Rambla, Granada",
     "whatToDo": "Compre um ramo de flores nas bancas históricas ou artesanato local nos quiosques e faça uma pausa num café da praça.",
     "kingTip": "Fica coladinha à Alcaicería e à catedral; encadeie as três num só passeio de compras pelo centro.",
-    "priceLevel": "€"
+    "priceLevel": "€",
+    "image": "grn_bib_rambla_flores.jpg"
   },
   {
     "id": "grn_laguna_taracea",
@@ -864,7 +893,8 @@ export const extraAttractions: Attraction[] = [
         "url": "https://www.lagunataracea.com/"
       }
     ],
-    "history": "Oficina de taracea em funcionamento contínuo desde 1877, herdeira da tradição nazari granadina."
+    "history": "Oficina de taracea em funcionamento contínuo desde 1877, herdeira da tradição nazari granadina.",
+    "image": "grn_laguna_taracea.jpg"
   },
   {
     "id": "mrb_la_canada",
@@ -892,7 +922,8 @@ export const extraAttractions: Attraction[] = [
         "label": "Site oficial",
         "url": "https://lacanadashopping.com/"
       }
-    ]
+    ],
+    "image": "mrb_la_canada.jpg"
   },
   {
     "id": "cor_zoco_artesania",
@@ -914,7 +945,8 @@ export const extraAttractions: Attraction[] = [
       "openHour": "10:00",
       "closeHour": "20:00",
       "note": "Horário pode reduzir no verão pelo calor da tarde."
-    }
+    },
+    "image": "cor_zoco_artesania.jpg"
   },
   {
     "id": "cor_meryan",
@@ -943,7 +975,8 @@ export const extraAttractions: Attraction[] = [
         "url": "https://meryancor.com/"
       }
     ],
-    "history": "Fundada em 1958 por Ángel López-Obrero e Mercedes Miarons, dedicada às técnicas históricas dos Couros de Córdoba."
+    "history": "Fundada em 1958 por Ángel López-Obrero e Mercedes Miarons, dedicada às técnicas históricas dos Couros de Córdoba.",
+    "image": "cor_meryan.jpg"
   },
   {
     "id": "rnd_bodega_la_sangre",
@@ -965,7 +998,8 @@ export const extraAttractions: Attraction[] = [
         "label": "Site oficial",
         "url": "https://bodegaronda.com/"
       }
-    ]
+    ],
+    "image": "rnd_bodega_la_sangre.jpg"
   },
   {
     "id": "mlg_revello_de_toro",
@@ -997,7 +1031,8 @@ export const extraAttractions: Attraction[] = [
         "label": "Site oficial",
         "url": "https://www.museorevellodetoro.net/"
       }
-    ]
+    ],
+    "image": "mlg_revello_de_toro.jpg"
   },
   {
     "id": "mlg_vidrio_y_cristal",
@@ -1029,7 +1064,8 @@ export const extraAttractions: Attraction[] = [
         "label": "Site oficial",
         "url": "https://www.museovidrioycristalmalaga.com/"
       }
-    ]
+    ],
+    "image": "mlg_vidrio_y_cristal.jpg"
   },
   {
     "id": "mlg_museo_jorge_rando",
@@ -1061,7 +1097,8 @@ export const extraAttractions: Attraction[] = [
         "label": "Site oficial",
         "url": "https://www.museojorgerando.org/"
       }
-    ]
+    ],
+    "image": "mlg_museo_jorge_rando.jpg"
   },
   {
     "id": "grn_centro_garcia_lorca",
@@ -1093,7 +1130,8 @@ export const extraAttractions: Attraction[] = [
         "label": "Site oficial",
         "url": "https://www.centrofedericogarcialorca.es/"
       }
-    ]
+    ],
+    "image": "grn_centro_garcia_lorca.jpg"
   },
   {
     "id": "grn_corral_del_carbon",
@@ -1126,7 +1164,8 @@ export const extraAttractions: Attraction[] = [
         "label": "Turismo de Granada",
         "url": "https://turismo.granada.org/es/corral-del-carbon"
       }
-    ]
+    ],
+    "image": "grn_corral_del_carbon.jpg"
   },
   {
     "id": "grn_palacio_madraza",
@@ -1158,7 +1197,8 @@ export const extraAttractions: Attraction[] = [
         "label": "Site oficial (La Madraza – UGR)",
         "url": "https://lamadraza.ugr.es/"
       }
-    ]
+    ],
+    "image": "grn_palacio_madraza.jpg"
   },
   {
     "id": "crd_sinagoga",
@@ -1190,7 +1230,8 @@ export const extraAttractions: Attraction[] = [
         "label": "Enclave Monumental (Junta de Andalucía)",
         "url": "https://www.juntadeandalucia.es/cultura/enclaves/enclave-monumental-sinagoga-de-cordoba"
       }
-    ]
+    ],
+    "image": "crd_sinagoga.jpg"
   },
   {
     "id": "crd_templo_romano",
@@ -1222,7 +1263,8 @@ export const extraAttractions: Attraction[] = [
         "label": "Turismo de Córdoba",
         "url": "https://www.turismodecordoba.org/templo-romano-de-cordoba"
       }
-    ]
+    ],
+    "image": "crd_templo_romano.jpg"
   },
   {
     "id": "crd_bellas_artes",
@@ -1254,7 +1296,8 @@ export const extraAttractions: Attraction[] = [
         "label": "Site oficial (Museos de Andalucía)",
         "url": "https://www.museosdeandalucia.es/web/museodebellasartesdecordoba"
       }
-    ]
+    ],
+    "image": "crd_bellas_artes.jpg"
   },
   {
     "id": "ant_museo_ciudad_najera",
@@ -1286,7 +1329,8 @@ export const extraAttractions: Attraction[] = [
         "label": "Site oficial",
         "url": "https://museoantequera.es/"
       }
-    ]
+    ],
+    "image": "ant_museo_ciudad_najera.jpg"
   },
   {
     "id": "mrb_sollo",
@@ -1319,7 +1363,8 @@ export const extraAttractions: Attraction[] = [
         "url": "https://guide.michelin.com/us/en/andalucia/fuengirola/restaurant/sollo"
       }
     ],
-    "history": "Diego Gallegos, nascido no Brasil e criado na Espanha, apostou na aquaponia e no caviar de esturjão para construir um dos projetos mais sustentáveis da Costa del Sol, distinguido também com a Estrela Verde Michelin."
+    "history": "Diego Gallegos, nascido no Brasil e criado na Espanha, apostou na aquaponia e no caviar de esturjão para construir um dos projetos mais sustentáveis da Costa del Sol, distinguido também com a Estrela Verde Michelin.",
+    "image": "mrb_sollo.jpg"
   },
   {
     "id": "mrb_kava",
@@ -1352,7 +1397,8 @@ export const extraAttractions: Attraction[] = [
         "url": "https://guide.michelin.com/us/en/andalucia/marbella/restaurant/kava"
       }
     ],
-    "history": "Aberto em 2015, Fernando Alcalá foi consolidando o Kava como um dos endereços de autor mais pessoais da cidade, com fusão andaluza e asiática."
+    "history": "Aberto em 2015, Fernando Alcalá foi consolidando o Kava como um dos endereços de autor mais pessoais da cidade, com fusão andaluza e asiática.",
+    "image": "mrb_kava.jpg"
   },
   {
     "id": "mrb_bibo",
@@ -1381,7 +1427,8 @@ export const extraAttractions: Attraction[] = [
         "url": "https://grupodanigarcia.com/en/marbella/"
       }
     ],
-    "history": "BiBo nasceu como o conceito mais canalha e acessível de Dani García e se espalhou por Madri e Londres, mas foi na Marbella do Puente Romano que ganhou seu ambiente mais icônico."
+    "history": "BiBo nasceu como o conceito mais canalha e acessível de Dani García e se espalhou por Madri e Londres, mas foi na Marbella do Puente Romano que ganhou seu ambiente mais icônico.",
+    "image": "mrb_bibo.jpg"
   },
   {
     "id": "mrb_tragabuches",
@@ -1410,7 +1457,8 @@ export const extraAttractions: Attraction[] = [
         "url": "https://tragabuchesrestaurants.com/es/marbella/"
       }
     ],
-    "history": "O Tragabuches original brilhou em Ronda e chegou a ter estrela Michelin; Dani García recuperou o nome em 2022 como tributo às suas origens e à cozinha tradicional andaluza."
+    "history": "O Tragabuches original brilhou em Ronda e chegou a ter estrela Michelin; Dani García recuperou o nome em 2022 como tributo às suas origens e à cozinha tradicional andaluza.",
+    "image": "mrb_tragabuches.jpg"
   },
   {
     "id": "nrj_sollun",
@@ -1439,7 +1487,8 @@ export const extraAttractions: Attraction[] = [
         "url": "https://guide.michelin.com/en/andalucia/nerja/restaurant/sollun"
       }
     ],
-    "history": "Aberto em 2006 por Juan Quintanilla, o Sollun tornou-se referência da cozinha de autor na costa da Axarquía, a leste de Málaga."
+    "history": "Aberto em 2006 por Juan Quintanilla, o Sollun tornou-se referência da cozinha de autor na costa da Axarquía, a leste de Málaga.",
+    "image": "nrj_sollun.jpg"
   },
   {
     "id": "nrj_chiringuito_ayo",
@@ -1468,7 +1517,8 @@ export const extraAttractions: Attraction[] = [
         "url": "https://ayonerja.com/"
       }
     ],
-    "history": "Ayo, personagem popular de Nerja, montou o chiringuito nos anos 1960 na Praia de Burriana, que ganhou fama nacional com as gravações da série Verano Azul nos anos 1980."
+    "history": "Ayo, personagem popular de Nerja, montou o chiringuito nos anos 1960 na Praia de Burriana, que ganhou fama nacional com as gravações da série Verano Azul nos anos 1980.",
+    "image": "nrj_chiringuito_ayo.jpg"
   },
   {
     "id": "mlg_el_refectorium",
@@ -1497,7 +1547,8 @@ export const extraAttractions: Attraction[] = [
         "url": "https://elrefectorium.es/"
       }
     ],
-    "history": "Fundado por Francisco Ramírez em 1973, o Refectorium mantém-se em família com várias unidades na cidade, sendo a da Malagueta a de maior solera."
+    "history": "Fundado por Francisco Ramírez em 1973, o Refectorium mantém-se em família com várias unidades na cidade, sendo a da Malagueta a de maior solera.",
+    "image": "mlg_el_refectorium.jpg"
   },
   {
     "id": "mlg_meson_astorga",
@@ -1526,7 +1577,8 @@ export const extraAttractions: Attraction[] = [
         "url": "https://mesonastorga.com/"
       }
     ],
-    "history": "Aberto em 1990, o Mesón Astorga firmou-se como um dos guardiões da cozinha tradicional malaguenha na cidade."
+    "history": "Aberto em 1990, o Mesón Astorga firmou-se como um dos guardiões da cozinha tradicional malaguenha na cidade.",
+    "image": "mlg_meson_astorga.jpg"
   },
   {
     "id": "rnd_almocabar",
@@ -1549,7 +1601,8 @@ export const extraAttractions: Attraction[] = [
       "closeHour": "23:00",
       "note": "Costuma fechar terça; confirme"
     },
-    "history": "Instalado junto à muralha e à Puerta de Almocábar, o restaurante leva o nome árabe (\"cemitério\") da antiga porta da cidade e é um clássico do bairro de San Francisco."
+    "history": "Instalado junto à muralha e à Puerta de Almocábar, o restaurante leva o nome árabe (\"cemitério\") da antiga porta da cidade e é um clássico do bairro de San Francisco.",
+    "image": "rnd_almocabar.jpg"
   },
   {
     "id": "grn_damasqueros",
@@ -1582,7 +1635,8 @@ export const extraAttractions: Attraction[] = [
         "url": "https://damasqueros.com/reservas/"
       }
     ],
-    "history": "Lola Marín consolidou o Damasqueros como um dos endereços de autor mais respeitados de Granada, defendendo o receituário local com produto de temporada."
+    "history": "Lola Marín consolidou o Damasqueros como um dos endereços de autor mais respeitados de Granada, defendendo o receituário local com produto de temporada.",
+    "image": "grn_damasqueros.jpg"
   },
   {
     "id": "grn_atelier_casa_comidas",
@@ -1611,7 +1665,8 @@ export const extraAttractions: Attraction[] = [
         "url": "https://ateliercasadecomidas.com/en/home/"
       }
     ],
-    "history": "Raúl Sierra regressou a Granada em 2017 para abrir o Atelier, que cresceu de espaço e virou um dos favoritos da crítica pela relação qualidade-preço."
+    "history": "Raúl Sierra regressou a Granada em 2017 para abrir o Atelier, que cresceu de espaço e virou um dos favoritos da crítica pela relação qualidade-preço.",
+    "image": "grn_atelier_casa_comidas.jpg"
   },
   {
     "id": "crd_recomiendo",
@@ -1644,7 +1699,8 @@ export const extraAttractions: Attraction[] = [
         "url": "https://guide.michelin.com/us/en/andalucia/cordoba/restaurant/recomiendo"
       }
     ],
-    "history": "Periko Ortega abriu o ReComiendo em 2014 e mudou-se em 2018 para a Calle Mirto, onde a casa alcançou em 2026 a sua primeira estrela Michelin."
+    "history": "Periko Ortega abriu o ReComiendo em 2014 e mudou-se em 2018 para a Calle Mirto, onde a casa alcançou em 2026 a sua primeira estrela Michelin.",
+    "image": "crd_recomiendo.jpg"
   },
   {
     "id": "crd_el_envero",
@@ -1677,7 +1733,8 @@ export const extraAttractions: Attraction[] = [
         "url": "https://guide.michelin.com/us/en/andalucia/cordoba/restaurant/el-envero"
       }
     ],
-    "history": "O El Envero firmou-se como uma referência de cozinha de mercado em Córdoba, renovando ano após ano o Bib Gourmand da Guia Michelin."
+    "history": "O El Envero firmou-se como uma referência de cozinha de mercado em Córdoba, renovando ano após ano o Bib Gourmand da Guia Michelin.",
+    "image": "crd_el_envero.jpg"
   },
   {
     "id": "grn_palacio_dar_al_horra",
@@ -1705,7 +1762,8 @@ export const extraAttractions: Attraction[] = [
         "url": "https://turismo.granada.org/es/palacio-dar-al-horra"
       }
     ],
-    "history": "Construído no século XV sobre um palácio zirí do século XI, foi a casa de Aixa, mãe de Boabdil; após 1492 os Reis Católicos cederam-no ao mosteiro de Santa Isabel la Real."
+    "history": "Construído no século XV sobre um palácio zirí do século XI, foi a casa de Aixa, mãe de Boabdil; após 1492 os Reis Católicos cederam-no ao mosteiro de Santa Isabel la Real.",
+    "image": "grn_palacio_dar_al_horra.jpg"
   },
   {
     "id": "grn_abadia_sacromonte",
@@ -1733,7 +1791,8 @@ export const extraAttractions: Attraction[] = [
         "url": "https://abadiasacromonte.org"
       }
     ],
-    "history": "Erguida a partir de 1600 pelo arcebispo Pedro de Castro em torno das catacumbas onde surgiram as relíquias e os Libros Plúmbeos, achados que moldaram a identidade cristã de Granada."
+    "history": "Erguida a partir de 1600 pelo arcebispo Pedro de Castro em torno das catacumbas onde surgiram as relíquias e os Libros Plúmbeos, achados que moldaram a identidade cristã de Granada.",
+    "image": "grn_abadia_sacromonte.jpg"
   },
   {
     "id": "grn_basilica_san_juan_de_dios",
@@ -1761,7 +1820,8 @@ export const extraAttractions: Attraction[] = [
         "url": "https://basilicasanjuandedios.es"
       }
     ],
-    "history": "Construída entre 1737 e 1759 em pleno auge do barroco granadino, é o templo da Ordem Hospitaleira fundada por João de Deus, canonizado em 1690."
+    "history": "Construída entre 1737 e 1759 em pleno auge do barroco granadino, é o templo da Ordem Hospitaleira fundada por João de Deus, canonizado em 1690.",
+    "image": "grn_basilica_san_juan_de_dios.jpg"
   },
   {
     "id": "grn_paseo_de_los_tristes",
@@ -1777,7 +1837,8 @@ export const extraAttractions: Attraction[] = [
     "mapQuery": "Paseo de los Tristes, Granada",
     "kingTip": "Ao entardecer, sente-se numa esplanada com a Alhambra iluminada por cima — a foto clássica é a partir da ponte. O nome vem de ser o antigo caminho dos cortejos fúnebres rumo ao cemitério.",
     "priceLevel": "Gratuito (consumo à parte)",
-    "history": "Trecho final da Carrera del Darro, de traçado medieval; recebeu o apelido de 'dos Tristes' por ser a rota histórica dos cortejos fúnebres que subiam ao cemitério da cidade."
+    "history": "Trecho final da Carrera del Darro, de traçado medieval; recebeu o apelido de 'dos Tristes' por ser a rota histórica dos cortejos fúnebres que subiam ao cemitério da cidade.",
+    "image": "grn_paseo_de_los_tristes.jpg"
   },
   {
     "id": "crd_medina_azahara",
@@ -1806,7 +1867,8 @@ export const extraAttractions: Attraction[] = [
         "url": "https://www.medinaazahara.org"
       }
     ],
-    "history": "Mandada erguer por Abderramão III a partir de 936 como sede do califado de Córdoba, foi destruída na guerra civil (fitna) por volta de 1010 e permaneceu soterrada até as escavações do século XX."
+    "history": "Mandada erguer por Abderramão III a partir de 936 como sede do califado de Córdoba, foi destruída na guerra civil (fitna) por volta de 1010 e permaneceu soterrada até as escavações do século XX.",
+    "image": "crd_medina_azahara.jpg"
   },
   {
     "id": "crd_banos_alcazar_califal",
@@ -1834,7 +1896,8 @@ export const extraAttractions: Attraction[] = [
         "url": "https://banosdelalcazarcalifal.cordoba.es"
       }
     ],
-    "history": "Termas do século X ligadas ao Alcácer Califal omíada, ampliadas nos períodos almorávida e almóada; escavadas e abertas ao público como espaço museológico da cidade."
+    "history": "Termas do século X ligadas ao Alcácer Califal omíada, ampliadas nos períodos almorávida e almóada; escavadas e abertas ao público como espaço museológico da cidade.",
+    "image": "crd_banos_alcazar_califal.jpg"
   },
   {
     "id": "crd_plaza_del_potro",
@@ -1850,7 +1913,8 @@ export const extraAttractions: Attraction[] = [
     "mapQuery": "Plaza del Potro, Cordoba",
     "kingTip": "Espie o pátio da Posada del Potro, uma das poucas estalagens medievais que sobrevivem — hoje abriga o Centro Flamenco Fosforito, de entrada gratuita. Ótima parada a caminho da ribeira.",
     "priceLevel": "Gratuito",
-    "history": "Documentada desde o século XV, deve o nome à fonte com a figura de um potro; a Posada del Potro que a ladeia foi mencionada por Cervantes em Dom Quixote como refúgio de pícaros."
+    "history": "Documentada desde o século XV, deve o nome à fonte com a figura de um potro; a Posada del Potro que a ladeia foi mencionada por Cervantes em Dom Quixote como refúgio de pícaros.",
+    "image": "crd_plaza_del_potro.jpg"
   },
   {
     "id": "crd_torre_malmuerta",
@@ -1866,7 +1930,8 @@ export const extraAttractions: Attraction[] = [
     "mapQuery": "Torre de la Malmuerta, Cordoba",
     "kingTip": "Costuma ser vista só por fora — visitas ao interior são pontuais e mediante reserva municipal. Combine com uma caminhada até a vizinha Plaza de Colón e o Palacio de la Merced.",
     "priceLevel": "Gratuito (exterior)",
-    "history": "Erguida por volta de 1406-1408 sob Henrique III como torre albarrã de defesa e ponto de vigia; a lenda do feminicídio deu-lhe o nome, embora historiadores o liguem a 'mal murada' (mal fortificada)."
+    "history": "Erguida por volta de 1406-1408 sob Henrique III como torre albarrã de defesa e ponto de vigia; a lenda do feminicídio deu-lhe o nome, embora historiadores o liguem a 'mal murada' (mal fortificada).",
+    "image": "crd_torre_malmuerta.jpg"
   },
   {
     "id": "crd_caballerizas_reales",
@@ -1895,7 +1960,8 @@ export const extraAttractions: Attraction[] = [
         "url": "https://www.cordobaecuestre.com"
       }
     ],
-    "history": "Criadas por decreto de Filipe II em 1570 sob o cavalariço Diego López de Haro para fixar a raça do Cavalo Andaluz (Pura Raza Española), permanecem como referência mundial da criação equestre."
+    "history": "Criadas por decreto de Filipe II em 1570 sob o cavalariço Diego López de Haro para fixar a raça do Cavalo Andaluz (Pura Raza Española), permanecem como referência mundial da criação equestre.",
+    "image": "crd_caballerizas_reales.jpg"
   },
   {
     "id": "mlg_montes_de_malaga",
@@ -1916,7 +1982,8 @@ export const extraAttractions: Attraction[] = [
         "label": "Visita Málaga",
         "url": "https://visita.malaga.eu"
       }
-    ]
+    ],
+    "image": "mlg_montes_de_malaga.jpg"
   },
   {
     "id": "mlg_senda_litoral",
@@ -1932,7 +1999,8 @@ export const extraAttractions: Attraction[] = [
     "windSensitive": false,
     "mapQuery": "Baños del Carmen, Málaga",
     "kingTip": "Sem sombra ao longo do passadiço: caminhe ao amanhecer ou no fim da tarde e emende com um banho de mar e sardinhas assadas num chiringuito.",
-    "priceLevel": "€"
+    "priceLevel": "€",
+    "image": "mlg_senda_litoral.jpg"
   },
   {
     "id": "mlg_catamaran_delfines",
@@ -1976,7 +2044,8 @@ export const extraAttractions: Attraction[] = [
         "label": "Fuente de Piedra",
         "url": "https://www.fuentedepiedra.es"
       }
-    ]
+    ],
+    "image": "ant_fuente_de_piedra.jpg"
   },
   {
     "id": "ant_lobo_park",
@@ -2003,7 +2072,8 @@ export const extraAttractions: Attraction[] = [
         "label": "Site oficial",
         "url": "https://www.lobopark.com"
       }
-    ]
+    ],
+    "image": "ant_lobo_park.jpg"
   },
   {
     "id": "axq_rio_chillar",
@@ -2025,7 +2095,8 @@ export const extraAttractions: Attraction[] = [
         "label": "Visita Nerja",
         "url": "https://visita.nerja.es"
       }
-    ]
+    ],
+    "image": "axq_rio_chillar.jpg"
   },
   {
     "id": "axq_kayak_maro",
@@ -2041,7 +2112,8 @@ export const extraAttractions: Attraction[] = [
     "windSensitive": true,
     "mapQuery": "Playa de Maro, Nerja",
     "kingTip": "Reserve a saída da manhã, quando o mar está de espelho; o vento da tarde levanta ondulação e cancela passeios. Leve protetor, câmera à prova d'água e sapatilha para as paradas nas calas.",
-    "priceLevel": "€€€"
+    "priceLevel": "€€€",
+    "image": "axq_kayak_maro.jpg"
   },
   {
     "id": "axq_acueducto_aguila",
@@ -2056,7 +2128,8 @@ export const extraAttractions: Attraction[] = [
     "fit": "CLEAR_SKY",
     "mapQuery": "Acueducto del Águila, Maro, Nerja",
     "kingTip": "Há um recuo na antiga N-340 para parar e fotografar de frente; combine com as Cuevas de Nerja e a Playa de Maro, tudo a poucos minutos, e vá no fim da tarde pela melhor luz.",
-    "priceLevel": "€"
+    "priceLevel": "€",
+    "image": "axq_acueducto_aguila.jpg"
   },
   {
     "id": "rnd_sierra_nieves",
@@ -2078,7 +2151,8 @@ export const extraAttractions: Attraction[] = [
         "label": "Sierra de las Nieves",
         "url": "https://www.i-sierradelasnieves.com"
       }
-    ]
+    ],
+    "image": "rnd_sierra_nieves.jpg"
   },
   {
     "id": "rnd_cueva_gato",
@@ -2094,7 +2168,8 @@ export const extraAttractions: Attraction[] = [
     "windSensitive": false,
     "mapQuery": "Cueva del Gato, Benaoján",
     "kingTip": "A água é cortante mesmo em julho e a poça fica funda perto da boca; o banho é só na parte externa, pois a caverna é fechada à visita. Chegue cedo, o pequeno mirador e o parking lotam nos dias quentes.",
-    "priceLevel": "€"
+    "priceLevel": "€",
+    "image": "rnd_cueva_gato.jpg"
   },
   {
     "id": "rnd_cueva_pileta",
@@ -2121,7 +2196,8 @@ export const extraAttractions: Attraction[] = [
         "label": "Site oficial",
         "url": "https://cuevadelapileta.com"
       }
-    ]
+    ],
+    "image": "rnd_cueva_pileta.jpg"
   },
   {
     "id": "rnd_acinipo",
@@ -2142,7 +2218,8 @@ export const extraAttractions: Attraction[] = [
       "openHour": "09:00",
       "closeHour": "14:30",
       "note": "Entrada gratuita; fecha seg e ter. Horário pode variar no verão, confirme antes."
-    }
+    },
+    "image": "rnd_acinipo.jpg"
   },
   {
     "id": "mrb_la_concha",
@@ -2158,7 +2235,8 @@ export const extraAttractions: Attraction[] = [
     "windSensitive": true,
     "mapQuery": "Refugio de Juanar, Ojén",
     "kingTip": "O trecho final tem passos expostos e vira perigoso com vento forte ou neblina; não é para quem sofre de vertigem. Saia ao nascer do sol para evitar o calor da encosta e leve ao menos 2 L de água por pessoa.",
-    "priceLevel": "€"
+    "priceLevel": "€",
+    "image": "mrb_la_concha.jpg"
   },
   {
     "id": "mrb_charco_canalon",
@@ -2180,7 +2258,8 @@ export const extraAttractions: Attraction[] = [
         "label": "Istán",
         "url": "https://www.istan.es"
       }
-    ]
+    ],
+    "image": "mrb_charco_canalon.jpg"
   },
   {
     "id": "grn_hoya_de_la_mora",
@@ -2218,7 +2297,8 @@ export const extraAttractions: Attraction[] = [
     "windSensitive": false,
     "mapQuery": "Playa de El Palo, Málaga",
     "kingTip": "Chegue com fome ao meio-dia: o espeto de sardinha, seis peixes num espeto de cana, é servido só na hora e é a alma deste pedaço de Málaga.",
-    "whereToEat": "El Tintero, o chiringuito clássico onde os garçons leiloam os pratos aos gritos entre as mesas."
+    "whereToEat": "El Tintero, o chiringuito clássico onde os garçons leiloam os pratos aos gritos entre as mesas.",
+    "image": "mlg_el_palo.jpg"
   },
   {
     "id": "mlg_misericordia",
@@ -2232,7 +2312,8 @@ export const extraAttractions: Attraction[] = [
     "durationLabel": "meia diária",
     "fit": "CLEAR_SKY",
     "windSensitive": true,
-    "mapQuery": "Playa de la Misericordia, Málaga"
+    "mapQuery": "Playa de la Misericordia, Málaga",
+    "image": "mlg_misericordia.jpg"
   },
   {
     "id": "mlg_guadalmar",
@@ -2247,7 +2328,8 @@ export const extraAttractions: Attraction[] = [
     "fit": "CLEAR_SKY",
     "windSensitive": true,
     "mapQuery": "Playa de Guadalmar, Málaga",
-    "kingTip": "Combine a praia com uma volta pelos observatórios da reserva do Guadalhorce, ali ao lado: flamingos e aves aquáticas a poucos minutos da areia."
+    "kingTip": "Combine a praia com uma volta pelos observatórios da reserva do Guadalhorce, ali ao lado: flamingos e aves aquáticas a poucos minutos da areia.",
+    "image": "mlg_guadalmar.jpg"
   },
   {
     "id": "mlg_penon_cuervo",
@@ -2267,7 +2349,8 @@ export const extraAttractions: Attraction[] = [
         "label": "Ficha oficial de turismo de Málaga",
         "url": "https://visita.malaga.eu/en/what-to-see-and-do/beaches/penon-del-cuervo-beach-p103834"
       }
-    ]
+    ],
+    "image": "mlg_penon_cuervo.jpg"
   },
   {
     "id": "mlg_san_andres",
@@ -3122,7 +3205,8 @@ export const extraAttractions: Attraction[] = [
         "url": "https://cementerioinglesmalaga.org/"
       }
     ],
-    "history": "Fundado em 1831 pelo cônsul britânico William Mark, pôs fim ao costume macabro de enterrar protestantes de pé na areia da praia, à mercê da maré e dos cães."
+    "history": "Fundado em 1831 pelo cônsul britânico William Mark, pôs fim ao costume macabro de enterrar protestantes de pé na areia da praia, à mercê da maré e dos cães.",
+    "image": "mlg_cementerio_ingles.jpg"
   },
   {
     "id": "mlg_plaza_constitucion_chinitas",
