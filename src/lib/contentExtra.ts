@@ -2281,7 +2281,8 @@ export const extraAttractions: Attraction[] = [
         "label": "Sierra Nevada",
         "url": "https://sierranevada.es"
       }
-    ]
+    ],
+    "image": "grn_hoya_de_la_mora.jpg"
   },
   {
     "id": "mlg_el_palo",
@@ -2364,7 +2365,8 @@ export const extraAttractions: Attraction[] = [
     "durationLabel": "meia diária",
     "fit": "CLEAR_SKY",
     "windSensitive": false,
-    "mapQuery": "Playa de San Andrés, Málaga"
+    "mapQuery": "Playa de San Andrés, Málaga",
+    "image": "mlg_san_andres.jpg"
   },
   {
     "id": "nrj_torrecilla",
@@ -2384,7 +2386,8 @@ export const extraAttractions: Attraction[] = [
         "label": "Guia de praias de Nerja",
         "url": "https://esnerja.com/playas/playa-torrecilla/"
       }
-    ]
+    ],
+    "image": "nrj_torrecilla.jpg"
   },
   {
     "id": "nrj_carabeo",
@@ -2399,7 +2402,8 @@ export const extraAttractions: Attraction[] = [
     "fit": "CLEAR_SKY",
     "windSensitive": false,
     "mapQuery": "Playa de Carabeo, Nerja",
-    "kingTip": "Leve o essencial: a descida é por escadas e não há grande estrutura na areia, o que é justamente o que mantém a cala tão tranquila."
+    "kingTip": "Leve o essencial: a descida é por escadas e não há grande estrutura na areia, o que é justamente o que mantém a cala tão tranquila.",
+    "image": "nrj_carabeo.jpg"
   },
   {
     "id": "nrj_el_salon",
@@ -2413,7 +2417,8 @@ export const extraAttractions: Attraction[] = [
     "durationLabel": "meia diária",
     "fit": "CLEAR_SKY",
     "windSensitive": false,
-    "mapQuery": "Playa El Salón, Nerja"
+    "mapQuery": "Playa El Salón, Nerja",
+    "image": "nrj_el_salon.jpg"
   },
   {
     "id": "mrb_cabopino",
@@ -2429,7 +2434,8 @@ export const extraAttractions: Attraction[] = [
     "windSensitive": true,
     "mapQuery": "Playa de Cabopino, Marbella",
     "kingTip": "Estacione junto à marina de Cabopino e faça a passarela de madeira sobre as dunas: é o jeito de atravessar sem pisar a vegetação protegida.",
-    "whereToEat": "Chiringuitos junto ao Puerto Deportivo de Cabopino, ao lado da praia."
+    "whereToEat": "Chiringuitos junto ao Puerto Deportivo de Cabopino, ao lado da praia.",
+    "image": "mrb_cabopino.jpg"
   },
   {
     "id": "mrb_nagueles",
@@ -2444,7 +2450,8 @@ export const extraAttractions: Attraction[] = [
     "fit": "CLEAR_SKY",
     "windSensitive": false,
     "mapQuery": "Playa de Nagüeles, Marbella",
-    "whereToEat": "Beach clubs da Milla de Oro à beira da areia, do casual ao alta gastronomia."
+    "whereToEat": "Beach clubs da Milla de Oro à beira da areia, do casual ao alta gastronomia.",
+    "image": "mrb_nagueles.jpg"
   },
   {
     "id": "mrb_estrella_mar",
@@ -2459,7 +2466,8 @@ export const extraAttractions: Attraction[] = [
     "fit": "CLEAR_SKY",
     "windSensitive": false,
     "mapQuery": "Beach Club Estrella del Mar, Marbella",
-    "priceLevel": "~€30 mín. consumo (est.)"
+    "priceLevel": "~€30 mín. consumo (est.)",
+    "image": "mrb_estrella_mar.jpg"
   },
   {
     "id": "mlg_meson_cervantes",
@@ -2486,7 +2494,8 @@ export const extraAttractions: Attraction[] = [
         "label": "Site oficial",
         "url": "https://elmesondecervantes.com"
       }
-    ]
+    ],
+    "image": "mlg_meson_cervantes.jpg"
   },
   {
     "id": "mlg_uvedoble",
@@ -2513,7 +2522,8 @@ export const extraAttractions: Attraction[] = [
         "label": "Site oficial",
         "url": "https://www.uvedobletaberna.com"
       }
-    ]
+    ],
+    "image": "mlg_uvedoble.jpg"
   },
   {
     "id": "mlg_tapeo_cervantes",
@@ -2540,7 +2550,8 @@ export const extraAttractions: Attraction[] = [
         "label": "Site oficial",
         "url": "https://eltapeodecervantes.com"
       }
-    ]
+    ],
+    "image": "mlg_tapeo_cervantes.jpg"
   },
   {
     "id": "mlg_lo_gueno",
@@ -2567,7 +2578,8 @@ export const extraAttractions: Attraction[] = [
         "label": "Site oficial",
         "url": "https://logueno.com"
       }
-    ]
+    ],
+    "image": "mlg_lo_gueno.jpg"
   },
   {
     "id": "grn_los_diamantes",
@@ -2588,7 +2600,8 @@ export const extraAttractions: Attraction[] = [
       "openHour": "12:00",
       "closeHour": "00:00",
       "note": "Não aceitam reserva; costuma lotar, com clientes em pé no balcão."
-    }
+    },
+    "image": "grn_los_diamantes.jpg"
   },
   {
     "id": "rnd_bodega_san_francisco",
@@ -2615,7 +2628,8 @@ export const extraAttractions: Attraction[] = [
         "label": "Site oficial",
         "url": "https://bodegasanfrancisco.com"
       }
-    ]
+    ],
+    "image": "rnd_bodega_san_francisco.jpg"
   },
   {
     "id": "cor_taberna_salinas",
@@ -2642,7 +2656,8 @@ export const extraAttractions: Attraction[] = [
         "label": "Site oficial",
         "url": "http://www.tabernasalinas.com"
       }
-    ]
+    ],
+    "image": "cor_taberna_salinas.jpg"
   },
   {
     "id": "cor_casa_pepe_juderia",
