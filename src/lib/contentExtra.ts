@@ -3499,7 +3499,8 @@ export const extraAttractions: Attraction[] = [
     "mapQuery": "Mijas Pueblo, Málaga",
     "whatToDo": "Perca-se pelas vielas caiadas, encoste nos miradouros da muralha e prove um doce nas confeitarias da praça.",
     "kingTip": "Estacione no parque subterrâneo da Avenida del Compás e suba a pé: as ruas do casco são estreitas e é ali que começa o encanto.",
-    "priceLevel": "Gratuito (passeio)"
+    "priceLevel": "Gratuito (passeio)",
+    "image": "mrb_mijas_pueblo.jpg"
   },
   {
     "id": "mrb_plaza_toros_mijas",
@@ -3523,7 +3524,8 @@ export const extraAttractions: Attraction[] = [
         "label": "Turismo de Mijas – Plaza de Toros",
         "url": "https://turismo.mijas.es/es/cultura/monumentos/plaza-de-toros"
       }
-    ]
+    ],
+    "image": "mrb_plaza_toros_mijas.jpg"
   },
   {
     "id": "mrb_ermita_pena_mijas",
@@ -3537,7 +3539,8 @@ export const extraAttractions: Attraction[] = [
     "durationLabel": "15–20 min",
     "fit": "ANY",
     "mapQuery": "Ermita de la Virgen de la Peña, Mijas",
-    "priceLevel": "Gratuito"
+    "priceLevel": "Gratuito",
+    "image": "mrb_ermita_pena_mijas.jpg"
   },
   {
     "id": "mrb_ojen",
@@ -3552,7 +3555,8 @@ export const extraAttractions: Attraction[] = [
     "fit": "CLEAR_SKY",
     "mapQuery": "Ojén, Málaga",
     "kingTip": "Combine a visita com o Mirador de Ojén, na subida da estrada A-355, para a foto do casario branco encaixado na serra.",
-    "priceLevel": "Gratuito"
+    "priceLevel": "Gratuito",
+    "image": "mrb_ojen.jpg"
   },
   {
     "id": "mrb_istan",
@@ -3567,7 +3571,8 @@ export const extraAttractions: Attraction[] = [
     "fit": "CLEAR_SKY",
     "mapQuery": "Istán, Málaga",
     "kingTip": "Siga a Ruta del Agua, um percurso curto e sombreado pelas nascentes e antigos moinhos que cruzam a vila.",
-    "priceLevel": "Gratuito"
+    "priceLevel": "Gratuito",
+    "image": "mrb_istan.jpg"
   },
   {
     "id": "mrb_benahavis",
@@ -3582,7 +3587,8 @@ export const extraAttractions: Attraction[] = [
     "fit": "CLEAR_SKY",
     "mapQuery": "Benahavís, Málaga",
     "kingTip": "Reserve o almoço com antecedência: as mesas boas da vila lotam nos fins de semana, sobretudo as com vista para o desfiladeiro.",
-    "priceLevel": "Passeio gratuito; refeições €€–€€€"
+    "priceLevel": "Passeio gratuito; refeições €€–€€€",
+    "image": "mrb_benahavis.jpg"
   },
   {
     "id": "mrb_basilica_vega_del_mar",
@@ -3606,7 +3612,8 @@ export const extraAttractions: Attraction[] = [
         "label": "Ayuntamiento de Marbella – Vega del Mar",
         "url": "https://www.marbella.es/web/cultura/patrimonio/arqueologia/basilica-paleocristiana-de-vega-del-mar.html"
       }
-    ]
+    ],
+    "image": "mrb_basilica_vega_del_mar.jpg"
   },
   {
     "id": "mrb_bulevar_san_pedro",
@@ -3620,7 +3627,8 @@ export const extraAttractions: Attraction[] = [
     "durationLabel": "40–60 min",
     "fit": "CLEAR_SKY",
     "mapQuery": "Bulevar de San Pedro Alcántara",
-    "priceLevel": "Gratuito"
+    "priceLevel": "Gratuito",
+    "image": "mrb_bulevar_san_pedro.jpg"
   },
   {
     "id": "mrb_estepona_casco_flores",
@@ -3635,7 +3643,8 @@ export const extraAttractions: Attraction[] = [
     "fit": "CLEAR_SKY",
     "mapQuery": "Plaza de las Flores, Estepona",
     "kingTip": "Vá ao fim da tarde: a luz suave nas paredes brancas e os vasos coloridos rendem as melhores fotos, e as tapas ficam mais animadas.",
-    "priceLevel": "Gratuito (passeio)"
+    "priceLevel": "Gratuito (passeio)",
+    "image": "mrb_estepona_casco_flores.jpg"
   },
   {
     "id": "mrb_estepona_murales",
@@ -3650,7 +3659,8 @@ export const extraAttractions: Attraction[] = [
     "fit": "CLEAR_SKY",
     "mapQuery": "Ruta de los Murales, Estepona",
     "kingTip": "Pegue o mapa do roteiro na oficina de turismo da Plaza de las Flores; os murais mais impressionantes ficam concentrados no casco antigo.",
-    "priceLevel": "Gratuito"
+    "priceLevel": "Gratuito",
+    "image": "mrb_estepona_murales.jpg"
   },
   {
     "id": "mrb_orquidario_estepona",
@@ -3673,7 +3683,8 @@ export const extraAttractions: Attraction[] = [
         "label": "Turismo de Estepona – Orquidario",
         "url": "https://turismo.estepona.es/lugares/parque-botanico-orquidario/"
       }
-    ]
+    ],
+    "image": "mrb_orquidario_estepona.jpg"
   },
   {
     "id": "mrb_milla_de_oro",
@@ -3687,7 +3698,8 @@ export const extraAttractions: Attraction[] = [
     "durationLabel": "30–60 min",
     "fit": "CLEAR_SKY",
     "mapQuery": "Milla de Oro, Marbella",
-    "priceLevel": "Gratuito (passeio)"
+    "priceLevel": "Gratuito (passeio)",
+    "image": "mrb_milla_de_oro.jpg"
   },
   {
     "id": "mrb_nueva_andalucia",
