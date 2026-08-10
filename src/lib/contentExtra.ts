@@ -3046,7 +3046,8 @@ export const extraAttractions: Attraction[] = [
         "label": "Turismo Antequera",
         "url": "https://turismo.antequera.es/puntos-de-interes/tholos-de-el-romeral/"
       }
-    ]
+    ],
+    "image": "ant_dolmen_del_romeral.jpg"
   },
   {
     "id": "ant_plaza_ochavada_archidona",
@@ -3067,7 +3068,8 @@ export const extraAttractions: Attraction[] = [
         "label": "La Provincia — Diputación de Málaga",
         "url": "https://www.malaga.es/en/laprovincia/patrimonio/lis_cd-5079/plaza-ochavada-octagonal-square"
       }
-    ]
+    ],
+    "image": "ant_plaza_ochavada_archidona.jpg"
   },
   {
     "id": "ant_ermita_virgen_de_gracia_archidona",
@@ -3088,7 +3090,8 @@ export const extraAttractions: Attraction[] = [
         "label": "Andalucía.org",
         "url": "https://www.andalucia.org/es/archidona-turismo-cultural-mezquita-ermita-de-la-virgen-de-gracia"
       }
-    ]
+    ],
+    "image": "ant_ermita_virgen_de_gracia_archidona.jpg"
   },
   {
     "id": "nrj_torre_de_maro",
@@ -3103,7 +3106,8 @@ export const extraAttractions: Attraction[] = [
     "fit": "CLEAR_SKY",
     "mapQuery": "Torre de Maro, Nerja",
     "kingTip": "Chega-se por uma trilha de terra de cerca de 600 m a partir da N-340; leve água e vá calçado, o final é exposto ao sol.",
-    "priceLevel": "Gratuito"
+    "priceLevel": "Gratuito",
+    "image": "nrj_torre_de_maro.jpg"
   },
   {
     "id": "axq_competa_pueblo",
@@ -3118,7 +3122,8 @@ export const extraAttractions: Attraction[] = [
     "fit": "ANY",
     "mapQuery": "Plaza Almijara, Cómpeta",
     "kingTip": "Prove o vino de Cómpeta direto numa adega da praça; a noche del Vino, em meados de agosto, enche as ruas de dança e degustação gratuita.",
-    "priceLevel": "Gratuito (a vila)"
+    "priceLevel": "Gratuito (a vila)",
+    "image": "axq_competa_pueblo.jpg"
   },
   {
     "id": "axq_torrox_pueblo",
@@ -3133,7 +3138,8 @@ export const extraAttractions: Attraction[] = [
     "fit": "ANY",
     "mapQuery": "Plaza de la Constitución, Torrox",
     "kingTip": "Domingo de manhã a vila enche de vida no mercado; estacione na entrada e desça a pé, os becos não comportam carro.",
-    "priceLevel": "Gratuito"
+    "priceLevel": "Gratuito",
+    "image": "axq_torrox_pueblo.jpg"
   },
   {
     "id": "axq_velez_fortaleza",
@@ -3148,7 +3154,8 @@ export const extraAttractions: Attraction[] = [
     "fit": "CLEAR_SKY",
     "mapQuery": "La Fortaleza, Vélez-Málaga",
     "kingTip": "Suba a pé pelo bairro histórico da Villa até a fortaleza; a subida pelas ruas caiadas já é metade do passeio e rende as melhores vistas ao entardecer.",
-    "priceLevel": "Gratuito"
+    "priceLevel": "Gratuito",
+    "image": "axq_velez_fortaleza.jpg"
   },
   {
     "id": "axq_archez_alminar",
@@ -3163,7 +3170,8 @@ export const extraAttractions: Attraction[] = [
     "fit": "ANY",
     "mapQuery": "Alminar Mudéjar, Árchez",
     "kingTip": "Combine com Salares e Sedella no mesmo dia: as três vilas mudéjares ficam a poucos quilômetros pela mesma estrada de vale.",
-    "priceLevel": "Gratuito (exterior)"
+    "priceLevel": "Gratuito (exterior)",
+    "image": "axq_archez_alminar.jpg"
   },
   {
     "id": "axq_salares_alminar",
@@ -3178,7 +3186,8 @@ export const extraAttractions: Attraction[] = [
     "fit": "ANY",
     "mapQuery": "Alminar de Salares, Salares",
     "kingTip": "Deixe o carro no estacionamento da entrada e caminhe: o casco é intransponível de carro e a graça está em se perder pelos becos.",
-    "priceLevel": "Gratuito"
+    "priceLevel": "Gratuito",
+    "image": "axq_salares_alminar.jpg"
   },
   {
     "id": "axq_sayalonga_cementerio_redondo",
@@ -3193,7 +3202,8 @@ export const extraAttractions: Attraction[] = [
     "fit": "ANY",
     "mapQuery": "Cementerio Redondo, Sayalonga",
     "kingTip": "Passe antes pela Plaza de la Rosa, no casco, e prove os nísperos de Sayalonga, fruta símbolo da vila na primavera.",
-    "priceLevel": "Gratuito"
+    "priceLevel": "Gratuito",
+    "image": "axq_sayalonga_cementerio_redondo.jpg"
   },
   {
     "id": "axq_sedella_pueblo",
@@ -3208,7 +3218,8 @@ export const extraAttractions: Attraction[] = [
     "fit": "ANY",
     "mapQuery": "Sedella, Málaga",
     "kingTip": "Combine com a Fábrica de la Luz, área de piquenique com nascentes a poucos quilômetros acima da vila, ideal no calor do verão.",
-    "priceLevel": "Gratuito"
+    "priceLevel": "Gratuito",
+    "image": "axq_sedella_pueblo.jpg"
   },
   {
     "id": "mlg_cementerio_ingles",
@@ -3257,7 +3268,8 @@ export const extraAttractions: Attraction[] = [
     ],
     "kingTip": "Entre no Pasaje de Chinitas pela porta ao lado do número 13 da praça: é curto mas guarda o espírito do velho café-cantante que Lorca celebrou. À noite a praça ganha esplanadas e músicos de rua.",
     "priceLevel": "Grátis (praça)",
-    "history": "Chamada Plaza Mayor e depois Plaza de las Cuatro Calles, recebeu o nome atual em 1812, com a primeira constituição espanhola; o pasaje deve o nome ao ator Chinitas, que trabalhou num café ali dentro."
+    "history": "Chamada Plaza Mayor e depois Plaza de las Cuatro Calles, recebeu o nome atual em 1812, com a primeira constituição espanhola; o pasaje deve o nome ao ator Chinitas, que trabalhou num café ali dentro.",
+    "image": "mlg_plaza_constitucion_chinitas.jpg"
   },
   {
     "id": "mlg_iglesia_santiago",
@@ -3284,7 +3296,8 @@ export const extraAttractions: Attraction[] = [
         "url": "https://visita.malaga.eu/en/what-to-see-and-do/culture/historic-monuments/monuments/santiago-church-p103578"
       }
     ],
-    "history": "Ordenada pelos Reis Católicos em 1490 sobre uma mesquita, fundiu naves góticas com a torre mudéjar; nela se casaram os avós e os pais de Picasso antes de o pintor ser ali batizado."
+    "history": "Ordenada pelos Reis Católicos em 1490 sobre uma mesquita, fundiu naves góticas com a torre mudéjar; nela se casaram os avós e os pais de Picasso antes de o pintor ser ali batizado.",
+    "image": "mlg_iglesia_santiago.jpg"
   },
   {
     "id": "mlg_basilica_victoria",
@@ -3347,7 +3360,8 @@ export const extraAttractions: Attraction[] = [
     ],
     "kingTip": "É o corredor sombreado ideal para atravessar a cidade a pé no calor de julho, ligando o centro à Malagueta e ao porto sem pegar sol. Aos domingos costuma haver bandas tocando no coreto.",
     "priceLevel": "Grátis (passeio)",
-    "history": "Projetado no fim do século XIX sobre aterros do porto e plantado com espécies trazidas de todo o mundo tropical, tornou-se um jardim de aclimatação que hoje soma centenas de espécies."
+    "history": "Projetado no fim do século XIX sobre aterros do porto e plantado com espécies trazidas de todo o mundo tropical, tornou-se um jardim de aclimatação que hoje soma centenas de espécies.",
+    "image": "mlg_paseo_del_parque.jpg"
   },
   {
     "id": "mlg_jardines_pedro_luis_alonso",
@@ -3368,7 +3382,8 @@ export const extraAttractions: Attraction[] = [
     ],
     "kingTip": "As roseiras estão no auge na primavera, mas em julho o jardim ainda perfuma no fim da tarde, quando a luz dourada bate na fachada do Ayuntamiento. Fica colado ao Paseo del Parque, junte os dois.",
     "priceLevel": "Grátis",
-    "history": "Desenhado em 1945 pelo arquiteto Fernando Guerrero-Strachan Rosado e batizado em homenagem ao primeiro prefeito de Málaga do pós-guerra, em estilo de jardim latino."
+    "history": "Desenhado em 1945 pelo arquiteto Fernando Guerrero-Strachan Rosado e batizado em homenagem ao primeiro prefeito de Málaga do pós-guerra, em estilo de jardim latino.",
+    "image": "mlg_jardines_pedro_luis_alonso.jpg"
   },
   {
     "id": "mlg_plaza_toros_malagueta",
@@ -3395,7 +3410,8 @@ export const extraAttractions: Attraction[] = [
         "url": "https://www.la-malagueta.es/"
       }
     ],
-    "history": "Projetada por Joaquín Rucoba e inaugurada em 1876, é obra-prima do estilo neomudéjar; sua forma hexagonal e a posição à beira-mar tornaram-na símbolo do bairro que leva o mesmo nome."
+    "history": "Projetada por Joaquín Rucoba e inaugurada em 1876, é obra-prima do estilo neomudéjar; sua forma hexagonal e a posição à beira-mar tornaram-na símbolo do bairro que leva o mesmo nome.",
+    "image": "mlg_plaza_toros_malagueta.jpg"
   },
   {
     "id": "mlg_teatro_cervantes",
@@ -3422,7 +3438,8 @@ export const extraAttractions: Attraction[] = [
         "url": "https://www.teatrocervantes.com/"
       }
     ],
-    "history": "Aberto em 1870 sobre um antigo pátio de comédias, salvou-se da demolição no século XX e foi restaurado pela prefeitura em 1987, recuperando o teto alegórico de Bernardo Ferrándiz."
+    "history": "Aberto em 1870 sobre um antigo pátio de comédias, salvou-se da demolição no século XX e foi restaurado pela prefeitura em 1987, recuperando o teto alegórico de Bernardo Ferrándiz.",
+    "image": "mlg_teatro_cervantes.jpg"
   },
   {
     "id": "mlg_mirador_gibralfaro",
@@ -3443,7 +3460,8 @@ export const extraAttractions: Attraction[] = [
     ],
     "kingTip": "Não precisa pagar entrada do castelo para chegar ao mirante, ele fica no caminho, um pouco antes. Venha ao fim da tarde para a luz dourada e evite o miolo do dia, quando a subida a pé não tem sombra.",
     "priceLevel": "Grátis",
-    "history": "O mirante ocupa uma curva do antigo caminho militar que ligava a cidade ao castelo de Gibralfaro, hoje transformado em passeio panorâmico entre pinheiros."
+    "history": "O mirante ocupa uma curva do antigo caminho militar que ligava a cidade ao castelo de Gibralfaro, hoje transformado em passeio panorâmico entre pinheiros.",
+    "image": "mlg_mirador_gibralfaro.jpg"
   },
   {
     "id": "mlg_perchel_trinidad",
