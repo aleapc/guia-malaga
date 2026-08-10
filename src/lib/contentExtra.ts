@@ -4754,7 +4754,8 @@ export const extraAttractions: Attraction[] = [
       "closeHour": "23:30",
       "note": "Horário amplo em temporada; almoço é o auge da subasta"
     },
-    "history": "Nascido como merendero de praia em El Palo, o Tintero transformou o leilão de pratos numa tradição malaguenha única, hoje repetida por gerações de famílias aos fins de semana."
+    "history": "Nascido como merendero de praia em El Palo, o Tintero transformou o leilão de pratos numa tradição malaguenha única, hoje repetida por gerações de famílias aos fins de semana.",
+    "image": "mlg_el_tintero.jpg"
   },
   {
     "id": "mlg_balausta",
@@ -4813,7 +4814,8 @@ export const extraAttractions: Attraction[] = [
         "url": "https://www.oleorestaurante.es/"
       }
     ],
-    "history": "Aberto junto ao CAC, o Óleo firmou-se como um dos endereços de fusão mais populares de Málaga, cruzando a cozinha malaguenha de Sergio del Río com o sushi de Rui Da Mata."
+    "history": "Aberto junto ao CAC, o Óleo firmou-se como um dos endereços de fusão mais populares de Málaga, cruzando a cozinha malaguenha de Sergio del Río com o sushi de Rui Da Mata.",
+    "image": "mlg_oleo.jpg"
   },
   {
     "id": "mlg_la_reserva_12",
@@ -4842,7 +4844,8 @@ export const extraAttractions: Attraction[] = [
         "url": "https://www.thefork.es/restaurante/la-reserva-12-r842582"
       }
     ],
-    "history": "A poucos metros da Calle Larios, La Reserva 12 consolidou-se como uma parada segura de cozinha andaluza de produto e boa adega no centro histórico de Málaga."
+    "history": "A poucos metros da Calle Larios, La Reserva 12 consolidou-se como uma parada segura de cozinha andaluza de produto e boa adega no centro histórico de Málaga.",
+    "image": "mlg_la_reserva_12.jpg"
   },
   {
     "id": "mrb_espeto_torremolinos",
@@ -4865,7 +4868,8 @@ export const extraAttractions: Attraction[] = [
       "closeHour": "23:00",
       "note": "Sazonal e sujeito ao tempo; almoço é o forte"
     },
-    "history": "Na longa praia de Torremolinos, o espeto de sardinha na barca de lenha é uma herança dos antigos merenderos malaguenhos, mantida viva pelos chiringuitos do Bajondillo."
+    "history": "Na longa praia de Torremolinos, o espeto de sardinha na barca de lenha é uma herança dos antigos merenderos malaguenhos, mantida viva pelos chiringuitos do Bajondillo.",
+    "image": "mrb_espeto_torremolinos.jpg"
   },
   {
     "id": "mrb_casanis",
@@ -4894,7 +4898,8 @@ export const extraAttractions: Attraction[] = [
         "url": "https://casanisbistrot.com/"
       }
     ],
-    "history": "O Casanis tornou-se um dos endereços mais queridos do casco antigo de Marbella, defendendo a cozinha franco-belga numa cidade dominada pela tradição andaluza e pelo luxo internacional."
+    "history": "O Casanis tornou-se um dos endereços mais queridos do casco antigo de Marbella, defendendo a cozinha franco-belga numa cidade dominada pela tradição andaluza e pelo luxo internacional.",
+    "image": "mrb_casanis.jpg"
   },
   {
     "id": "mrb_santiago",
@@ -4923,7 +4928,8 @@ export const extraAttractions: Attraction[] = [
         "url": "https://marbella.costasur.com/sites/santiago/en/index.html"
       }
     ],
-    "history": "Fundado a partir da primeira barraca de praia de Marbella nos anos 1950, o Santiago mudou-se para o Paseo Marítimo em 1973 e reabriu em 2024, mantendo o estatuto de grande casa de peixe e marisco da cidade."
+    "history": "Fundado a partir da primeira barraca de praia de Marbella nos anos 1950, o Santiago mudou-se para o Paseo Marítimo em 1973 e reabriu em 2024, mantendo o estatuto de grande casa de peixe e marisco da cidade.",
+    "image": "mrb_santiago.jpg"
   },
   {
     "id": "nrj_oliva",
@@ -4956,7 +4962,8 @@ export const extraAttractions: Attraction[] = [
         "url": "https://guide.michelin.com/en/andalucia/nerja/restaurant/oliva-1195827"
       }
     ],
-    "history": "Aberto por Carlos e Kim, o Oliva mudou-se em 2021 para a Plaza de España e mantém desde 2016 a recomendação da Guia Michelin, sendo uma das mesas de autor de referência da costa de Nerja."
+    "history": "Aberto por Carlos e Kim, o Oliva mudou-se em 2021 para a Plaza de España e mantém desde 2016 a recomendação da Guia Michelin, sendo uma das mesas de autor de referência da costa de Nerja.",
+    "image": "nrj_oliva.jpg"
   },
   {
     "id": "grn_cala",
@@ -4989,7 +4996,8 @@ export const extraAttractions: Attraction[] = [
         "url": "https://www.thefork.es/restaurante/cala-r752405"
       }
     ],
-    "history": "Samuel Hernández, de formação francesa, abriu o Cala como um projeto íntimo de quatro mesas na zona do Forum, cruzando as suas raízes europeias com o produto de temporada granadino."
+    "history": "Samuel Hernández, de formação francesa, abriu o Cala como um projeto íntimo de quatro mesas na zona do Forum, cruzando as suas raízes europeias com o produto de temporada granadino.",
+    "image": "grn_cala.jpg"
   },
   {
     "id": "crd_garum_21",
@@ -5022,7 +5030,8 @@ export const extraAttractions: Attraction[] = [
         "url": "https://guide.michelin.com/be/nl/andalucia/cordoba/restaurant/garum-2-1"
       }
     ],
-    "history": "De gestão familiar, o Garum 2.1 renova ano após ano o Bib Gourmand da Guia Michelin com a sua releitura bistronômica da cozinha cordovesa, na Judería e sobre restos de muralha romana."
+    "history": "De gestão familiar, o Garum 2.1 renova ano após ano o Bib Gourmand da Guia Michelin com a sua releitura bistronômica da cozinha cordovesa, na Judería e sobre restos de muralha romana.",
+    "image": "crd_garum_21.jpg"
   },
   {
     "id": "crd_terra_olea",
@@ -5051,7 +5060,8 @@ export const extraAttractions: Attraction[] = [
         "url": "https://guide.michelin.com/us/en/andalucia/cordoba/restaurant/terra-olea-1194951"
       }
     ],
-    "history": "No bairro de Arruzafilla, o Terra Olea construiu a sua identidade em torno da azeitona e do produto cordovês, renovando o Bib Gourmand da Guia Michelin com uma cozinha contemporânea acessível."
+    "history": "No bairro de Arruzafilla, o Terra Olea construiu a sua identidade em torno da azeitona e do produto cordovês, renovando o Bib Gourmand da Guia Michelin com uma cozinha contemporânea acessível.",
+    "image": "crd_terra_olea.jpg"
   },
   {
     "id": "grn_realejo_campo_principe",
@@ -5067,7 +5077,8 @@ export const extraAttractions: Attraction[] = [
     "mapQuery": "Campo del Principe, Realejo, Granada",
     "kingTip": "Sente-se numa esplanada do Campo del Príncipe ao entardecer para as tapas gratuitas que acompanham a bebida — tradição que em Granada ainda se cumpre à risca. Suba depois pela Cuesta de los Molinos rumo ao Carmen de los Mártires.",
     "priceLevel": "Gratuito (consumo à parte)",
-    "history": "Chamado Garnata al-Yahud (Granada dos Judeus) na época nazarí, foi rebatizado Realejo após a conquista cristã; o Campo del Príncipe, aberto sobre um antigo cemitério muçulmano, ganhou o Cristo de los Favores em 1640, ainda mais venerado após a peste de 1679-1682."
+    "history": "Chamado Garnata al-Yahud (Granada dos Judeus) na época nazarí, foi rebatizado Realejo após a conquista cristã; o Campo del Príncipe, aberto sobre um antigo cemitério muçulmano, ganhou o Cristo de los Favores em 1640, ainda mais venerado após a peste de 1679-1682.",
+    "image": "grn_realejo_campo_principe.jpg"
   },
   {
     "id": "grn_basilica_angustias",
@@ -5095,7 +5106,8 @@ export const extraAttractions: Attraction[] = [
         "url": "https://www.basilicadelasangustias.org"
       }
     ],
-    "history": "Nasceu de uma ermida do início do século XVI dedicada às santas Úrsula e Susana; o templo barroco atual foi concluído em 1671 e Leão XIII confirmou em 1887 o patronato da Virgen de las Angustias sobre Granada."
+    "history": "Nasceu de uma ermida do início do século XVI dedicada às santas Úrsula e Susana; o templo barroco atual foi concluído em 1671 e Leão XIII confirmou em 1887 o patronato da Virgen de las Angustias sobre Granada.",
+    "image": "grn_basilica_angustias.jpg"
   },
   {
     "id": "grn_palacio_cordova",
@@ -5123,7 +5135,8 @@ export const extraAttractions: Attraction[] = [
         "url": "https://turismo.granada.org/es/areas-tematicas/bodas-palacios/palacio-cordova"
       }
     ],
-    "history": "Construído entre 1530 e 1592 na Placeta de las Descalzas, foi desmontado e remontado pedra a pedra em 1960 na Cuesta del Chapiz; desde 1984 sedia o Arquivo Municipal de Granada."
+    "history": "Construído entre 1530 e 1592 na Placeta de las Descalzas, foi desmontado e remontado pedra a pedra em 1960 na Cuesta del Chapiz; desde 1984 sedia o Arquivo Municipal de Granada.",
+    "image": "grn_palacio_cordova.jpg"
   },
   {
     "id": "grn_mirador_carvajales",
@@ -5139,7 +5152,8 @@ export const extraAttractions: Attraction[] = [
     "mapQuery": "Mirador Placeta de los Carvajales, Granada",
     "kingTip": "Vá ao fim da tarde: a luz dourada bate de frente na Alhambra e há bancos para sentar em paz. Fica muito perto da Plaza Nueva, subindo poucos metros — não confunda com o San Nicolás.",
     "priceLevel": "Gratuito",
-    "history": "Antiga horta da família nobre dos Carvajales, influente em Granada nos séculos XV e XVI; ganhou traçado de praça pública nas reformas urbanas do Albaicín no século XIX."
+    "history": "Antiga horta da família nobre dos Carvajales, influente em Granada nos séculos XV e XVI; ganhou traçado de praça pública nas reformas urbanas do Albaicín no século XIX.",
+    "image": "grn_mirador_carvajales.jpg"
   },
   {
     "id": "crd_cristo_faroles",
@@ -5155,7 +5169,8 @@ export const extraAttractions: Attraction[] = [
     "mapQuery": "Cristo de los Faroles, Plaza de Capuchinos, Cordoba",
     "kingTip": "Venha depois do anoitecer, quando as lanternas acesas dramatizam o Cristo contra o branco — a foto clássica. De dia, a praça calçada com pedra original fica em silêncio quase total.",
     "priceLevel": "Gratuito",
-    "history": "Erguido em 1794 por encomenda do frei capuchinho Diego José de Cádiz e obra do escultor Juan Navarro León, chama-se oficialmente Cristo de la Expiración y del Perdón; o povo o rebatizou pelas oito lanternas que o cercam."
+    "history": "Erguido em 1794 por encomenda do frei capuchinho Diego José de Cádiz e obra do escultor Juan Navarro León, chama-se oficialmente Cristo de la Expiración y del Perdón; o povo o rebatizou pelas oito lanternas que o cercam.",
+    "image": "crd_cristo_faroles.jpg"
   },
   {
     "id": "crd_plaza_tendillas",
@@ -5171,7 +5186,8 @@ export const extraAttractions: Attraction[] = [
     "mapQuery": "Plaza de las Tendillas, Cordoba",
     "kingTip": "Fique atento ao relógio no alto: em vez de badaladas, marca as horas com toques de guitarra flamenca. É o melhor ponto de partida para descer à Judería e à Mesquita-Catedral a pé.",
     "priceLevel": "Gratuito",
-    "history": "De origem no século XIV, quando abrigava as casas dos comendadores de Calatrava e pequenas 'tendillas' (lojinhas) que lhe deram o nome; ganhou a feição atual na grande reforma urbana de 1925-1930, com o Gran Capitán transferido ao centro em 1927."
+    "history": "De origem no século XIV, quando abrigava as casas dos comendadores de Calatrava e pequenas 'tendillas' (lojinhas) que lhe deram o nome; ganhou a feição atual na grande reforma urbana de 1925-1930, com o Gran Capitán transferido ao centro em 1927.",
+    "image": "crd_plaza_tendillas.jpg"
   },
   {
     "id": "crd_iglesia_san_lorenzo",
@@ -5187,7 +5203,8 @@ export const extraAttractions: Attraction[] = [
     "mapQuery": "Iglesia de San Lorenzo, Cordoba",
     "kingTip": "Fica no bairro de San Lorenzo, longe das rotas turísticas — combine com a Torre de la Malmuerta e a Plaza de Capuchinos numa caminhada pela Córdoba autêntica dos bairros do norte.",
     "priceLevel": "Gratuito ou simbólico",
-    "history": "Construída entre cerca de 1244 e 1300 sobre uma antiga mesquita, é uma das igrejas fernandinas do reinado de Fernando III, o Santo; a torre é de Hernán Ruiz II (1555) e o restauro de 1963 recuperou seu aspecto gótico-mudéjar original."
+    "history": "Construída entre cerca de 1244 e 1300 sobre uma antiga mesquita, é uma das igrejas fernandinas do reinado de Fernando III, o Santo; a torre é de Hernán Ruiz II (1555) e o restauro de 1963 recuperou seu aspecto gótico-mudéjar original.",
+    "image": "crd_iglesia_san_lorenzo.jpg"
   },
   {
     "id": "crd_puerta_almodovar",
@@ -5203,7 +5220,8 @@ export const extraAttractions: Attraction[] = [
     "mapQuery": "Puerta de Almodovar, Cordoba",
     "kingTip": "Atravesse a porta e siga pela Calle Judíos até a Sinagoga e o Zoco — é a entrada mais atmosférica da Judería. O trecho de muralha ao longo da Calle Cairuán, com sua alberca, rende ótimas fotos ao entardecer.",
     "priceLevel": "Gratuito",
-    "history": "Conhecida como Bab al-Chawz (Porta da Nogueira) na época muçulmana, remonta à Córdoba andalusí e foi reconstruída no século XIV; a estátua de Séneca, de Amadeo Ruiz Olmos, foi inaugurada em 1965 no XIX centenário da morte do filósofo."
+    "history": "Conhecida como Bab al-Chawz (Porta da Nogueira) na época muçulmana, remonta à Córdoba andalusí e foi reconstruída no século XIV; a estátua de Séneca, de Amadeo Ruiz Olmos, foi inaugurada em 1965 no XIX centenário da morte do filósofo.",
+    "image": "crd_puerta_almodovar.jpg"
   },
   {
     "id": "ant_iglesia_san_juan_de_dios",
@@ -5225,7 +5243,8 @@ export const extraAttractions: Attraction[] = [
         "url": "https://turismo.antequera.es/puntos-de-interes/iglesia-san-juan-de-dios/"
       }
     ],
-    "history": "A Ordem Hospitaleira chegou a Antequera na segunda metade do século XVII; a igreja começou em 1696 sob projeto de Melchor de Aguirre e foi bendita em 1716, com hospital e convento concluídos só no fim do século XVIII. É Bem de Interesse Cultural desde 2005."
+    "history": "A Ordem Hospitaleira chegou a Antequera na segunda metade do século XVII; a igreja começou em 1696 sob projeto de Melchor de Aguirre e foi bendita em 1716, com hospital e convento concluídos só no fim do século XVIII. É Bem de Interesse Cultural desde 2005.",
+    "image": "ant_iglesia_san_juan_de_dios.jpg"
   },
   {
     "id": "ant_mirador_torcal_ventanillas",
@@ -5252,7 +5271,8 @@ export const extraAttractions: Attraction[] = [
         "url": "https://www.torcaldeantequera.com"
       }
     ],
-    "history": "Paraje Natural desde 1989 e parte do sítio Patrimônio Mundial dos Dólmenes de Antequera desde 2016, o Torcal formou-se a partir de sedimentos marinhos do Jurássico, erguidos e depois moldados pela dissolução da chuva ao longo de milhões de anos."
+    "history": "Paraje Natural desde 1989 e parte do sítio Patrimônio Mundial dos Dólmenes de Antequera desde 2016, o Torcal formou-se a partir de sedimentos marinhos do Jurássico, erguidos e depois moldados pela dissolução da chuva ao longo de milhões de anos.",
+    "image": "ant_mirador_torcal_ventanillas.jpg"
   },
   {
     "id": "ant_plaza_coso_viejo",
@@ -5274,7 +5294,8 @@ export const extraAttractions: Attraction[] = [
         "url": "https://turismo.antequera.es/puntos-de-interes/plaza-coso-viejo/"
       }
     ],
-    "history": "Surgida no século XVI como ampliação da Plaza de San Sebastián e antes chamada Plaza de las Verduras pelos mercados que abrigava; passou a Coso Viejo por acolher festas e touradas, e hoje reúne o Palácio de Nájera e o monumento ao Infante Don Fernando."
+    "history": "Surgida no século XVI como ampliação da Plaza de San Sebastián e antes chamada Plaza de las Verduras pelos mercados que abrigava; passou a Coso Viejo por acolher festas e touradas, e hoje reúne o Palácio de Nájera e o monumento ao Infante Don Fernando.",
+    "image": "ant_plaza_coso_viejo.jpg"
   },
   {
     "id": "mlg_ac_palacio",
@@ -5335,7 +5356,8 @@ export const extraAttractions: Attraction[] = [
         "label": "Reservar (Booking)",
         "url": "https://www.booking.com/searchresults.pt-br.html?ss=Vincci+Posada+del+Patio+Malaga"
       }
-    ]
+    ],
+    "image": "mlg_vincci_posada_patio.jpg"
   },
   {
     "id": "mlg_room_mate_larios",
@@ -5365,7 +5387,8 @@ export const extraAttractions: Attraction[] = [
         "label": "Reservar (Booking)",
         "url": "https://www.booking.com/searchresults.pt-br.html?ss=Room+Mate+Larios+Malaga"
       }
-    ]
+    ],
+    "image": "mlg_room_mate_larios.jpg"
   },
   {
     "id": "mlg_barcelo_malaga",
@@ -5426,7 +5449,8 @@ export const extraAttractions: Attraction[] = [
         "label": "Reservar (Booking)",
         "url": "https://www.booking.com/searchresults.pt-br.html?ss=Higueron+Hotel+Curio+Hilton+Fuengirola"
       }
-    ]
+    ],
+    "image": "mrb_higueron_curio.jpg"
   },
   {
     "id": "mrb_vincci_aleysa_benalmadena",
@@ -5456,7 +5480,8 @@ export const extraAttractions: Attraction[] = [
         "label": "Reservar (Booking)",
         "url": "https://www.booking.com/searchresults.pt-br.html?ss=Vincci+Aleysa+Benalmadena"
       }
-    ]
+    ],
+    "image": "mrb_vincci_aleysa_benalmadena.jpg"
   },
   {
     "id": "mrb_fuerte_marbella",
@@ -5486,7 +5511,8 @@ export const extraAttractions: Attraction[] = [
         "label": "Reservar (Booking)",
         "url": "https://www.booking.com/searchresults.pt-br.html?ss=Hotel+Fuerte+Marbella"
       }
-    ]
+    ],
+    "image": "mrb_fuerte_marbella.jpg"
   },
   {
     "id": "mrb_los_monteros",
@@ -5516,7 +5542,8 @@ export const extraAttractions: Attraction[] = [
         "label": "Reservar (Booking)",
         "url": "https://www.booking.com/searchresults.pt-br.html?ss=Los+Monteros+Marbella"
       }
-    ]
+    ],
+    "image": "mrb_los_monteros.jpg"
   },
   {
     "id": "mrb_amare_beach",
@@ -5546,7 +5573,8 @@ export const extraAttractions: Attraction[] = [
         "label": "Reservar (Booking)",
         "url": "https://www.booking.com/searchresults.pt-br.html?ss=Amare+Beach+Hotel+Marbella"
       }
-    ]
+    ],
+    "image": "mrb_amare_beach.jpg"
   },
   {
     "id": "mrb_flats_costa_central",
@@ -5576,7 +5604,8 @@ export const extraAttractions: Attraction[] = [
         "label": "Buscar no Airbnb (Fuengirola)",
         "url": "https://www.airbnb.com.br/s/Fuengirola--Spain/homes"
       }
-    ]
+    ],
+    "image": "mrb_flats_costa_central.jpg"
   },
   {
     "id": "grn_aurea_washington_irving",
@@ -5606,7 +5635,8 @@ export const extraAttractions: Attraction[] = [
         "label": "Reservar (Booking)",
         "url": "https://www.booking.com/searchresults.pt-br.html?ss=Aurea+Washington+Irving+Granada"
       }
-    ]
+    ],
+    "image": "grn_aurea_washington_irving.jpg"
   },
   {
     "id": "grn_ac_santa_paula",
@@ -5636,7 +5666,8 @@ export const extraAttractions: Attraction[] = [
         "label": "Reservar (Booking)",
         "url": "https://www.booking.com/searchresults.pt-br.html?ss=AC+Palacio+de+Santa+Paula+Granada"
       }
-    ]
+    ],
+    "image": "grn_ac_santa_paula.jpg"
   },
   {
     "id": "grn_palacio_santa_ines",
@@ -5666,7 +5697,8 @@ export const extraAttractions: Attraction[] = [
         "label": "Reservar (Booking)",
         "url": "https://www.booking.com/searchresults.pt-br.html?ss=Palacio+de+Santa+Ines+Granada"
       }
-    ]
+    ],
+    "image": "grn_palacio_santa_ines.jpg"
   },
   {
     "id": "rnd_catalonia_ronda",
@@ -5696,7 +5728,8 @@ export const extraAttractions: Attraction[] = [
         "label": "Reservar (Booking)",
         "url": "https://www.booking.com/searchresults.pt-br.html?ss=Catalonia+Ronda"
       }
-    ]
+    ],
+    "image": "rnd_catalonia_ronda.jpg"
   },
   {
     "id": "rnd_san_gabriel",
@@ -5726,7 +5759,8 @@ export const extraAttractions: Attraction[] = [
         "label": "Reservar (Booking)",
         "url": "https://www.booking.com/searchresults.pt-br.html?ss=Hotel+San+Gabriel+Ronda"
       }
-    ]
+    ],
+    "image": "rnd_san_gabriel.jpg"
   },
   {
     "id": "nrj_carabeo_boutique",
@@ -5756,7 +5790,8 @@ export const extraAttractions: Attraction[] = [
         "label": "Reservar (Booking)",
         "url": "https://www.booking.com/searchresults.pt-br.html?ss=Hotel+Carabeo+Nerja"
       }
-    ]
+    ],
+    "image": "nrj_carabeo_boutique.jpg"
   },
   {
     "id": "crd_hospes_bailio",
@@ -5786,7 +5821,8 @@ export const extraAttractions: Attraction[] = [
         "label": "Reservar (Booking)",
         "url": "https://www.booking.com/searchresults.pt-br.html?ss=Hospes+Palacio+del+Bailio+Cordoba"
       }
-    ]
+    ],
+    "image": "crd_hospes_bailio.jpg"
   },
   {
     "id": "crd_eurostars_palace",
