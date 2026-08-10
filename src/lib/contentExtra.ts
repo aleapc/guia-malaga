@@ -2678,7 +2678,8 @@ export const extraAttractions: Attraction[] = [
       "openHour": "13:00",
       "closeHour": "23:30",
       "note": "Terraço com vista muito disputado; reserve para garantir mesa lá em cima."
-    }
+    },
+    "image": "cor_casa_pepe_juderia.jpg"
   },
   {
     "id": "cor_taberna_san_miguel",
@@ -2705,7 +2706,8 @@ export const extraAttractions: Attraction[] = [
         "label": "Site oficial",
         "url": "https://tabernacordoba.es"
       }
-    ]
+    ],
+    "image": "cor_taberna_san_miguel.jpg"
   },
   {
     "id": "cor_bodegas_campos",
@@ -2732,7 +2734,8 @@ export const extraAttractions: Attraction[] = [
         "label": "Site oficial",
         "url": "https://bodegascampos.com"
       }
-    ]
+    ],
+    "image": "cor_bodegas_campos.jpg"
   },
   {
     "id": "grn_om_kalsum",
@@ -2753,7 +2756,8 @@ export const extraAttractions: Attraction[] = [
       "openHour": "13:00",
       "closeHour": "00:00",
       "note": "Fecha à tarde entre serviços; espaço pequeno e muito procurado à noite."
-    }
+    },
+    "image": "grn_om_kalsum.jpg"
   },
   {
     "id": "grn_bodega_la_mancha",
@@ -2774,7 +2778,8 @@ export const extraAttractions: Attraction[] = [
       "openHour": "12:00",
       "closeHour": "00:00",
       "note": "Bar pequeno; a maioria bebe em pé no balcão ou na calçada."
-    }
+    },
+    "image": "grn_bodega_la_mancha.jpg"
   },
   {
     "id": "mrb_casa_curro",
@@ -2801,7 +2806,8 @@ export const extraAttractions: Attraction[] = [
         "label": "Site oficial",
         "url": "https://grupocasacurro.com"
       }
-    ]
+    ],
+    "image": "mrb_casa_curro.jpg"
   },
   {
     "id": "mrb_bar_el_estrecho",
@@ -2828,7 +2834,8 @@ export const extraAttractions: Attraction[] = [
         "label": "Site oficial",
         "url": "https://www.barelestrecho.com"
       }
-    ]
+    ],
+    "image": "mrb_bar_el_estrecho.jpg"
   },
   {
     "id": "axq_la_puntilla_nerja",
@@ -2855,7 +2862,8 @@ export const extraAttractions: Attraction[] = [
         "label": "Site oficial",
         "url": "https://www.lapuntillanerja.es"
       }
-    ]
+    ],
+    "image": "axq_la_puntilla_nerja.jpg"
   },
   {
     "id": "ant_arte_de_cozina",
@@ -2882,7 +2890,8 @@ export const extraAttractions: Attraction[] = [
         "label": "Site oficial",
         "url": "https://www.artedecozina.com"
       }
-    ]
+    ],
+    "image": "ant_arte_de_cozina.jpg"
   },
   {
     "id": "ant_arco_de_los_gigantes",
@@ -2903,7 +2912,8 @@ export const extraAttractions: Attraction[] = [
         "label": "Turismo Antequera",
         "url": "https://turismo.antequera.es/puntos-de-interes/arco-de-los-gigantes/"
       }
-    ]
+    ],
+    "image": "ant_arco_de_los_gigantes.jpg"
   },
   {
     "id": "ant_iglesia_del_carmen",
@@ -2925,7 +2935,8 @@ export const extraAttractions: Attraction[] = [
         "label": "Turismo Antequera",
         "url": "https://turismo.antequera.es/puntos-de-interes/iglesia-del-carmen/"
       }
-    ]
+    ],
+    "image": "ant_iglesia_del_carmen.jpg"
   },
   {
     "id": "ant_termas_romanas_santa_maria",
@@ -2946,7 +2957,8 @@ export const extraAttractions: Attraction[] = [
         "label": "Turismo Antequera",
         "url": "https://turismo.antequera.es/puntos-de-interes/termas-romanas/"
       }
-    ]
+    ],
+    "image": "ant_termas_romanas_santa_maria.jpg"
   },
   {
     "id": "ant_mirador_almenillas",
@@ -2967,7 +2979,8 @@ export const extraAttractions: Attraction[] = [
         "label": "Turismo Antequera",
         "url": "https://turismo.antequera.es/puntos-de-interes/mirador-almenillas/"
       }
-    ]
+    ],
+    "image": "ant_mirador_almenillas.jpg"
   },
   {
     "id": "ant_plaza_de_san_sebastian",
@@ -2988,7 +3001,8 @@ export const extraAttractions: Attraction[] = [
         "label": "Turismo Antequera",
         "url": "https://turismo.antequera.es/puntos-de-interes/plaza-de-san-sebastian/"
       }
-    ]
+    ],
+    "image": "ant_plaza_de_san_sebastian.jpg"
   },
   {
     "id": "ant_iglesia_de_los_remedios",
@@ -3009,7 +3023,8 @@ export const extraAttractions: Attraction[] = [
         "label": "Turismo Antequera",
         "url": "https://turismo.antequera.es/puntos-de-interes/iglesia-de-nuestra-senora-de-los-remedios/"
       }
-    ]
+    ],
+    "image": "ant_iglesia_de_los_remedios.jpg"
   },
   {
     "id": "ant_dolmen_del_romeral",
