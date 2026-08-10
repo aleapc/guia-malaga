@@ -10,21 +10,23 @@ Set-Location $PSScriptRoot
 $worktreePath = Join-Path $env:LOCALAPPDATA "gma-gh-pages"
 $buildPath = Join-Path $PSScriptRoot "build"
 
-Write-Host "→ Build com BASE_PATH=/guia-malaga ..." -ForegroundColor Cyan
+Write-Host "Build com BASE_PATH=/guia-malaga ..." -ForegroundColor Cyan
 $env:BASE_PATH = "/guia-malaga"
 npm run build
 
 # Trava de segurança: nunca publicar um build sem o base path (CSS/JS quebrariam no GitHub Pages).
 $indexHtml = Get-Content "build\index.html" -Raw
 if ($indexHtml -notmatch '/guia-malaga/_app') {
-    throw "ABORTADO: build/index.html não contém o base path /guia-malaga. O BASE_PATH não foi aplicado — deploy cancelado para não publicar um site quebrado."
+    throw "ABORTADO: build/index.html nao contem o base path /guia-malaga. O BASE_PATH nao foi aplicado - deploy cancelado."
 }
-Write-Host "  ✓ base path confirmado no index.html" -ForegroundColor Green
+Write-Host "  base path confirmado no index.html" -ForegroundColor Green
 
 if (-not (Test-Path "build\.nojekyll")) { New-Item -ItemType File "build\.nojekyll" | Out-Null }
 
-Write-Host "→ Preparando worktree gh-pages em $worktreePath ..." -ForegroundColor Cyan
+Write-Host "Preparando worktree gh-pages em $worktreePath ..." -ForegroundColor Cyan
+$ErrorActionPreference = "Continue"
 git fetch origin gh-pages 2>&1 | Out-Null
+$ErrorActionPreference = "Stop"
 
 if (Test-Path $worktreePath) {
     git worktree remove --force $worktreePath 2>&1 | Out-Null
@@ -67,4 +69,4 @@ finally {
 git worktree remove --force $worktreePath
 if (Test-Path $worktreePath) { Remove-Item $worktreePath -Recurse -Force -ErrorAction SilentlyContinue }
 
-Write-Host "✓ Deployed. https://aleapc.github.io/guia-malaga/" -ForegroundColor Green
+Write-Host "Done. https://aleapc.github.io/guia-malaga/" -ForegroundColor Green
