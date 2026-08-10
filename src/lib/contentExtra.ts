@@ -3714,7 +3714,8 @@ export const extraAttractions: Attraction[] = [
     "fit": "CLEAR_SKY",
     "mapQuery": "Nueva Andalucía, Marbella",
     "kingTip": "Vá num sábado de manhã pelo mercadillo (feira): é o melhor momento para sentir a vida do bairro e caçar pechinchas.",
-    "priceLevel": "Gratuito"
+    "priceLevel": "Gratuito",
+    "image": "mrb_nueva_andalucia.jpg"
   },
   {
     "id": "rnd_santa_maria_la_mayor",
@@ -3731,7 +3732,8 @@ export const extraAttractions: Attraction[] = [
     "kingTip": "Procure, junto à entrada, o arco de ferradura remanescente do mihrab da antiga mesquita: um raro vestígio islâmico embutido no templo cristão.",
     "priceLevel": "€ (ingresso ~€4,50, estimativa)",
     "hours": "Aberta diariamente; conferir horário de missas e verão no local",
-    "history": "Consagrada logo após a conquista cristã de 1485, sua construção se estendeu por mais de dois séculos, misturando gótico, mudéjar e maneirismo após o sismo de 1580."
+    "history": "Consagrada logo após a conquista cristã de 1485, sua construção se estendeu por mais de dois séculos, misturando gótico, mudéjar e maneirismo após o sismo de 1580.",
+    "image": "rnd_santa_maria_la_mayor.jpg"
   },
   {
     "id": "rnd_puerta_almocabar",
@@ -3747,7 +3749,8 @@ export const extraAttractions: Attraction[] = [
     "mapQuery": "Puerta de Almocábar, Ronda",
     "kingTip": "Entre pela Almocábar como faziam os viajantes antigos e siga a pé até a Plaza del Campillo, de onde a muralha desce sobre o vale.",
     "priceLevel": "Gratuito",
-    "history": "O nome vem do árabe 'al-maqabir' (cemitério), pela necrópole muçulmana vizinha; a porta foi reestruturada no reinado de Carlos I, no século XVI."
+    "history": "O nome vem do árabe 'al-maqabir' (cemitério), pela necrópole muçulmana vizinha; a porta foi reestruturada no reinado de Carlos I, no século XVI.",
+    "image": "rnd_puerta_almocabar.jpg"
   },
   {
     "id": "rnd_iglesia_espiritu_santo",
@@ -3762,7 +3765,8 @@ export const extraAttractions: Attraction[] = [
     "fit": "INDOOR",
     "mapQuery": "Iglesia del Espíritu Santo, Ronda",
     "priceLevel": "€ (ingresso ~€2, estimativa)",
-    "history": "Fundada por ordem de Fernando e Isabel logo após 1485, teria sido concluída por volta de 1505 no local onde se rendeu a guarnição nasrida."
+    "history": "Fundada por ordem de Fernando e Isabel logo após 1485, teria sido concluída por volta de 1505 no local onde se rendeu a guarnição nasrida.",
+    "image": "rnd_iglesia_espiritu_santo.jpg"
   },
   {
     "id": "rnd_puente_viejo",
@@ -3778,7 +3782,8 @@ export const extraAttractions: Attraction[] = [
     "mapQuery": "Puente Viejo, Ronda",
     "kingTip": "Combine com os Baños Árabes, a poucos metros: dá para descer ao leito do rio e fotografar a ponte e o paredão do Tajo de um ângulo que quase ninguém procura.",
     "priceLevel": "Gratuito",
-    "history": "Erguida em 1616 sobre uma passagem medieval anterior, foi durante séculos o principal acesso à cidade velha antes da conclusão do Puente Nuevo."
+    "history": "Erguida em 1616 sobre uma passagem medieval anterior, foi durante séculos o principal acesso à cidade velha antes da conclusão do Puente Nuevo.",
+    "image": "rnd_puente_viejo.jpg"
   },
   {
     "id": "rnd_casa_don_bosco",
@@ -3801,7 +3806,8 @@ export const extraAttractions: Attraction[] = [
         "url": "https://casamuseodonbosco.com/"
       }
     ],
-    "history": "Construída em 1850 e reformada em estilo modernista em 1900, foi doada à congregação salesiana, que mantém a casa e o jardim abertos à visita."
+    "history": "Construída em 1850 e reformada em estilo modernista em 1900, foi doada à congregação salesiana, que mantém a casa e o jardim abertos à visita.",
+    "image": "rnd_casa_don_bosco.jpg"
   },
   {
     "id": "rnd_setenil_de_las_bodegas",
@@ -3818,7 +3824,8 @@ export const extraAttractions: Attraction[] = [
     "whatToDo": "Percorra a pé as ruas Cuevas del Sol e Cuevas de la Sombra sob a rocha e suba ao Mirador del Carmen e às ruínas do castelo para ver os telhados encaixados no barranco.",
     "kingTip": "A rua Cuevas de la Sombra fica na penumbra o dia todo; para a foto com luz nas fachadas, vá à Cuevas del Sol no meio da manhã.",
     "priceLevel": "Gratuito (o povoado)",
-    "history": "O nome 'Setenil' remete à resistência muçulmana a sete cercos cristãos; 'de las Bodegas' vem das antigas adegas escavadas na rocha, hoje bares e casas."
+    "history": "O nome 'Setenil' remete à resistência muçulmana a sete cercos cristãos; 'de las Bodegas' vem das antigas adegas escavadas na rocha, hoje bares e casas.",
+    "image": "rnd_setenil_de_las_bodegas.jpg"
   },
   {
     "id": "rnd_juzcar_pueblo_azul",
@@ -3835,7 +3842,8 @@ export const extraAttractions: Attraction[] = [
     "whatToDo": "Passeie pelas vielas azuis procurando os murais de personagens espalhados pelas fachadas e admire o Valle del Genal a partir das bordas da vila.",
     "kingTip": "Estenda o passeio pelo Valle del Genal: no outono, os castanheiros ao redor de Júzcar viram um mar cobre-avermelhado que contrasta com o azul das casas.",
     "priceLevel": "Gratuito",
-    "history": "Em 2011 a Sony pintou a vila de azul com cerca de 4.000 litros de tinta para estrear o filme dos Smurfs; um referendo local decidiu manter a cor."
+    "history": "Em 2011 a Sony pintou a vila de azul com cerca de 4.000 litros de tinta para estrear o filme dos Smurfs; um referendo local decidiu manter a cor.",
+    "image": "rnd_juzcar_pueblo_azul.jpg"
   },
   {
     "id": "rnd_zahara_de_la_sierra",
@@ -3858,7 +3866,8 @@ export const extraAttractions: Attraction[] = [
         "url": "https://www.zaharadelasierra.es/"
       }
     ],
-    "history": "A conquista de Zahara pelos nasridas em 1481 desencadeou a guerra final de Granada; a torre do castelo domina a vila desde o século XIII."
+    "history": "A conquista de Zahara pelos nasridas em 1481 desencadeou a guerra final de Granada; a torre do castelo domina a vila desde o século XIII.",
+    "image": "rnd_zahara_de_la_sierra.jpg"
   },
   {
     "id": "rnd_grazalema",
@@ -3875,7 +3884,8 @@ export const extraAttractions: Attraction[] = [
     "whatToDo": "Perca-se pelas ruas em torno da Plaza de España e da igreja da Aurora, visite uma oficina de mantas de lã e alcance um mirador de borda para a serra.",
     "kingTip": "Leve um casaco leve mesmo no verão: por estar no ponto mais chuvoso e alto da região, Grazalema costuma amanhecer bem mais fresca que Ronda.",
     "priceLevel": "Gratuito (a vila)",
-    "history": "De origem romana e depois andalusí, Grazalema prosperou nos séculos XVIII e XIX com a manufatura de tecidos e mantas de lã, ofício que ainda resiste."
+    "history": "De origem romana e depois andalusí, Grazalema prosperou nos séculos XVIII e XIX com a manufatura de tecidos e mantas de lã, ofício que ainda resiste.",
+    "image": "rnd_grazalema.jpg"
   },
   {
     "id": "rnd_gaucin",
@@ -3898,7 +3908,8 @@ export const extraAttractions: Attraction[] = [
         "url": "https://castillodelaguila.es/"
       }
     ],
-    "history": "O castelo, de raízes romanas e reforço nasrida, foi ponto estratégico por séculos; ali morreu, em 1309, o cavaleiro Guzmán el Bueno em combate."
+    "history": "O castelo, de raízes romanas e reforço nasrida, foi ponto estratégico por séculos; ali morreu, em 1309, o cavaleiro Guzmán el Bueno em combate.",
+    "image": "rnd_gaucin.jpg"
   },
   {
     "id": "rnd_montejaque",
@@ -3915,7 +3926,8 @@ export const extraAttractions: Attraction[] = [
     "whatToDo": "Circule pela Plaza de la Constitución sombreada, visite a igreja de Santiago e suba às bordas da vila para ver o anfiteatro de rochas ao redor.",
     "kingTip": "É parada de tapas honesta e barata: as varandas em torno da praça servem petiscos serranos com muito menos gente que em Ronda.",
     "priceLevel": "Gratuito (a vila)",
-    "history": "De nome derivado do árabe 'Montexaquez' (monte perdido), conserva o traçado andalusí e foi doado após a Reconquista aos senhores de Benaoján."
+    "history": "De nome derivado do árabe 'Montexaquez' (monte perdido), conserva o traçado andalusí e foi doado após a Reconquista aos senhores de Benaoján.",
+    "image": "rnd_montejaque.jpg"
   },
   {
     "id": "mlg_syra_coffee",
@@ -3943,7 +3955,8 @@ export const extraAttractions: Attraction[] = [
         "label": "Site oficial",
         "url": "https://syra.coffee"
       }
-    ]
+    ],
+    "image": "mlg_syra_coffee.jpg"
   },
   {
     "id": "mlg_cafe_con_libros",
@@ -3988,7 +4001,8 @@ export const extraAttractions: Attraction[] = [
         "label": "Site oficial",
         "url": "https://www.recyclobike.com"
       }
-    ]
+    ],
+    "image": "mlg_recyclo_bike_cafe.jpg"
   },
   {
     "id": "mlg_la_bella_julieta",
@@ -4004,7 +4018,8 @@ export const extraAttractions: Attraction[] = [
     "mapQuery": "La Bella Julieta, Calle Puerta del Mar 20, Málaga",
     "whatToDo": "Peça um smoothie bowl ou um waffle com um café especial e aproveite a decoração colorida para as fotos.",
     "kingTip": "Tem várias unidades pela cidade; a da Puerta del Mar é a mais central para juntar com o Mercado de Atarazanas.",
-    "priceLevel": "€€"
+    "priceLevel": "€€",
+    "image": "mlg_la_bella_julieta.jpg"
   },
   {
     "id": "mlg_freskitto",
@@ -4026,7 +4041,8 @@ export const extraAttractions: Attraction[] = [
         "label": "Site oficial",
         "url": "https://www.heladeriafreskitto.com"
       }
-    ]
+    ],
+    "image": "mlg_freskitto.jpg"
   },
   {
     "id": "grn_cafeteria_lisboa",
