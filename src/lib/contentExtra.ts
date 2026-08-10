@@ -4058,7 +4058,8 @@ export const extraAttractions: Attraction[] = [
     "mapQuery": "Cafetería Lisboa, Calle Reyes Católicos, Plaza Nueva, Granada",
     "whatToDo": "Peça churros com um café da casa e tome numa das mesas de frente para a Plaza Nueva.",
     "kingTip": "Fica no ponto de partida das subidas ao Albaicín e à Alhambra; ideal para o café da manhã antes da caminhada.",
-    "priceLevel": "€€"
+    "priceLevel": "€€",
+    "image": "grn_cafeteria_lisboa.jpg"
   },
   {
     "id": "grn_cafe_futbol",
@@ -4087,7 +4088,8 @@ export const extraAttractions: Attraction[] = [
         "url": "https://cafefutbol.com"
       }
     ],
-    "history": "Fundado em 1903 por D. Antonio Suárez Martín, é um dos cafés mais antigos da Espanha, mantido por quatro gerações da mesma família."
+    "history": "Fundado em 1903 por D. Antonio Suárez Martín, é um dos cafés mais antigos da Espanha, mantido por quatro gerações da mesma família.",
+    "image": "grn_cafe_futbol.jpg"
   },
   {
     "id": "grn_la_finca_coffee",
@@ -4109,7 +4111,8 @@ export const extraAttractions: Attraction[] = [
         "label": "Site oficial",
         "url": "https://lafincaroaster.com"
       }
-    ]
+    ],
+    "image": "grn_la_finca_coffee.jpg"
   },
   {
     "id": "rnd_teteria_al_zahra",
@@ -4125,7 +4128,8 @@ export const extraAttractions: Attraction[] = [
     "mapQuery": "Tetería Al-Zahra, Calle las Tiendas 19, Ronda",
     "whatToDo": "Escolha um chá aromático da carta com um doce árabe ou um crepe e relaxe no ambiente com almofadas.",
     "kingTip": "É uma ótima pausa à sombra no calor de julho, quando os mirantes ao sol de Ronda ficam intensos.",
-    "priceLevel": "€€"
+    "priceLevel": "€€",
+    "image": "rnd_teteria_al_zahra.jpg"
   },
   {
     "id": "mrb_gioelia_fuengirola",
@@ -4147,7 +4151,8 @@ export const extraAttractions: Attraction[] = [
         "label": "Site oficial",
         "url": "https://gioelia.com"
       }
-    ]
+    ],
+    "image": "mrb_gioelia_fuengirola.jpg"
   },
   {
     "id": "mrb_darbini_torremolinos",
@@ -4163,7 +4168,8 @@ export const extraAttractions: Attraction[] = [
     "mapQuery": "Heladería D'Arbini, Paseo Marítimo La Carihuela 24, Torremolinos",
     "whatToDo": "Escolha um creme e um sorbetto e coma no calçadão da Carihuela, de frente para o mar.",
     "kingTip": "A Carihuela é o trecho mais gostoso de Torremolinos para caminhar à beira-mar; deixe o gelato para o entardecer.",
-    "priceLevel": "€€"
+    "priceLevel": "€€",
+    "image": "mrb_darbini_torremolinos.jpg"
   },
   {
     "id": "mlg_corte_ingles_centro",
@@ -4191,7 +4197,8 @@ export const extraAttractions: Attraction[] = [
         "label": "Site oficial",
         "url": "https://www.elcorteingles.es/centroscomerciales/es/eci/centros/centro-comercial-malaga"
       }
-    ]
+    ],
+    "image": "mlg_corte_ingles_centro.jpg"
   },
   {
     "id": "mlg_la_recova",
@@ -4207,7 +4214,8 @@ export const extraAttractions: Attraction[] = [
     "mapQuery": "La Recova artesanía, Pasaje Niño de Guevara, Málaga",
     "whatToDo": "Garimpe cerâmica de pequenas olarias e têxteis tipo jarapa, e faça uma pausa no café interno entre as compras.",
     "kingTip": "Fica escondida numa travessa junto à igreja de San Juan; entre mesmo que a fachada pareça discreta, o interior surpreende.",
-    "priceLevel": "€€"
+    "priceLevel": "€€",
+    "image": "mlg_la_recova.jpg"
   },
   {
     "id": "mlg_pasaje_chinitas",
@@ -4223,7 +4231,8 @@ export const extraAttractions: Attraction[] = [
     "mapQuery": "Pasaje de Chinitas, Málaga",
     "whatToDo": "Passeie entre as lojinhas e ateliês da passagem e procure o painel de azulejos que recorda o verso de Lorca sobre o Café de Chinitas.",
     "kingTip": "Abre direto na Plaza de la Constitución; combine com a Calle Larios e o Pasaje continua até a Calle Fresca, poucos metros à frente.",
-    "priceLevel": "€€"
+    "priceLevel": "€€",
+    "image": "mlg_pasaje_chinitas.jpg"
   },
   {
     "id": "mlg_mercadillo_cortijo_torres",
@@ -4245,7 +4254,8 @@ export const extraAttractions: Attraction[] = [
       "openHour": "09:00",
       "closeHour": "15:00",
       "note": "Apenas aos domingos; encerra ao início da tarde."
-    }
+    },
+    "image": "mlg_mercadillo_cortijo_torres.jpg"
   },
   {
     "id": "mrb_mercadillo_fuengirola",
@@ -4267,7 +4277,8 @@ export const extraAttractions: Attraction[] = [
       "openHour": "09:00",
       "closeHour": "14:00",
       "note": "Semanal às terças, exceto Natal, Ano Novo e Reis."
-    }
+    },
+    "image": "mrb_mercadillo_fuengirola.jpg"
   },
   {
     "id": "mlg_designer_outlet_plaza_mayor",
@@ -4295,7 +4306,8 @@ export const extraAttractions: Attraction[] = [
         "label": "Site oficial",
         "url": "https://www.mcarthurglen.com/en/outlets/es/designer-outlet-malaga/"
       }
-    ]
+    ],
+    "image": "mlg_designer_outlet_plaza_mayor.jpg"
   },
   {
     "id": "mrb_puerto_marina_benalmadena",
@@ -4317,7 +4329,8 @@ export const extraAttractions: Attraction[] = [
         "label": "Puerto Marina Shopping",
         "url": "https://puertomarinashopping.es/en/"
       }
-    ]
+    ],
+    "image": "mrb_puerto_marina_benalmadena.jpg"
   },
   {
     "id": "mrb_calle_san_miguel_torremolinos",
@@ -4333,7 +4346,8 @@ export const extraAttractions: Attraction[] = [
     "mapQuery": "Calle San Miguel, Torremolinos",
     "whatToDo": "Desça a rua toda comparando preços de complementos e perfumes, e ramifique pelas travessas Cauce e Casablanca para lojas menos turísticas.",
     "kingTip": "Ligue a compra ao Balcón de Europa no topo e à descida da Cuesta del Tajo rumo à praia da Carihuela, no mesmo eixo pedonal.",
-    "priceLevel": "€€"
+    "priceLevel": "€€",
+    "image": "mrb_calle_san_miguel_torremolinos.jpg"
   },
   {
     "id": "mrb_miramar_fuengirola",
@@ -4361,7 +4375,8 @@ export const extraAttractions: Attraction[] = [
         "label": "Site oficial",
         "url": "https://www.ccmiramar.es/"
       }
-    ]
+    ],
+    "image": "mrb_miramar_fuengirola.jpg"
   },
   {
     "id": "ant_dulces_belen",
@@ -4383,7 +4398,8 @@ export const extraAttractions: Attraction[] = [
       "openHour": "09:30",
       "closeHour": "18:30",
       "note": "Pausa aproximada das 13h30 às 15h30; horário ampliado no Natal."
-    }
+    },
+    "image": "ant_dulces_belen.jpg"
   },
   {
     "id": "ben_castillo_colomares",
@@ -4415,7 +4431,8 @@ export const extraAttractions: Attraction[] = [
         "label": "Turismo de Benalmádena",
         "url": "https://www.benalmadena.es/"
       }
-    ]
+    ],
+    "image": "ben_castillo_colomares.jpg"
   },
   {
     "id": "fgr_castillo_sohail",
@@ -4448,7 +4465,8 @@ export const extraAttractions: Attraction[] = [
         "label": "Site oficial",
         "url": "https://www.castillosohail.es/"
       }
-    ]
+    ],
+    "image": "fgr_castillo_sohail.jpg"
   },
   {
     "id": "mrb_museo_grabado",
@@ -4480,7 +4498,8 @@ export const extraAttractions: Attraction[] = [
         "label": "Site oficial",
         "url": "https://www.mgec.es/"
       }
-    ]
+    ],
+    "image": "mrb_museo_grabado.jpg"
   },
   {
     "id": "mrb_museo_ralli",
@@ -4512,7 +4531,8 @@ export const extraAttractions: Attraction[] = [
         "label": "Site oficial",
         "url": "https://museoralli.es/"
       }
-    ]
+    ],
+    "image": "mrb_museo_ralli.jpg"
   },
   {
     "id": "ben_museo_precolombino",
@@ -4544,7 +4564,8 @@ export const extraAttractions: Attraction[] = [
         "label": "Turismo de Benalmádena",
         "url": "https://www.benalmadena.es/"
       }
-    ]
+    ],
+    "image": "ben_museo_precolombino.jpg"
   },
   {
     "id": "mlg_mimma",
@@ -4576,7 +4597,8 @@ export const extraAttractions: Attraction[] = [
         "label": "Site oficial",
         "url": "https://www.musicaenaccion.com/"
       }
-    ]
+    ],
+    "image": "mlg_mimma.jpg"
   },
   {
     "id": "grn_casa_de_los_tiros",
@@ -4608,7 +4630,8 @@ export const extraAttractions: Attraction[] = [
         "label": "Site oficial (Museos de Andalucía)",
         "url": "https://www.museosdeandalucia.es/web/museocasadelostirosdegranada"
       }
-    ]
+    ],
+    "image": "grn_casa_de_los_tiros.jpg"
   },
   {
     "id": "grn_hospital_real",
@@ -4641,7 +4664,8 @@ export const extraAttractions: Attraction[] = [
         "label": "Universidad de Granada",
         "url": "https://patrimonio.ugr.es/bien-inmueble/610/"
       }
-    ]
+    ],
+    "image": "grn_hospital_real.jpg"
   },
   {
     "id": "crd_julio_romero_de_torres",
@@ -4673,7 +4697,8 @@ export const extraAttractions: Attraction[] = [
         "label": "Turismo de Córdoba",
         "url": "https://www.turismodecordoba.org/museo-julio-romero-de-torres"
       }
-    ]
+    ],
+    "image": "crd_julio_romero_de_torres.jpg"
   },
   {
     "id": "crd_casa_de_sefarad",
@@ -4705,7 +4730,8 @@ export const extraAttractions: Attraction[] = [
         "label": "Site oficial",
         "url": "https://lacasadesefarad.com/"
       }
-    ]
+    ],
+    "image": "crd_casa_de_sefarad.jpg"
   },
   {
     "id": "mlg_el_tintero",
