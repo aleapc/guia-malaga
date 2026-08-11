@@ -427,7 +427,9 @@ export const extraAttractions: Attraction[] = [
     "durationLabel": "20–40 min",
     "fit": "ANY",
     "mapQuery": "Mía Coffee Shop, Plaza de los Mártires, Málaga",
-    "whatToDo": "Peça um flat white e um dos bolos caseiros na barra estreita, ou leve o café para caminhar pelo centro.",
+    "whatToDo": [
+      "Peça um flat white e um dos bolos caseiros na barra estreita, ou leve o café para caminhar pelo centro"
+    ],
     "kingTip": "O espaço é pequeníssimo e enche rápido; vá em horário de baixa ou peça para viagem.",
     "priceLevel": "€€",
     "image": "mlg_mia_coffee.jpg"
@@ -444,14 +446,15 @@ export const extraAttractions: Attraction[] = [
     "durationLabel": "30–45 min",
     "fit": "ANY",
     "mapQuery": "Next Level Specialty Coffee, Calle San Juan 27, Málaga",
-    "whatToDo": "Prove um filtrado do lote em destaque acompanhado de um pedaço de bolo de cenoura ou torrada de abacate.",
+    "whatToDo": [
+      "Prove um filtrado do lote em destaque acompanhado de um pedaço de bolo de cenoura ou torrada de abacate"
+    ],
     "kingTip": "Tem mais de um endereço no centro; o da Calle San Juan é o mais central para juntar com o Mercado de Atarazanas.",
     "priceLevel": "€€",
     "hours": {
-      "openDays": "Todos os dias",
-      "openHour": "08:00",
-      "closeHour": "17:00",
-      "note": "Fecha no fim da tarde; foco em cafés da manhã e brunch."
+      "openHour": 8,
+      "closeHour": 17,
+      "note": "Todos os dias · Fecha no fim da tarde; foco em cafés da manhã e brunch."
     },
     "image": "mlg_next_level_coffee.jpg"
   },
@@ -467,7 +470,9 @@ export const extraAttractions: Attraction[] = [
     "durationLabel": "45 min–1 h",
     "fit": "ANY",
     "mapQuery": "El Último Mono Juice & Coffee, Calle Santa María 9, Málaga",
-    "whatToDo": "Combine um suco verde prensado na hora com uma torrada de brunch e um cortado de especialidade.",
+    "whatToDo": [
+      "Combine um suco verde prensado na hora com uma torrada de brunch e um cortado de especialidade"
+    ],
     "kingTip": "Nos fins de semana o brunch enche; chegue antes das 11h para pegar mesa.",
     "priceLevel": "€€",
     "image": "mlg_el_ultimo_mono.jpg"
@@ -484,7 +489,9 @@ export const extraAttractions: Attraction[] = [
     "durationLabel": "20–40 min",
     "fit": "ANY",
     "mapQuery": "Julia Bakery, Calle Carretería 44, Málaga",
-    "whatToDo": "Prove uma fatia de cheesecake e leve um pão de fermentação natural ou uma napolitana quentinha.",
+    "whatToDo": [
+      "Prove uma fatia de cheesecake e leve um pão de fermentação natural ou uma napolitana quentinha"
+    ],
     "kingTip": "A carta de cheesecakes muda; pergunte pelas fatias do dia recém-saídas do forno.",
     "priceLevel": "€€",
     "image": "mlg_julia_bakery.jpg"
@@ -501,7 +508,9 @@ export const extraAttractions: Attraction[] = [
     "durationLabel": "15–30 min",
     "fit": "ANY",
     "mapQuery": "Eccolo Gelato, Calle San Juan 32, Málaga",
-    "whatToDo": "Peça uma casquinha com pistache siciliano e um sorbetto de fruta da estação para o calor de julho.",
+    "whatToDo": [
+      "Peça uma casquinha com pistache siciliano e um sorbetto de fruta da estação para o calor de julho"
+    ],
     "kingTip": "Nos dias mais quentes, o sorbetto de limão ou de morango refresca mais que os cremes.",
     "priceLevel": "€€",
     "image": "mlg_eccolo_gelato.jpg"
@@ -518,7 +527,9 @@ export const extraAttractions: Attraction[] = [
     "durationLabel": "15–30 min",
     "fit": "ANY",
     "mapQuery": "Levi Angelo Gelato, Calle Vendeja, Málaga",
-    "whatToDo": "Escolha duas bolas contrastantes, um creme e um sorbetto, e coma à sombra a caminho do Muelle Uno.",
+    "whatToDo": [
+      "Escolha duas bolas contrastantes, um creme e um sorbetto, e coma à sombra a caminho do Muelle Uno"
+    ],
     "kingTip": "Fica a poucos passos do porto; ótimo fecho depois de um passeio à beira-mar ao entardecer.",
     "priceLevel": "€€",
     "image": "mlg_levi_angelo_gelato.jpg"
@@ -535,7 +546,9 @@ export const extraAttractions: Attraction[] = [
     "durationLabel": "30–45 min",
     "fit": "ANY",
     "mapQuery": "Gran Café Bib-Rambla, Plaza Bib-Rambla 3, Granada",
-    "whatToDo": "Sente-se na esplanada da praça e peça churros ou porras com uma xícara de chocolate quente para mergulhar.",
+    "whatToDo": [
+      "Sente-se na esplanada da praça e peça churros ou porras com uma xícara de chocolate quente para mergulhar"
+    ],
     "kingTip": "As mesas da praça são disputadas de manhã; no calor, prefira o café da tarde à sombra dos toldos.",
     "priceLevel": "€€",
     "links": [
@@ -558,14 +571,15 @@ export const extraAttractions: Attraction[] = [
     "durationLabel": "15–30 min",
     "fit": "ANY",
     "mapQuery": "Heladería Los Italianos, Gran Vía de Colón 4, Granada",
-    "whatToDo": "Peça uma fatia de cassata ou um cucurucho de sorvete e coma a caminho da catedral.",
+    "whatToDo": [
+      "Peça uma fatia de cassata ou um cucurucho de sorvete e coma a caminho da catedral"
+    ],
     "kingTip": "Abre de março a outubro; em julho fica lotada à tarde, então vá no fim da manhã.",
     "priceLevel": "€",
     "hours": {
-      "openDays": "Todos os dias",
-      "openHour": "10:00",
-      "closeHour": "01:00",
-      "note": "Temporada de março a outubro; horário estendido nas noites de verão."
+      "openHour": 10,
+      "closeHour": 1,
+      "note": "Todos os dias · Temporada de março a outubro; horário estendido nas noites de verão."
     },
     "links": [
       {
@@ -588,7 +602,9 @@ export const extraAttractions: Attraction[] = [
     "durationLabel": "15–30 min",
     "fit": "ANY",
     "mapQuery": "Confitería Daver, Calle Virgen de los Remedios 6, Ronda",
-    "whatToDo": "Prove as yemas del Tajo no balcão e leve uma caixinha como lembrança doce da serrania.",
+    "whatToDo": [
+      "Prove as yemas del Tajo no balcão e leve uma caixinha como lembrança doce da serrania"
+    ],
     "kingTip": "As yemas viajam bem fechadas; peça a embalagem para presente antes de seguir viagem.",
     "priceLevel": "€",
     "links": [
@@ -611,14 +627,15 @@ export const extraAttractions: Attraction[] = [
     "durationLabel": "20–40 min",
     "fit": "ANY",
     "mapQuery": "La Antequerana, Calle Merecillas 16, Antequera",
-    "whatToDo": "Peça um café com uma porção de bienmesabe e leve uma caixa de mantecados artesanais.",
+    "whatToDo": [
+      "Peça um café com uma porção de bienmesabe e leve uma caixa de mantecados artesanais"
+    ],
     "kingTip": "O bienmesabe local não é o do sul: aqui é um doce de amêndoa e abóbora; peça para provar antes de comprar.",
     "priceLevel": "€",
     "hours": {
-      "openDays": "Todos os dias",
-      "openHour": "08:30",
-      "closeHour": "21:00",
-      "note": "Fecha à tarde entre turnos nos dias de semana; fins de semana horário contínuo."
+      "openHour": 8,
+      "closeHour": 21,
+      "note": "Todos os dias · Fecha à tarde entre turnos nos dias de semana; fins de semana horário contínuo."
     },
     "image": "ant_la_antequerana.jpg"
   },
@@ -634,7 +651,9 @@ export const extraAttractions: Attraction[] = [
     "durationLabel": "15–30 min",
     "fit": "ANY",
     "mapQuery": "The Coffee Club, Calle Céspedes 2, Córdoba",
-    "whatToDo": "Peça um flat white de torra andaluza e um brownie morno para levar rumo à Mesquita-Catedral.",
+    "whatToDo": [
+      "Peça um flat white de torra andaluza e um brownie morno para levar rumo à Mesquita-Catedral"
+    ],
     "kingTip": "Poucos lugares para sentar; pegue o café para viagem e beba passeando pelas ruelas da Judería.",
     "priceLevel": "€€",
     "image": "cor_the_coffee_club.jpg"
@@ -651,7 +670,9 @@ export const extraAttractions: Attraction[] = [
     "durationLabel": "30–45 min",
     "fit": "ANY",
     "mapQuery": "Kafein Coffee & Kitchen, Calle Pedraza 3, Marbella",
-    "whatToDo": "Peça um cappuccino com um croissant recheado e sente-se na ruela do casco antiguo para ver o vaivém.",
+    "whatToDo": [
+      "Peça um cappuccino com um croissant recheado e sente-se na ruela do casco antiguo para ver o vaivém"
+    ],
     "kingTip": "É pequena e concorrida; chegue cedo de manhã para garantir uma das poucas mesas na rua.",
     "priceLevel": "€€",
     "image": "mrb_kafein_coffee.jpg"
@@ -668,14 +689,19 @@ export const extraAttractions: Attraction[] = [
     "durationLabel": "30–45 min",
     "fit": "INDOOR",
     "mapQuery": "Mercado de Salamanca, Calle San Bartolomé, Málaga",
-    "whatToDo": "Percorra as bancas de peixe e frutas e prove azeitonas aliñadas e queijos de cabra da serra malaguenha.",
+    "whatToDo": [
+      "Percorra as bancas de peixe e frutas e prove azeitonas aliñadas e queijos de cabra da serra malaguenha"
+    ],
     "kingTip": "Vá pela manhã, entre 9h e 13h; aos domingos fecha e o movimento local é mais genuíno em dias de semana.",
     "priceLevel": "€€",
     "hours": {
-      "openDays": "Seg–Sáb",
-      "openHour": "08:00",
-      "closeHour": "15:00",
-      "note": "Domingos fechado."
+      "openDays": [
+        1,
+        6
+      ],
+      "openHour": 8,
+      "closeHour": 15,
+      "note": "Seg–Sáb · Domingos fechado."
     },
     "links": [
       {
@@ -698,14 +724,19 @@ export const extraAttractions: Attraction[] = [
     "durationLabel": "45 min–1 h",
     "fit": "INDOOR",
     "mapQuery": "Mercado de la Merced, Calle Merced 1, Málaga",
-    "whatToDo": "Monte um percurso de bancas: uma dúzia de ostras num balcão, presunto cortado à faca noutro e uma taça de vinho de Ronda para fechar.",
+    "whatToDo": [
+      "Monte um percurso de bancas: uma dúzia de ostras num balcão, presunto cortado à faca noutro e uma taça de vinho de Ronda para fechar"
+    ],
     "kingTip": "Ao contrário dos mercados tradicionais, funciona até à noite, com ambiente animado a partir do fim da tarde.",
     "priceLevel": "€€",
     "hours": {
-      "openDays": "Seg–Sáb",
-      "openHour": "08:00",
-      "closeHour": "24:00",
-      "note": "Bancas gastronômicas prolongam-se até tarde; domingos com horário reduzido."
+      "openDays": [
+        1,
+        6
+      ],
+      "openHour": 8,
+      "closeHour": 24,
+      "note": "Seg–Sáb · Bancas gastronômicas prolongam-se até tarde; domingos com horário reduzido."
     },
     "links": [
       {
@@ -727,14 +758,20 @@ export const extraAttractions: Attraction[] = [
     "durationLabel": "20–40 min",
     "fit": "ANY",
     "mapQuery": "Librería Luces, Alameda Principal 16, Málaga",
-    "whatToDo": "Procure a seção de temas andaluzes e guias locais; peça uma recomendação de literatura espanhola contemporânea traduzida.",
+    "whatToDo": [
+      "Procure a seção de temas andaluzes e guias locais",
+      "peça uma recomendação de literatura espanhola contemporânea traduzida"
+    ],
     "kingTip": "Fica na Alameda, a caminho do porto e de Soho; combine com um passeio pelos murais do bairro das artes.",
     "priceLevel": "€€",
     "hours": {
-      "openDays": "Seg–Sáb",
-      "openHour": "10:00",
-      "closeHour": "21:00",
-      "note": "Domingos fechado."
+      "openDays": [
+        1,
+        6
+      ],
+      "openHour": 10,
+      "closeHour": 21,
+      "note": "Seg–Sáb · Domingos fechado."
     },
     "links": [
       {
@@ -756,14 +793,19 @@ export const extraAttractions: Attraction[] = [
     "durationLabel": "20–30 min",
     "fit": "ANY",
     "mapQuery": "La Mallorquina, Plaza de Félix Sáenz 7, Málaga",
-    "whatToDo": "Compre amêndoas marcona, pimentão doce (pimentón), açafrão e um doce local para presente.",
+    "whatToDo": [
+      "Compre amêndoas marcona, pimentão doce (pimentón), açafrão e um doce local para presente"
+    ],
     "kingTip": "Peça para embalar os frutos secos a vácuo; viajam melhor e mantêm o frescor até o Brasil.",
     "priceLevel": "€€",
     "hours": {
-      "openDays": "Seg–Sáb",
-      "openHour": "09:30",
-      "closeHour": "20:30",
-      "note": "Domingos fechado; pausa ao meio-dia possível fora da temporada alta."
+      "openDays": [
+        1,
+        6
+      ],
+      "openHour": 9,
+      "closeHour": 20,
+      "note": "Seg–Sáb · Domingos fechado; pausa ao meio-dia possível fora da temporada alta."
     },
     "image": "mlg_la_mallorquina.jpg"
   },
@@ -779,14 +821,20 @@ export const extraAttractions: Attraction[] = [
     "durationLabel": "30–45 min",
     "fit": "ANY",
     "mapQuery": "Cerámica Fajalauza, Carretera de Murcia 166, Granada",
-    "whatToDo": "Escolha pratos e tigelas com o clássico decoro azul e verde; peça peças com o motivo da romã, símbolo de Granada.",
+    "whatToDo": [
+      "Escolha pratos e tigelas com o clássico decoro azul e verde",
+      "peça peças com o motivo da romã, símbolo de Granada"
+    ],
     "kingTip": "Fica na parte alta do Albaicín; combine com o passeio até o Mirador de San Nicolás e leve peças menores, mais fáceis de transportar.",
     "priceLevel": "€€",
     "hours": {
-      "openDays": "Seg–Sex",
-      "openHour": "09:00",
-      "closeHour": "18:00",
-      "note": "Confirme horário de sábado por telefone; domingos fechado."
+      "openDays": [
+        1,
+        5
+      ],
+      "openHour": 9,
+      "closeHour": 18,
+      "note": "Seg–Sex · Confirme horário de sábado por telefone; domingos fechado."
     },
     "links": [
       {
@@ -809,14 +857,19 @@ export const extraAttractions: Attraction[] = [
     "durationLabel": "40 min–1 h",
     "fit": "INDOOR",
     "mapQuery": "Mercado de San Agustín, Plaza de San Agustín 2, Granada",
-    "whatToDo": "Compre presunto e queijo nas bancas e sente-se num balcão gourmet para provar ostras ou uma tábua com vinho da terra.",
+    "whatToDo": [
+      "Compre presunto e queijo nas bancas e sente-se num balcão gourmet para provar ostras ou uma tábua com vinho da terra"
+    ],
     "kingTip": "A zona gourmet fica animada ao almoço; para a compra de mercado, chegue de manhã, quando o peixe está mais fresco.",
     "priceLevel": "€€",
     "hours": {
-      "openDays": "Seg–Sáb",
-      "openHour": "09:00",
-      "closeHour": "15:00",
-      "note": "A seção gourmet estende-se à tarde e à noite; bancas de fresco fecham ao início da tarde."
+      "openDays": [
+        1,
+        6
+      ],
+      "openHour": 9,
+      "closeHour": 15,
+      "note": "Seg–Sáb · A seção gourmet estende-se à tarde e à noite; bancas de fresco fecham ao início da tarde."
     },
     "image": "grn_mercado_san_agustin.jpg"
   },
@@ -832,14 +885,20 @@ export const extraAttractions: Attraction[] = [
     "durationLabel": "20–40 min",
     "fit": "ANY",
     "mapQuery": "Guitarrería Casa Ferrer, Cuesta de Gomérez 26, Granada",
-    "whatToDo": "Observe o ateliê de construção e experimente uma guitarra flamenca; peça para conhecer as diferenças entre madeiras.",
+    "whatToDo": [
+      "Observe o ateliê de construção e experimente uma guitarra flamenca",
+      "peça para conhecer as diferenças entre madeiras"
+    ],
     "kingTip": "Fica no caminho a pé até a Alhambra; passe na ida, quando a loja está mais tranquila. Sábados costuma fechar.",
     "priceLevel": "€€€",
     "hours": {
-      "openDays": "Seg–Sex",
-      "openHour": "10:00",
-      "closeHour": "20:00",
-      "note": "Pausa aproximada das 13h30 às 17h; sábados fechado."
+      "openDays": [
+        1,
+        5
+      ],
+      "openHour": 10,
+      "closeHour": 20,
+      "note": "Seg–Sex · Pausa aproximada das 13h30 às 17h; sábados fechado."
     },
     "links": [
       {
@@ -861,7 +920,9 @@ export const extraAttractions: Attraction[] = [
     "durationLabel": "15–30 min",
     "fit": "ANY",
     "mapQuery": "Plaza Bib-Rambla, Granada",
-    "whatToDo": "Compre um ramo de flores nas bancas históricas ou artesanato local nos quiosques e faça uma pausa num café da praça.",
+    "whatToDo": [
+      "Compre um ramo de flores nas bancas históricas ou artesanato local nos quiosques e faça uma pausa num café da praça"
+    ],
     "kingTip": "Fica coladinha à Alcaicería e à catedral; encadeie as três num só passeio de compras pelo centro.",
     "priceLevel": "€",
     "image": "grn_bib_rambla_flores.jpg"
@@ -878,14 +939,16 @@ export const extraAttractions: Attraction[] = [
     "durationLabel": "20–40 min",
     "fit": "ANY",
     "mapQuery": "Laguna Taller de Taracea, Calle Real de la Alhambra 30, Granada",
-    "whatToDo": "Veja a demonstração da marchetaria e escolha uma caixa ou tabuleiro embutido; peça para diferenciar a taracea artesanal da industrial.",
+    "whatToDo": [
+      "Veja a demonstração da marchetaria e escolha uma caixa ou tabuleiro embutido",
+      "peça para diferenciar a taracea artesanal da industrial"
+    ],
     "kingTip": "Está dentro da Alhambra, então aproveite a visita ao monumento para passar; peças pequenas viajam bem na bagagem de mão.",
     "priceLevel": "€€€",
     "hours": {
-      "openDays": "Todos os dias",
-      "openHour": "10:00",
-      "closeHour": "19:00",
-      "note": "Acompanha o horário de visitação da Alhambra."
+      "openHour": 10,
+      "closeHour": 19,
+      "note": "Todos os dias · Acompanha o horário de visitação da Alhambra."
     },
     "links": [
       {
@@ -908,14 +971,19 @@ export const extraAttractions: Attraction[] = [
     "durationLabel": "1–2 h",
     "fit": "INDOOR",
     "mapQuery": "Centro Comercial La Cañada, Carretera de Ojén, Marbella",
-    "whatToDo": "Circule pelas lojas de moda e complementos, faça compras no hipermercado Alcampo e reserve tempo para o cinema ou a praça de alimentação.",
+    "whatToDo": [
+      "Circule pelas lojas de moda e complementos, faça compras no hipermercado Alcampo e reserve tempo para o cinema ou a praça de alimentação"
+    ],
     "kingTip": "Costuma fechar aos domingos, exceto em datas especiais e no verão; planeje as compras para dias de semana ou sábado.",
     "priceLevel": "€€",
     "hours": {
-      "openDays": "Seg–Sáb",
-      "openHour": "10:00",
-      "closeHour": "22:00",
-      "note": "Domingos fechado, salvo aberturas especiais (Natal, verão)."
+      "openDays": [
+        1,
+        6
+      ],
+      "openHour": 10,
+      "closeHour": 22,
+      "note": "Seg–Sáb · Domingos fechado, salvo aberturas especiais (Natal, verão)."
     },
     "links": [
       {
@@ -937,14 +1005,15 @@ export const extraAttractions: Attraction[] = [
     "durationLabel": "30–45 min",
     "fit": "ANY",
     "mapQuery": "Zoco Municipal de la Artesanía, Calle Judíos, Córdoba",
-    "whatToDo": "Percorra as oficinas do pátio e compre uma peça de prata cordovesa ou de couro trabalhado direto do artesão.",
+    "whatToDo": [
+      "Percorra as oficinas do pátio e compre uma peça de prata cordovesa ou de couro trabalhado direto do artesão"
+    ],
     "kingTip": "Tem entradas pela Calle Judíos e pela Calle Averroes; entre pela primeira, junto à Sinagoga, e combine com a Calleja de las Flores.",
     "priceLevel": "€€",
     "hours": {
-      "openDays": "Todos os dias",
-      "openHour": "10:00",
-      "closeHour": "20:00",
-      "note": "Horário pode reduzir no verão pelo calor da tarde."
+      "openHour": 10,
+      "closeHour": 20,
+      "note": "Todos os dias · Horário pode reduzir no verão pelo calor da tarde."
     },
     "image": "cor_zoco_artesania.jpg"
   },
@@ -960,14 +1029,19 @@ export const extraAttractions: Attraction[] = [
     "durationLabel": "30–45 min",
     "fit": "ANY",
     "mapQuery": "Meryan, Calleja de las Flores 2, Córdoba",
-    "whatToDo": "Desça ao taller para ver o couro sendo repuxado e gravado, e escolha uma peça de guadamecí ou um objeto menor de cordovão.",
+    "whatToDo": [
+      "Desça ao taller para ver o couro sendo repuxado e gravado, e escolha uma peça de guadamecí ou um objeto menor de cordovão"
+    ],
     "kingTip": "Fica na fotogênica Calleja de las Flores, com a torre da Mesquita ao fundo; chegue cedo para evitar o aperto de visitantes.",
     "priceLevel": "€€€",
     "hours": {
-      "openDays": "Seg–Sáb",
-      "openHour": "10:00",
-      "closeHour": "20:00",
-      "note": "Pausa possível ao meio-dia; domingos com horário reduzido."
+      "openDays": [
+        1,
+        6
+      ],
+      "openHour": 10,
+      "closeHour": 20,
+      "note": "Seg–Sáb · Pausa possível ao meio-dia; domingos com horário reduzido."
     },
     "links": [
       {
@@ -990,7 +1064,9 @@ export const extraAttractions: Attraction[] = [
     "durationLabel": "30–45 min",
     "fit": "ANY",
     "mapQuery": "Antigua Bodega La Sangre, Calle Gómez 2, Ronda",
-    "whatToDo": "Prove uma seleção de tintos da DO Ronda e leve garrafas de produtores pequenos que raramente chegam ao Brasil.",
+    "whatToDo": [
+      "Prove uma seleção de tintos da DO Ronda e leve garrafas de produtores pequenos que raramente chegam ao Brasil"
+    ],
     "kingTip": "Fica coladinha à Plaza Duquesa de Parcent e à igreja de Santa María; combine a compra com a visita ao centro monumental.",
     "priceLevel": "€€",
     "links": [
@@ -1020,10 +1096,14 @@ export const extraAttractions: Attraction[] = [
     "durationLabel": "45min–1h",
     "fit": "INDOOR",
     "hours": {
-      "openDays": "Ter–Sáb; Dom e feriados 10h–14h",
+      "openDays": [
+        2,
+        6,
+        7
+      ],
       "openHour": 10,
       "closeHour": 20,
-      "note": "Terça a sábado 10h–20h; domingos e feriados 10h–14h. Fecha às segundas."
+      "note": "Ter–Sáb; Dom e feriados 10h–14h · Terça a sábado 10h–20h; domingos e feriados 10h–14h. Fecha às segundas."
     },
     "mapQuery": "Museo Revello de Toro, Calle Afligidos 5, Málaga",
     "links": [
@@ -1053,10 +1133,13 @@ export const extraAttractions: Attraction[] = [
     "durationLabel": "1h–1h15",
     "fit": "INDOOR",
     "hours": {
-      "openDays": "Ter–Dom",
+      "openDays": [
+        2,
+        7
+      ],
       "openHour": 11,
       "closeHour": 19,
-      "note": "Terça a domingo 11h–19h. Acesso apenas por visita guiada (aprox. 1h). Fecha às segundas."
+      "note": "Ter–Dom · Terça a domingo 11h–19h. Acesso apenas por visita guiada (aprox. 1h). Fecha às segundas."
     },
     "mapQuery": "Museo del Vidrio y Cristal, Plazuela Santísimo Cristo de la Sangre 2, Málaga",
     "links": [
@@ -1086,10 +1169,14 @@ export const extraAttractions: Attraction[] = [
     "durationLabel": "45min–1h",
     "fit": "INDOOR",
     "hours": {
-      "openDays": "Seg–Sáb (fecha Dom)",
+      "openDays": [
+        1,
+        6,
+        7
+      ],
       "openHour": 10,
       "closeHour": 20,
-      "note": "Seg a sex 10h–14h e 16h–20h (verão 17h–21h); sáb 10h–14h. Fecha aos domingos."
+      "note": "Seg–Sáb (fecha Dom) · Seg a sex 10h–14h e 16h–20h (verão 17h–21h); sáb 10h–14h. Fecha aos domingos."
     },
     "mapQuery": "Museo Jorge Rando, Calle Cruz del Molinillo 12, Málaga",
     "links": [
@@ -1119,10 +1206,14 @@ export const extraAttractions: Attraction[] = [
     "durationLabel": "45min–1h",
     "fit": "INDOOR",
     "hours": {
-      "openDays": "Ter–Dom (fecha Seg)",
+      "openDays": [
+        1,
+        2,
+        7
+      ],
       "openHour": 11,
       "closeHour": 20,
-      "note": "Ter a sáb 11h–14h e 17h/18h–20h/21h; dom e feriados 11h–14h. Fecha às segundas."
+      "note": "Ter–Dom (fecha Seg) · Ter a sáb 11h–14h e 17h/18h–20h/21h; dom e feriados 11h–14h. Fecha às segundas."
     },
     "mapQuery": "Centro Federico García Lorca, Plaza de la Romanilla, Granada",
     "links": [
@@ -1152,10 +1243,9 @@ export const extraAttractions: Attraction[] = [
     "durationLabel": "15–20min",
     "fit": "ANY",
     "hours": {
-      "openDays": "Todos os dias",
       "openHour": 9,
       "closeHour": 19,
-      "note": "Seg a sex 9h–19h; sáb e dom 10h–14h. Entrada gratuita."
+      "note": "Todos os dias · Seg a sex 9h–19h; sáb e dom 10h–14h. Entrada gratuita."
     },
     "mapQuery": "Corral del Carbón, Calle Mariana Pineda, Granada",
     "history": "Erguido no reinado de Yusuf I, servia de hospedaria e armazém para comerciantes. Após a conquista cristã foi teatro de comédias e, mais tarde, depósito de carvão, daí o nome atual.",
@@ -1186,10 +1276,14 @@ export const extraAttractions: Attraction[] = [
     "durationLabel": "30–45min",
     "fit": "INDOOR",
     "hours": {
-      "openDays": "Seg–Sex; Sáb com exposição",
+      "openDays": [
+        1,
+        5,
+        6
+      ],
       "openHour": 9,
       "closeHour": 21,
-      "note": "Seg a sex 9h–21h; sáb 11h–14h e 17h30–20h30 apenas com exposição. Fecha domingos, feriados e todo o mês de agosto."
+      "note": "Seg–Sex; Sáb com exposição · Seg a sex 9h–21h; sáb 11h–14h e 17h30–20h30 apenas com exposição. Fecha domingos, feriados e todo o mês de agosto."
     },
     "mapQuery": "Palacio de la Madraza, Calle Oficios 14, Granada",
     "links": [
@@ -1219,10 +1313,14 @@ export const extraAttractions: Attraction[] = [
     "durationLabel": "15–20min",
     "fit": "INDOOR",
     "hours": {
-      "openDays": "Ter–Dom (fecha Seg)",
+      "openDays": [
+        1,
+        2,
+        7
+      ],
       "openHour": 9,
       "closeHour": 15,
-      "note": "Terça a domingo 9h–15h. Fecha às segundas (salvo feriados). Entrada gratuita."
+      "note": "Ter–Dom (fecha Seg) · Terça a domingo 9h–15h. Fecha às segundas (salvo feriados). Entrada gratuita."
     },
     "mapQuery": "Sinagoga de Córdoba, Calle Judíos 20, Córdoba",
     "links": [
@@ -1252,10 +1350,14 @@ export const extraAttractions: Attraction[] = [
     "durationLabel": "30–45min",
     "fit": "ANY",
     "hours": {
-      "openDays": "Ter–Dom (fecha Seg)",
+      "openDays": [
+        1,
+        2,
+        7
+      ],
       "openHour": 10,
       "closeHour": 13,
-      "note": "Visitas guiadas gratuitas: ter–sex 10h/11h/12h; sáb, dom e feriados também às 13h. Fecha às segundas. Acesso pela Calle Claudio Marcelo."
+      "note": "Ter–Dom (fecha Seg) · Visitas guiadas gratuitas: ter–sex 10h/11h/12h; sáb, dom e feriados também às 13h. Fecha às segundas. Acesso pela Calle Claudio Marcelo."
     },
     "mapQuery": "Templo Romano, Calle Capitulares, Córdoba",
     "links": [
@@ -1285,10 +1387,14 @@ export const extraAttractions: Attraction[] = [
     "durationLabel": "45min–1h",
     "fit": "INDOOR",
     "hours": {
-      "openDays": "Ter–Dom (fecha Seg)",
+      "openDays": [
+        1,
+        2,
+        7
+      ],
       "openHour": 9,
       "closeHour": 21,
-      "note": "Inverno: ter–sáb 9h–21h, dom e feriados 9h–15h. Verão (16/jun–15/set): ter–dom 9h–15h. Fecha às segundas."
+      "note": "Ter–Dom (fecha Seg) · Inverno: ter–sáb 9h–21h, dom e feriados 9h–15h. Verão (16/jun–15/set): ter–dom 9h–15h. Fecha às segundas."
     },
     "mapQuery": "Museo de Bellas Artes de Córdoba, Plaza del Potro 1, Córdoba",
     "links": [
@@ -1318,10 +1424,14 @@ export const extraAttractions: Attraction[] = [
     "durationLabel": "1h–1h30",
     "fit": "INDOOR",
     "hours": {
-      "openDays": "Ter–Dom (fecha Seg)",
+      "openDays": [
+        1,
+        2,
+        7
+      ],
       "openHour": 10,
       "closeHour": 18,
-      "note": "Verão (14/jun–17/set): ter–dom 9h–14h. Inverno: ter–sex 10h–14h e 16h30–18h30, sáb 9h30–14h e 16h30–18h30, dom 9h30–14h. Fecha às segundas."
+      "note": "Ter–Dom (fecha Seg) · Verão (14/jun–17/set): ter–dom 9h–14h. Inverno: ter–sex 10h–14h e 16h30–18h30, sáb 9h30–14h e 16h30–18h30, dom 9h30–14h. Fecha às segundas."
     },
     "mapQuery": "Museo de la Ciudad de Antequera, Plaza del Coso Viejo, Antequera",
     "links": [
@@ -1344,14 +1454,20 @@ export const extraAttractions: Attraction[] = [
     "durationLabel": "jantar 2-3h",
     "fit": "ANY",
     "mapQuery": "Sollo Restaurante, Reserva del Higuerón, Avenida del Higuerón 48, Fuengirola",
-    "whatToDo": "Vá de menu-degustação completo; peça mesa junto às janelas para a costa e deixe a harmonização por conta da casa.",
+    "whatToDo": [
+      "Vá de menu-degustação completo",
+      "peça mesa junto às janelas para a costa e deixe a harmonização por conta da casa"
+    ],
     "kingTip": "Prove o caviar de produção própria, a assinatura de Gallegos. Cozinha de destino com pouca capacidade: RESERVE COM MESES DE ANTECEDÊNCIA para julho.",
     "priceLevel": "~€145/pessoa (est.)",
     "hours": {
-      "openDays": "Ter-Sáb",
-      "openHour": "13:30",
-      "closeHour": "22:30",
-      "note": "Dias e temporada podem variar; confirme na reserva"
+      "openDays": [
+        2,
+        6
+      ],
+      "openHour": 13,
+      "closeHour": 22,
+      "note": "Ter-Sáb · Dias e temporada podem variar; confirme na reserva"
     },
     "links": [
       {
@@ -1378,14 +1494,20 @@ export const extraAttractions: Attraction[] = [
     "durationLabel": "jantar 2-3h",
     "fit": "ANY",
     "mapQuery": "Kava, Avenida Antonio Belón 4, Marbella",
-    "whatToDo": "Escolha um dos dois menus-degustação; a sala minúscula favorece a conversa com o chef e a explicação prato a prato.",
+    "whatToDo": [
+      "Escolha um dos dois menus-degustação",
+      "a sala minúscula favorece a conversa com o chef e a explicação prato a prato"
+    ],
     "kingTip": "Só cinco mesas: das reservas mais difíceis de Marbella. Reserve com semanas a meses de antecedência para o verão.",
     "priceLevel": "~€90/pessoa (est.)",
     "hours": {
-      "openDays": "Ter-Sáb",
-      "openHour": "13:30",
-      "closeHour": "22:30",
-      "note": "Dias podem variar; confirme na reserva"
+      "openDays": [
+        2,
+        6
+      ],
+      "openHour": 13,
+      "closeHour": 22,
+      "note": "Ter-Sáb · Dias podem variar; confirme na reserva"
     },
     "links": [
       {
@@ -1412,14 +1534,20 @@ export const extraAttractions: Attraction[] = [
     "durationLabel": "almoço/jantar 1h30-2h",
     "fit": "ANY",
     "mapQuery": "BiBo Marbella by Dani García, Puente Romano, Bulevar Príncipe Alfonso de Hohenlohe, Marbella",
-    "whatToDo": "Peça várias tapas de autor para partilhar e um arroz; ambiente animado, ideal para uma noite descontraída na Milla de Oro.",
+    "whatToDo": [
+      "Peça várias tapas de autor para partilhar e um arroz",
+      "ambiente animado, ideal para uma noite descontraída na Milla de Oro"
+    ],
     "kingTip": "Prove o tomate nitro e a hambúrguer de rabo de touro, assinaturas da casa. Muito procurado no verão: reserve com antecedência.",
     "priceLevel": "€€€",
     "hours": {
-      "openDays": "Seg-Dom",
-      "openHour": "13:00",
-      "closeHour": "00:00",
-      "note": "Aberto todos os dias em temporada; confirme"
+      "openDays": [
+        1,
+        7
+      ],
+      "openHour": 13,
+      "closeHour": 0,
+      "note": "Seg-Dom · Aberto todos os dias em temporada; confirme"
     },
     "links": [
       {
@@ -1442,14 +1570,20 @@ export const extraAttractions: Attraction[] = [
     "durationLabel": "almoço/jantar 1h30-2h",
     "fit": "ANY",
     "mapQuery": "Tragabuches Marbella, Calle Ana de Austria 2, Marbella",
-    "whatToDo": "Peça a ensaladilla, as croquetes e a lendária tarta de queso; cozinha de partilha, ótima para grupos.",
+    "whatToDo": [
+      "Peça a ensaladilla, as croquetes e a lendária tarta de queso",
+      "cozinha de partilha, ótima para grupos"
+    ],
     "kingTip": "A tarta de queso é obrigatória para fechar. Casa muito popular: reserve com antecedência, sobretudo aos fins de semana de julho.",
     "priceLevel": "~€55/pessoa (est.)",
     "hours": {
-      "openDays": "Seg-Dom",
-      "openHour": "13:00",
-      "closeHour": "23:30",
-      "note": "Horários variam por temporada; confirme"
+      "openDays": [
+        1,
+        7
+      ],
+      "openHour": 13,
+      "closeHour": 23,
+      "note": "Seg-Dom · Horários variam por temporada; confirme"
     },
     "links": [
       {
@@ -1472,14 +1606,20 @@ export const extraAttractions: Attraction[] = [
     "durationLabel": "jantar 2h",
     "fit": "ANY",
     "mapQuery": "Sollun Restaurante, Calle Pintada 9, Nerja",
-    "whatToDo": "Opte pelo menu-degustação com harmonização de vinhos; combine com um passeio pelo Balcón de Europa, a poucos minutos.",
+    "whatToDo": [
+      "Opte pelo menu-degustação com harmonização de vinhos",
+      "combine com um passeio pelo Balcón de Europa, a poucos minutos"
+    ],
     "kingTip": "Sala reduzida numa vila que lota em julho: reserve com antecedência, sobretudo para o jantar.",
     "priceLevel": "€€€",
     "hours": {
-      "openDays": "Ter-Sáb",
-      "openHour": "13:30",
-      "closeHour": "22:30",
-      "note": "Dias podem variar; confirme na reserva"
+      "openDays": [
+        2,
+        6
+      ],
+      "openHour": 13,
+      "closeHour": 22,
+      "note": "Ter-Sáb · Dias podem variar; confirme na reserva"
     },
     "links": [
       {
@@ -1502,14 +1642,20 @@ export const extraAttractions: Attraction[] = [
     "durationLabel": "almoço 1h30",
     "fit": "CLEAR_SKY",
     "mapQuery": "Chiringuito de Ayo, Playa de Burriana, Nerja",
-    "whatToDo": "Peça a paella cozida na barca de lenha, que se pode repetir; sente-se na esplanada de frente para o mar em dia de sol.",
+    "whatToDo": [
+      "Peça a paella cozida na barca de lenha, que se pode repetir",
+      "sente-se na esplanada de frente para o mar em dia de sol"
+    ],
     "kingTip": "A paella na lenha é o motivo da visita e costuma ter repetição inclusa. Não reserva mesa: chegue cedo no almoço de verão para pegar a esplanada.",
     "priceLevel": "€",
     "hours": {
-      "openDays": "Seg-Dom",
-      "openHour": "11:00",
-      "closeHour": "19:00",
-      "note": "Só de dia, sazonal; a paella é servida ao almoço"
+      "openDays": [
+        1,
+        7
+      ],
+      "openHour": 11,
+      "closeHour": 19,
+      "note": "Seg-Dom · Só de dia, sazonal; a paella é servida ao almoço"
     },
     "links": [
       {
@@ -1532,14 +1678,20 @@ export const extraAttractions: Attraction[] = [
     "durationLabel": "almoço/jantar 1h30-2h",
     "fit": "ANY",
     "mapQuery": "El Refectorium Malagueta, Calle Cervantes 8, Málaga",
-    "whatToDo": "Peça peixe fresco frito e a ensaladilla rusa da casa; ótima parada antes ou depois de um jogo ou evento na Malagueta.",
+    "whatToDo": [
+      "Peça peixe fresco frito e a ensaladilla rusa da casa",
+      "ótima parada antes ou depois de um jogo ou evento na Malagueta"
+    ],
     "kingTip": "A ensaladilla rusa é lendária na cidade. Muito frequentado por malaguenhos nos fins de semana: reserve para o almoço de domingo.",
     "priceLevel": "€€€",
     "hours": {
-      "openDays": "Ter-Sáb",
-      "openHour": "13:30",
-      "closeHour": "23:30",
-      "note": "Fecha domingo à noite e segunda; confirme"
+      "openDays": [
+        2,
+        6
+      ],
+      "openHour": 13,
+      "closeHour": 23,
+      "note": "Ter-Sáb · Fecha domingo à noite e segunda; confirme"
     },
     "links": [
       {
@@ -1562,14 +1714,20 @@ export const extraAttractions: Attraction[] = [
     "durationLabel": "almoço/jantar 1h30-2h",
     "fit": "ANY",
     "mapQuery": "Mesón Astorga, Calle Gerona 11, Málaga",
-    "whatToDo": "Peça o chivo malaguenho e o pastel de cebola, especialidades da casa; peça sugestão de vinho da adega ao garçom.",
+    "whatToDo": [
+      "Peça o chivo malaguenho e o pastel de cebola, especialidades da casa",
+      "peça sugestão de vinho da adega ao garçom"
+    ],
     "kingTip": "O chivo (cabrito) malaguenho é o prato-assinatura. Casa procurada por locais: reserve para almoços de fim de semana.",
     "priceLevel": "€€",
     "hours": {
-      "openDays": "Seg-Sáb",
-      "openHour": "13:00",
-      "closeHour": "23:00",
-      "note": "Costuma fechar domingo; confirme"
+      "openDays": [
+        1,
+        6
+      ],
+      "openHour": 13,
+      "closeHour": 23,
+      "note": "Seg-Sáb · Costuma fechar domingo; confirme"
     },
     "links": [
       {
@@ -1592,14 +1750,20 @@ export const extraAttractions: Attraction[] = [
     "durationLabel": "almoço/jantar 1h30-2h",
     "fit": "ANY",
     "mapQuery": "Restaurante Almocábar, Plaza Ruedo Alameda 5, Ronda",
-    "whatToDo": "Peça as saladas da casa e um prato de carne da serra; em dia de sol, sente-se na esplanada da Plaza Ruedo Alameda.",
+    "whatToDo": [
+      "Peça as saladas da casa e um prato de carne da serra",
+      "em dia de sol, sente-se na esplanada da Plaza Ruedo Alameda"
+    ],
     "kingTip": "Alternativa acessível e local aos estrelados de Ronda. Casa pequena e muito procurada: reserve com antecedência.",
     "priceLevel": "€€",
     "hours": {
-      "openDays": "Qua-Seg",
-      "openHour": "12:30",
-      "closeHour": "23:00",
-      "note": "Costuma fechar terça; confirme"
+      "openDays": [
+        1,
+        3
+      ],
+      "openHour": 12,
+      "closeHour": 23,
+      "note": "Qua-Seg · Costuma fechar terça; confirme"
     },
     "history": "Instalado junto à muralha e à Puerta de Almocábar, o restaurante leva o nome árabe (\"cemitério\") da antiga porta da cidade e é um clássico do bairro de San Francisco.",
     "image": "rnd_almocabar.jpg"
@@ -1616,14 +1780,20 @@ export const extraAttractions: Attraction[] = [
     "durationLabel": "almoço/jantar 2h",
     "fit": "ANY",
     "mapQuery": "Damasqueros, Calle Damasqueros 3, Granada",
-    "whatToDo": "Vá de menu-degustação semanal, que muda com o produto de mercado; combine com um passeio pelo Realejo.",
+    "whatToDo": [
+      "Vá de menu-degustação semanal, que muda com o produto de mercado",
+      "combine com um passeio pelo Realejo"
+    ],
     "kingTip": "Menu único que troca a cada semana: cada visita é diferente. Reserve com antecedência, sobretudo para o jantar de verão.",
     "priceLevel": "~€55/pessoa (est.)",
     "hours": {
-      "openDays": "Ter-Dom",
-      "openHour": "13:30",
-      "closeHour": "22:30",
-      "note": "Costuma fechar segunda; confirme na reserva"
+      "openDays": [
+        2,
+        7
+      ],
+      "openHour": 13,
+      "closeHour": 22,
+      "note": "Ter-Dom · Costuma fechar segunda; confirme na reserva"
     },
     "links": [
       {
@@ -1650,14 +1820,20 @@ export const extraAttractions: Attraction[] = [
     "durationLabel": "almoço/jantar 1h30-2h",
     "fit": "ANY",
     "mapQuery": "Atelier Casa de Comidas, Calle Sos del Rey Católico 7, Granada",
-    "whatToDo": "Peça as patatas bravas de kimchi e o croissant de rabo de touro; combine à la carte com o menu-degustação sazonal.",
+    "whatToDo": [
+      "Peça as patatas bravas de kimchi e o croissant de rabo de touro",
+      "combine à la carte com o menu-degustação sazonal"
+    ],
     "kingTip": "As patatas bravas com emulsão de kimchi são a assinatura da casa. Vale o desvio para fora do centro: reserve com antecedência.",
     "priceLevel": "~€55/pessoa (est.)",
     "hours": {
-      "openDays": "Ter-Sáb",
-      "openHour": "13:30",
-      "closeHour": "22:30",
-      "note": "Dias podem variar; confirme na reserva"
+      "openDays": [
+        2,
+        6
+      ],
+      "openHour": 13,
+      "closeHour": 22,
+      "note": "Ter-Sáb · Dias podem variar; confirme na reserva"
     },
     "links": [
       {
@@ -1680,14 +1856,20 @@ export const extraAttractions: Attraction[] = [
     "durationLabel": "jantar 2-3h",
     "fit": "ANY",
     "mapQuery": "ReComiendo, Calle Mirto 7, Córdoba",
-    "whatToDo": "Comece pelos petiscos na barra e siga para o menu-degustação na sala; deixe a harmonização por conta da casa.",
+    "whatToDo": [
+      "Comece pelos petiscos na barra e siga para o menu-degustação na sala",
+      "deixe a harmonização por conta da casa"
+    ],
     "kingTip": "Estrela recém-conquistada e sala reduzida fora do centro: RESERVE COM MESES DE ANTECEDÊNCIA para julho.",
     "priceLevel": "~€95/pessoa (est.)",
     "hours": {
-      "openDays": "Ter-Sáb",
-      "openHour": "13:30",
-      "closeHour": "22:30",
-      "note": "Fecha domingo e segunda; confirme na reserva"
+      "openDays": [
+        2,
+        6
+      ],
+      "openHour": 13,
+      "closeHour": 22,
+      "note": "Ter-Sáb · Fecha domingo e segunda; confirme na reserva"
     },
     "links": [
       {
@@ -1714,14 +1896,20 @@ export const extraAttractions: Attraction[] = [
     "durationLabel": "almoço/jantar 1h30-2h",
     "fit": "ANY",
     "mapQuery": "Restaurante El Envero, Calle Teruel 21, Córdoba",
-    "whatToDo": "Pergunte pelos pratos de atum e pela sugestão de mercado do dia; peça harmonização por taça da adega.",
+    "whatToDo": [
+      "Pergunte pelos pratos de atum e pela sugestão de mercado do dia",
+      "peça harmonização por taça da adega"
+    ],
     "kingTip": "Bib Gourmand: cozinha cuidada a preço justo. Muito procurado pelos cordoveses: reserve para almoços de fim de semana.",
     "priceLevel": "€€€",
     "hours": {
-      "openDays": "Ter-Sáb",
-      "openHour": "13:30",
-      "closeHour": "23:00",
-      "note": "Dias podem variar; confirme na reserva"
+      "openDays": [
+        2,
+        6
+      ],
+      "openHour": 13,
+      "closeHour": 23,
+      "note": "Ter-Sáb · Dias podem variar; confirme na reserva"
     },
     "links": [
       {
@@ -1751,10 +1939,9 @@ export const extraAttractions: Attraction[] = [
     "kingTip": "Está incluído no combo de monumentos 'Dobla de Oro' junto com a Alhambra — vale conferir esse bilhete conjunto. Os miradouros do andar superior dão uma das vistas mais limpas da Alhambra sem multidão.",
     "priceLevel": "€ (~5 €, estimativa; incluso na Dobla de Oro)",
     "hours": {
-      "openDays": "Todos os dias (verão)",
-      "openHour": "09:30",
-      "closeHour": "20:30",
-      "note": "Horário de verão (1 mai–14 set): 09:30–14:30 e 17:00–20:30."
+      "openHour": 9,
+      "closeHour": 20,
+      "note": "Todos os dias (verão) · Horário de verão (1 mai–14 set): 09:30–14:30 e 17:00–20:30."
     },
     "links": [
       {
@@ -1780,10 +1967,9 @@ export const extraAttractions: Attraction[] = [
     "kingTip": "Fica bem afastada, no fim da estrada do Sacromonte — vá de táxi ou do ônibus C34. As catacumbas são frescas mesmo no auge de julho. Aos domingos não se visita a igreja durante a missa das 12h.",
     "priceLevel": "€ (~5 €, estimativa)",
     "hours": {
-      "openDays": "Todos os dias",
-      "openHour": "10:00",
-      "closeHour": "19:00",
-      "note": "Verão: 10:00–14:00 e 15:30–19:00; bilheteria fecha antes."
+      "openHour": 10,
+      "closeHour": 19,
+      "note": "Todos os dias · Verão: 10:00–14:00 e 15:30–19:00; bilheteria fecha antes."
     },
     "links": [
       {
@@ -1809,10 +1995,9 @@ export const extraAttractions: Attraction[] = [
     "kingTip": "Suba ao camarín atrás do altar-mor (bilhete inclui) para ver de perto o exagero dourado e as relíquias. Refúgio fresco e deslumbrante longe das filas da Alhambra.",
     "priceLevel": "€ (~5 €, estimativa)",
     "hours": {
-      "openDays": "Todos os dias",
-      "openHour": "10:00",
-      "closeHour": "19:00",
-      "note": "Fecha em horários de culto; confira no local."
+      "openHour": 10,
+      "closeHour": 19,
+      "note": "Todos os dias · Fecha em horários de culto; confira no local."
     },
     "links": [
       {
@@ -1852,14 +2037,15 @@ export const extraAttractions: Attraction[] = [
     "durationLabel": "2–2,5 h (com museu)",
     "fit": "ANY",
     "mapQuery": "Conjunto Arqueologico Medina Azahara, Cordoba",
-    "whatToDo": "Comece pelo museu no sopé, pegue o ônibus-lançadeira até as ruínas e percorra o Salão Rico e a Casa de Ya'far no alto.",
+    "whatToDo": [
+      "Comece pelo museu no sopé, pegue o ônibus-lançadeira até as ruínas e percorra o Salão Rico e a Casa de Ya'far no alto"
+    ],
     "kingTip": "Não se chega de carro às ruínas: estacione no museu e use o ônibus-lançadeira oficial (bilhete à parte). Vá logo na abertura, às 9h — a encosta não tem sombra e ferve no julho cordobês. Entrada gratuita para cidadãos da UE.",
     "priceLevel": "Museu gratuito (UE); lançadeira ~3 € (estimativa)",
     "hours": {
-      "openDays": "Ter a dom (fecha segunda)",
-      "openHour": "09:00",
-      "closeHour": "15:00",
-      "note": "Verão (16 jun–15 set): ter–dom 09:00–15:00; consulte antes de ir."
+      "openHour": 9,
+      "closeHour": 15,
+      "note": "Ter a dom (fecha segunda) · Verão (16 jun–15 set): ter–dom 09:00–15:00; consulte antes de ir."
     },
     "links": [
       {
@@ -1885,10 +2071,9 @@ export const extraAttractions: Attraction[] = [
     "kingTip": "Subterrâneos e frescos — perfeitos para as horas mais quentes da tarde. Ficam bem ao lado do Alcázar de los Reyes Cristianos; dá para encadear as duas visitas.",
     "priceLevel": "€ (~3 €, estimativa)",
     "hours": {
-      "openDays": "Ter a dom (fecha segunda)",
-      "openHour": "08:15",
-      "closeHour": "14:15",
-      "note": "Verão (16 jun–15 set): ter–dom 08:15–14:15."
+      "openHour": 8,
+      "closeHour": 14,
+      "note": "Ter a dom (fecha segunda) · Verão (16 jun–15 set): ter–dom 08:15–14:15."
     },
     "links": [
       {
@@ -1945,14 +2130,22 @@ export const extraAttractions: Attraction[] = [
     "durationLabel": "Espetáculo ~60–70 min",
     "fit": "INDOOR",
     "mapQuery": "Caballerizas Reales de Cordoba",
-    "whatToDo": "Visite as naves e o pátio de dia; à noite, assista ao espetáculo equestre com música e flamenco ao vivo.",
+    "whatToDo": [
+      "Visite as naves e o pátio de dia",
+      "à noite, assista ao espetáculo equestre com música e flamenco ao vivo"
+    ],
     "kingTip": "O espetáculo é às quartas, quintas, sextas e sábados — em julho começa às 21h, quando o calor já cedeu. Reserve com antecedência pelo site da Córdoba Ecuestre; fica coladinho ao Alcázar.",
     "priceLevel": "€€€ (espetáculo ~24 €, estimativa; visita diurna à parte)",
     "hours": {
-      "openDays": "Espetáculo: qua, qui, sex, sáb",
-      "openHour": "21:00",
-      "closeHour": "22:10",
-      "note": "Horário do show varia por temporada; visita diurna em outros horários."
+      "openDays": [
+        3,
+        4,
+        5,
+        6
+      ],
+      "openHour": 21,
+      "closeHour": 22,
+      "note": "Espetáculo: qua, qui, sex, sáb · Horário do show varia por temporada; visita diurna em outros horários."
     },
     "links": [
       {
@@ -2062,10 +2255,13 @@ export const extraAttractions: Attraction[] = [
     "kingTip": "O acesso é só nos horários da visita guiada (por volta de 11h, 13h, 15h e 16h30); reserve a das 11h para pegar os lobos ativos antes do calor e confira no site se há tour noturno de lua cheia.",
     "priceLevel": "€€",
     "hours": {
-      "openDays": "Ter–Dom",
-      "openHour": "10:00",
-      "closeHour": "17:00",
-      "note": "Entrada só em visitas guiadas com horário marcado; confirme os turnos e feche reserva."
+      "openDays": [
+        2,
+        7
+      ],
+      "openHour": 10,
+      "closeHour": 17,
+      "note": "Ter–Dom · Entrada só em visitas guiadas com horário marcado; confirme os turnos e feche reserva."
     },
     "links": [
       {
@@ -2186,10 +2382,9 @@ export const extraAttractions: Attraction[] = [
     "kingTip": "A gruta é fresca e coberta, ótimo refúgio no calor, mas os grupos são de até 25 pessoas e não há venda online: ligue antes para reservar e chegue com folga pela estrada estreita de acesso.",
     "priceLevel": "€€",
     "hours": {
-      "openDays": "Todos os dias",
-      "openHour": "10:00",
-      "closeHour": "18:00",
-      "note": "Sessões guiadas às 10h–13h e à tarde; último grupo às 18h no verão. Reserva por telefone."
+      "openHour": 10,
+      "closeHour": 18,
+      "note": "Todos os dias · Sessões guiadas às 10h–13h e à tarde; último grupo às 18h no verão. Reserva por telefone."
     },
     "links": [
       {
@@ -2214,10 +2409,13 @@ export const extraAttractions: Attraction[] = [
     "kingTip": "Planalto totalmente exposto ao sol e ao vento; visite de manhã com chapéu e água. A visita livre é gratuita, mas o sítio abre poucos dias por semana, então confirme o horário antes de subir.",
     "priceLevel": "€",
     "hours": {
-      "openDays": "Qua–Dom",
-      "openHour": "09:00",
-      "closeHour": "14:30",
-      "note": "Entrada gratuita; fecha seg e ter. Horário pode variar no verão, confirme antes."
+      "openDays": [
+        3,
+        7
+      ],
+      "openHour": 9,
+      "closeHour": 14,
+      "note": "Qua–Dom · Entrada gratuita; fecha seg e ter. Horário pode variar no verão, confirme antes."
     },
     "image": "rnd_acinipo.jpg"
   },
@@ -2484,10 +2682,9 @@ export const extraAttractions: Attraction[] = [
     "kingTip": "Peça as mollejas (moelas de vitela) grelhadas com chimichurri, a tapa-assinatura que fundiu Buenos Aires e Málaga.",
     "priceLevel": "€€",
     "hours": {
-      "openDays": "Todos os dias",
-      "openHour": "19:30",
-      "closeHour": "23:30",
-      "note": "Foco no jantar; confirme o dia de descanso semanal na alta temporada."
+      "openHour": 19,
+      "closeHour": 23,
+      "note": "Todos os dias · Foco no jantar; confirme o dia de descanso semanal na alta temporada."
     },
     "links": [
       {
@@ -2512,10 +2709,13 @@ export const extraAttractions: Attraction[] = [
     "kingTip": "Prove o célebre ovo com batata palha e trufa, a tapa que virou marca registrada da casa.",
     "priceLevel": "€€",
     "hours": {
-      "openDays": "Seg–Sáb",
-      "openHour": "12:30",
-      "closeHour": "00:00",
-      "note": "Domingos fechado; reserva recomendada à noite."
+      "openDays": [
+        1,
+        6
+      ],
+      "openHour": 12,
+      "closeHour": 0,
+      "note": "Seg–Sáb · Domingos fechado; reserva recomendada à noite."
     },
     "links": [
       {
@@ -2540,10 +2740,9 @@ export const extraAttractions: Attraction[] = [
     "kingTip": "Peça o solomillo (filé) ao Pedro Ximénez, a tapa de assinatura regada ao vinho doce de Málaga.",
     "priceLevel": "€€",
     "hours": {
-      "openDays": "Todos os dias",
-      "openHour": "13:00",
-      "closeHour": "23:30",
-      "note": "Espaço pequeno; reserve com antecedência, sobretudo nos fins de semana."
+      "openHour": 13,
+      "closeHour": 23,
+      "note": "Todos os dias · Espaço pequeno; reserve com antecedência, sobretudo nos fins de semana."
     },
     "links": [
       {
@@ -2568,10 +2767,9 @@ export const extraAttractions: Attraction[] = [
     "kingTip": "Peça as berinjelas fritas com mel de cana, a tapa doce-salgada emblemática da casa.",
     "priceLevel": "€€",
     "hours": {
-      "openDays": "Todos os dias",
-      "openHour": "12:00",
-      "closeHour": "00:00",
-      "note": "Enche na hora do aperitivo e no jantar; há uma segunda casa na Calle Strachan."
+      "openHour": 12,
+      "closeHour": 0,
+      "note": "Todos os dias · Enche na hora do aperitivo e no jantar; há uma segunda casa na Calle Strachan."
     },
     "links": [
       {
@@ -2596,10 +2794,9 @@ export const extraAttractions: Attraction[] = [
     "kingTip": "Em Granada a tapa é grátis com a bebida; aqui peça o pescaíto frito variado, o carro-chefe da casa.",
     "priceLevel": "€€",
     "hours": {
-      "openDays": "Todos os dias",
-      "openHour": "12:00",
-      "closeHour": "00:00",
-      "note": "Não aceitam reserva; costuma lotar, com clientes em pé no balcão."
+      "openHour": 12,
+      "closeHour": 0,
+      "note": "Todos os dias · Não aceitam reserva; costuma lotar, com clientes em pé no balcão."
     },
     "image": "grn_los_diamantes.jpg"
   },
@@ -2618,10 +2815,9 @@ export const extraAttractions: Attraction[] = [
     "kingTip": "Peça o rabo de toro guisado, a tapa serrana mais pedida da casa, com um tinto da Serranía de Ronda.",
     "priceLevel": "€€",
     "hours": {
-      "openDays": "Todos os dias",
-      "openHour": "12:00",
-      "closeHour": "00:00",
-      "note": "Terraço amplo; enche no almoço e à noite na alta temporada."
+      "openHour": 12,
+      "closeHour": 0,
+      "note": "Todos os dias · Terraço amplo; enche no almoço e à noite na alta temporada."
     },
     "links": [
       {
@@ -2646,10 +2842,13 @@ export const extraAttractions: Attraction[] = [
     "kingTip": "Peça as naranjas picadas com bacalhau e azeite, a tapa doce-salgada típica cordovesa que virou assinatura da casa.",
     "priceLevel": "€€",
     "hours": {
-      "openDays": "Seg–Sáb",
-      "openHour": "12:30",
-      "closeHour": "23:00",
-      "note": "Fecha à tarde entre serviços (16h–20h) e aos domingos."
+      "openDays": [
+        1,
+        6
+      ],
+      "openHour": 12,
+      "closeHour": 23,
+      "note": "Seg–Sáb · Fecha à tarde entre serviços (16h–20h) e aos domingos."
     },
     "links": [
       {
@@ -2674,10 +2873,9 @@ export const extraAttractions: Attraction[] = [
     "kingTip": "Suba ao terraço ao entardecer e peça o salmorejo cordovês e o rabo de toro, os dois pratos-símbolo da casa.",
     "priceLevel": "€€€",
     "hours": {
-      "openDays": "Todos os dias",
-      "openHour": "13:00",
-      "closeHour": "23:30",
-      "note": "Terraço com vista muito disputado; reserve para garantir mesa lá em cima."
+      "openHour": 13,
+      "closeHour": 23,
+      "note": "Todos os dias · Terraço com vista muito disputado; reserve para garantir mesa lá em cima."
     },
     "image": "cor_casa_pepe_juderia.jpg"
   },
@@ -2696,10 +2894,13 @@ export const extraAttractions: Attraction[] = [
     "kingTip": "Peça o pisto cordovês que dá apelido à casa, acompanhado de um fino Montilla-Moriles do barril.",
     "priceLevel": "€€",
     "hours": {
-      "openDays": "Seg–Sáb",
-      "openHour": "12:00",
-      "closeHour": "16:00",
-      "note": "Reabre à noite (20h–24h); fecha aos domingos e em agosto costuma reduzir horário."
+      "openDays": [
+        1,
+        6
+      ],
+      "openHour": 12,
+      "closeHour": 16,
+      "note": "Seg–Sáb · Reabre à noite (20h–24h); fecha aos domingos e em agosto costuma reduzir horário."
     },
     "links": [
       {
@@ -2724,10 +2925,9 @@ export const extraAttractions: Attraction[] = [
     "kingTip": "Fique na zona de taberna e peça um fino da casa com o salmorejo, a dupla que resume Córdoba no copo e no prato.",
     "priceLevel": "€€€",
     "hours": {
-      "openDays": "Todos os dias",
-      "openHour": "13:00",
-      "closeHour": "23:30",
-      "note": "Estacionamento privativo para clientes; domingos costuma servir só ao almoço."
+      "openHour": 13,
+      "closeHour": 23,
+      "note": "Todos os dias · Estacionamento privativo para clientes; domingos costuma servir só ao almoço."
     },
     "links": [
       {
@@ -2752,10 +2952,9 @@ export const extraAttractions: Attraction[] = [
     "kingTip": "A tapa vem grátis com a bebida; segure a mão nas primeiras rodadas para receber o cuscuz de legumes e as berinjelas com mel.",
     "priceLevel": "€",
     "hours": {
-      "openDays": "Todos os dias",
-      "openHour": "13:00",
-      "closeHour": "00:00",
-      "note": "Fecha à tarde entre serviços; espaço pequeno e muito procurado à noite."
+      "openHour": 13,
+      "closeHour": 0,
+      "note": "Todos os dias · Fecha à tarde entre serviços; espaço pequeno e muito procurado à noite."
     },
     "image": "grn_om_kalsum.jpg"
   },
@@ -2774,10 +2973,9 @@ export const extraAttractions: Attraction[] = [
     "kingTip": "Peça o vermute de torneira com um montadito de presunto, o combo que os granadinos repetem à tarde.",
     "priceLevel": "€",
     "hours": {
-      "openDays": "Todos os dias",
-      "openHour": "12:00",
-      "closeHour": "00:00",
-      "note": "Bar pequeno; a maioria bebe em pé no balcão ou na calçada."
+      "openHour": 12,
+      "closeHour": 0,
+      "note": "Todos os dias · Bar pequeno; a maioria bebe em pé no balcão ou na calçada."
     },
     "image": "grn_bodega_la_mancha.jpg"
   },
@@ -2796,10 +2994,9 @@ export const extraAttractions: Attraction[] = [
     "kingTip": "Peça as gambas blancas de Huelva e o lomo en orza, as duas tapas que definem a casa.",
     "priceLevel": "€€",
     "hours": {
-      "openDays": "Todos os dias",
-      "openHour": "12:00",
-      "closeHour": "00:30",
-      "note": "Fecha à tarde entre serviços (16h–19h30); não aceita reserva, chegue cedo."
+      "openHour": 12,
+      "closeHour": 0,
+      "note": "Todos os dias · Fecha à tarde entre serviços (16h–19h30); não aceita reserva, chegue cedo."
     },
     "links": [
       {
@@ -2824,10 +3021,9 @@ export const extraAttractions: Attraction[] = [
     "kingTip": "Peça a ensaladilla russa, tida como uma das melhores da cidade, com uns boquerones en vinagre.",
     "priceLevel": "€",
     "hours": {
-      "openDays": "Todos os dias",
-      "openHour": "12:30",
-      "closeHour": "00:00",
-      "note": "Espaço apertado; nos fins de semana lota rápido, chegue cedo."
+      "openHour": 12,
+      "closeHour": 0,
+      "note": "Todos os dias · Espaço apertado; nos fins de semana lota rápido, chegue cedo."
     },
     "links": [
       {
@@ -2852,10 +3048,9 @@ export const extraAttractions: Attraction[] = [
     "kingTip": "A tapa vem grátis com a bebida; peça o pescaíto frito do dia, sempre fresco do balcão de peixe.",
     "priceLevel": "€€",
     "hours": {
-      "openDays": "Todos os dias",
-      "openHour": "12:00",
-      "closeHour": "23:30",
-      "note": "Muito procurado no verão; a barra de tapas costuma encher no fim da tarde."
+      "openHour": 12,
+      "closeHour": 23,
+      "note": "Todos os dias · Muito procurado no verão; a barra de tapas costuma encher no fim da tarde."
     },
     "links": [
       {
@@ -2880,10 +3075,9 @@ export const extraAttractions: Attraction[] = [
     "kingTip": "Peça a porra antequerana, gaspacho espesso local coroado com ovo cozido e presunto, o prato que a casa consagrou.",
     "priceLevel": "€€",
     "hours": {
-      "openDays": "Todos os dias",
-      "openHour": "13:00",
-      "closeHour": "23:00",
-      "note": "Fecha à tarde entre serviços; confirme o dia de descanso na baixa temporada."
+      "openHour": 13,
+      "closeHour": 23,
+      "note": "Todos os dias · Fecha à tarde entre serviços; confirme o dia de descanso na baixa temporada."
     },
     "links": [
       {
@@ -2929,7 +3123,15 @@ export const extraAttractions: Attraction[] = [
     "mapQuery": "Iglesia del Carmen, Antequera",
     "kingTip": "Fica no ponto mais alto do casco: combine a visita com a subida à Alcazaba e ao Arco, todos a poucos passos.",
     "priceLevel": "€2",
-    "hours": "Ter–Sex 11:00–13:30 e 16:30–17:45; Sáb–Dom 11:00–14:00",
+    "hours": {
+      "note": "Ter–Sex 11:00–13:30 e 16:30–17:45; Sáb–Dom 11:00–14:00",
+      "openDays": [
+        2,
+        5,
+        6,
+        7
+      ]
+    },
     "links": [
       {
         "label": "Turismo Antequera",
@@ -3040,7 +3242,15 @@ export const extraAttractions: Attraction[] = [
     "mapQuery": "Tholos de El Romeral, Antequera",
     "kingTip": "Fica fora do centro de visitantes principal e exige carro: some 15 min ao trajeto de Menga e feche a trilogia megalítica no mesmo dia.",
     "priceLevel": "Gratuito",
-    "hours": "Ter–Sáb (horário varia por estação); dom e feriados 09:00–15:00; seg fechado",
+    "hours": {
+      "note": "Ter–Sáb (horário varia por estação); dom e feriados 09:00–15:00; seg fechado",
+      "openDays": [
+        1,
+        2,
+        6,
+        7
+      ]
+    },
     "links": [
       {
         "label": "Turismo Antequera",
@@ -3497,7 +3707,9 @@ export const extraAttractions: Attraction[] = [
     "durationLabel": "2–3 h",
     "fit": "CLEAR_SKY",
     "mapQuery": "Mijas Pueblo, Málaga",
-    "whatToDo": "Perca-se pelas vielas caiadas, encoste nos miradouros da muralha e prove um doce nas confeitarias da praça.",
+    "whatToDo": [
+      "Perca-se pelas vielas caiadas, encoste nos miradouros da muralha e prove um doce nas confeitarias da praça"
+    ],
     "kingTip": "Estacione no parque subterrâneo da Avenida del Compás e suba a pé: as ruas do casco são estreitas e é ali que começa o encanto.",
     "priceLevel": "Gratuito (passeio)",
     "image": "mrb_mijas_pueblo.jpg"
@@ -3731,7 +3943,9 @@ export const extraAttractions: Attraction[] = [
     "mapQuery": "Iglesia de Santa María la Mayor, Ronda",
     "kingTip": "Procure, junto à entrada, o arco de ferradura remanescente do mihrab da antiga mesquita: um raro vestígio islâmico embutido no templo cristão.",
     "priceLevel": "€ (ingresso ~€4,50, estimativa)",
-    "hours": "Aberta diariamente; conferir horário de missas e verão no local",
+    "hours": {
+      "note": "Aberta diariamente; conferir horário de missas e verão no local"
+    },
     "history": "Consagrada logo após a conquista cristã de 1485, sua construção se estendeu por mais de dois séculos, misturando gótico, mudéjar e maneirismo após o sismo de 1580.",
     "image": "rnd_santa_maria_la_mayor.jpg"
   },
@@ -3799,7 +4013,9 @@ export const extraAttractions: Attraction[] = [
     "mapQuery": "Casa Don Bosco, Ronda",
     "kingTip": "Peça para ir direto ao terraço dos fundos: o banco de azulejos na beira do penhasco é o canto mais fotogênico e quase sempre vazio da casa.",
     "priceLevel": "€ (ingresso ~€2, estimativa)",
-    "hours": "Aberta diariamente, horário reduzido; conferir no local",
+    "hours": {
+      "note": "Aberta diariamente, horário reduzido; conferir no local"
+    },
     "links": [
       {
         "label": "Casa Museo Don Bosco",
@@ -3821,7 +4037,9 @@ export const extraAttractions: Attraction[] = [
     "durationLabel": "1,5–2,5 h",
     "fit": "ANY",
     "mapQuery": "Cuevas del Sol, Setenil de las Bodegas",
-    "whatToDo": "Percorra a pé as ruas Cuevas del Sol e Cuevas de la Sombra sob a rocha e suba ao Mirador del Carmen e às ruínas do castelo para ver os telhados encaixados no barranco.",
+    "whatToDo": [
+      "Percorra a pé as ruas Cuevas del Sol e Cuevas de la Sombra sob a rocha e suba ao Mirador del Carmen e às ruínas do castelo para ver os telhados encaixados no barranco"
+    ],
     "kingTip": "A rua Cuevas de la Sombra fica na penumbra o dia todo; para a foto com luz nas fachadas, vá à Cuevas del Sol no meio da manhã.",
     "priceLevel": "Gratuito (o povoado)",
     "history": "O nome 'Setenil' remete à resistência muçulmana a sete cercos cristãos; 'de las Bodegas' vem das antigas adegas escavadas na rocha, hoje bares e casas.",
@@ -3839,7 +4057,9 @@ export const extraAttractions: Attraction[] = [
     "durationLabel": "1–1,5 h",
     "fit": "ANY",
     "mapQuery": "Júzcar, Málaga",
-    "whatToDo": "Passeie pelas vielas azuis procurando os murais de personagens espalhados pelas fachadas e admire o Valle del Genal a partir das bordas da vila.",
+    "whatToDo": [
+      "Passeie pelas vielas azuis procurando os murais de personagens espalhados pelas fachadas e admire o Valle del Genal a partir das bordas da vila"
+    ],
     "kingTip": "Estenda o passeio pelo Valle del Genal: no outono, os castanheiros ao redor de Júzcar viram um mar cobre-avermelhado que contrasta com o azul das casas.",
     "priceLevel": "Gratuito",
     "history": "Em 2011 a Sony pintou a vila de azul com cerca de 4.000 litros de tinta para estrear o filme dos Smurfs; um referendo local decidiu manter a cor.",
@@ -3857,7 +4077,9 @@ export const extraAttractions: Attraction[] = [
     "durationLabel": "1,5–2 h",
     "fit": "CLEAR_SKY",
     "mapQuery": "Zahara de la Sierra, Cádiz",
-    "whatToDo": "Suba a pé até a Torre del Homenaje do castelo para a vista aérea da vila e do reservatório, e circule pelo casco branco em torno da igreja de Santa María de la Mesa.",
+    "whatToDo": [
+      "Suba a pé até a Torre del Homenaje do castelo para a vista aérea da vila e do reservatório, e circule pelo casco branco em torno da igreja de Santa María de la Mesa"
+    ],
     "kingTip": "A luz do fim da tarde acende o branco das casas contra o verde do lago; do castelo, a panorâmica sobre a água é a imagem definitiva do lugar.",
     "priceLevel": "Gratuito (a vila)",
     "links": [
@@ -3881,7 +4103,9 @@ export const extraAttractions: Attraction[] = [
     "durationLabel": "1,5–2 h",
     "fit": "ANY",
     "mapQuery": "Grazalema, Cádiz",
-    "whatToDo": "Perca-se pelas ruas em torno da Plaza de España e da igreja da Aurora, visite uma oficina de mantas de lã e alcance um mirador de borda para a serra.",
+    "whatToDo": [
+      "Perca-se pelas ruas em torno da Plaza de España e da igreja da Aurora, visite uma oficina de mantas de lã e alcance um mirador de borda para a serra"
+    ],
     "kingTip": "Leve um casaco leve mesmo no verão: por estar no ponto mais chuvoso e alto da região, Grazalema costuma amanhecer bem mais fresca que Ronda.",
     "priceLevel": "Gratuito (a vila)",
     "history": "De origem romana e depois andalusí, Grazalema prosperou nos séculos XVIII e XIX com a manufatura de tecidos e mantas de lã, ofício que ainda resiste.",
@@ -3899,7 +4123,9 @@ export const extraAttractions: Attraction[] = [
     "durationLabel": "1,5–2 h",
     "fit": "CLEAR_SKY",
     "mapQuery": "Castillo del Águila, Gaucín",
-    "whatToDo": "Suba ao Castillo del Águila para a panorâmica da serra até o mar e caminhe pelo casco branco entre casas de artistas e pequenas galerias.",
+    "whatToDo": [
+      "Suba ao Castillo del Águila para a panorâmica da serra até o mar e caminhe pelo casco branco entre casas de artistas e pequenas galerias"
+    ],
     "kingTip": "Escolha um dia limpo de vento: só então o Rochedo de Gibraltar e a silhueta do Marrocos aparecem no horizonte a partir do castelo.",
     "priceLevel": "Gratuito (a vila e o castelo)",
     "links": [
@@ -3923,7 +4149,9 @@ export const extraAttractions: Attraction[] = [
     "durationLabel": "1–1,5 h",
     "fit": "ANY",
     "mapQuery": "Montejaque, Málaga",
-    "whatToDo": "Circule pela Plaza de la Constitución sombreada, visite a igreja de Santiago e suba às bordas da vila para ver o anfiteatro de rochas ao redor.",
+    "whatToDo": [
+      "Circule pela Plaza de la Constitución sombreada, visite a igreja de Santiago e suba às bordas da vila para ver o anfiteatro de rochas ao redor"
+    ],
     "kingTip": "É parada de tapas honesta e barata: as varandas em torno da praça servem petiscos serranos com muito menos gente que em Ronda.",
     "priceLevel": "Gratuito (a vila)",
     "history": "De nome derivado do árabe 'Montexaquez' (monte perdido), conserva o traçado andalusí e foi doado após a Reconquista aos senhores de Benaoján.",
@@ -3941,14 +4169,15 @@ export const extraAttractions: Attraction[] = [
     "durationLabel": "15–30 min",
     "fit": "ANY",
     "mapQuery": "Syra Coffee, Calle Mártires 13, Málaga",
-    "whatToDo": "Peça um cortado ou um filtrado do lote do dia na barra e leve para caminhar até a Plaza de la Constitución.",
+    "whatToDo": [
+      "Peça um cortado ou um filtrado do lote do dia na barra e leve para caminhar até a Plaza de la Constitución"
+    ],
     "kingTip": "Abre às 8h, quando quase tudo no centro ainda está fechado; é a melhor aposta para café de especialidade logo cedo.",
     "priceLevel": "€€",
     "hours": {
-      "openDays": "Todos os dias",
-      "openHour": "08:00",
-      "closeHour": "19:00",
-      "note": "Espaço pequeno, voltado sobretudo ao café para viagem."
+      "openHour": 8,
+      "closeHour": 19,
+      "note": "Todos os dias · Espaço pequeno, voltado sobretudo ao café para viagem."
     },
     "links": [
       {
@@ -3970,7 +4199,9 @@ export const extraAttractions: Attraction[] = [
     "durationLabel": "30–45 min",
     "fit": "ANY",
     "mapQuery": "Café con Libros, Plaza de la Merced 19, Málaga",
-    "whatToDo": "Pegue um livro da estante, peça um café com um pedaço de bolo caseiro e sente-se na esplanada de frente para a praça.",
+    "whatToDo": [
+      "Pegue um livro da estante, peça um café com um pedaço de bolo caseiro e sente-se na esplanada de frente para a praça"
+    ],
     "kingTip": "Confira a programação: em muitas noites há música ao vivo ou micro-teatro no salão interno.",
     "priceLevel": "€€",
     "image": "mlg_cafe_con_libros.jpg"
@@ -3987,14 +4218,23 @@ export const extraAttractions: Attraction[] = [
     "durationLabel": "30–45 min",
     "fit": "ANY",
     "mapQuery": "Recyclo Bike Café, Plaza Enrique García-Herrera 16, Málaga",
-    "whatToDo": "Tome um café da manhã na esplanada e aproveite para alugar uma bike para pedalar até a praia da Malagueta.",
+    "whatToDo": [
+      "Tome um café da manhã na esplanada e aproveite para alugar uma bike para pedalar até a praia da Malagueta"
+    ],
     "kingTip": "Fecha aos domingos e cedo aos sábados; para juntar café e aluguel de bike, vá num dia de semana pela manhã.",
     "priceLevel": "€€",
     "hours": {
-      "openDays": "Segunda a sábado",
-      "openHour": "09:00",
-      "closeHour": "17:00",
-      "note": "Sábado até 14h; fecha aos domingos."
+      "openDays": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "openHour": 9,
+      "closeHour": 17,
+      "note": "Segunda a sábado · Sábado até 14h; fecha aos domingos."
     },
     "links": [
       {
@@ -4016,7 +4256,9 @@ export const extraAttractions: Attraction[] = [
     "durationLabel": "45 min–1 h",
     "fit": "ANY",
     "mapQuery": "La Bella Julieta, Calle Puerta del Mar 20, Málaga",
-    "whatToDo": "Peça um smoothie bowl ou um waffle com um café especial e aproveite a decoração colorida para as fotos.",
+    "whatToDo": [
+      "Peça um smoothie bowl ou um waffle com um café especial e aproveite a decoração colorida para as fotos"
+    ],
     "kingTip": "Tem várias unidades pela cidade; a da Puerta del Mar é a mais central para juntar com o Mercado de Atarazanas.",
     "priceLevel": "€€",
     "image": "mlg_la_bella_julieta.jpg"
@@ -4033,7 +4275,9 @@ export const extraAttractions: Attraction[] = [
     "durationLabel": "15–30 min",
     "fit": "ANY",
     "mapQuery": "Heladería Freskitto, Calle Granada 55, Málaga",
-    "whatToDo": "Escolha um creme e um sorbetto de fruta da estação e coma a caminho do Museu Picasso ou da catedral.",
+    "whatToDo": [
+      "Escolha um creme e um sorbetto de fruta da estação e coma a caminho do Museu Picasso ou da catedral"
+    ],
     "kingTip": "Fica na Calle Granada, rota natural entre a catedral e a Plaza de la Merced; ótimo para o calor de julho.",
     "priceLevel": "€",
     "links": [
@@ -4056,7 +4300,9 @@ export const extraAttractions: Attraction[] = [
     "durationLabel": "30–45 min",
     "fit": "ANY",
     "mapQuery": "Cafetería Lisboa, Calle Reyes Católicos, Plaza Nueva, Granada",
-    "whatToDo": "Peça churros com um café da casa e tome numa das mesas de frente para a Plaza Nueva.",
+    "whatToDo": [
+      "Peça churros com um café da casa e tome numa das mesas de frente para a Plaza Nueva"
+    ],
     "kingTip": "Fica no ponto de partida das subidas ao Albaicín e à Alhambra; ideal para o café da manhã antes da caminhada.",
     "priceLevel": "€€",
     "image": "grn_cafeteria_lisboa.jpg"
@@ -4073,14 +4319,15 @@ export const extraAttractions: Attraction[] = [
     "durationLabel": "30–45 min",
     "fit": "ANY",
     "mapQuery": "Café Fútbol, Plaza de Mariana Pineda 6, Granada",
-    "whatToDo": "Sente-se na esplanada da praça e peça churros ou porras com uma xícara de chocolate quente para mergulhar.",
+    "whatToDo": [
+      "Sente-se na esplanada da praça e peça churros ou porras com uma xícara de chocolate quente para mergulhar"
+    ],
     "kingTip": "O chocolate com churros sai na parte da manhã e de novo à noite; à tarde nem sempre está disponível.",
     "priceLevel": "€€",
     "hours": {
-      "openDays": "Todos os dias",
-      "openHour": "08:00",
-      "closeHour": "00:00",
-      "note": "Churros com chocolate servidos por volta de 6h–13h30 e 18h–00h."
+      "openHour": 8,
+      "closeHour": 0,
+      "note": "Todos os dias · Churros com chocolate servidos por volta de 6h–13h30 e 18h–00h."
     },
     "links": [
       {
@@ -4103,7 +4350,9 @@ export const extraAttractions: Attraction[] = [
     "durationLabel": "20–40 min",
     "fit": "ANY",
     "mapQuery": "La Finca Coffee, Calle Colegio Catalino 3, Granada",
-    "whatToDo": "Prove um filtrado da torra da casa com um croissant de pistache e observe o vaivém do centro.",
+    "whatToDo": [
+      "Prove um filtrado da torra da casa com um croissant de pistache e observe o vaivém do centro"
+    ],
     "kingTip": "Eles torram o próprio café; pergunte pela origem em destaque e leve um pacote de grãos como lembrança.",
     "priceLevel": "€€",
     "links": [
@@ -4126,7 +4375,9 @@ export const extraAttractions: Attraction[] = [
     "durationLabel": "30–45 min",
     "fit": "ANY",
     "mapQuery": "Tetería Al-Zahra, Calle las Tiendas 19, Ronda",
-    "whatToDo": "Escolha um chá aromático da carta com um doce árabe ou um crepe e relaxe no ambiente com almofadas.",
+    "whatToDo": [
+      "Escolha um chá aromático da carta com um doce árabe ou um crepe e relaxe no ambiente com almofadas"
+    ],
     "kingTip": "É uma ótima pausa à sombra no calor de julho, quando os mirantes ao sol de Ronda ficam intensos.",
     "priceLevel": "€€",
     "image": "rnd_teteria_al_zahra.jpg"
@@ -4143,7 +4394,9 @@ export const extraAttractions: Attraction[] = [
     "durationLabel": "15–30 min",
     "fit": "ANY",
     "mapQuery": "GIOELIA Cremeria, Paseo Marítimo Rey de España 62, Fuengirola",
-    "whatToDo": "Peça uma casquinha com dois sabores e coma caminhando pelo paseo marítimo de Los Boliches à beira-mar.",
+    "whatToDo": [
+      "Peça uma casquinha com dois sabores e coma caminhando pelo paseo marítimo de Los Boliches à beira-mar"
+    ],
     "kingTip": "Fica no calçadão de Los Boliches; combine com um mergulho na praia e o pôr do sol sobre o mar.",
     "priceLevel": "€€",
     "links": [
@@ -4166,7 +4419,9 @@ export const extraAttractions: Attraction[] = [
     "durationLabel": "15–30 min",
     "fit": "ANY",
     "mapQuery": "Heladería D'Arbini, Paseo Marítimo La Carihuela 24, Torremolinos",
-    "whatToDo": "Escolha um creme e um sorbetto e coma no calçadão da Carihuela, de frente para o mar.",
+    "whatToDo": [
+      "Escolha um creme e um sorbetto e coma no calçadão da Carihuela, de frente para o mar"
+    ],
     "kingTip": "A Carihuela é o trecho mais gostoso de Torremolinos para caminhar à beira-mar; deixe o gelato para o entardecer.",
     "priceLevel": "€€",
     "image": "mrb_darbini_torremolinos.jpg"
@@ -4183,14 +4438,19 @@ export const extraAttractions: Attraction[] = [
     "durationLabel": "1–2 h",
     "fit": "INDOOR",
     "mapQuery": "El Corte Inglés, Avenida de Andalucía 4, Málaga",
-    "whatToDo": "Percorra os andares de moda e desça ao supermercado Gourmet para levar azeite virgem extra, pimentón e vinhos de Málaga.",
+    "whatToDo": [
+      "Percorra os andares de moda e desça ao supermercado Gourmet para levar azeite virgem extra, pimentón e vinhos de Málaga"
+    ],
     "kingTip": "Peça o formulário de Tax Free na loja: compras acima de certo valor dão direito a reembolso do IVA no aeroporto antes de voltar ao Brasil.",
     "priceLevel": "€€€",
     "hours": {
-      "openDays": "Seg–Sáb",
-      "openHour": "10:00",
-      "closeHour": "22:00",
-      "note": "Aberturas pontuais aos domingos e feriados; supermercado com horário próprio."
+      "openDays": [
+        1,
+        6
+      ],
+      "openHour": 10,
+      "closeHour": 22,
+      "note": "Seg–Sáb · Aberturas pontuais aos domingos e feriados; supermercado com horário próprio."
     },
     "links": [
       {
@@ -4212,7 +4472,9 @@ export const extraAttractions: Attraction[] = [
     "durationLabel": "30–45 min",
     "fit": "INDOOR",
     "mapQuery": "La Recova artesanía, Pasaje Niño de Guevara, Málaga",
-    "whatToDo": "Garimpe cerâmica de pequenas olarias e têxteis tipo jarapa, e faça uma pausa no café interno entre as compras.",
+    "whatToDo": [
+      "Garimpe cerâmica de pequenas olarias e têxteis tipo jarapa, e faça uma pausa no café interno entre as compras"
+    ],
     "kingTip": "Fica escondida numa travessa junto à igreja de San Juan; entre mesmo que a fachada pareça discreta, o interior surpreende.",
     "priceLevel": "€€",
     "image": "mlg_la_recova.jpg"
@@ -4229,7 +4491,9 @@ export const extraAttractions: Attraction[] = [
     "durationLabel": "20–30 min",
     "fit": "ANY",
     "mapQuery": "Pasaje de Chinitas, Málaga",
-    "whatToDo": "Passeie entre as lojinhas e ateliês da passagem e procure o painel de azulejos que recorda o verso de Lorca sobre o Café de Chinitas.",
+    "whatToDo": [
+      "Passeie entre as lojinhas e ateliês da passagem e procure o painel de azulejos que recorda o verso de Lorca sobre o Café de Chinitas"
+    ],
     "kingTip": "Abre direto na Plaza de la Constitución; combine com a Calle Larios e o Pasaje continua até a Calle Fresca, poucos metros à frente.",
     "priceLevel": "€€",
     "image": "mlg_pasaje_chinitas.jpg"
@@ -4246,14 +4510,19 @@ export const extraAttractions: Attraction[] = [
     "durationLabel": "1–2 h",
     "fit": "ANY",
     "mapQuery": "Recinto Ferial Cortijo de Torres, Málaga",
-    "whatToDo": "Reserve tempo para a zona de antiguidades e coleção, onde aparecem azulejos antigos, moedas e discos; pechinche com respeito, faz parte do jogo.",
+    "whatToDo": [
+      "Reserve tempo para a zona de antiguidades e coleção, onde aparecem azulejos antigos, moedas e discos",
+      "pechinche com respeito, faz parte do jogo"
+    ],
     "kingTip": "Só funciona aos domingos de manhã, das 9h às 15h; chegue cedo, leve dinheiro em espécie e calce sapato confortável para o chão de terra.",
     "priceLevel": "€",
     "hours": {
-      "openDays": "Domingo",
-      "openHour": "09:00",
-      "closeHour": "15:00",
-      "note": "Apenas aos domingos; encerra ao início da tarde."
+      "openDays": [
+        7
+      ],
+      "openHour": 9,
+      "closeHour": 15,
+      "note": "Domingo · Apenas aos domingos; encerra ao início da tarde."
     },
     "image": "mlg_mercadillo_cortijo_torres.jpg"
   },
@@ -4269,14 +4538,19 @@ export const extraAttractions: Attraction[] = [
     "durationLabel": "1–1,5 h",
     "fit": "ANY",
     "mapQuery": "Recinto Ferial de Fuengirola, Avenida Jesús Cautivo, Fuengirola",
-    "whatToDo": "Procure as bancas de couro e de têxteis e negocie; ao lado costuma haver postos de azeitonas, frutos secos e ervas para prova.",
+    "whatToDo": [
+      "Procure as bancas de couro e de têxteis e negocie",
+      "ao lado costuma haver postos de azeitonas, frutos secos e ervas para prova"
+    ],
     "kingTip": "Só às terças, das 9h às 14h; vá de trem de cercanías (linha C1, estação Los Boliches) para fugir do estacionamento lotado.",
     "priceLevel": "€",
     "hours": {
-      "openDays": "Terça",
-      "openHour": "09:00",
-      "closeHour": "14:00",
-      "note": "Semanal às terças, exceto Natal, Ano Novo e Reis."
+      "openDays": [
+        2
+      ],
+      "openHour": 9,
+      "closeHour": 14,
+      "note": "Terça · Semanal às terças, exceto Natal, Ano Novo e Reis."
     },
     "image": "mrb_mercadillo_fuengirola.jpg"
   },
@@ -4292,14 +4566,20 @@ export const extraAttractions: Attraction[] = [
     "durationLabel": "1,5–2,5 h",
     "fit": "ANY",
     "mapQuery": "McArthurGlen Designer Outlet Málaga, Plaza Mayor, Málaga",
-    "whatToDo": "Circule pelas lojas de esporte e moda internacional comparando descontos; muitas marcas somam Tax Free ao preço já rebaixado.",
+    "whatToDo": [
+      "Circule pelas lojas de esporte e moda internacional comparando descontos",
+      "muitas marcas somam Tax Free ao preço já rebaixado"
+    ],
     "kingTip": "Fica a três paradas de trem do centro (estação Plaza Mayor, linha C1); combine com o vizinho centro comercial Plaza Mayor no mesmo passeio.",
     "priceLevel": "€€",
     "hours": {
-      "openDays": "Seg–Sáb",
-      "openHour": "10:00",
-      "closeHour": "22:00",
-      "note": "Abre em domingos e feriados selecionados; confirme no site."
+      "openDays": [
+        1,
+        6
+      ],
+      "openHour": 10,
+      "closeHour": 22,
+      "note": "Seg–Sáb · Abre em domingos e feriados selecionados; confirme no site."
     },
     "links": [
       {
@@ -4321,7 +4601,9 @@ export const extraAttractions: Attraction[] = [
     "durationLabel": "1–1,5 h",
     "fit": "ANY",
     "mapQuery": "Puerto Marina, Benalmádena",
-    "whatToDo": "Percorra as lojas do Dique de Levante e, se for sábado, garimpe o Marina Market de artesanato e antiguidades entre 10h e 16h.",
+    "whatToDo": [
+      "Percorra as lojas do Dique de Levante e, se for sábado, garimpe o Marina Market de artesanato e antiguidades entre 10h e 16h"
+    ],
     "kingTip": "Aos sábados vale o Marina Market; nas outras noites o porto é ponto de fim de tarde, ótimo para souvenires depois da praia.",
     "priceLevel": "€€",
     "links": [
@@ -4344,7 +4626,9 @@ export const extraAttractions: Attraction[] = [
     "durationLabel": "45 min–1,5 h",
     "fit": "ANY",
     "mapQuery": "Calle San Miguel, Torremolinos",
-    "whatToDo": "Desça a rua toda comparando preços de complementos e perfumes, e ramifique pelas travessas Cauce e Casablanca para lojas menos turísticas.",
+    "whatToDo": [
+      "Desça a rua toda comparando preços de complementos e perfumes, e ramifique pelas travessas Cauce e Casablanca para lojas menos turísticas"
+    ],
     "kingTip": "Ligue a compra ao Balcón de Europa no topo e à descida da Cuesta del Tajo rumo à praia da Carihuela, no mesmo eixo pedonal.",
     "priceLevel": "€€",
     "image": "mrb_calle_san_miguel_torremolinos.jpg"
@@ -4361,14 +4645,19 @@ export const extraAttractions: Attraction[] = [
     "durationLabel": "1–2 h",
     "fit": "INDOOR",
     "mapQuery": "Centro Comercial Miramar, Fuengirola",
-    "whatToDo": "Faça as compras variadas de moda e esporte e aproveite o cinema ou a praça de alimentação nas horas de sol mais forte.",
+    "whatToDo": [
+      "Faça as compras variadas de moda e esporte e aproveite o cinema ou a praça de alimentação nas horas de sol mais forte"
+    ],
     "kingTip": "Ao contrário dos mercados de rua, abre também aos domingos e feriados na temporada alta; ideal para um dia sem praia.",
     "priceLevel": "€€",
     "hours": {
-      "openDays": "Seg–Dom",
-      "openHour": "10:00",
-      "closeHour": "22:00",
-      "note": "Hipermercado e restauração com horários próprios."
+      "openDays": [
+        1,
+        7
+      ],
+      "openHour": 10,
+      "closeHour": 22,
+      "note": "Seg–Dom · Hipermercado e restauração com horários próprios."
     },
     "links": [
       {
@@ -4390,14 +4679,20 @@ export const extraAttractions: Attraction[] = [
     "durationLabel": "15–30 min",
     "fit": "ANY",
     "mapQuery": "Convento de Belén, Calle Belén, Antequera",
-    "whatToDo": "Toque a campainha do torno e peça o bienmesabe, especialidade da casa; no fim do ano acrescente mantecados e polvorones caseiros.",
+    "whatToDo": [
+      "Toque a campainha do torno e peça o bienmesabe, especialidade da casa",
+      "no fim do ano acrescente mantecados e polvorones caseiros"
+    ],
     "kingTip": "Compra-se pelo torno giratório, sem contato direto com as freiras; leve trocado e evite o horário da sesta, quando fecha.",
     "priceLevel": "€",
     "hours": {
-      "openDays": "Seg–Sex",
-      "openHour": "09:30",
-      "closeHour": "18:30",
-      "note": "Pausa aproximada das 13h30 às 15h30; horário ampliado no Natal."
+      "openDays": [
+        1,
+        5
+      ],
+      "openHour": 9,
+      "closeHour": 18,
+      "note": "Seg–Sex · Pausa aproximada das 13h30 às 15h30; horário ampliado no Natal."
     },
     "image": "ant_dulces_belen.jpg"
   },
@@ -4420,10 +4715,15 @@ export const extraAttractions: Attraction[] = [
     "durationLabel": "1h–1h15",
     "fit": "CLEAR_SKY",
     "hours": {
-      "openDays": "Qua–Dom (fecha Seg e Ter)",
+      "openDays": [
+        1,
+        2,
+        3,
+        7
+      ],
       "openHour": 10,
       "closeHour": 21,
-      "note": "Verão: qua–dom 10h–14h e 17h–21h. Inverno: qua–dom 10h–18h. Fecha segundas e terças."
+      "note": "Qua–Dom (fecha Seg e Ter) · Verão: qua–dom 10h–14h e 17h–21h. Inverno: qua–dom 10h–18h. Fecha segundas e terças."
     },
     "mapQuery": "Castillo Monumento Colomares, Finca la Carraca, Benalmádena Pueblo",
     "links": [
@@ -4453,10 +4753,14 @@ export const extraAttractions: Attraction[] = [
     "durationLabel": "45min–1h",
     "fit": "CLEAR_SKY",
     "hours": {
-      "openDays": "Ter–Dom (fecha Seg)",
+      "openDays": [
+        1,
+        2,
+        7
+      ],
       "openHour": 10,
       "closeHour": 18,
-      "note": "Ter–sex 10h–14h; sáb, dom e feriados 10h–18h. Fecha às segundas (salvo feriados). Entrada gratuita."
+      "note": "Ter–Dom (fecha Seg) · Ter–sex 10h–14h; sáb, dom e feriados 10h–18h. Fecha às segundas (salvo feriados). Entrada gratuita."
     },
     "mapQuery": "Castillo Sohail, Fuengirola, Málaga",
     "history": "Ergueu-se por volta do ano 956 sobre um assentamento fenício e romano. Disputado por muçulmanos e cristãos, viu passar as tropas dos Reis Católicos e, séculos depois, as batalhas napoleônicas antes de virar palco cultural.",
@@ -4487,10 +4791,13 @@ export const extraAttractions: Attraction[] = [
     "durationLabel": "45min–1h",
     "fit": "INDOOR",
     "hours": {
-      "openDays": "Seg–Dom (varia por turno)",
+      "openDays": [
+        1,
+        7
+      ],
       "openHour": 10,
       "closeHour": 22,
-      "note": "Manhãs: seg–sex 10h–14h; sáb e dom 11h–14h. Tardes: qua, qui e sex 17h–22h. Última entrada 20 min antes."
+      "note": "Seg–Dom (varia por turno) · Manhãs: seg–sex 10h–14h; sáb e dom 11h–14h. Tardes: qua, qui e sex 17h–22h. Última entrada 20 min antes."
     },
     "mapQuery": "Museo del Grabado Español Contemporáneo, Calle Hospital Bazán, Marbella",
     "links": [
@@ -4520,10 +4827,15 @@ export const extraAttractions: Attraction[] = [
     "durationLabel": "1h–1h30",
     "fit": "INDOOR",
     "hours": {
-      "openDays": "Ter–Sáb (fecha Dom e Seg)",
+      "openDays": [
+        1,
+        2,
+        6,
+        7
+      ],
       "openHour": 10,
       "closeHour": 17,
-      "note": "Ter–sex 10h–17h; sáb 10h–16h. Fecha domingos e segundas. Entrada gratuita."
+      "note": "Ter–Sáb (fecha Dom e Seg) · Ter–sex 10h–17h; sáb 10h–16h. Fecha domingos e segundas. Entrada gratuita."
     },
     "mapQuery": "Museo Ralli Marbella, Urbanización Coral Beach, Marbella",
     "links": [
@@ -4553,10 +4865,15 @@ export const extraAttractions: Attraction[] = [
     "durationLabel": "45min–1h",
     "fit": "INDOOR",
     "hours": {
-      "openDays": "Qua–Dom (fecha Seg e Ter)",
+      "openDays": [
+        1,
+        2,
+        3,
+        7
+      ],
       "openHour": 9,
       "closeHour": 19,
-      "note": "Qua–sáb 9h30–13h30 e 17h–19h; dom e feriados 10h–14h. Fecha segundas e terças. Entrada gratuita."
+      "note": "Qua–Dom (fecha Seg e Ter) · Qua–sáb 9h30–13h30 e 17h–19h; dom e feriados 10h–14h. Fecha segundas e terças. Entrada gratuita."
     },
     "mapQuery": "Museo de Arte Precolombino Felipe Orlando, Plaza de las Tres Culturas, Benalmádena Pueblo",
     "links": [
@@ -4586,10 +4903,9 @@ export const extraAttractions: Attraction[] = [
     "durationLabel": "1h–1h30",
     "fit": "INDOOR",
     "hours": {
-      "openDays": "Todos os dias",
       "openHour": 10,
       "closeHour": 19,
-      "note": "Inverno (7/set–24/jun): seg 10h–16h, ter–dom 10h–19h. Verão (25/jun–6/set): seg 10h30–16h, ter–dom 10h30–19h30."
+      "note": "Todos os dias · Inverno (7/set–24/jun): seg 10h–16h, ter–dom 10h–19h. Verão (25/jun–6/set): seg 10h30–16h, ter–dom 10h30–19h30."
     },
     "mapQuery": "MIMMA Museo Interactivo de la Música, Calle Beatas 15, Málaga",
     "links": [
@@ -4619,10 +4935,14 @@ export const extraAttractions: Attraction[] = [
     "durationLabel": "45min–1h",
     "fit": "INDOOR",
     "hours": {
-      "openDays": "Ter–Dom (fecha Seg)",
+      "openDays": [
+        1,
+        2,
+        7
+      ],
       "openHour": 9,
       "closeHour": 21,
-      "note": "Inverno (16/set–15/jun): ter–sáb 9h–21h, dom e feriados 9h–15h. Verão (16/jun–15/set): ter–dom e feriados 9h–15h. Fecha às segundas."
+      "note": "Ter–Dom (fecha Seg) · Inverno (16/set–15/jun): ter–sáb 9h–21h, dom e feriados 9h–15h. Verão (16/jun–15/set): ter–dom e feriados 9h–15h. Fecha às segundas."
     },
     "mapQuery": "Museo Casa de los Tiros, Calle Pavaneras 19, Granada",
     "links": [
@@ -4652,10 +4972,13 @@ export const extraAttractions: Attraction[] = [
     "durationLabel": "30–45min",
     "fit": "CLEAR_SKY",
     "hours": {
-      "openDays": "Seg–Sex (dias úteis)",
+      "openDays": [
+        1,
+        5
+      ],
       "openHour": 9,
       "closeHour": 20,
-      "note": "Acesso a pátios e exposições em geral seg–sex em horário universitário. Fins de semana e agosto podem ter acesso restrito; confirme antes."
+      "note": "Seg–Sex (dias úteis) · Acesso a pátios e exposições em geral seg–sex em horário universitário. Fins de semana e agosto podem ter acesso restrito; confirme antes."
     },
     "mapQuery": "Hospital Real, Avenida del Hospicio, Granada",
     "history": "Fundado em 1504 por ordem de Isabel e Fernando para acolher doentes e peregrinos, levou mais de um século para ser concluído. Passou por usos diversos até ser cedido, em 1971, à Universidade de Granada.",
@@ -4686,10 +5009,14 @@ export const extraAttractions: Attraction[] = [
     "durationLabel": "45min–1h",
     "fit": "INDOOR",
     "hours": {
-      "openDays": "Ter–Dom (fecha Seg)",
+      "openDays": [
+        1,
+        2,
+        7
+      ],
       "openHour": 10,
       "closeHour": 20,
-      "note": "Verão (16/jun–15/set): ter–dom e feriados 10h–17h. Inverno: ter–sáb 10h–20h30, dom e feriados 10h–17h. Fecha às segundas."
+      "note": "Ter–Dom (fecha Seg) · Verão (16/jun–15/set): ter–dom e feriados 10h–17h. Inverno: ter–sáb 10h–20h30, dom e feriados 10h–17h. Fecha às segundas."
     },
     "mapQuery": "Museo Julio Romero de Torres, Plaza del Potro, Córdoba",
     "links": [
@@ -4719,10 +5046,14 @@ export const extraAttractions: Attraction[] = [
     "durationLabel": "45min–1h",
     "fit": "INDOOR",
     "hours": {
-      "openDays": "Ter–Dom (fecha Seg)",
+      "openDays": [
+        1,
+        2,
+        7
+      ],
       "openHour": 11,
       "closeHour": 18,
-      "note": "Terça a domingo 11h–18h. Fecha às segundas. Confira no site os concertos de música sefardita."
+      "note": "Ter–Dom (fecha Seg) · Terça a domingo 11h–18h. Fecha às segundas. Confira no site os concertos de música sefardita."
     },
     "mapQuery": "Casa de Sefarad, Calle Judíos esquina Averroes, Córdoba",
     "links": [
@@ -4745,14 +5076,20 @@ export const extraAttractions: Attraction[] = [
     "durationLabel": "almoço 1h30",
     "fit": "CLEAR_SKY",
     "mapQuery": "El Tintero II, Avenida Salvador Allende 340, El Palo, Málaga",
-    "whatToDo": "Sente-se na esplanada de frente para o mar e vá levantando a mão conforme passam os pratos de fritura, chopitos e espetos; deixe a conta por conta dos pratos vazios.",
+    "whatToDo": [
+      "Sente-se na esplanada de frente para o mar e vá levantando a mão conforme passam os pratos de fritura, chopitos e espetos",
+      "deixe a conta por conta dos pratos vazios"
+    ],
     "kingTip": "Não se reserva e não há carta: chegue cedo no almoço de verão e fique atento ao garçom que passa gritando o prato que você quer. Só dinheiro em algumas mesas: leve trocado.",
     "priceLevel": "€€",
     "hours": {
-      "openDays": "Seg-Dom",
-      "openHour": "12:30",
-      "closeHour": "23:30",
-      "note": "Horário amplo em temporada; almoço é o auge da subasta"
+      "openDays": [
+        1,
+        7
+      ],
+      "openHour": 12,
+      "closeHour": 23,
+      "note": "Seg-Dom · Horário amplo em temporada; almoço é o auge da subasta"
     },
     "history": "Nascido como merendero de praia em El Palo, o Tintero transformou o leilão de pratos numa tradição malaguenha única, hoje repetida por gerações de famílias aos fins de semana.",
     "image": "mlg_el_tintero.jpg"
@@ -4769,14 +5106,20 @@ export const extraAttractions: Attraction[] = [
     "durationLabel": "almoço/jantar 2h",
     "fit": "ANY",
     "mapQuery": "Restaurante Balausta, Hotel Palacio Solecio, Calle Granada 61, Málaga",
-    "whatToDo": "Peça os pratos de partilha da nova etapa de Dani Carnero e reserve mesa no pátio envidraçado do palácio; combine com harmonização de vinhos andaluzes.",
+    "whatToDo": [
+      "Peça os pratos de partilha da nova etapa de Dani Carnero e reserve mesa no pátio envidraçado do palácio",
+      "combine com harmonização de vinhos andaluzes"
+    ],
     "kingTip": "É a cozinha de autor de Dani Carnero em formato mais relaxado que o Kaleja. Sala pequena dentro do hotel: reserve com antecedência para o jantar de verão.",
     "priceLevel": "€€€€",
     "hours": {
-      "openDays": "Ter-Sáb",
-      "openHour": "13:30",
-      "closeHour": "22:30",
-      "note": "Dias podem variar; confirme na reserva"
+      "openDays": [
+        2,
+        6
+      ],
+      "openHour": 13,
+      "closeHour": 22,
+      "note": "Ter-Sáb · Dias podem variar; confirme na reserva"
     },
     "links": [
       {
@@ -4799,14 +5142,20 @@ export const extraAttractions: Attraction[] = [
     "durationLabel": "almoço/jantar 1h30-2h",
     "fit": "ANY",
     "mapQuery": "Óleo Restaurante, Calle Casas de Campos 4, Soho, Málaga",
-    "whatToDo": "Combine pratos de autor de raiz mediterrânea com uma seleção do sushi bar de Rui; ótimo para partilhar antes ou depois de visitar o CAC, ao lado.",
+    "whatToDo": [
+      "Combine pratos de autor de raiz mediterrânea com uma seleção do sushi bar de Rui",
+      "ótimo para partilhar antes ou depois de visitar o CAC, ao lado"
+    ],
     "kingTip": "A fusão mediterrânea-asiática e o sushi são o diferencial da casa. Bairro do Soho movimentado: reserve para o jantar de fim de semana.",
     "priceLevel": "€€€",
     "hours": {
-      "openDays": "Ter-Dom",
-      "openHour": "13:00",
-      "closeHour": "23:30",
-      "note": "Dias podem variar; confirme na reserva"
+      "openDays": [
+        2,
+        7
+      ],
+      "openHour": 13,
+      "closeHour": 23,
+      "note": "Ter-Dom · Dias podem variar; confirme na reserva"
     },
     "links": [
       {
@@ -4829,14 +5178,20 @@ export const extraAttractions: Attraction[] = [
     "durationLabel": "almoço/jantar 1h30-2h",
     "fit": "ANY",
     "mapQuery": "La Reserva 12, Calle Bolsa 12, Málaga",
-    "whatToDo": "Peça um arroz e uma carne vermelha na brasa para partilhar e escolha um vinho da adega; em dia de sol, sente-se na esplanada da Calle Bolsa.",
+    "whatToDo": [
+      "Peça um arroz e uma carne vermelha na brasa para partilhar e escolha um vinho da adega",
+      "em dia de sol, sente-se na esplanada da Calle Bolsa"
+    ],
     "kingTip": "Os arrozes e a seleção de vinhos são o forte. Localização central e muito procurada: reserve a esplanada para o almoço.",
     "priceLevel": "€€€",
     "hours": {
-      "openDays": "Seg-Dom",
-      "openHour": "13:00",
-      "closeHour": "23:30",
-      "note": "Aberto todos os dias em temporada; confirme"
+      "openDays": [
+        1,
+        7
+      ],
+      "openHour": 13,
+      "closeHour": 23,
+      "note": "Seg-Dom · Aberto todos os dias em temporada; confirme"
     },
     "links": [
       {
@@ -4859,14 +5214,20 @@ export const extraAttractions: Attraction[] = [
     "durationLabel": "almoço 1h30",
     "fit": "CLEAR_SKY",
     "mapQuery": "Chiringuito El Espeto Playa, Paseo de los Álamos, Playa Bajondillo, Torremolinos",
-    "whatToDo": "Peça o espeto de sardinhas assado na lenha e fritura malaguenha; sente-se na esplanada de frente para o Mediterrâneo ao meio-dia.",
+    "whatToDo": [
+      "Peça o espeto de sardinhas assado na lenha e fritura malaguenha",
+      "sente-se na esplanada de frente para o Mediterrâneo ao meio-dia"
+    ],
     "kingTip": "O espeto de sardinha assado na barca de lenha é a razão da visita. Chiringuito muito concorrido no verão: vá cedo no almoço para pegar mesa na areia.",
     "priceLevel": "€€",
     "hours": {
-      "openDays": "Seg-Dom",
-      "openHour": "12:00",
-      "closeHour": "23:00",
-      "note": "Sazonal e sujeito ao tempo; almoço é o forte"
+      "openDays": [
+        1,
+        7
+      ],
+      "openHour": 12,
+      "closeHour": 23,
+      "note": "Seg-Dom · Sazonal e sujeito ao tempo; almoço é o forte"
     },
     "history": "Na longa praia de Torremolinos, o espeto de sardinha na barca de lenha é uma herança dos antigos merenderos malaguenhos, mantida viva pelos chiringuitos do Bajondillo.",
     "image": "mrb_espeto_torremolinos.jpg"
@@ -4883,14 +5244,20 @@ export const extraAttractions: Attraction[] = [
     "durationLabel": "jantar 1h30-2h",
     "fit": "ANY",
     "mapQuery": "Casanis Bistrot, Calle Ancha 8, Casco Antiguo, Marbella",
-    "whatToDo": "Vá de menu com pratos franco-belgas reinterpretados e reserve mesa no charmoso casco antigo; ambiente intimista, ideal para uma noite a dois.",
+    "whatToDo": [
+      "Vá de menu com pratos franco-belgas reinterpretados e reserve mesa no charmoso casco antigo",
+      "ambiente intimista, ideal para uma noite a dois"
+    ],
     "kingTip": "Cozinha francesa criativa rara na zona. Casa pequena no centro histórico: reserve com antecedência, sobretudo aos fins de semana de verão.",
     "priceLevel": "€€€",
     "hours": {
-      "openDays": "Seg-Sáb",
-      "openHour": "19:00",
-      "closeHour": "23:30",
-      "note": "Serve sobretudo ao jantar; confirme na reserva"
+      "openDays": [
+        1,
+        6
+      ],
+      "openHour": 19,
+      "closeHour": 23,
+      "note": "Seg-Sáb · Serve sobretudo ao jantar; confirme na reserva"
     },
     "links": [
       {
@@ -4913,14 +5280,20 @@ export const extraAttractions: Attraction[] = [
     "durationLabel": "almoço/jantar 1h30-2h",
     "fit": "ANY",
     "mapQuery": "Restaurante Santiago, Paseo Marítimo esquina Gregorio Marañón 8, Marbella",
-    "whatToDo": "Peça o peixe do dia ao peso e uma seleção de marisco fresco; deixe o garçom sugerir a lonja do dia e sente-se de frente para o mar.",
+    "whatToDo": [
+      "Peça o peixe do dia ao peso e uma seleção de marisco fresco",
+      "deixe o garçom sugerir a lonja do dia e sente-se de frente para o mar"
+    ],
     "kingTip": "Peça o peixe fresco ao peso, a especialidade histórica da casa. Instituição muito procurada: reserve para o almoço de domingo.",
     "priceLevel": "€€€€",
     "hours": {
-      "openDays": "Seg-Dom",
-      "openHour": "13:00",
-      "closeHour": "23:30",
-      "note": "Aberto todos os dias em temporada; confirme"
+      "openDays": [
+        1,
+        7
+      ],
+      "openHour": 13,
+      "closeHour": 23,
+      "note": "Seg-Dom · Aberto todos os dias em temporada; confirme"
     },
     "links": [
       {
@@ -4943,14 +5316,20 @@ export const extraAttractions: Attraction[] = [
     "durationLabel": "jantar 2h",
     "fit": "ANY",
     "mapQuery": "Restaurante Oliva, Plaza de España, Nerja",
-    "whatToDo": "Opte pelo menu-degustação sazonal ou pela carta mediterrânea; peça mesa no terraço e combine com um passeio pelo Balcón de Europa, ao lado.",
+    "whatToDo": [
+      "Opte pelo menu-degustação sazonal ou pela carta mediterrânea",
+      "peça mesa no terraço e combine com um passeio pelo Balcón de Europa, ao lado"
+    ],
     "kingTip": "Recomendado Michelin ano após ano, com sala reduzida numa vila que lota em julho: reserve o jantar com antecedência.",
     "priceLevel": "€€€",
     "hours": {
-      "openDays": "Ter-Sáb",
-      "openHour": "13:30",
-      "closeHour": "22:30",
-      "note": "Dias podem variar; confirme na reserva"
+      "openDays": [
+        2,
+        6
+      ],
+      "openHour": 13,
+      "closeHour": 22,
+      "note": "Ter-Sáb · Dias podem variar; confirme na reserva"
     },
     "links": [
       {
@@ -4977,14 +5356,19 @@ export const extraAttractions: Attraction[] = [
     "durationLabel": "jantar 2-3h",
     "fit": "ANY",
     "mapQuery": "Restaurante Cala, Calle José Luis Pérez Pujadas, Granada",
-    "whatToDo": "Vá de menu-degustação único com harmonização de vinhos; a sala minúscula favorece a conversa com o chef, prato a prato.",
+    "whatToDo": [
+      "Vá de menu-degustação único com harmonização de vinhos",
+      "a sala minúscula favorece a conversa com o chef, prato a prato"
+    ],
     "kingTip": "Só quatro mesas: das reservas mais difíceis de Granada. Reserve com semanas de antecedência para o jantar de verão.",
     "priceLevel": "~€75/pessoa (est.)",
     "hours": {
-      "openDays": "Mié-Sáb",
-      "openHour": "13:30",
-      "closeHour": "22:30",
-      "note": "Dias podem variar; confirme na reserva"
+      "openDays": [
+        6
+      ],
+      "openHour": 13,
+      "closeHour": 22,
+      "note": "Mié-Sáb · Dias podem variar; confirme na reserva"
     },
     "links": [
       {
@@ -5011,14 +5395,19 @@ export const extraAttractions: Attraction[] = [
     "durationLabel": "almoço/jantar 1h30",
     "fit": "ANY",
     "mapQuery": "Garum 2.1, Calle San Fernando 122, Córdoba",
-    "whatToDo": "Peça o salmorejo de amontillado (melhor tapa de Córdoba num concurso) e o rabo de touro; formato de partilha, ótimo para provar vários pratos.",
+    "whatToDo": [
+      "Peça o salmorejo de amontillado (melhor tapa de Córdoba num concurso) e o rabo de touro",
+      "formato de partilha, ótimo para provar vários pratos"
+    ],
     "kingTip": "O salmorejo de amontillado é a assinatura premiada da casa. Bib Gourmand pequeno e muito procurado: reserve para o jantar.",
     "priceLevel": "€€€",
     "hours": {
-      "openDays": "Mar-Dom",
-      "openHour": "13:00",
-      "closeHour": "23:00",
-      "note": "Dias podem variar; confirme na reserva"
+      "openDays": [
+        7
+      ],
+      "openHour": 13,
+      "closeHour": 23,
+      "note": "Mar-Dom · Dias podem variar; confirme na reserva"
     },
     "links": [
       {
@@ -5045,14 +5434,19 @@ export const extraAttractions: Attraction[] = [
     "durationLabel": "almoço/jantar 2h",
     "fit": "ANY",
     "mapQuery": "Terra Olea, Calle Rigoberta Menchú 2, Córdoba",
-    "whatToDo": "Escolha um dos menus-degustação (Flos ou Cibarium), centrados na azeitona e no produto local; peça harmonização com azeites e vinhos da terra.",
+    "whatToDo": [
+      "Escolha um dos menus-degustação (Flos ou Cibarium), centrados na azeitona e no produto local",
+      "peça harmonização com azeites e vinhos da terra"
+    ],
     "kingTip": "Bib Gourmand com menus-degustação a preço justo. Fica fora do centro: vale o táxi curto e a reserva antecipada.",
     "priceLevel": "~€45/pessoa (est.)",
     "hours": {
-      "openDays": "Mar-Sáb",
-      "openHour": "13:30",
-      "closeHour": "22:30",
-      "note": "Dias podem variar; confirme na reserva"
+      "openDays": [
+        6
+      ],
+      "openHour": 13,
+      "closeHour": 22,
+      "note": "Mar-Sáb · Dias podem variar; confirme na reserva"
     },
     "links": [
       {
@@ -5095,10 +5489,9 @@ export const extraAttractions: Attraction[] = [
     "kingTip": "Fica na Carrera de la Virgen, alameda ideal para caminhar até a Fuente de las Batallas e o centro. Fecha nas horas de culto; visite pela manhã, fora dos horários de missa.",
     "priceLevel": "Gratuito",
     "hours": {
-      "openDays": "Todos os dias",
-      "openHour": "10:00",
-      "closeHour": "13:30",
-      "note": "Reabre à tarde; fecha durante missas. Grande devoção em setembro, mês da padroeira."
+      "openHour": 10,
+      "closeHour": 13,
+      "note": "Todos os dias · Reabre à tarde; fecha durante missas. Grande devoção em setembro, mês da padroeira."
     },
     "links": [
       {
@@ -5124,10 +5517,16 @@ export const extraAttractions: Attraction[] = [
     "kingTip": "A entrada aos jardins é gratuita e quase sempre deserta — um oásis à sombra no fim do Paseo de los Tristes, antes de subir ao Sacromonte. Suba até a base da torre para a melhor vista da Alhambra.",
     "priceLevel": "Gratuito",
     "hours": {
-      "openDays": "Seg a sex",
-      "openHour": "09:00",
-      "closeHour": "14:00",
-      "note": "Horário do Arquivo Municipal; jardins acessíveis em horário de expediente."
+      "openDays": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "openHour": 9,
+      "closeHour": 14,
+      "note": "Seg a sex · Horário do Arquivo Municipal; jardins acessíveis em horário de expediente."
     },
     "links": [
       {
@@ -5258,7 +5657,9 @@ export const extraAttractions: Attraction[] = [
     "durationLabel": "1,5–2 h (com trilha)",
     "fit": "CLEAR_SKY",
     "mapQuery": "Centro de Visitantes Torcal Alto, Antequera",
-    "whatToDo": "Comece no centro de visitantes, admire a vista do Mirador de las Ventanillas e percorra a Rota Verde (1,5 km) entre os pilares de calcário.",
+    "whatToDo": [
+      "Comece no centro de visitantes, admire a vista do Mirador de las Ventanillas e percorra a Rota Verde (1,5 km) entre os pilares de calcário"
+    ],
     "kingTip": "No verão, o acesso de carro à parte alta é restrito e há lançadeira a partir do posto inferior — chegue cedo. Leve água e calçado firme; a rocha é escorregadia. A serra fica bem mais fresca que Antequera lá embaixo.",
     "priceLevel": "Gratuito (lançadeira/estacionamento à parte)",
     "links": [
@@ -5852,7 +6253,8 @@ export const extraAttractions: Attraction[] = [
         "label": "Reservar (Booking)",
         "url": "https://www.booking.com/searchresults.pt-br.html?ss=Eurostars+Palace+Cordoba"
       }
-    ]
+    ],
+    "image": "crd_eurostars_palace.jpg"
   },
   {
     "id": "mrb_teleferico_benalmadena",
@@ -5870,17 +6272,17 @@ export const extraAttractions: Attraction[] = [
     "kingTip": "O teleférico fecha com vento forte e o cume fica bem mais fresco e ventoso que a costa: leve um casaco leve mesmo em julho, suba na primeira hora pela luz e confira antes se há voo de aves rapaces no dia.",
     "priceLevel": "€€€",
     "hours": {
-      "openDays": "Todos os dias (verão)",
-      "openHour": "10:00",
-      "closeHour": "19:00",
-      "note": "Horário do verão costuma esticar até o fim da tarde; confirme no site, pois muda por temporada e pode fechar por vento."
+      "openHour": 10,
+      "closeHour": 19,
+      "note": "Todos os dias (verão) · Horário do verão costuma esticar até o fim da tarde; confirme no site, pois muda por temporada e pode fechar por vento."
     },
     "links": [
       {
         "label": "Site oficial",
         "url": "https://www.telefericobenalmadena.com"
       }
-    ]
+    ],
+    "image": "mrb_teleferico_benalmadena.jpg"
   },
   {
     "id": "mrb_bioparc_fuengirola",
@@ -5897,17 +6299,17 @@ export const extraAttractions: Attraction[] = [
     "kingTip": "A vegetação densa dá bastante sombra, o que ajuda no calor, mas ainda assim vá na abertura às 10h para ver os animais ativos antes do meio-dia; fica a 600 m da estação de trem de Fuengirola.",
     "priceLevel": "€€€",
     "hours": {
-      "openDays": "Todos os dias",
-      "openHour": "10:00",
-      "closeHour": "20:00",
-      "note": "Abre todo o dia às 10h; o fechamento estica no verão (até 20h em maio–agosto). Confirme o horário do dia no site."
+      "openHour": 10,
+      "closeHour": 20,
+      "note": "Todos os dias · Abre todo o dia às 10h; o fechamento estica no verão (até 20h em maio–agosto). Confirme o horário do dia no site."
     },
     "links": [
       {
         "label": "Site oficial",
         "url": "https://www.bioparcfuengirola.es"
       }
-    ]
+    ],
+    "image": "mrb_bioparc_fuengirola.jpg"
   },
   {
     "id": "mrb_selwo_aventura",
@@ -5924,17 +6326,17 @@ export const extraAttractions: Attraction[] = [
     "kingTip": "O terreno é aberto e serrano, com pouca sombra e muita subida: vá cedo, leve boné, protetor e água, e reserve o passeio de 4x4 e a tirolesa online para não pegar fila no calor.",
     "priceLevel": "€€€",
     "hours": {
-      "openDays": "Todos os dias (verão)",
-      "openHour": "10:00",
-      "closeHour": "18:00",
-      "note": "Abre às 10h; horário e dias podem variar fora do verão. Confirme no site antes de ir."
+      "openHour": 10,
+      "closeHour": 18,
+      "note": "Todos os dias (verão) · Abre às 10h; horário e dias podem variar fora do verão. Confirme no site antes de ir."
     },
     "links": [
       {
         "label": "Site oficial",
         "url": "https://www.selwo.es"
       }
-    ]
+    ],
+    "image": "mrb_selwo_aventura.jpg"
   },
   {
     "id": "mrb_selwo_marina",
@@ -5951,17 +6353,17 @@ export const extraAttractions: Attraction[] = [
     "kingTip": "Chegue cedo e cheque o quadro de horários logo na entrada para encaixar as apresentações de golfinhos e pinguins sem correria; boa opção de dia nublado ou muito quente, por ter áreas cobertas e climatizadas.",
     "priceLevel": "€€€",
     "hours": {
-      "openDays": "Todos os dias (verão)",
-      "openHour": "10:00",
-      "closeHour": "18:00",
-      "note": "Abre às 10h no verão; dias e horários variam por temporada. Confirme no site."
+      "openHour": 10,
+      "closeHour": 18,
+      "note": "Todos os dias (verão) · Abre às 10h no verão; dias e horários variam por temporada. Confirme no site."
     },
     "links": [
       {
         "label": "Site oficial",
         "url": "https://www.selwomarina.es"
       }
-    ]
+    ],
+    "image": "mrb_selwo_marina.jpg"
   },
   {
     "id": "mrb_sea_life_benalmadena",
@@ -5978,17 +6380,17 @@ export const extraAttractions: Attraction[] = [
     "kingTip": "Totalmente coberto e climatizado, é o refúgio ideal nas horas de sol mais forte ou em dia de vento; emende com um passeio pelo Puerto Marina e reserve online para poupar até 20% e evitar fila.",
     "priceLevel": "€€",
     "hours": {
-      "openDays": "Todos os dias",
-      "openHour": "10:00",
-      "closeHour": "19:00",
-      "note": "Última entrada cerca de 1h antes do fechamento; horário estica no verão. Confirme no site."
+      "openHour": 10,
+      "closeHour": 19,
+      "note": "Todos os dias · Última entrada cerca de 1h antes do fechamento; horário estica no verão. Confirme no site."
     },
     "links": [
       {
         "label": "Site oficial",
         "url": "https://www.visitsealife.com/benalmadena"
       }
-    ]
+    ],
+    "image": "mrb_sea_life_benalmadena.jpg"
   },
   {
     "id": "mrb_cocodrilos_park",
@@ -6005,17 +6407,17 @@ export const extraAttractions: Attraction[] = [
     "kingTip": "Compacto e com boa parte à sombra e coberta, é uma parada rápida e boa até com tempo instável; confira o horário da alimentação dos crocodilos, o momento mais movimentado da visita, e há estacionamento próprio grátis.",
     "priceLevel": "€€",
     "hours": {
-      "openDays": "Todos os dias (verão)",
-      "openHour": "10:00",
-      "closeHour": "18:00",
-      "note": "Jul–ago costuma abrir 10:00–18:00; nos demais meses fecha mais cedo. Confirme no site."
+      "openHour": 10,
+      "closeHour": 18,
+      "note": "Todos os dias (verão) · Jul–ago costuma abrir 10:00–18:00; nos demais meses fecha mais cedo. Confirme no site."
     },
     "links": [
       {
         "label": "Site oficial",
         "url": "https://www.cocodrilospark.com"
       }
-    ]
+    ],
+    "image": "mrb_cocodrilos_park.jpg"
   },
   {
     "id": "mlg_embalse_guadalhorce",
@@ -6037,7 +6439,8 @@ export const extraAttractions: Attraction[] = [
         "label": "Diputación de Málaga",
         "url": "https://www.malaga.es/es/laprovincia/naturaleza/lis_cd-17018/pantano-conde-guadalhorce"
       }
-    ]
+    ],
+    "image": "mlg_embalse_guadalhorce.jpg"
   },
   {
     "id": "mrb_parque_paloma",
@@ -6053,7 +6456,8 @@ export const extraAttractions: Attraction[] = [
     "windSensitive": false,
     "mapQuery": "Parque de la Paloma, Benalmádena Costa",
     "kingTip": "Entrada gratuita e muita sombra de árvores: perfeito para o fim da tarde com crianças, levando pão ou ração própria para os animais soltos, e emendando com um banho na praia de Santa Ana ao lado.",
-    "priceLevel": "€"
+    "priceLevel": "€",
+    "image": "mrb_parque_paloma.jpg"
   },
   {
     "id": "mrb_los_reales_bermeja",
@@ -6075,7 +6479,8 @@ export const extraAttractions: Attraction[] = [
         "label": "Estepona Natural",
         "url": "https://www.estepona-natural.es"
       }
-    ]
+    ],
+    "image": "mrb_los_reales_bermeja.jpg"
   },
   {
     "id": "rnd_garganta_verde",
@@ -6097,7 +6502,8 @@ export const extraAttractions: Attraction[] = [
         "label": "Cádiz Turismo",
         "url": "https://www.cadizturismo.com/rutas/sendero-garganta-verde"
       }
-    ]
+    ],
+    "image": "rnd_garganta_verde.jpg"
   },
   {
     "id": "mrb_carihuela",
@@ -6113,7 +6519,8 @@ export const extraAttractions: Attraction[] = [
     "windSensitive": false,
     "mapQuery": "Playa de la Carihuela, Torremolinos",
     "kingTip": "Reserve o almoço num chiringuito da Carihuela e peça o espeto de sardinha assado na barca de brasa: é aqui que muitos malaguenhos juram estar o melhor da costa.",
-    "whereToEat": "Chiringuitos clássicos da orla da Carihuela, como El Roqueo e La Chana, especialistas em peixe fresco e frituras."
+    "whereToEat": "Chiringuitos clássicos da orla da Carihuela, como El Roqueo e La Chana, especialistas em peixe fresco e frituras.",
+    "image": "mrb_carihuela.jpg"
   },
   {
     "id": "mrb_bajondillo",
@@ -6128,7 +6535,8 @@ export const extraAttractions: Attraction[] = [
     "fit": "CLEAR_SKY",
     "windSensitive": false,
     "mapQuery": "Playa El Bajondillo, Torremolinos",
-    "kingTip": "Para evitar a ladeira, use o elevador gratuito da Praça Panorama, que desce direto do centro à areia."
+    "kingTip": "Para evitar a ladeira, use o elevador gratuito da Praça Panorama, que desce direto do centro à areia.",
+    "image": "mrb_bajondillo.jpg"
   },
   {
     "id": "mrb_malapesquera",
@@ -6142,7 +6550,8 @@ export const extraAttractions: Attraction[] = [
     "durationLabel": "meia diária",
     "fit": "CLEAR_SKY",
     "windSensitive": false,
-    "mapQuery": "Playa de Malapesquera, Benalmádena"
+    "mapQuery": "Playa de Malapesquera, Benalmádena",
+    "image": "mrb_malapesquera.jpg"
   },
   {
     "id": "mrb_santa_ana",
@@ -6156,7 +6565,8 @@ export const extraAttractions: Attraction[] = [
     "durationLabel": "meia diária",
     "fit": "CLEAR_SKY",
     "windSensitive": false,
-    "mapQuery": "Playa de Santa Ana, Benalmádena"
+    "mapQuery": "Playa de Santa Ana, Benalmádena",
+    "image": "mrb_santa_ana.jpg"
   },
   {
     "id": "mrb_fuente_salud",
@@ -6170,7 +6580,8 @@ export const extraAttractions: Attraction[] = [
     "durationLabel": "meia diária",
     "fit": "CLEAR_SKY",
     "windSensitive": false,
-    "mapQuery": "Playa Fuente de la Salud, Benalmádena"
+    "mapQuery": "Playa Fuente de la Salud, Benalmádena",
+    "image": "mrb_fuente_salud.jpg"
   },
   {
     "id": "mrb_los_boliches",
@@ -6185,7 +6596,8 @@ export const extraAttractions: Attraction[] = [
     "fit": "CLEAR_SKY",
     "windSensitive": false,
     "mapQuery": "Playa de Los Boliches, Fuengirola",
-    "kingTip": "Chegue de trem: a estação Los Boliches da linha C-1 de Cercanías deixa você a poucos minutos a pé da areia, sem dor de cabeça com estacionamento."
+    "kingTip": "Chegue de trem: a estação Los Boliches da linha C-1 de Cercanías deixa você a poucos minutos a pé da areia, sem dor de cabeça com estacionamento.",
+    "image": "mrb_los_boliches.jpg"
   },
   {
     "id": "mrb_castillo_sohail",
@@ -6200,7 +6612,8 @@ export const extraAttractions: Attraction[] = [
     "fit": "CLEAR_SKY",
     "windSensitive": false,
     "mapQuery": "Playa del Castillo, Fuengirola",
-    "kingTip": "Suba ao castelo de Sohail no fim da tarde: a muralha no alto da colina emoldura o pôr do sol sobre toda a Costa del Sol."
+    "kingTip": "Suba ao castelo de Sohail no fim da tarde: a muralha no alto da colina emoldura o pôr do sol sobre toda a Costa del Sol.",
+    "image": "mrb_castillo_sohail.jpg"
   },
   {
     "id": "mrb_bajadilla",
@@ -6215,7 +6628,8 @@ export const extraAttractions: Attraction[] = [
     "fit": "CLEAR_SKY",
     "windSensitive": false,
     "mapQuery": "Playa de la Bajadilla, Marbella",
-    "whereToEat": "Marisquerias junto ao porto pesqueiro da Bajadilla, com peixe e frutos do mar do dia."
+    "whereToEat": "Marisquerias junto ao porto pesqueiro da Bajadilla, com peixe e frutos do mar do dia.",
+    "image": "mrb_bajadilla.jpg"
   },
   {
     "id": "mrb_siroko_beach",
@@ -6236,7 +6650,8 @@ export const extraAttractions: Attraction[] = [
         "label": "Site oficial do Siroko Beach",
         "url": "https://sirokobeach.com/"
       }
-    ]
+    ],
+    "image": "mrb_siroko_beach.jpg"
   },
   {
     "id": "mrb_nao_pool_club",
@@ -6257,7 +6672,8 @@ export const extraAttractions: Attraction[] = [
         "label": "Site oficial do Naô Pool Club",
         "url": "https://naopoolclub.com/"
       }
-    ]
+    ],
+    "image": "mrb_nao_pool_club.jpg"
   },
   {
     "id": "mrb_purobeach",
@@ -6278,7 +6694,8 @@ export const extraAttractions: Attraction[] = [
         "label": "Site oficial do Purobeach",
         "url": "https://www.purobeach.com/en/"
       }
-    ]
+    ],
+    "image": "mrb_purobeach.jpg"
   },
   {
     "id": "mlg_casa_lola",
@@ -6295,10 +6712,9 @@ export const extraAttractions: Attraction[] = [
     "kingTip": "Peça o pincho de tortilla cremosa e o vermute de torneira, a dupla que os malaguenhos repetem no aperitivo.",
     "priceLevel": "€€",
     "hours": {
-      "openDays": "Todos os dias",
-      "openHour": "12:00",
-      "closeHour": "00:00",
-      "note": "Costuma lotar no fim da tarde; há outras casas do grupo pela cidade (Strachan e porto)."
+      "openHour": 12,
+      "closeHour": 0,
+      "note": "Todos os dias · Costuma lotar no fim da tarde; há outras casas do grupo pela cidade (Strachan e porto)."
     },
     "links": [
       {
@@ -6323,10 +6739,13 @@ export const extraAttractions: Attraction[] = [
     "kingTip": "Peça os boquerones fritos premiados e uma taça de moscatel seco, direto no balcão do mercado.",
     "priceLevel": "€€",
     "hours": {
-      "openDays": "Seg–Sáb",
-      "openHour": "10:00",
-      "closeHour": "16:00",
-      "note": "Segue o horário do mercado; fecha à tarde e aos domingos. Melhor pela manhã e no aperitivo do meio-dia."
+      "openDays": [
+        1,
+        6
+      ],
+      "openHour": 10,
+      "closeHour": 16,
+      "note": "Seg–Sáb · Segue o horário do mercado; fecha à tarde e aos domingos. Melhor pela manhã e no aperitivo do meio-dia."
     },
     "image": "mlg_el_yerno.jpg"
   },
@@ -6345,11 +6764,11 @@ export const extraAttractions: Attraction[] = [
     "kingTip": "Peça o carpaccio da casa, a tapa que consagrou o balcão, acompanhado de uma taça de tinto.",
     "priceLevel": "€€",
     "hours": {
-      "openDays": "Todos os dias",
-      "openHour": "13:00",
-      "closeHour": "23:30",
-      "note": "Espaço pequeno; reserve nos fins de semana. Confirme o dia de descanso na baixa temporada."
-    }
+      "openHour": 13,
+      "closeHour": 23,
+      "note": "Todos os dias · Espaço pequeno; reserve nos fins de semana. Confirme o dia de descanso na baixa temporada."
+    },
+    "image": "mlg_barra_zapata.jpg"
   },
   {
     "id": "mlg_gorki",
@@ -6366,17 +6785,17 @@ export const extraAttractions: Attraction[] = [
     "kingTip": "Peça uma tábua de queijos e ibéricos com um vinho da carta, o forte da casa desde os tempos de loja gourmet.",
     "priceLevel": "€€",
     "hours": {
-      "openDays": "Todos os dias",
-      "openHour": "12:00",
-      "closeHour": "00:00",
-      "note": "Terraço disputado nos fins de semana; há uma segunda casa no porto (Muelle Uno)."
+      "openHour": 12,
+      "closeHour": 0,
+      "note": "Todos os dias · Terraço disputado nos fins de semana; há uma segunda casa no porto (Muelle Uno)."
     },
     "links": [
       {
         "label": "Site oficial",
         "url": "https://www.grupogorki.es"
       }
-    ]
+    ],
+    "image": "mlg_gorki.jpg"
   },
   {
     "id": "cor_bodega_guzman",
@@ -6393,10 +6812,13 @@ export const extraAttractions: Attraction[] = [
     "kingTip": "Peça um fino Amargoso do tonel com berinjelas em conserva ou chorizo ao vinho, a experiência mais autêntica da Judería.",
     "priceLevel": "€",
     "hours": {
-      "openDays": "Sex–Qua",
-      "openHour": "12:30",
-      "closeHour": "16:00",
-      "note": "Reabre à noite (20h–00h); fecha às quintas e à tarde entre serviços. Só dinheiro em muitas ocasiões."
+      "openDays": [
+        3,
+        5
+      ],
+      "openHour": 12,
+      "closeHour": 16,
+      "note": "Sex–Qua · Reabre à noite (20h–00h); fecha às quintas e à tarde entre serviços. Só dinheiro em muitas ocasiões."
     }
   },
   {
@@ -6414,10 +6836,9 @@ export const extraAttractions: Attraction[] = [
     "kingTip": "Peça o bacalhau em qualquer versão da casa e o salmorejo cordovês, sentado no pátio de colunas.",
     "priceLevel": "€€",
     "hours": {
-      "openDays": "Todos os dias",
-      "openHour": "13:00",
-      "closeHour": "23:30",
-      "note": "Fecha à tarde entre serviços; oferece opções sem glúten e vegetarianas. Confirme o descanso semanal."
+      "openHour": 13,
+      "closeHour": 23,
+      "note": "Todos os dias · Fecha à tarde entre serviços; oferece opções sem glúten e vegetarianas. Confirme o descanso semanal."
     },
     "links": [
       {
@@ -6441,10 +6862,9 @@ export const extraAttractions: Attraction[] = [
     "kingTip": "Peça uma taça e deixe o dono sugerir a tapa que combina; em Granada ela vem grátis com a bebida.",
     "priceLevel": "€€",
     "hours": {
-      "openDays": "Todos os dias",
-      "openHour": "12:30",
-      "closeHour": "23:30",
-      "note": "Espaço muito pequeno; costuma lotar à noite. Fecha à tarde entre serviços."
+      "openHour": 12,
+      "closeHour": 23,
+      "note": "Todos os dias · Espaço muito pequeno; costuma lotar à noite. Fecha à tarde entre serviços."
     },
     "links": [
       {
@@ -6468,10 +6888,9 @@ export const extraAttractions: Attraction[] = [
     "kingTip": "A tapa vem grátis com a bebida; no verão peça os caracoles em caldo picante, a especialidade da casa.",
     "priceLevel": "€",
     "hours": {
-      "openDays": "Todos os dias",
-      "openHour": "12:00",
-      "closeHour": "23:30",
-      "note": "Os caracoles são sazonais (fim da primavera e verão); a subida ao Albaicín é íngreme."
+      "openHour": 12,
+      "closeHour": 23,
+      "note": "Todos os dias · Os caracoles são sazonais (fim da primavera e verão); a subida ao Albaicín é íngreme."
     }
   },
   {
@@ -6489,10 +6908,9 @@ export const extraAttractions: Attraction[] = [
     "kingTip": "Peça o pescaíto frito em azeite bem quente, a especialidade da casa, à sombra da buganvília.",
     "priceLevel": "€€",
     "hours": {
-      "openDays": "Todos os dias",
-      "openHour": "12:30",
-      "closeHour": "23:30",
-      "note": "Muito procurado no verão; as mesas sob a buganvília são as mais disputadas."
+      "openHour": 12,
+      "closeHour": 23,
+      "note": "Todos os dias · Muito procurado no verão; as mesas sob a buganvília são as mais disputadas."
     },
     "links": [
       {
@@ -6516,10 +6934,9 @@ export const extraAttractions: Attraction[] = [
     "kingTip": "Guarde os palitos: a conta sai pelo número de pintxos consumidos; peça também os quentes na hora.",
     "priceLevel": "€€",
     "hours": {
-      "openDays": "Todos os dias",
-      "openHour": "12:00",
-      "closeHour": "23:30",
-      "note": "Na Costa del Sol central (Fuengirola); enche na hora do aperitivo. Há casas do mesmo conceito em Marbella."
+      "openHour": 12,
+      "closeHour": 23,
+      "note": "Todos os dias · Na Costa del Sol central (Fuengirola); enche na hora do aperitivo. Há casas do mesmo conceito em Marbella."
     }
   },
   {
@@ -6537,10 +6954,9 @@ export const extraAttractions: Attraction[] = [
     "kingTip": "Peça o pescaíto frito com uma taça do moscatel da casa, o Quitapenas, descendo para o Bajondillo.",
     "priceLevel": "€€",
     "hours": {
-      "openDays": "Todos os dias",
-      "openHour": "11:00",
-      "closeHour": "23:00",
-      "note": "Na Costa del Sol central (Torremolinos); a ladeira leva direto à praia do Bajondillo."
+      "openHour": 11,
+      "closeHour": 23,
+      "note": "Todos os dias · Na Costa del Sol central (Torremolinos); a ladeira leva direto à praia do Bajondillo."
     }
   },
   {
@@ -7235,10 +7651,9 @@ export const extraAttractions: Attraction[] = [
     "kingTip": "Suba antes do pôr do sol e peça um gin-tônica de autor no parapeito voltado para a catedral; nos fins de semana vale reservar mesa.",
     "priceLevel": "€€€ (coquetel ~€14 est.)",
     "hours": {
-      "openDays": "Todos os dias",
-      "openHour": "13:00",
-      "closeHour": "01:00",
-      "note": "Aberto ao público, não só a hóspedes. Horários encurtam fora da alta temporada; confirme na hora."
+      "openHour": 13,
+      "closeHour": 1,
+      "note": "Todos os dias · Aberto ao público, não só a hóspedes. Horários encurtam fora da alta temporada; confirme na hora."
     }
   },
   {
@@ -7256,10 +7671,9 @@ export const extraAttractions: Attraction[] = [
     "kingTip": "Peça um coquetel de autor da carta e garanta lugar no lado voltado para a catedral, o melhor ângulo da casa.",
     "priceLevel": "€€€ (coquetel ~€14 est.)",
     "hours": {
-      "openDays": "Todos os dias",
-      "openHour": "13:00",
-      "closeHour": "01:00",
-      "note": "Terraço disputado ao entardecer; reserve nos fins de semana. Confirme os horários na baixa temporada."
+      "openHour": 13,
+      "closeHour": 1,
+      "note": "Todos os dias · Terraço disputado ao entardecer; reserve nos fins de semana. Confirme os horários na baixa temporada."
     },
     "links": [
       {
@@ -7283,10 +7697,9 @@ export const extraAttractions: Attraction[] = [
     "kingTip": "Peça um coquetel e fique no nível superior voltado para a Alcazaba iluminada; o pôr do sol sobre a fortaleza é o momento a não perder.",
     "priceLevel": "€€€ (coquetel ~€13 est.)",
     "hours": {
-      "openDays": "Todos os dias",
-      "openHour": "13:00",
-      "closeHour": "00:00",
-      "note": "Terraço pequeno e muito procurado; reserve no verão. Horários variam com a estação."
+      "openHour": 13,
+      "closeHour": 0,
+      "note": "Todos os dias · Terraço pequeno e muito procurado; reserve no verão. Horários variam com a estação."
     },
     "links": [
       {
@@ -7310,10 +7723,9 @@ export const extraAttractions: Attraction[] = [
     "kingTip": "Entre pela recepção do hotel na Calle Larios e suba de elevador; peça a mesa junto ao parapeito com vista para a catedral.",
     "priceLevel": "€€€ (coquetel ~€14 est.)",
     "hours": {
-      "openDays": "Todos os dias",
-      "openHour": "14:00",
-      "closeHour": "02:00",
-      "note": "Fecha mais cedo de domingo a quinta (por volta de 00:30–01:00). Aberto ao público, walk-ins bem-vindos."
+      "openHour": 14,
+      "closeHour": 2,
+      "note": "Todos os dias · Fecha mais cedo de domingo a quinta (por volta de 00:30–01:00). Aberto ao público, walk-ins bem-vindos."
     }
   },
   {
@@ -7331,10 +7743,9 @@ export const extraAttractions: Attraction[] = [
     "kingTip": "Deixe o bartender guiar pela carta-herbário em vez de escolher às cegas; chegue cedo, pois não há reservas e enche rápido.",
     "priceLevel": "€€€ (coquetel ~€12 est.)",
     "hours": {
-      "openDays": "Todos os dias",
-      "openHour": "18:00",
-      "closeHour": "02:00",
-      "note": "Não aceita reservas. Espaço pequeno e intimista; confirme o dia de descanso na baixa temporada."
+      "openHour": 18,
+      "closeHour": 2,
+      "note": "Todos os dias · Não aceita reservas. Espaço pequeno e intimista; confirme o dia de descanso na baixa temporada."
     },
     "links": [
       {
@@ -7358,10 +7769,13 @@ export const extraAttractions: Attraction[] = [
     "kingTip": "Reserve mesa com serviço de garrafa com antecedência e respeite o dress code (nada de bermuda ou chinelo); a casa costuma abrir só depois da meia-noite.",
     "priceLevel": "€€€",
     "hours": {
-      "openDays": "Qui–Sáb",
-      "openHour": "00:00",
-      "closeHour": "06:00",
-      "note": "Programação concentrada de quinta a sábado e no verão; funcionamento sazonal. Confirme a agenda antes de ir."
+      "openDays": [
+        4,
+        6
+      ],
+      "openHour": 0,
+      "closeHour": 6,
+      "note": "Qui–Sáb · Programação concentrada de quinta a sábado e no verão; funcionamento sazonal. Confirme a agenda antes de ir."
     },
     "links": [
       {
@@ -7385,10 +7799,13 @@ export const extraAttractions: Attraction[] = [
     "kingTip": "Fica fora do centro, na estrada de Istán: vá de táxi. Para garantir entrada nas noites cheias de agosto, reserve mesa antecipadamente.",
     "priceLevel": "€€€",
     "hours": {
-      "openDays": "Qua–Dom",
-      "openHour": "00:00",
-      "closeHour": "06:00",
-      "note": "Auge no verão; funcionamento sazonal e agenda variável. Dress code exigente; confirme a programação da semana."
+      "openDays": [
+        3,
+        7
+      ],
+      "openHour": 0,
+      "closeHour": 6,
+      "note": "Qua–Dom · Auge no verão; funcionamento sazonal e agenda variável. Dress code exigente; confirme a programação da semana."
     },
     "links": [
       {
@@ -7412,10 +7829,9 @@ export const extraAttractions: Attraction[] = [
     "kingTip": "O forte é a virada tarde-noite: reserve cama ou mesa e mire nos dias de festa temática, quando a casa ferve com DJ.",
     "priceLevel": "€€€ (coquetel ~€18 est.)",
     "hours": {
-      "openDays": "Todos os dias (temporada)",
-      "openHour": "11:00",
-      "closeHour": "00:00",
-      "note": "Fica em Elviria, a leste do centro de Marbella. Opera na temporada (primavera–outono); confirme calendário e eventos."
+      "openHour": 11,
+      "closeHour": 0,
+      "note": "Todos os dias (temporada) · Fica em Elviria, a leste do centro de Marbella. Opera na temporada (primavera–outono); confirme calendário e eventos."
     }
   },
   {
@@ -7433,10 +7849,9 @@ export const extraAttractions: Attraction[] = [
     "kingTip": "Peça um dos coquetéis de assinatura de Diego Cabrera ao entardecer; hotel só para adultos, ótimo para uma noite sem pressa a dois.",
     "priceLevel": "€€€ (coquetel ~€16 est.)",
     "hours": {
-      "openDays": "Todos os dias (temporada)",
-      "openHour": "13:00",
-      "closeHour": "01:00",
-      "note": "No centro de Marbella, junto à praia. Funciona na temporada; horários e agenda de DJ variam. Confirme antes."
+      "openHour": 13,
+      "closeHour": 1,
+      "note": "Todos os dias (temporada) · No centro de Marbella, junto à praia. Funciona na temporada; horários e agenda de DJ variam. Confirme antes."
     },
     "links": [
       {
@@ -7460,10 +7875,9 @@ export const extraAttractions: Attraction[] = [
     "kingTip": "Vá ao anoitecer para ver a Alhambra ganhar tons alaranjados; peça um coquetel e confira a agenda (flamenco às quartas, música ao vivo em outras noites).",
     "priceLevel": "€€€ (coquetel ~€13 est.)",
     "hours": {
-      "openDays": "Todos os dias (temporada)",
-      "openHour": "12:00",
-      "closeHour": "00:00",
-      "note": "Terraço sazonal, mais ativo de primavera a outono. Aberto ao público; confirme horários e programação."
+      "openHour": 12,
+      "closeHour": 0,
+      "note": "Todos os dias (temporada) · Terraço sazonal, mais ativo de primavera a outono. Aberto ao público; confirme horários e programação."
     },
     "links": [
       {
@@ -7487,10 +7901,9 @@ export const extraAttractions: Attraction[] = [
     "kingTip": "Peça um dos coquetéis de assinatura de Javier de las Muelas e garanta lugar no parapeito de frente para a Giralda; enche muito ao pôr do sol.",
     "priceLevel": "€€€ (coquetel ~€15 est.)",
     "hours": {
-      "openDays": "Todos os dias",
-      "openHour": "13:00",
-      "closeHour": "02:00",
-      "note": "Muito procurado ao entardecer; considere reservar. Horários encurtam fora da alta temporada."
+      "openHour": 13,
+      "closeHour": 2,
+      "note": "Todos os dias · Muito procurado ao entardecer; considere reservar. Horários encurtam fora da alta temporada."
     },
     "links": [
       {
@@ -7514,10 +7927,9 @@ export const extraAttractions: Attraction[] = [
     "kingTip": "Chegue perto do pôr do sol para pegar mesa de frente para a Giralda; o drink ali é mais sobre a vista do que sobre a coctelaria.",
     "priceLevel": "€€€ (coquetel ~€13 est.)",
     "hours": {
-      "openDays": "Todos os dias (temporada)",
-      "openHour": "17:00",
-      "closeHour": "00:00",
-      "note": "Terraço sazonal (primavera–outono) e dependente do tempo. Confirme abertura antes de subir."
+      "openHour": 17,
+      "closeHour": 0,
+      "note": "Todos os dias (temporada) · Terraço sazonal (primavera–outono) e dependente do tempo. Confirme abertura antes de subir."
     },
     "links": [
       {
@@ -7541,10 +7953,13 @@ export const extraAttractions: Attraction[] = [
     "kingTip": "Só funciona com menu-degustação e reserva antecipada; peça o pareamento de vinhos de Jerez, a grande especialidade da casa.",
     "priceLevel": "€€€€",
     "hours": {
-      "openDays": "Ter–Sáb",
-      "openHour": "13:30",
-      "closeHour": "22:30",
-      "note": "Fecha à tarde entre serviços e descansa dom/seg. Reserva obrigatória; confirme horários na alta temporada."
+      "openDays": [
+        2,
+        6
+      ],
+      "openHour": 13,
+      "closeHour": 22,
+      "note": "Ter–Sáb · Fecha à tarde entre serviços e descansa dom/seg. Reserva obrigatória; confirme horários na alta temporada."
     },
     "links": [
       {
@@ -7568,10 +7983,13 @@ export const extraAttractions: Attraction[] = [
     "kingTip": "Sem reserva, tente a barra da La Barra de Cañabota (Orfila 5); para o menu-degustação completo, reserve o restaurante principal com antecedência.",
     "priceLevel": "€€€–€€€€",
     "hours": {
-      "openDays": "Ter–Sáb",
-      "openHour": "13:30",
-      "closeHour": "23:00",
-      "note": "Fecha à tarde entre serviços e descansa dom/seg. Só peixe e marisco; confirme na reserva."
+      "openDays": [
+        2,
+        6
+      ],
+      "openHour": 13,
+      "closeHour": 23,
+      "note": "Ter–Sáb · Fecha à tarde entre serviços e descansa dom/seg. Só peixe e marisco; confirme na reserva."
     },
     "links": [
       {
@@ -7595,10 +8013,13 @@ export const extraAttractions: Attraction[] = [
     "kingTip": "Não é estrelado, mas entrega alta cozinha por preço mais amável: o menu \"100% Sevilla\" é a porta de entrada perfeita à despensa local.",
     "priceLevel": "€€€",
     "hours": {
-      "openDays": "Ter–Sáb",
-      "openHour": "13:30",
-      "closeHour": "23:00",
-      "note": "Fecha à tarde entre serviços e descansa dom/seg. Confirme dias e menus na reserva."
+      "openDays": [
+        2,
+        6
+      ],
+      "openHour": 13,
+      "closeHour": 23,
+      "note": "Ter–Sáb · Fecha à tarde entre serviços e descansa dom/seg. Confirme dias e menus na reserva."
     },
     "links": [
       {
@@ -7622,10 +8043,9 @@ export const extraAttractions: Attraction[] = [
     "kingTip": "Peça as espinacas con garbanzos e um fino; a conta é somada a giz na barra de madeira, como há séculos.",
     "priceLevel": "€€",
     "hours": {
-      "openDays": "Todos os dias",
-      "openHour": "13:00",
-      "closeHour": "01:30",
-      "note": "Costuma descansar às quartas em baixa temporada e enche muito à noite; confirme o dia de folga."
+      "openHour": 13,
+      "closeHour": 1,
+      "note": "Todos os dias · Costuma descansar às quartas em baixa temporada e enche muito à noite; confirme o dia de folga."
     },
     "links": [
       {
@@ -7649,10 +8069,9 @@ export const extraAttractions: Attraction[] = [
     "kingTip": "Peça uma tábua de jamón de Jabugo cortado à faca com um fino; as mesinhas da viela são disputadas, mas a barra rende mais conversa.",
     "priceLevel": "€€",
     "hours": {
-      "openDays": "Todos os dias",
-      "openHour": "10:00",
-      "closeHour": "00:00",
-      "note": "No coração turístico de Santa Cruz; costuma lotar no meio-dia e no fim da tarde."
+      "openHour": 10,
+      "closeHour": 0,
+      "note": "Todos os dias · No coração turístico de Santa Cruz; costuma lotar no meio-dia e no fim da tarde."
     },
     "links": [
       {
@@ -7676,10 +8095,13 @@ export const extraAttractions: Attraction[] = [
     "kingTip": "Peça o ovo sobre bolo de boletus com redução de Jerez, a tapa que ganhou prêmios; não aceita reserva na barra, chegue cedo.",
     "priceLevel": "€€",
     "hours": {
-      "openDays": "Ter–Dom",
-      "openHour": "12:30",
-      "closeHour": "23:30",
-      "note": "Descansa às segundas e fecha à tarde entre serviços; a barra não reserva e forma fila."
+      "openDays": [
+        2,
+        7
+      ],
+      "openHour": 12,
+      "closeHour": 23,
+      "note": "Ter–Dom · Descansa às segundas e fecha à tarde entre serviços; a barra não reserva e forma fila."
     }
   },
   {
@@ -7697,10 +8119,13 @@ export const extraAttractions: Attraction[] = [
     "kingTip": "Peça churros com chocolate quente no café da manhã; aqui, ao contrário de quase toda a Espanha, também se fritam churros à tarde.",
     "priceLevel": "€",
     "hours": {
-      "openDays": "Seg–Sáb",
-      "openHour": "07:30",
-      "closeHour": "21:00",
-      "note": "Costuma fechar aos domingos e no meio da tarde; melhor no café da manhã ou na merienda."
+      "openDays": [
+        1,
+        6
+      ],
+      "openHour": 7,
+      "closeHour": 21,
+      "note": "Seg–Sáb · Costuma fechar aos domingos e no meio da tarde; melhor no café da manhã ou na merienda."
     }
   },
   {
@@ -7718,10 +8143,13 @@ export const extraAttractions: Attraction[] = [
     "kingTip": "As datas esgotam com meses de antecedência: reserve assim que a agenda abrir. Fica em El Puerto de Santa María, não em Cádiz capital — programe o deslocamento.",
     "priceLevel": "€€€€",
     "hours": {
-      "openDays": "Ter–Sáb",
-      "openHour": "13:30",
-      "closeHour": "22:00",
-      "note": "Temporada costuma ir da primavera ao fim do outono, com fechamento no inverno. Só menu-degustação e reserva antecipada."
+      "openDays": [
+        2,
+        6
+      ],
+      "openHour": 13,
+      "closeHour": 22,
+      "note": "Ter–Sáb · Temporada costuma ir da primavera ao fim do outono, com fechamento no inverno. Só menu-degustação e reserva antecipada."
     },
     "links": [
       {
@@ -7745,10 +8173,13 @@ export const extraAttractions: Attraction[] = [
     "kingTip": "Fica em Jerez, ideal de emendar com uma visita às bodegas de xerez no mesmo dia; reserve o menu com boa antecedência.",
     "priceLevel": "€€€€",
     "hours": {
-      "openDays": "Ter–Sáb",
-      "openHour": "13:30",
-      "closeHour": "22:30",
-      "note": "Fecha à tarde entre serviços e descansa dom/seg. Só menu-degustação e reserva antecipada."
+      "openDays": [
+        2,
+        6
+      ],
+      "openHour": 13,
+      "closeHour": 22,
+      "note": "Ter–Sáb · Fecha à tarde entre serviços e descansa dom/seg. Só menu-degustação e reserva antecipada."
     },
     "links": [
       {
@@ -7772,10 +8203,13 @@ export const extraAttractions: Attraction[] = [
     "kingTip": "É intimista e lota rápido: reserve com antecedência e escolha o menu mais longo para a viagem completa pela cozinha gaditana.",
     "priceLevel": "€€€",
     "hours": {
-      "openDays": "Ter–Sáb",
-      "openHour": "13:30",
-      "closeHour": "22:30",
-      "note": "Fecha à tarde entre serviços e descansa dom/seg. Poucas mesas; reserva recomendada."
+      "openDays": [
+        2,
+        6
+      ],
+      "openHour": 13,
+      "closeHour": 22,
+      "note": "Ter–Sáb · Fecha à tarde entre serviços e descansa dom/seg. Poucas mesas; reserva recomendada."
     },
     "links": [
       {
@@ -7799,10 +8233,9 @@ export const extraAttractions: Attraction[] = [
     "kingTip": "Peça os chicharrones especiales com um fino da Baía; servidos no papel, comem-se em pé, no melhor estilo de La Viña.",
     "priceLevel": "€€",
     "hours": {
-      "openDays": "Todos os dias",
-      "openHour": "12:00",
-      "closeHour": "00:00",
-      "note": "Costuma fechar à tarde entre serviços; enche muito à noite e nas datas do Carnaval."
+      "openHour": 12,
+      "closeHour": 0,
+      "note": "Todos os dias · Costuma fechar à tarde entre serviços; enche muito à noite e nas datas do Carnaval."
     }
   },
   {
@@ -7820,10 +8253,9 @@ export const extraAttractions: Attraction[] = [
     "kingTip": "Fique na barra e peça as tortillitas de camarones, finas e crocantes; é a versão que virou padrão-ouro da cidade.",
     "priceLevel": "€€–€€€",
     "hours": {
-      "openDays": "Todos os dias",
-      "openHour": "12:00",
-      "closeHour": "00:00",
-      "note": "A barra de tapas e o restaurante têm ritmos distintos; para a sala, reserve na alta temporada."
+      "openHour": 12,
+      "closeHour": 0,
+      "note": "Todos os dias · A barra de tapas e o restaurante têm ritmos distintos; para a sala, reserve na alta temporada."
     },
     "links": [
       {
@@ -7847,10 +8279,9 @@ export const extraAttractions: Attraction[] = [
     "kingTip": "Sente-se na esplanada da Plaza de las Flores para o café da manhã de churros; ao meio-dia, o mesmo balcão vira parada de pescaíto frito.",
     "priceLevel": "€",
     "hours": {
-      "openDays": "Todos os dias",
-      "openHour": "08:00",
-      "closeHour": "20:00",
-      "note": "Melhor no café da manhã e no aperitivo do meio-dia; a esplanada na praça é o lugar mais disputado."
+      "openHour": 8,
+      "closeHour": 20,
+      "note": "Todos os dias · Melhor no café da manhã e no aperitivo do meio-dia; a esplanada na praça é o lugar mais disputado."
     }
   },
   {
@@ -7868,10 +8299,9 @@ export const extraAttractions: Attraction[] = [
     "kingTip": "Compre o ingresso online com horário marcado e vá logo na abertura, às 10h30 — a Giralda esquenta e lota ao meio-dia. O mesmo bilhete dá acesso à Igreja do Salvador, que você pode visitar noutro momento sem nova fila.",
     "priceLevel": "€€ (cerca de 13€; Giralda incluída)",
     "hours": {
-      "openDays": "Todos os dias",
-      "openHour": "10:30",
-      "closeHour": "18:00",
-      "note": "Domingos abre mais tarde; horários de culto alteram o acesso. Confirme no site."
+      "openHour": 10,
+      "closeHour": 18,
+      "note": "Todos os dias · Domingos abre mais tarde; horários de culto alteram o acesso. Confirme no site."
     },
     "links": [
       {
@@ -7896,10 +8326,9 @@ export const extraAttractions: Attraction[] = [
     "kingTip": "Reserve online com dias de antecedência: os ingressos por franja horária esgotam, sobretudo no verão. Entre às 9h30 na abertura e refugie-se nos jardins e no fresco Salón de Embajadores nas horas de mais calor.",
     "priceLevel": "€€ (cerca de 14,50€)",
     "hours": {
-      "openDays": "Todos os dias",
-      "openHour": "09:30",
-      "closeHour": "19:00",
-      "note": "Fecha 1 e 6 de jan, Sexta-Feira Santa e 25 dez. Última entrada 1 h antes."
+      "openHour": 9,
+      "closeHour": 19,
+      "note": "Todos os dias · Fecha 1 e 6 de jan, Sexta-Feira Santa e 25 dez. Última entrada 1 h antes."
     },
     "links": [
       {
@@ -7956,10 +8385,9 @@ export const extraAttractions: Attraction[] = [
     "kingTip": "Suba ao mirante ao pôr do sol: a passarela pega a Giralda e a Catedral recortadas na luz dourada, e o ingresso costuma dar direito a uma bebida no bar do topo. Compre online para evitar a fila do elevador.",
     "priceLevel": "€ (mirante cerca de 15€ com consumo)",
     "hours": {
-      "openDays": "Todos os dias",
-      "openHour": "09:30",
-      "closeHour": "00:00",
-      "note": "Mirante aberto até tarde; o Antiquarium tem horário próprio. Confirme no site."
+      "openHour": 9,
+      "closeHour": 0,
+      "note": "Todos os dias · Mirante aberto até tarde; o Antiquarium tem horário próprio. Confirme no site."
     },
     "links": [
       {
@@ -8000,10 +8428,9 @@ export const extraAttractions: Attraction[] = [
     "kingTip": "É uma das visitas mais baratas da cidade e às segundas costuma ser gratuita. Suba ao terraço para a vista do rio, mas o melhor mesmo é fotografá-la de fora, do lado de Triana, com o Guadalquivir em primeiro plano ao entardecer.",
     "priceLevel": "€ (cerca de 3€; segundas grátis)",
     "hours": {
-      "openDays": "Todos os dias",
-      "openHour": "09:30",
-      "closeHour": "18:45",
-      "note": "Fins de semana com horário reduzido; confirme antes de ir."
+      "openHour": 9,
+      "closeHour": 18,
+      "note": "Todos os dias · Fins de semana com horário reduzido; confirme antes de ir."
     },
     "history": "Erguida por volta de 1220-1221 pelos almóadas como torre albarrã da muralha, fechava com uma corrente sobre o rio a passagem de navios inimigos; serviu de prisão e capela e, desde 1944, abriga o Museu Marítimo da Marinha espanhola."
   },
@@ -8022,10 +8449,9 @@ export const extraAttractions: Attraction[] = [
     "kingTip": "A visita guiada com o museu roda em espanhol e inglês a cada 30 minutos e é interessante mesmo para quem não liga para touradas — pela arquitetura e pelas telas de Goya. Evite os dias de corrida (domingos da primavera), quando a visita não abre.",
     "priceLevel": "€€ (visita guiada cerca de 12€)",
     "hours": {
-      "openDays": "Todos os dias",
-      "openHour": "09:30",
-      "closeHour": "21:00",
-      "note": "Em dias de espetáculo o horário de visita muda ou é suspenso. Confirme no site."
+      "openHour": 9,
+      "closeHour": 21,
+      "note": "Todos os dias · Em dias de espetáculo o horário de visita muda ou é suspenso. Confirme no site."
     },
     "links": [
       {
@@ -8050,10 +8476,17 @@ export const extraAttractions: Attraction[] = [
     "kingTip": "Entrada livre e a poucos passos da Catedral e do Alcázar — um refúgio fresco e climatizado, quase vazio, para as horas de mais calor. Suba a escadaria de jaspe e veja as vitrines com documentos originais dos descobrimentos.",
     "priceLevel": "Gratuito",
     "hours": {
-      "openDays": "Ter a dom",
-      "openHour": "09:30",
-      "closeHour": "17:00",
-      "note": "Domingos e feriados só de manhã; fecha às segundas. Confirme no site."
+      "openDays": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "openHour": 9,
+      "closeHour": 17,
+      "note": "Ter a dom · Domingos e feriados só de manhã; fecha às segundas. Confirme no site."
     },
     "links": [
       {
@@ -8078,10 +8511,9 @@ export const extraAttractions: Attraction[] = [
     "kingTip": "Combine a visita com o trecho de muralha almóada e o Arco da Macarena, logo em frente — o melhor lençol de muralha árabe da cidade. O tesouro da Virgem, com mantos e o manto de tabaco, tem entrada à parte e vale a pena.",
     "priceLevel": "Gratuito (museu do tesouro à parte)",
     "hours": {
-      "openDays": "Todos os dias",
-      "openHour": "09:00",
-      "closeHour": "19:00",
-      "note": "Fecha ao meio-dia; horários de culto alteram o acesso. Confirme no site."
+      "openHour": 9,
+      "closeHour": 19,
+      "note": "Todos os dias · Fecha ao meio-dia; horários de culto alteram o acesso. Confirme no site."
     },
     "links": [
       {
@@ -8106,10 +8538,9 @@ export const extraAttractions: Attraction[] = [
     "kingTip": "Menos disputada que o Alcázar e igualmente deslumbrante — ótima alternativa se os ingressos do Alcázar esgotaram. O andar térreo pode ser visitado por conta própria; o andar nobre, ainda habitado, só com visita guiada, que sai de tempos em tempos.",
     "priceLevel": "€€ (cerca de 12€ térreo; 15€ com andar nobre)",
     "hours": {
-      "openDays": "Todos os dias",
-      "openHour": "09:00",
-      "closeHour": "18:00",
-      "note": "Última entrada 1 h antes; horário pode estender no verão. Confirme no site."
+      "openHour": 9,
+      "closeHour": 18,
+      "note": "Todos os dias · Última entrada 1 h antes; horário pode estender no verão. Confirme no site."
     },
     "links": [
       {
@@ -8134,10 +8565,9 @@ export const extraAttractions: Attraction[] = [
     "kingTip": "Menos turístico e delicioso de percorrer com o audioguia incluído, que conta as histórias da duquesa Cayetana de Alba. Os pátios floridos rendem fotos lindas e ficam à sombra — respiro fresco entre a Macarena e o centro. Feche 'Las Setas' na mesma caminhada.",
     "priceLevel": "€€ (cerca de 12€, audioguia incluído)",
     "hours": {
-      "openDays": "Todos os dias",
-      "openHour": "10:00",
-      "closeHour": "18:00",
-      "note": "Verão pode ter horário estendido; fecha em eventos privados. Confirme no site."
+      "openHour": 10,
+      "closeHour": 18,
+      "note": "Todos os dias · Verão pode ter horário estendido; fecha em eventos privados. Confirme no site."
     },
     "links": [
       {
@@ -8175,14 +8605,20 @@ export const extraAttractions: Attraction[] = [
     "durationLabel": "jantar 2-3h",
     "fit": "ANY",
     "mapQuery": "Restaurante José Carlos García, Plaza de la Capilla 1, Málaga",
-    "whatToDo": "Escolha o menu-degustação longo e deixe a harmonização de vinhos por conta da casa; peça mesa voltada para o Muelle Uno.",
+    "whatToDo": [
+      "Escolha o menu-degustação longo e deixe a harmonização de vinhos por conta da casa",
+      "peça mesa voltada para o Muelle Uno"
+    ],
     "kingTip": "Prato-assinatura ao redor do peixe do dia da lota de Málaga. RESERVE COM 2-3 MESES DE ANTECEDÊNCIA: em julho, alta temporada, os estrelados esgotam meses antes.",
     "priceLevel": "~€165/pessoa (est.)",
     "hours": {
-      "openDays": "Ter-Sáb",
-      "openHour": "13:30",
-      "closeHour": "23:00",
-      "note": "Fecha domingo e segunda; confirme no site"
+      "openDays": [
+        2,
+        6
+      ],
+      "openHour": 13,
+      "closeHour": 23,
+      "note": "Ter-Sáb · Fecha domingo e segunda; confirme no site"
     },
     "links": [
       {
@@ -8208,14 +8644,20 @@ export const extraAttractions: Attraction[] = [
     "durationLabel": "jantar 2-3h",
     "fit": "ANY",
     "mapQuery": "Restaurante Kaleja, Calle Marqués 1, Málaga",
-    "whatToDo": "Vá de menu-degustação completo; a cozinha de colher (guisos e caldos) é o coração da casa.",
+    "whatToDo": [
+      "Vá de menu-degustação completo",
+      "a cozinha de colher (guisos e caldos) é o coração da casa"
+    ],
     "kingTip": "Prove os guisos de autor, a assinatura de Carnero. Sala pequena e muito procurada: RESERVE COM MESES DE ANTECEDÊNCIA, sobretudo em julho.",
     "priceLevel": "~€110/pessoa (est.)",
     "hours": {
-      "openDays": "Qua-Dom",
-      "openHour": "13:30",
-      "closeHour": "23:00",
-      "note": "Dias podem variar; confirme na reserva"
+      "openDays": [
+        3,
+        7
+      ],
+      "openHour": 13,
+      "closeHour": 23,
+      "note": "Qua-Dom · Dias podem variar; confirme na reserva"
     },
     "links": [
       {
@@ -8237,14 +8679,20 @@ export const extraAttractions: Attraction[] = [
     "durationLabel": "jantar 1h30-2h",
     "fit": "CLEAR_SKY",
     "mapQuery": "Restaurante Ta-Kumi, Calle Mundo Nuevo 4, Málaga",
-    "whatToDo": "Sente-se à barra de sushi para ver o corte ao vivo; em noite limpa, peça mesa no terraço voltado à Alcazaba.",
+    "whatToDo": [
+      "Sente-se à barra de sushi para ver o corte ao vivo",
+      "em noite limpa, peça mesa no terraço voltado à Alcazaba"
+    ],
     "kingTip": "Deixe-se levar pelo omakase do dia. Terraço disputado no verão: reserve com antecedência e peça expressamente mesa com vista.",
     "priceLevel": "€€€",
     "hours": {
-      "openDays": "Ter-Dom",
-      "openHour": "13:30",
-      "closeHour": "23:30",
-      "note": "Costuma fechar segunda; confirme"
+      "openDays": [
+        2,
+        7
+      ],
+      "openHour": 13,
+      "closeHour": 23,
+      "note": "Ter-Dom · Costuma fechar segunda; confirme"
     },
     "links": [
       {
@@ -8266,14 +8714,20 @@ export const extraAttractions: Attraction[] = [
     "durationLabel": "almoço/jantar 3h",
     "fit": "ANY",
     "mapQuery": "Restaurante Bardal, Calle José Aparicio 1, Ronda",
-    "whatToDo": "Reserve o menu-degustação longo com harmonização; combine com a visita ao Puente Nuevo, a poucos passos.",
+    "whatToDo": [
+      "Reserve o menu-degustação longo com harmonização",
+      "combine com a visita ao Puente Nuevo, a poucos passos"
+    ],
     "kingTip": "Duas estrelas em tempo recorde: das mesas mais cobiçadas da Andaluzia. RESERVE COM 2-3 MESES DE ANTECEDÊNCIA, imprescindível em julho.",
     "priceLevel": "~€190/pessoa (est.)",
     "hours": {
-      "openDays": "Ter-Sáb",
-      "openHour": "13:30",
-      "closeHour": "22:30",
-      "note": "Fecha domingo e segunda; confirme no site"
+      "openDays": [
+        2,
+        6
+      ],
+      "openHour": 13,
+      "closeHour": 22,
+      "note": "Ter-Sáb · Fecha domingo e segunda; confirme no site"
     },
     "links": [
       {
@@ -8299,14 +8753,20 @@ export const extraAttractions: Attraction[] = [
     "durationLabel": "almoço/jantar 1-2h",
     "fit": "ANY",
     "mapQuery": "Tragatá, Calle Nueva 4, Ronda",
-    "whatToDo": "Peça várias tapas para partilhar; ideal para quem não conseguiu mesa no Bardal.",
+    "whatToDo": [
+      "Peça várias tapas para partilhar",
+      "ideal para quem não conseguiu mesa no Bardal"
+    ],
     "kingTip": "Prove o sanduíche de pastrami e as croquetes, clássicos da casa. Não aceita reservas para grupos pequenos em alguns horários: chegue cedo no verão.",
     "priceLevel": "€€€",
     "hours": {
-      "openDays": "Ter-Sáb",
-      "openHour": "13:00",
-      "closeHour": "23:00",
-      "note": "Dias podem variar; confirme"
+      "openDays": [
+        2,
+        6
+      ],
+      "openHour": 13,
+      "closeHour": 23,
+      "note": "Ter-Sáb · Dias podem variar; confirme"
     },
     "links": [
       {
@@ -8328,14 +8788,19 @@ export const extraAttractions: Attraction[] = [
     "durationLabel": "jantar 2-3h",
     "fit": "ANY",
     "mapQuery": "Restaurante Skina, Calle Aduar 12, Marbella",
-    "whatToDo": "Confie no menu-degustação e explore a carta de vinhos, uma das joias da casa, com o sommelier.",
+    "whatToDo": [
+      "Confie no menu-degustação e explore a carta de vinhos, uma das joias da casa, com o sommelier"
+    ],
     "kingTip": "Pouquíssimas mesas: é dos jantares mais difíceis de conseguir na Costa del Sol. RESERVE COM MESES DE ANTECEDÊNCIA para julho.",
     "priceLevel": "~€220/pessoa (est.)",
     "hours": {
-      "openDays": "Ter-Sáb",
-      "openHour": "13:30",
-      "closeHour": "22:30",
-      "note": "Fecha domingo e segunda; confirme no site"
+      "openDays": [
+        2,
+        6
+      ],
+      "openHour": 13,
+      "closeHour": 22,
+      "note": "Ter-Sáb · Fecha domingo e segunda; confirme no site"
     },
     "links": [
       {
@@ -8361,14 +8826,19 @@ export const extraAttractions: Attraction[] = [
     "durationLabel": "jantar 2-3h",
     "fit": "ANY",
     "mapQuery": "Restaurante Messina, Avenida Severo Ochoa 12, Marbella",
-    "whatToDo": "Peça o menu-degustação mais longo para captar a amplitude criativa de Giovanini.",
+    "whatToDo": [
+      "Peça o menu-degustação mais longo para captar a amplitude criativa de Giovanini"
+    ],
     "kingTip": "Cozinha de vanguarda muito pessoal, uma das mais interessantes de Marbella. Reserve com antecedência, especialmente na alta temporada de julho.",
     "priceLevel": "~€150/pessoa (est.)",
     "hours": {
-      "openDays": "Ter-Sáb",
-      "openHour": "13:30",
-      "closeHour": "22:30",
-      "note": "Fecha domingo e segunda; confirme"
+      "openDays": [
+        2,
+        6
+      ],
+      "openHour": 13,
+      "closeHour": 22,
+      "note": "Ter-Sáb · Fecha domingo e segunda; confirme"
     },
     "links": [
       {
@@ -8390,14 +8860,20 @@ export const extraAttractions: Attraction[] = [
     "durationLabel": "jantar 2-3h",
     "fit": "ANY",
     "mapQuery": "Restaurante Back, Calle Pablo Casals 8, Marbella",
-    "whatToDo": "Vá de menu-degustação e deixe-se surpreender pela sequência; ótimo para quem busca cozinha criativa sem formalidade excessiva.",
+    "whatToDo": [
+      "Vá de menu-degustação e deixe-se surpreender pela sequência",
+      "ótimo para quem busca cozinha criativa sem formalidade excessiva"
+    ],
     "kingTip": "David Olivas, de Úbeda, aposta em técnica com humor. Sala pequena: reserve com semanas a meses de antecedência para julho.",
     "priceLevel": "~€120/pessoa (est.)",
     "hours": {
-      "openDays": "Ter-Sáb",
-      "openHour": "13:30",
-      "closeHour": "22:30",
-      "note": "Fecha domingo e segunda; confirme no site"
+      "openDays": [
+        2,
+        6
+      ],
+      "openHour": 13,
+      "closeHour": 22,
+      "note": "Ter-Sáb · Fecha domingo e segunda; confirme no site"
     },
     "links": [
       {
@@ -8423,14 +8899,20 @@ export const extraAttractions: Attraction[] = [
     "durationLabel": "jantar 2h",
     "fit": "ANY",
     "mapQuery": "Leña Marbella, Puente Romano, Bulevar Príncipe Alfonso de Hohenlohe, Marbella",
-    "whatToDo": "Peça os grandes cortes maturados na brasa; explore os coquetéis de autor do bar antes de sentar.",
+    "whatToDo": [
+      "Peça os grandes cortes maturados na brasa",
+      "explore os coquetéis de autor do bar antes de sentar"
+    ],
     "kingTip": "Prato-assinatura na carne maturada ao carvão. Casa muito procurada por famosos no verão: reserve com antecedência e vá arrumado (dress code).",
     "priceLevel": "€€€€",
     "hours": {
-      "openDays": "Seg-Dom",
-      "openHour": "13:00",
-      "closeHour": "00:00",
-      "note": "Aberto todos os dias em temporada; confirme"
+      "openDays": [
+        1,
+        7
+      ],
+      "openHour": 13,
+      "closeHour": 0,
+      "note": "Seg-Dom · Aberto todos os dias em temporada; confirme"
     },
     "links": [
       {
@@ -8452,14 +8934,20 @@ export const extraAttractions: Attraction[] = [
     "durationLabel": "jantar 2h",
     "fit": "ANY",
     "mapQuery": "Nobu Marbella, Puente Romano Beach Resort, Marbella",
-    "whatToDo": "Peça os clássicos black cod miso e o tiradito; reserve pela plataforma para garantir horário de jantar.",
+    "whatToDo": [
+      "Peça os clássicos black cod miso e o tiradito",
+      "reserve pela plataforma para garantir horário de jantar"
+    ],
     "kingTip": "Ambiente adults-only e com dress code. Prato-assinatura no bacalhau negro ao missô. Reserve 6-8 semanas antes para julho, o pico da temporada.",
     "priceLevel": "€€€€",
     "hours": {
-      "openDays": "Seg-Dom",
-      "openHour": "19:00",
-      "closeHour": "00:00",
-      "note": "Jantar; horários e terraço variam por temporada"
+      "openDays": [
+        1,
+        7
+      ],
+      "openHour": 19,
+      "closeHour": 0,
+      "note": "Seg-Dom · Jantar; horários e terraço variam por temporada"
     },
     "links": [
       {
@@ -8485,14 +8973,20 @@ export const extraAttractions: Attraction[] = [
     "durationLabel": "jantar 2-3h",
     "fit": "ANY",
     "mapQuery": "Faralá, Cuesta de Gomérez 11, Granada",
-    "whatToDo": "Combine o menu-degustação com o El Quejío Wine Bar da casa; ideal antes ou depois da visita à Alhambra.",
+    "whatToDo": [
+      "Combine o menu-degustação com o El Quejío Wine Bar da casa",
+      "ideal antes ou depois da visita à Alhambra"
+    ],
     "kingTip": "Estrela recém-conquistada e muita procura: RESERVE COM MESES DE ANTECEDÊNCIA. Pergunte pela programação de flamenco ao reservar.",
     "priceLevel": "~€110/pessoa (est.)",
     "hours": {
-      "openDays": "Ter-Sáb",
-      "openHour": "13:30",
-      "closeHour": "23:00",
-      "note": "Dias e horários podem variar; confirme na reserva"
+      "openDays": [
+        2,
+        6
+      ],
+      "openHour": 13,
+      "closeHour": 23,
+      "note": "Ter-Sáb · Dias e horários podem variar; confirme na reserva"
     },
     "links": [
       {
@@ -8514,14 +9008,20 @@ export const extraAttractions: Attraction[] = [
     "durationLabel": "jantar 3h+",
     "fit": "ANY",
     "mapQuery": "Noor Restaurant, Calle Pablo Ruiz Picasso 8, Córdoba",
-    "whatToDo": "Reserve o menu-degustação com harmonização; reserve a noite inteira para a experiência completa de imersão andalusí.",
+    "whatToDo": [
+      "Reserve o menu-degustação com harmonização",
+      "reserve a noite inteira para a experiência completa de imersão andalusí"
+    ],
     "kingTip": "Um dos triestrelados mais difíceis da Espanha e com temporada limitada. RESERVE ASSIM QUE ABRIREM AS DATAS, com vários meses de antecedência.",
     "priceLevel": "~€250/pessoa (est.)",
     "hours": {
-      "openDays": "Ter-Sáb",
-      "openHour": "13:30",
-      "closeHour": "22:30",
-      "note": "Temporada limitada; confirme período de abertura e dias"
+      "openDays": [
+        2,
+        6
+      ],
+      "openHour": 13,
+      "closeHour": 22,
+      "note": "Ter-Sáb · Temporada limitada; confirme período de abertura e dias"
     },
     "links": [
       {
@@ -8543,14 +9043,20 @@ export const extraAttractions: Attraction[] = [
     "durationLabel": "jantar 2-3h",
     "fit": "ANY",
     "mapQuery": "Choco Restaurante, Calle Compositor Serrano Lucena 14, Córdoba",
-    "whatToDo": "Escolha entre os menus Barrio Antiguo e Kisko García; peça sugestão de harmonização à casa.",
+    "whatToDo": [
+      "Escolha entre os menus Barrio Antiguo e Kisko García",
+      "peça sugestão de harmonização à casa"
+    ],
     "kingTip": "Estrela consolidada e sala reduzida. Reserve com antecedência; em julho, a demanda de Córdoba se concentra nos poucos estrelados.",
     "priceLevel": "~€120/pessoa (est.)",
     "hours": {
-      "openDays": "Ter-Sáb",
-      "openHour": "13:30",
-      "closeHour": "22:30",
-      "note": "Fecha domingo e segunda; confirme"
+      "openDays": [
+        2,
+        6
+      ],
+      "openHour": 13,
+      "closeHour": 22,
+      "note": "Ter-Sáb · Fecha domingo e segunda; confirme"
     },
     "links": [
       {
@@ -8572,14 +9078,20 @@ export const extraAttractions: Attraction[] = [
     "durationLabel": "almoço 1h30-2h",
     "fit": "CLEAR_SKY",
     "mapQuery": "Los Marinos José, Paseo Marítimo Rey de España 161, Fuengirola",
-    "whatToDo": "Peça o espeto de sardinha e deixe o garçom sugerir o marisco fresco do dia; almoço à beira-mar de frente para a praia.",
+    "whatToDo": [
+      "Peça o espeto de sardinha e deixe o garçom sugerir o marisco fresco do dia",
+      "almoço à beira-mar de frente para a praia"
+    ],
     "kingTip": "Espeto de sardinha na brasa é obrigatório. Não estrelado, mas dos mais disputados: reserve com antecedência e prefira o almoço; fecha domingo e segunda.",
     "priceLevel": "€€€",
     "hours": {
-      "openDays": "Ter-Sáb",
-      "openHour": "13:00",
-      "closeHour": "22:30",
-      "note": "Fecha domingo e segunda; serve almoço e jantar"
+      "openDays": [
+        2,
+        6
+      ],
+      "openHour": 13,
+      "closeHour": 22,
+      "note": "Ter-Sáb · Fecha domingo e segunda; serve almoço e jantar"
     },
     "links": [
       {
@@ -8605,14 +9117,15 @@ export const extraAttractions: Attraction[] = [
     "durationLabel": "3–4 h para todo o recinto",
     "fit": "ANY",
     "mapQuery": "Palacios Nazaries, Alhambra, Granada",
-    "whatToDo": "Percorra os Palácios Nazaríes, o Alcazaba (fortaleza) e o Palácio de Carlos V no mesmo bilhete geral.",
+    "whatToDo": [
+      "Percorra os Palácios Nazaríes, o Alcazaba (fortaleza) e o Palácio de Carlos V no mesmo bilhete geral"
+    ],
     "kingTip": "ATENÇÃO: o ingresso geral com data/hora esgota MESES antes — compre assim que abrir a venda. A entrada aos Palácios Nazaríes tem horário marcado IMPRETERÍVEL (tolerância de ~30 min); se perder o horário, perde o acesso ao palácio. Em julho, reserve a primeira sessão da manhã ou a última da tarde para fugir do calor e da multidão.",
     "priceLevel": "€€ (geral ~18 €, estimativa)",
     "hours": {
-      "openDays": "Todos os dias",
-      "openHour": "08:30",
-      "closeHour": "20:00",
-      "note": "Visita noturna aos Palácios em dias selecionados; horário dos Nazaríes é fixo no bilhete."
+      "openHour": 8,
+      "closeHour": 20,
+      "note": "Todos os dias · Visita noturna aos Palácios em dias selecionados; horário dos Nazaríes é fixo no bilhete."
     },
     "links": [
       {
@@ -8690,7 +9203,9 @@ export const extraAttractions: Attraction[] = [
     "durationLabel": "Noite: 1,5–2 h de espetáculo",
     "fit": "ANY",
     "mapQuery": "Sacromonte, Granada",
-    "whatToDo": "Assista a uma zambra numa cueva histórica e visite o Museo Cuevas del Sacromonte para entender o modo de vida das cavernas.",
+    "whatToDo": [
+      "Assista a uma zambra numa cueva histórica e visite o Museo Cuevas del Sacromonte para entender o modo de vida das cavernas"
+    ],
     "kingTip": "Reserve o tablao com antecedência e prefira as casas tradicionais (Los Tarantos, Venta El Gallo, Cuevas Los Tarantos) à zona turística. Vá de táxi à noite — a subida é longa e mal iluminada.",
     "priceLevel": "€€–€€€ (espetáculo com bebida, estimativa)"
   },
@@ -8709,10 +9224,9 @@ export const extraAttractions: Attraction[] = [
     "kingTip": "Ótimo refúgio do calor do meio-dia. A Capilla Real é bilhete separado da Catedral e não permite fotos na cripta real — respeite a regra.",
     "priceLevel": "€ (cada uma ~6 €, estimativa)",
     "hours": {
-      "openDays": "Seg a sáb; domingo horário reduzido",
-      "openHour": "10:00",
-      "closeHour": "18:15",
-      "note": "Fecha em horários de culto; confira no site."
+      "openHour": 10,
+      "closeHour": 18,
+      "note": "Seg a sáb; domingo horário reduzido · Fecha em horários de culto; confira no site."
     },
     "links": [
       {
@@ -8756,10 +9270,9 @@ export const extraAttractions: Attraction[] = [
     "kingTip": "Entrada gratuita e quase sempre vazia — segredo bem guardado a poucos passos da Alhambra. Vá no fim da tarde, quando o calor afrouxa.",
     "priceLevel": "Gratuito",
     "hours": {
-      "openDays": "Todos os dias",
-      "openHour": "10:00",
-      "closeHour": "20:00",
-      "note": "Horário de verão mais amplo; entrada gratuita."
+      "openHour": 10,
+      "closeHour": 20,
+      "note": "Todos os dias · Horário de verão mais amplo; entrada gratuita."
     }
   },
   {
@@ -8777,10 +9290,9 @@ export const extraAttractions: Attraction[] = [
     "kingTip": "Fica afastado do centro (táxi ou ônibus). Vale o desvio para quem ama o barroco — e é fresco por dentro no auge do calor.",
     "priceLevel": "€ (~5 €, estimativa)",
     "hours": {
-      "openDays": "Todos os dias",
-      "openHour": "10:00",
-      "closeHour": "19:00",
-      "note": "Horário reduzido no inverno."
+      "openHour": 10,
+      "closeHour": 19,
+      "note": "Todos os dias · Horário reduzido no inverno."
     }
   },
   {
@@ -8795,14 +9307,15 @@ export const extraAttractions: Attraction[] = [
     "durationLabel": "1,5–2 h",
     "fit": "INDOOR",
     "mapQuery": "Mezquita-Catedral de Cordoba",
-    "whatToDo": "Percorra o mihrab dourado, a floresta de colunas e suba à torre-campanário (antigo alminar) para a vista.",
+    "whatToDo": [
+      "Percorra o mihrab dourado, a floresta de colunas e suba à torre-campanário (antigo alminar) para a vista"
+    ],
     "kingTip": "De segunda a sábado, das 8h30 às 9h30, a entrada ao templo é GRATUITA (sem grupos) — chegue cedo e aproveite o interior quase vazio e fresco antes do calor de julho. A subida à torre é bilhete à parte e com horário marcado.",
     "priceLevel": "€€ (~13 €, estimativa; torre à parte)",
     "hours": {
-      "openDays": "Todos os dias",
-      "openHour": "10:00",
-      "closeHour": "19:00",
-      "note": "Domingo com horário reduzido; janela gratuita seg–sáb 08:30–09:30."
+      "openHour": 10,
+      "closeHour": 19,
+      "note": "Todos os dias · Domingo com horário reduzido; janela gratuita seg–sáb 08:30–09:30."
     },
     "links": [
       {
@@ -8824,7 +9337,9 @@ export const extraAttractions: Attraction[] = [
     "durationLabel": "1–1,5 h a pé",
     "fit": "ANY",
     "mapQuery": "Juderia de Cordoba",
-    "whatToDo": "Visite a Sinagoga, espie pátios abertos e fotografe a Calleja de las Flores emoldurando a torre da Mesquita.",
+    "whatToDo": [
+      "Visite a Sinagoga, espie pátios abertos e fotografe a Calleja de las Flores emoldurando a torre da Mesquita"
+    ],
     "kingTip": "As vielas estreitas guardam sombra — bom refúgio ao meio-dia. Vá cedo para fotografar a Calleja de las Flores sem multidão.",
     "priceLevel": "Gratuito (Sinagoga simbólica)",
     "history": "Habitado por judeus até a expulsão de 1492, o bairro preserva o traçado medieval e foi parte do centro histórico declarado Patrimônio da Humanidade em 1994."
@@ -8844,10 +9359,9 @@ export const extraAttractions: Attraction[] = [
     "kingTip": "Os jardins não têm sombra — visite logo na abertura ou no fim da tarde. Foi daqui que Colombo foi recebido pelos Reis Católicos antes da viagem de 1492.",
     "priceLevel": "€ (~5 €, estimativa)",
     "hours": {
-      "openDays": "Ter a dom (fecha segunda)",
-      "openHour": "08:15",
-      "closeHour": "20:00",
-      "note": "Horário de verão amplo; entrada reduzida às quintas em alguns períodos."
+      "openHour": 8,
+      "closeHour": 20,
+      "note": "Ter a dom (fecha segunda) · Horário de verão amplo; entrada reduzida às quintas em alguns períodos."
     }
   },
   {
@@ -8878,14 +9392,16 @@ export const extraAttractions: Attraction[] = [
     "durationLabel": "1 h",
     "fit": "CLEAR_SKY",
     "mapQuery": "Palacio de Viana, Cordoba",
-    "whatToDo": "Faça o circuito dos doze pátios; opcionalmente some a visita guiada aos aposentos do palácio.",
+    "whatToDo": [
+      "Faça o circuito dos doze pátios",
+      "opcionalmente some a visita guiada aos aposentos do palácio"
+    ],
     "kingTip": "Se não pegar o Festival de los Patios (maio), este é o jeito de ver os pátios cordobeses o ano todo. Vá de manhã, quando as plantas são regadas e o ar fica fresco.",
     "priceLevel": "€ (pátios ~8 €; combinado com palácio ~12 €, estimativa)",
     "hours": {
-      "openDays": "Ter a dom (fecha segunda)",
-      "openHour": "10:00",
-      "closeHour": "15:00",
-      "note": "No verão fecha à tarde pelo calor; confira horário atualizado."
+      "openHour": 10,
+      "closeHour": 15,
+      "note": "Ter a dom (fecha segunda) · No verão fecha à tarde pelo calor; confira horário atualizado."
     },
     "links": [
       {
@@ -10091,14 +10607,15 @@ export const extraAttractions: Attraction[] = [
     "durationLabel": "1–2 h",
     "fit": "ANY",
     "mapQuery": "El Pimpi, Calle Granada 62, Málaga",
-    "whatToDo": "Peça um copo de Málaga Dulce direto do tonel e uma tábua de embutidos ibéricos no pátio.",
+    "whatToDo": [
+      "Peça um copo de Málaga Dulce direto do tonel e uma tábua de embutidos ibéricos no pátio"
+    ],
     "kingTip": "No verão, reserve a mesa do pátio interior ou do terraço com vista para a Alcazaba; sem reserva a espera é longa.",
     "priceLevel": "€€€",
     "hours": {
-      "openDays": "Todos os dias",
-      "openHour": "12:00",
-      "closeHour": "00:00",
-      "note": "Cozinha contínua; picos no almoço e após as 21h."
+      "openHour": 12,
+      "closeHour": 0,
+      "note": "Todos os dias · Cozinha contínua; picos no almoço e após as 21h."
     },
     "links": [
       {
@@ -10120,14 +10637,19 @@ export const extraAttractions: Attraction[] = [
     "durationLabel": "30–45 min",
     "fit": "ANY",
     "mapQuery": "Antigua Casa de Guardia, Alameda Principal 18, Málaga",
-    "whatToDo": "Prove a sequência Seco Añejo, Pajarete e Pedro Ximénez servida direto dos tonéis, com gambas cozidas ao lado.",
+    "whatToDo": [
+      "Prove a sequência Seco Añejo, Pajarete e Pedro Ximénez servida direto dos tonéis, com gambas cozidas ao lado"
+    ],
     "kingTip": "A conta é rabiscada a giz no balcão diante de você; peça de dois em dois copos para sentir a curva de doçura.",
     "priceLevel": "€",
     "hours": {
-      "openDays": "Seg–Sáb",
-      "openHour": "10:00",
-      "closeHour": "22:00",
-      "note": "Domingos fechado; horário reduzido em feriados."
+      "openDays": [
+        1,
+        6
+      ],
+      "openHour": 10,
+      "closeHour": 22,
+      "note": "Seg–Sáb · Domingos fechado; horário reduzido em feriados."
     },
     "links": [
       {
@@ -10150,14 +10672,15 @@ export const extraAttractions: Attraction[] = [
     "durationLabel": "1–2 h",
     "fit": "ANY",
     "mapQuery": "Los Patios de Beatas, Calle Beatas 43, Málaga",
-    "whatToDo": "Peça uma degustação de vinhos de Málaga por taça com harmonização do sommelier.",
+    "whatToDo": [
+      "Peça uma degustação de vinhos de Málaga por taça com harmonização do sommelier"
+    ],
     "kingTip": "Sente-se no pátio coberto e envidraçado, climatizado, o refúgio ideal no calor de julho.",
     "priceLevel": "€€€",
     "hours": {
-      "openDays": "Todos os dias",
-      "openHour": "12:30",
-      "closeHour": "00:00",
-      "note": "Reserva recomendada nas noites de fim de semana."
+      "openHour": 12,
+      "closeHour": 0,
+      "note": "Todos os dias · Reserva recomendada nas noites de fim de semana."
     },
     "links": [
       {
@@ -10178,14 +10701,15 @@ export const extraAttractions: Attraction[] = [
     "durationLabel": "45 min–1 h",
     "fit": "ANY",
     "mapQuery": "La Tranca, Calle Carretería 93, Málaga",
-    "whatToDo": "Peça um vermute de torneira e uma tapa de conservas, e fique de pé na calçada como os locais.",
+    "whatToDo": [
+      "Peça um vermute de torneira e uma tapa de conservas, e fique de pé na calçada como os locais"
+    ],
     "kingTip": "Lota depois das 21h; chegue no fim da tarde para pegar um canto no balcão.",
     "priceLevel": "€",
     "hours": {
-      "openDays": "Todos os dias",
-      "openHour": "12:00",
-      "closeHour": "02:00",
-      "note": "Espaço pequeno; a maioria bebe em pé na rua."
+      "openHour": 12,
+      "closeHour": 2,
+      "note": "Todos os dias · Espaço pequeno; a maioria bebe em pé na rua."
     }
   },
   {
@@ -10200,14 +10724,16 @@ export const extraAttractions: Attraction[] = [
     "durationLabel": "45 min–1 h",
     "fit": "ANY",
     "mapQuery": "Bodegas Castañeda, Calle Almireceros 1, Granada",
-    "whatToDo": "Peça uma cerveja ou vermute e receba a tapa surpresa da casa; encare uma tábua de queijos e ibéricos.",
+    "whatToDo": [
+      "Peça uma cerveja ou vermute e receba a tapa surpresa da casa",
+      "encare uma tábua de queijos e ibéricos"
+    ],
     "kingTip": "Em Granada a tapa é grátis com a bebida e melhora a cada rodada; peça devagar e deixe a cozinha surpreender.",
     "priceLevel": "€€",
     "hours": {
-      "openDays": "Todos os dias",
-      "openHour": "11:30",
-      "closeHour": "00:00",
-      "note": "Cozinha contínua; enche na hora do aperitivo e à noite."
+      "openHour": 11,
+      "closeHour": 0,
+      "note": "Todos os dias · Cozinha contínua; enche na hora do aperitivo e à noite."
     }
   },
   {
@@ -10222,14 +10748,15 @@ export const extraAttractions: Attraction[] = [
     "durationLabel": "30–45 min",
     "fit": "ANY",
     "mapQuery": "Casa Aranda, Calle Herrería del Rey 2, Málaga",
-    "whatToDo": "Peça uma ração de churros com uma xícara de chocolate quente para mergulhar.",
+    "whatToDo": [
+      "Peça uma ração de churros com uma xícara de chocolate quente para mergulhar"
+    ],
     "kingTip": "Vá logo cedo, antes das 10h; no calor, prefira o café con leche gelado ao chocolate.",
     "priceLevel": "€",
     "hours": {
-      "openDays": "Todos os dias",
-      "openHour": "08:00",
-      "closeHour": "20:15",
-      "note": "Fecha à tarde entre turnos; domingos abre só à tarde."
+      "openHour": 8,
+      "closeHour": 20,
+      "note": "Todos os dias · Fecha à tarde entre turnos; domingos abre só à tarde."
     },
     "links": [
       {
@@ -10252,14 +10779,15 @@ export const extraAttractions: Attraction[] = [
     "durationLabel": "30–45 min",
     "fit": "ANY",
     "mapQuery": "Santa Coffee Soho, Calle Tomás Heredia 5, Málaga",
-    "whatToDo": "Prove um filtrado V60 do lote em destaque e leve um pacote de grãos torrados na casa.",
+    "whatToDo": [
+      "Prove um filtrado V60 do lote em destaque e leve um pacote de grãos torrados na casa"
+    ],
     "kingTip": "No calor, peça o cold brew da casa; o espaço interno é pequeno e bem climatizado.",
     "priceLevel": "€€",
     "hours": {
-      "openDays": "Todos os dias",
-      "openHour": "08:30",
-      "closeHour": "20:00",
-      "note": "Horário pode encurtar aos domingos."
+      "openHour": 8,
+      "closeHour": 20,
+      "note": "Todos os dias · Horário pode encurtar aos domingos."
     },
     "links": [
       {
@@ -10280,14 +10808,15 @@ export const extraAttractions: Attraction[] = [
     "durationLabel": "20–30 min",
     "fit": "ANY",
     "mapQuery": "Casa Mira, Calle Marqués de Larios 5, Málaga",
-    "whatToDo": "Peça uma bola de turrón de Jijona ou uma horchata bem gelada para caminhar pela Larios.",
+    "whatToDo": [
+      "Peça uma bola de turrón de Jijona ou uma horchata bem gelada para caminhar pela Larios"
+    ],
     "kingTip": "Nos dias mais quentes, a horchata com fartón supera o sorvete para se refrescar de verdade.",
     "priceLevel": "€€",
     "hours": {
-      "openDays": "Todos os dias",
-      "openHour": "10:00",
-      "closeHour": "23:00",
-      "note": "Fecha mais tarde nas noites quentes de verão."
+      "openHour": 10,
+      "closeHour": 23,
+      "note": "Todos os dias · Fecha mais tarde nas noites quentes de verão."
     },
     "history": "Casa de tradição turronera com mais de um século de história, referência do doce artesanal no centro de Málaga.",
     "image": "mlg_casa_mira.jpg"
@@ -10304,14 +10833,15 @@ export const extraAttractions: Attraction[] = [
     "durationLabel": "20–30 min",
     "fit": "ANY",
     "mapQuery": "Pastelería López-Mezquita, Calle Reyes Católicos 39, Granada",
-    "whatToDo": "Leve uma caixa de piononos e prove a napolitana de chocolate quentinha.",
+    "whatToDo": [
+      "Leve uma caixa de piononos e prove a napolitana de chocolate quentinha"
+    ],
     "kingTip": "Peça os doces batizados de 'apperley', criados a partir de um quadro deixado pelo pintor inglês em 1925.",
     "priceLevel": "€€",
     "hours": {
-      "openDays": "Todos os dias",
-      "openHour": "09:00",
-      "closeHour": "21:00",
-      "note": "Horário pode variar em feriados locais."
+      "openHour": 9,
+      "closeHour": 21,
+      "note": "Todos os dias · Horário pode variar em feriados locais."
     },
     "history": "Fundada em 1862 pelo casal Cristóbal López e Dolores Mezquita, é uma das confeitarias mais emblemáticas de Granada."
   },
@@ -10327,14 +10857,19 @@ export const extraAttractions: Attraction[] = [
     "durationLabel": "45 min–1 h",
     "fit": "INDOOR",
     "mapQuery": "Mercado Central de Atarazanas, Calle Atarazanas 10, Málaga",
-    "whatToDo": "Circule pelas bancas de peixe e pare numa barra interna para comer boquerones fritos e uma taça de vinho.",
+    "whatToDo": [
+      "Circule pelas bancas de peixe e pare numa barra interna para comer boquerones fritos e uma taça de vinho"
+    ],
     "kingTip": "Vá pela manhã, antes das 13h; às segundas a seção de peixe fica fechada.",
     "priceLevel": "€€",
     "hours": {
-      "openDays": "Seg–Sáb",
-      "openHour": "08:00",
-      "closeHour": "14:00",
-      "note": "Domingos fechado; peixaria fecha às segundas."
+      "openDays": [
+        1,
+        6
+      ],
+      "openHour": 8,
+      "closeHour": 14,
+      "note": "Seg–Sáb · Domingos fechado; peixaria fecha às segundas."
     },
     "links": [
       {
@@ -10356,14 +10891,16 @@ export const extraAttractions: Attraction[] = [
     "durationLabel": "20–40 min",
     "fit": "ANY",
     "mapQuery": "Alfajar Cerámica, Calle Císter 1, Málaga",
-    "whatToDo": "Escolha uma peça assinada por ceramistas locais; eles orientam sobre embalagem para viagem.",
+    "whatToDo": [
+      "Escolha uma peça assinada por ceramistas locais",
+      "eles orientam sobre embalagem para viagem"
+    ],
     "kingTip": "Peça o embrulho reforçado para levar a cerâmica na bagagem de mão sem risco.",
     "priceLevel": "€€€",
     "hours": {
-      "openDays": "Todos os dias",
-      "openHour": "10:00",
-      "closeHour": "20:30",
-      "note": "Horário pode reduzir aos domingos."
+      "openHour": 10,
+      "closeHour": 20,
+      "note": "Todos os dias · Horário pode reduzir aos domingos."
     },
     "links": [
       {
@@ -10385,14 +10922,19 @@ export const extraAttractions: Attraction[] = [
     "durationLabel": "1–2 h",
     "fit": "ANY",
     "mapQuery": "El Corte Inglés Puerto Banús, Marbella",
-    "whatToDo": "Combine a loja com um passeio pela marina de Puerto Banús e suas vitrines de alta-costura.",
+    "whatToDo": [
+      "Combine a loja com um passeio pela marina de Puerto Banús e suas vitrines de alta-costura"
+    ],
     "kingTip": "Peça o serviço de personal shopper 'Suite Xquisit' para atendimento reservado e climatizado.",
     "priceLevel": "€€€€",
     "hours": {
-      "openDays": "Seg–Sáb",
-      "openHour": "10:00",
-      "closeHour": "22:00",
-      "note": "Domingos e feriados com horário especial."
+      "openDays": [
+        1,
+        6
+      ],
+      "openHour": 10,
+      "closeHour": 22,
+      "note": "Seg–Sáb · Domingos e feriados com horário especial."
     },
     "links": [
       {
@@ -10413,14 +10955,19 @@ export const extraAttractions: Attraction[] = [
     "durationLabel": "3–4 h (com acessos)",
     "fit": "CLEAR_SKY",
     "mapQuery": "Caminito del Rey, acceso norte, Ardales",
-    "whatToDo": "Reserve o horário com antecedência, retire capacete no acesso norte e faça o percurso de norte a sul.",
+    "whatToDo": [
+      "Reserve o horário com antecedência, retire capacete no acesso norte e faça o percurso de norte a sul"
+    ],
     "kingTip": "Julho é escaldante e sem sombra: leve 1,5 L de água por pessoa, chapéu e protetor, e escolha o primeiro horário da manhã. Ingressos esgotam com semanas de antecedência.",
     "priceLevel": "€€",
     "hours": {
-      "openDays": "Ter–Dom",
-      "openHour": "09:30",
-      "closeHour": "15:00",
-      "note": "Fecha às segundas e em dias de vento forte; entrada só com horário reservado."
+      "openDays": [
+        2,
+        7
+      ],
+      "openHour": 9,
+      "closeHour": 15,
+      "note": "Ter–Dom · Fecha às segundas e em dias de vento forte; entrada só com horário reservado."
     },
     "links": [
       {
@@ -10442,14 +10989,15 @@ export const extraAttractions: Attraction[] = [
     "durationLabel": "2–3 h",
     "fit": "CLEAR_SKY",
     "mapQuery": "Centro de Visitantes Torcal Alto, Antequera",
-    "whatToDo": "Faça a Ruta Verde (1,5 km) ou a Amarilla (3 km) a partir do centro de visitantes Torcal Alto.",
+    "whatToDo": [
+      "Faça a Ruta Verde (1,5 km) ou a Amarilla (3 km) a partir do centro de visitantes Torcal Alto"
+    ],
     "kingTip": "No verão o acesso ao parking alto é restrito e há lanzadera paga; chegue cedo, leve água e evite o meio-dia, quando a pedra irradia calor.",
     "priceLevel": "€",
     "hours": {
-      "openDays": "Todos os dias",
-      "openHour": "10:00",
-      "closeHour": "19:00",
-      "note": "Abr–out até 19h; entrada ao parque gratuita, estacionamento com lanzadera na alta temporada."
+      "openHour": 10,
+      "closeHour": 19,
+      "note": "Todos os dias · Abr–out até 19h; entrada ao parque gratuita, estacionamento com lanzadera na alta temporada."
     },
     "links": [
       {
@@ -10470,14 +11018,15 @@ export const extraAttractions: Attraction[] = [
     "durationLabel": "1–1,5 h",
     "fit": "ANY",
     "mapQuery": "Cueva de Nerja, Maro, Nerja",
-    "whatToDo": "Reserve horário online e percorra as galerias iluminadas até a grande coluna central.",
+    "whatToDo": [
+      "Reserve horário online e percorra as galerias iluminadas até a grande coluna central"
+    ],
     "kingTip": "A gruta é coberta e fresca (uns 20°C), mas o acesso e a fila são ao ar livre; compre o ingresso com hora marcada para pular a espera no sol.",
     "priceLevel": "€€",
     "hours": {
-      "openDays": "Todos os dias",
-      "openHour": "09:30",
-      "closeHour": "16:30",
-      "note": "Horário ampliado no verão; entrada por sessão com hora marcada."
+      "openHour": 9,
+      "closeHour": 16,
+      "note": "Todos os dias · Horário ampliado no verão; entrada por sessão com hora marcada."
     },
     "links": [
       {
@@ -10499,14 +11048,19 @@ export const extraAttractions: Attraction[] = [
     "durationLabel": "1,5–2 h",
     "fit": "CLEAR_SKY",
     "mapQuery": "Jardín Botánico La Concepción, Málaga",
-    "whatToDo": "Siga a rota principal até a pérgola de glicínias e o mirante com vista para Málaga.",
+    "whatToDo": [
+      "Siga a rota principal até a pérgola de glicínias e o mirante com vista para Málaga"
+    ],
     "kingTip": "A copa das árvores dá sombra generosa, mas leve água e vá pela manhã; às segundas o jardim fecha.",
     "priceLevel": "€",
     "hours": {
-      "openDays": "Ter–Dom",
-      "openHour": "09:30",
-      "closeHour": "20:30",
-      "note": "Abr–set até 20:30; fechado às segundas."
+      "openDays": [
+        2,
+        7
+      ],
+      "openHour": 9,
+      "closeHour": 20,
+      "note": "Ter–Dom · Abr–set até 20:30; fechado às segundas."
     },
     "links": [
       {
@@ -10528,7 +11082,9 @@ export const extraAttractions: Attraction[] = [
     "durationLabel": "2–4 h",
     "fit": "CLEAR_SKY",
     "mapQuery": "Playa de Maro, Nerja",
-    "whatToDo": "Desça a trilha até a praia, mergulhe nas águas transparentes e explore as calas vizinhas de caiaque.",
+    "whatToDo": [
+      "Desça a trilha até a praia, mergulhe nas águas transparentes e explore as calas vizinhas de caiaque"
+    ],
     "kingTip": "O estacionamento (30–40 vagas) lota antes das 9h30 em julho; chegue cedo ou use a lanzadera paga, e leve água, pois há pouca sombra.",
     "priceLevel": "€",
     "links": [
@@ -10551,7 +11107,10 @@ export const extraAttractions: Attraction[] = [
     "durationLabel": "20–40 min",
     "fit": "CLEAR_SKY",
     "mapQuery": "Balcón de Europa, Nerja",
-    "whatToDo": "Caminhe até a ponta do balcão ao amanhecer, antes do calor e das multidões; desça depois às calas laterais.",
+    "whatToDo": [
+      "Caminhe até a ponta do balcão ao amanhecer, antes do calor e das multidões",
+      "desça depois às calas laterais"
+    ],
     "kingTip": "Chegue antes das 9h ou perto do pôr do sol: a luz rasante sobre o mar rende as melhores fotos e o terraço fica quase vazio.",
     "priceLevel": "Gratuito",
     "history": "Ocupa o antigo baluarte de uma bateria costeira do século XVI; o nome atual foi popularizado após a visita de Afonso XII em 1885."
@@ -10568,7 +11127,9 @@ export const extraAttractions: Attraction[] = [
     "durationLabel": "1–2 h",
     "fit": "ANY",
     "mapQuery": "Barribarto, Frigiliana",
-    "whatToDo": "Perca-se a pé pelas vielas do Barribarto, siga os painéis de azulejos e suba até os miradouros do topo da vila.",
+    "whatToDo": [
+      "Perca-se a pé pelas vielas do Barribarto, siga os painéis de azulejos e suba até os miradouros do topo da vila"
+    ],
     "kingTip": "Estacione na parte baixa e suba a pé: as ruas do casco antigo são estreitas demais para carro e a subida é a essência do passeio.",
     "priceLevel": "Gratuito",
     "history": "O traçado atual remonta ao período andalusí; Frigiliana foi um dos últimos redutos mouriscos, palco da revolta de 1569 no vizinho Peñón."
@@ -10600,7 +11161,9 @@ export const extraAttractions: Attraction[] = [
     "durationLabel": "20–30 min",
     "fit": "CLEAR_SKY",
     "mapQuery": "El Ingenio Frigiliana",
-    "whatToDo": "Aprecie o vale a partir do mirador ao lado do Ingenio e leve um pote de mel de cana como lembrança local.",
+    "whatToDo": [
+      "Aprecie o vale a partir do mirador ao lado do Ingenio e leve um pote de mel de cana como lembrança local"
+    ],
     "kingTip": "O edifício não abre à visita, mas a esquina do mirador ao lado rende a foto clássica de Frigiliana com o mar ao fundo.",
     "priceLevel": "Gratuito (exterior)",
     "history": "O Ingenio ocupa o antigo Palácio dos Condes de Frigiliana; sua produção de mel de cana remonta ao século XVIII e é a última de seu tipo no continente."
@@ -10619,7 +11182,9 @@ export const extraAttractions: Attraction[] = [
     "mapQuery": "Alcazaba de Antequera",
     "kingTip": "Combine o ingresso com a Colegiata de Santa María, ao lado, e suba à Torre del Homenaje para o melhor enquadramento da Peña.",
     "priceLevel": "€€ (ingresso conjunto ~€6, estimativa)",
-    "hours": "Aberta diariamente; conferir horário de verão no site oficial",
+    "hours": {
+      "note": "Aberta diariamente; conferir horário de verão no site oficial"
+    },
     "links": [
       {
         "label": "Turismo de Antequera",
@@ -10657,7 +11222,9 @@ export const extraAttractions: Attraction[] = [
     "mapQuery": "Dólmenes de Antequera",
     "kingTip": "Entre no dólmen de Menga e observe a abertura alinhada à Peña de los Enamorados no horizonte: um dos poucos megálitos do mundo orientado para um marco natural.",
     "priceLevel": "Gratuito",
-    "hours": "Terça a domingo; fechado às segundas. Conferir horário de verão.",
+    "hours": {
+      "note": "Terça a domingo; fechado às segundas. Conferir horário de verão."
+    },
     "links": [
       {
         "label": "Sítio dos Dólmenes (Junta de Andalucía)",
@@ -10694,7 +11261,9 @@ export const extraAttractions: Attraction[] = [
     "durationLabel": "1–1,5 h",
     "fit": "ANY",
     "mapQuery": "Plaza de los Naranjos, Marbella",
-    "whatToDo": "Vagueie pelas vielas do casco antigo, faça uma pausa à sombra das laranjeiras da praça e observe a Ermita de Santiago.",
+    "whatToDo": [
+      "Vagueie pelas vielas do casco antigo, faça uma pausa à sombra das laranjeiras da praça e observe a Ermita de Santiago"
+    ],
     "kingTip": "Visite no fim da tarde, quando as fachadas brancas ganham luz dourada e as ruas ficam mais frescas que o calçadão da praia.",
     "priceLevel": "Gratuito",
     "history": "A Plaza de los Naranjos foi traçada após a conquista cristã de 1485, reunindo edifícios civis, religiosos e a antiga sede do concelho."
@@ -10711,7 +11280,9 @@ export const extraAttractions: Attraction[] = [
     "durationLabel": "1–2 h",
     "fit": "ANY",
     "mapQuery": "Puerto Banús, Marbella",
-    "whatToDo": "Passeie pelas docas admirando os iates, veja a escultura 'Rinoceronte alado' de Dalí e explore as galerias de grifes.",
+    "whatToDo": [
+      "Passeie pelas docas admirando os iates, veja a escultura 'Rinoceronte alado' de Dalí e explore as galerias de grifes"
+    ],
     "kingTip": "Vá ao entardecer: os iates acendem as luzes, o calor cede e o desfile de carros e barcos fica no auge.",
     "priceLevel": "Gratuito (passeio)",
     "history": "Idealizado pelo empresário José Banús e inaugurado em 1970 com uma festa que reuniu a jet set internacional, tornou-se símbolo do turismo de luxo espanhol."
@@ -10728,7 +11299,9 @@ export const extraAttractions: Attraction[] = [
     "durationLabel": "30–45 min",
     "fit": "ANY",
     "mapQuery": "Avenida del Mar, Marbella",
-    "whatToDo": "Percorra a alameda de ponta a ponta, identificando cada uma das dez esculturas de Dalí até desembocar no calçadão.",
+    "whatToDo": [
+      "Percorra a alameda de ponta a ponta, identificando cada uma das dez esculturas de Dalí até desembocar no calçadão"
+    ],
     "kingTip": "Faça o trajeto do casco antigo em direção ao mar: você termina o passeio no Paseo Marítimo com a praia à frente.",
     "priceLevel": "Gratuito",
     "history": "As dez esculturas de bronze de Dalí foram instaladas na avenida em 2003, integrando arte surrealista ao urbanismo do centro."
@@ -10760,7 +11333,9 @@ export const extraAttractions: Attraction[] = [
     "durationLabel": "30–45 min",
     "fit": "CLEAR_SKY",
     "mapQuery": "Puente Nuevo, Ronda",
-    "whatToDo": "Atravesse a ponte e desça pelos miradouros laterais (lado do Jardín de Cuenca) para vê-la de baixo e de perfil.",
+    "whatToDo": [
+      "Atravesse a ponte e desça pelos miradouros laterais (lado do Jardín de Cuenca) para vê-la de baixo e de perfil"
+    ],
     "kingTip": "A foto clássica com a ponte inteira sobre o abismo é do lado sul, a partir do caminho do Mirador de Aldehuela ou dos Jardines de Cuenca, do outro lado do Tajo.",
     "priceLevel": "Gratuito (ponte); centro de interpretação €€ estimativa",
     "history": "Concluída em 1793 após décadas de obras sobre o Tajo, a câmara interna sobre o arco já serviu de prisão e centro de interpretação."
@@ -10778,7 +11353,9 @@ export const extraAttractions: Attraction[] = [
     "fit": "ANY",
     "mapQuery": "Plaza de Toros de Ronda",
     "priceLevel": "€€ (ingresso ~€9, estimativa)",
-    "hours": "Aberta diariamente; horário ampliado no verão",
+    "hours": {
+      "note": "Aberta diariamente; horário ampliado no verão"
+    },
     "links": [
       {
         "label": "Real Maestranza de Ronda",
@@ -10815,7 +11392,9 @@ export const extraAttractions: Attraction[] = [
     "durationLabel": "45 min–1 h",
     "fit": "ANY",
     "mapQuery": "Casa del Rey Moro, Ronda",
-    "whatToDo": "Desça a Mina de Agua até o leito do Tajo e, do outro lado, aprecie a ponte a partir dos Jardines de Cuenca.",
+    "whatToDo": [
+      "Desça a Mina de Agua até o leito do Tajo e, do outro lado, aprecie a ponte a partir dos Jardines de Cuenca"
+    ],
     "kingTip": "Use calçado firme: os degraus da mina são úmidos e irregulares. A recompensa é ver o Tajo do fundo, onde poucos chegam.",
     "priceLevel": "€€ (ingresso ~€8, estimativa)",
     "history": "A mina foi escavada no século XIV para garantir água à cidade em cerco; os jardins foram redesenhados por Jean-Claude Forestier no início do século XX."
