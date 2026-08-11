@@ -140,8 +140,9 @@ export async function renderDayVideo(opts: VideoOpts): Promise<Blob> {
   const canvas = document.createElement('canvas');
   canvas.width = W;
   canvas.height = H;
-  const ctx = canvas.getContext('2d');
-  if (!ctx) throw new Error('no 2d context');
+  const ctx2d = canvas.getContext('2d');
+  if (!ctx2d) throw new Error('no 2d context');
+  const ctx: CanvasRenderingContext2D = ctx2d; // mantém o narrowing dentro dos closures
 
   opts.onProgress?.('Carregando fotos…');
   const imgs: HTMLImageElement[] = [];

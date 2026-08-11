@@ -93,7 +93,8 @@ export const categories: Category[] = [
   { id: 'natureza', title: 'Natureza & aventura', emoji: '🌿', summary: 'O Caminito del Rey pendurado no desfiladeiro, o mar de rochas de El Torcal, as grutas de Nerja e os jardins de La Concepción.', gradient: ['#2A7E4E', '#6FB88A'], image: 'natureza.jpg' },
   { id: 'cafe', title: 'Cafés & doces', emoji: '☕', summary: 'Churros com chocolate na Casa Aranda, o café de especialidade do Soho e o gelato para o calor. A pausa doce entre passeios.', gradient: ['#6B4A2B', '#B98E5E'], image: 'cafe.jpg' },
   { id: 'compras', title: 'Compras & mercados', emoji: '🛍️', summary: 'O Mercado de Atarazanas, a Calle Larios, artesanato andaluz e cerâmica. Do peixe fresco às marcas na Milla de Oro.', gradient: ['#B5651D', '#E0A458'], image: 'compras.jpg' },
-  { id: 'hospedagem', title: 'Onde ficar — hotéis & flats', emoji: '🛏️', summary: 'Hotéis-boutique, 5 estrelas à beira-mar e flats/Airbnb selecionados por zona. Compare, reserve por fora e registre em "Minhas reservas".', gradient: ['#37607A', '#7FA8C0'], image: 'hospedagem.jpg' }
+  { id: 'hospedagem', title: 'Onde ficar — hotéis & flats', emoji: '🛏️', summary: 'Hotéis-boutique, 5 estrelas à beira-mar e flats/Airbnb selecionados por zona. Compare, reserve por fora e registre em "Minhas reservas".', gradient: ['#37607A', '#7FA8C0'], image: 'hospedagem.jpg' },
+  { id: 'ativos', title: 'Esportes & aventura', emoji: '⛳', summary: 'Golfe em Valderrama e Finca Cortesín, kayak nos acantilados de Maro, mergulho, kitesurf em Tarifa, delfines no Estreito e visita a La Rosaleda. O guia dos que gostam de fazer, não só de ver.', gradient: ['#146B4A', '#5FBF95'], image: 'ativos.jpg' }
 ];
 
 // As 7 zonas/bases da viagem. Os ids batem com os das categorias-destino,

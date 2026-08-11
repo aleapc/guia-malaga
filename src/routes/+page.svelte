@@ -136,18 +136,25 @@
     </div>
   </section>
 
-  <!-- Atalho do álbum -->
-  <a
-    href="{base}/album"
-    class="flex items-center gap-3 rounded-2xl bg-gradient-to-r from-teal to-forest p-4 text-white shadow-sm"
-  >
-    <span class="text-3xl">🎞️</span>
-    <div class="min-w-0 flex-1">
-      <p class="font-bold leading-tight">Álbum da viagem</p>
-      <p class="text-xs text-white/85">Fotos, narrações, mapa e vídeo do dia</p>
-    </div>
-    <span class="text-2xl">›</span>
-  </a>
+  <!-- Atalhos rápidos: agenda, voos, reservas e álbum -->
+  <section class="grid grid-cols-2 gap-3">
+    <a href="{base}/acontece" class="flex items-center gap-3 rounded-2xl bg-gradient-to-br from-ember to-deep p-3.5 text-white shadow-sm">
+      <span class="text-2xl">📅</span>
+      <span class="min-w-0"><span class="block text-sm font-bold leading-tight">Acontece agora</span><span class="block text-[11px] text-white/85">Shows, festivais, esporte</span></span>
+    </a>
+    <a href="{base}/voos" class="flex items-center gap-3 rounded-2xl bg-gradient-to-br from-teal to-deep p-3.5 text-white shadow-sm">
+      <span class="text-2xl">🛫</span>
+      <span class="min-w-0"><span class="block text-sm font-bold leading-tight">Voos</span><span class="block text-[11px] text-white/85">Ida, volta e conexões</span></span>
+    </a>
+    <a href="{base}/reservas" class="flex items-center gap-3 rounded-2xl bg-gradient-to-br from-forest to-teal p-3.5 text-white shadow-sm">
+      <span class="text-2xl">🎫</span>
+      <span class="min-w-0"><span class="block text-sm font-bold leading-tight">Minhas reservas</span><span class="block text-[11px] text-white/85">Hotel, passeios, transfers</span></span>
+    </a>
+    <a href="{base}/album" class="flex items-center gap-3 rounded-2xl bg-gradient-to-br from-teal to-forest p-3.5 text-white shadow-sm">
+      <span class="text-2xl">🎞️</span>
+      <span class="min-w-0"><span class="block text-sm font-bold leading-tight">Álbum da viagem</span><span class="block text-[11px] text-white/85">Fotos, narrações, vídeo</span></span>
+    </a>
+  </section>
 
   <!-- Previsão -->
   <section>

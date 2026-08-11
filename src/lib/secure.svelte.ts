@@ -32,11 +32,15 @@ const dec = new TextDecoder();
 function bufToB64(b: ArrayBuffer): string {
   return btoa(String.fromCharCode(...new Uint8Array(b)));
 }
-function b64ToBuf(s: string): Uint8Array {
-  return Uint8Array.from(atob(s), (c) => c.charCodeAt(0));
+// Uint8Array<ArrayBuffer> (e não ArrayBufferLike) porque a WebCrypto exige BufferSource.
+function b64ToBuf(s: string): Uint8Array<ArrayBuffer> {
+  const bin = atob(s);
+  const out = new Uint8Array(new ArrayBuffer(bin.length));
+  for (let i = 0; i < bin.length; i++) out[i] = bin.charCodeAt(i);
+  return out;
 }
 
-async function derive(pin: string, salt: Uint8Array): Promise<CryptoKey> {
+async function derive(pin: string, salt: Uint8Array<ArrayBuffer>): Promise<CryptoKey> {
   const base = await crypto.subtle.importKey('raw', enc.encode(pin), 'PBKDF2', false, ['deriveKey']);
   return crypto.subtle.deriveKey(
     { name: 'PBKDF2', salt, iterations: 600000, hash: 'SHA-256' },
