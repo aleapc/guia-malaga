@@ -1,0 +1,286 @@
+[
+  {
+    "id": "atv_valderrama_golf",
+    "categoryId": "ativos",
+    "city": "cadiz",
+    "name": "Real Club Valderrama",
+    "tagline": "O campo mais famoso da Europa continental",
+    "description": "Par 71 desenhado por Robert Trent Jones em Sotogrande, palco da única Ryder Cup jogada na Espanha (1997) e sede histórica do Volvo Masters. Fairways lentos, greens vingativos e o icônico buraco 17 sobre o lago. Reserva com meses de antecedência e código de vestimenta rígido — é o Augusta dos europeus.",
+    "whatToDo": [
+      "Jogue os 18 buracos do Championship Course pela manhã (as tee times boas saem cedo)",
+      "Se não for jogar, faça o tour do clube (mediante pedido e disponibilidade)",
+      "Reserve almoço no clubhouse: o menu do chef é um dos melhores da comarca"
+    ],
+    "kingTip": "Green fee de convidado só na 3ª e 5ª; reserve com 2–3 meses. Julho é caro e cedo é obrigatório — 1h a mais no calor do Andaluz custa caro no cartão.",
+    "priceLevel": "€400+ green fee (est.)",
+    "lat": 36.29254,
+    "lng": -5.30512,
+    "durationLabel": "5–6h",
+    "fit": "CLEAR_SKY",
+    "windSensitive": true,
+    "mapQuery": "Real Club Valderrama, Sotogrande",
+    "links": [
+      { "label": "Site oficial", "url": "https://www.valderrama.com" }
+    ]
+  },
+  {
+    "id": "atv_finca_cortesin_golf",
+    "categoryId": "ativos",
+    "city": "marbella",
+    "name": "Finca Cortesín Golf Club",
+    "tagline": "Sede da Solheim Cup 2023",
+    "description": "6800m desenhados por Cabell Robinson entre montanha e mar, ao lado do hotel 5* de Casares. Fairways generosos, mais de 100 bunkers e greens em bentgrass mantidos como campeonato o ano inteiro. Recebeu o Volvo World Match Play (3×) e a Solheim Cup de 2023 — hoje é o alto luxo do golfe andaluz aberto ao green fee.",
+    "whatToDo": [
+      "Jogue os 18 buracos e almoce no clubhouse com vista para o Estreito",
+      "Combine com a piscina/spa do hotel se ficar hospedado",
+      "Pratique no putting green (um dos maiores da Europa) antes do tee time"
+    ],
+    "kingTip": "Green fee alto compensa se você joga em passeio único; para golfe intenso, o pacote de 3 rodadas no La Cala Resort custa metade e é o mesmo padrão de manutenção.",
+    "priceLevel": "€300+ green fee (est.)",
+    "lat": 36.44087,
+    "lng": -5.24614,
+    "durationLabel": "5h",
+    "fit": "CLEAR_SKY",
+    "windSensitive": true,
+    "mapQuery": "Finca Cortesin Golf Club, Casares",
+    "links": [
+      { "label": "Finca Cortesín Golf", "url": "https://www.fincacortesin.com/golf/" }
+    ]
+  },
+  {
+    "id": "atv_la_cala_golf",
+    "categoryId": "ativos",
+    "city": "marbella",
+    "name": "La Cala Resort",
+    "tagline": "O maior resort de golfe da Espanha (3 campos)",
+    "description": "Três campos de 18 buracos (Asia, America, Europa) desenhados por Cabell Robinson, num resort de golfe integral em Mijas com hotel 4*, academia e spa. É o endereço para quem quer jogar 3–4 rodadas em dias diferentes sem sair do complexo. Melhor custo-benefício da Costa del Sol na categoria alta.",
+    "whatToDo": [
+      "Combine o pacote 'unlimited golf' se ficar 3+ noites hospedado",
+      "Jogue Asia (o mais técnico) numa manhã e America (mais aberto) na outra",
+      "Aproveite o spa e a academia entre rodadas"
+    ],
+    "kingTip": "Reserve tee time cedo (7h–8h) — em julho o campo fica impraticável depois das 12h por causa do calor.",
+    "priceLevel": "€130–190 green fee (est.)",
+    "lat": 36.53821,
+    "lng": -4.68217,
+    "durationLabel": "4–5h",
+    "fit": "CLEAR_SKY",
+    "windSensitive": true,
+    "mapQuery": "La Cala Resort, Mijas",
+    "links": [
+      { "label": "La Cala Resort", "url": "https://www.lacala.com" }
+    ]
+  },
+  {
+    "id": "atv_educare_kayak_maro",
+    "categoryId": "ativos",
+    "city": "axarquia",
+    "name": "Kayak nos acantilados de Maro",
+    "tagline": "A rota guiada de 2h30 pelas grutas e cascatas",
+    "description": "A Educare Aventura é a única concessionária autorizada da Playa de Burriana (código ZN35) para levar caiaques até os acantilados de Maro–Cerro Gordo — reserva marinha protegida. A rota passa pela Cueva del Lobo Marino, pelas cascatas de La Doncella e Maro, e por calas só acessíveis pelo mar. Snorkel incluído.",
+    "whatToDo": [
+      "Reserve a rota das 9h (mar mais calmo, sol menos duro)",
+      "Leve creme mineral, chinelo de água e câmera à prova d'água",
+      "Alugue duplas se for com criança pequena — instrutor conduz um dos remos"
+    ],
+    "kingTip": "Julho lota; reserve com 10–15 dias. A rota mais longa (4h) inclui a Cascada Grande e o Barranco de Maro — vale muito a pena se estiverem em forma.",
+    "priceLevel": "€26 adulto, €17 criança 8–15 (est.)",
+    "lat": 36.72832,
+    "lng": -3.86815,
+    "durationLabel": "2h30",
+    "fit": "CLEAR_SKY",
+    "windSensitive": true,
+    "mapQuery": "Educare Aventura, Playa de Burriana, Nerja",
+    "links": [
+      { "label": "Educare Aventura", "url": "https://educare-aventura.com" }
+    ]
+  },
+  {
+    "id": "atv_buceo_costa_nerja",
+    "categoryId": "ativos",
+    "city": "axarquia",
+    "name": "Buceo Costa Nerja",
+    "tagline": "Mergulho PADI 5* na reserva marinha de Maro",
+    "description": "Centro PADI 5 Star instalado na Marina del Este (La Herradura, 20 min de Nerja), líder da Axarquía. Bautismo de mar a partir de €95 com equipamento incluído e briefing em português (guias falam). Também organizam saídas para grutas submarinas e para o naufrágio de La Herradura.",
+    "whatToDo": [
+      "Faça o bautismo de barco na Punta de la Mona — 1h de água, saída de manhã",
+      "Se já tem Open Water, feche saída de dupla immersão pelos cañones",
+      "Combine com uma sessão de snorkel guiado se levar crianças menores"
+    ],
+    "kingTip": "Peça equipamento seco no verão europeu — a água em Maro fica em 20–22°C e um shorty é insuficiente para bautismos longos.",
+    "priceLevel": "€95 bautismo (est.)",
+    "lat": 36.72885,
+    "lng": -3.72946,
+    "durationLabel": "3h",
+    "fit": "ANY",
+    "mapQuery": "Buceo Costa Nerja, Marina del Este, La Herradura",
+    "links": [
+      { "label": "Buceo Costa Nerja", "url": "https://www.nerjadiving.com" }
+    ]
+  },
+  {
+    "id": "atv_bucea_marbella",
+    "categoryId": "ativos",
+    "city": "marbella",
+    "name": "Bucea en Marbella",
+    "tagline": "Único PADI 5* com Nitrox de Marbella",
+    "description": "Centro urbano ao lado de Puerto Banús com todo o cardápio PADI (do bautismo ao Divemaster) e a única sala de Nitrox de Marbella. Saídas diárias para os melhores pontos da baía: La Bajita, Piedras de Cabopino e o naufrágio do 'Dolphin'. Instrutores multilíngues.",
+    "whatToDo": [
+      "Bautismo de meio dia se nunca mergulhou (inclui equipamento, briefing e 2 imersões rasas)",
+      "Se é certificado, feche saída Nitrox para os pontos mais profundos",
+      "Reserve com antecedência em julho — 2 saídas por dia esgotam"
+    ],
+    "kingTip": "A visibilidade em Marbella é menor que em Maro (5–10 m contra 15–25 m); para foto submarina séria, prefira a Axarquía.",
+    "priceLevel": "€90–130 bautismo (est.)",
+    "lat": 36.48752,
+    "lng": -4.95328,
+    "durationLabel": "3–4h",
+    "fit": "ANY",
+    "mapQuery": "Bucea en Marbella, Puerto Deportivo",
+    "links": [
+      { "label": "Bucea en Marbella", "url": "https://www.buceaenmarbella.com" }
+    ]
+  },
+  {
+    "id": "atv_kite_tarifa_kitepassion",
+    "categoryId": "ativos",
+    "city": "cadiz",
+    "name": "KitePassion Tarifa (kitesurf)",
+    "tagline": "Escola-referência na 'capital europeia do kite'",
+    "description": "Fundada por competidores holandeses no ponto exato onde o Mediterrâneo encontra o Atlântico. Levante fortíssimo em julho — condições ideais para curso intensivo. Equipamento North novo, sala de teoria, rádio-comunicação com o instrutor no water e transfer da praia. Aulas em espanhol, inglês, francês e português.",
+    "whatToDo": [
+      "Curso completo iniciante: 9h em 3 dias, do vento à primeira decolagem",
+      "Se já pilota, alugue equipamento e vá para Los Lances Norte (level up rápido)",
+      "Reserve alojamento em Tarifa vila: são 4h de estrada de Málaga, não vale só o dia"
+    ],
+    "kingTip": "Julho é o mês do levante — vento constante 20–30 nós; se levar não-kiter junto, avise: o vento derruba sombreiro e vira jantar de praia.",
+    "priceLevel": "€330 curso 3 dias (est.)",
+    "lat": 36.03278,
+    "lng": -5.61091,
+    "durationLabel": "3 dias",
+    "fit": "CLEAR_SKY",
+    "windSensitive": false,
+    "mapQuery": "KitePassion Tarifa",
+    "links": [
+      { "label": "KitePassion", "url": "https://tarifakitepassion.com" }
+    ]
+  },
+  {
+    "id": "atv_dolphin_watching_gibraltar",
+    "categoryId": "ativos",
+    "city": "gibraltar",
+    "name": "Avistamento de golfinhos no Estreito",
+    "tagline": "Golfinhos-nariz-de-garrafa e listrados a 90 min de barco",
+    "description": "O Estreito de Gibraltar é um dos melhores pontos do mundo para ver golfinhos: três espécies residentes (nariz-de-garrafa, comum e listrado) o ano todo, e cachalotes/baleias-piloto no verão. Saídas em catamarã da Marina Bay (Gibraltar) ou Alcaidesa (La Línea). Muitos combos incluem tour a Gibraltar de manhã e barco à tarde.",
+    "whatToDo": [
+      "Prefira o pacote combo (Gibraltar + delfines) — o transfer sozinho já custa quase o mesmo",
+      "Reserve saídas de manhã em julho (tarde fica com vento e mar mexido)",
+      "Leve boné, óculos escuros, filtro solar e chapéu de sol para as crianças"
+    ],
+    "kingTip": "Não se garante avistamento, mas na prática a taxa é > 90% no verão. Se o mar estiver ruim, reagende — não vá com criança pequena com ondulação forte.",
+    "priceLevel": "€45–65 adulto (est.)",
+    "lat": 36.14431,
+    "lng": -5.35266,
+    "durationLabel": "1h30 no mar",
+    "fit": "CLEAR_SKY",
+    "windSensitive": true,
+    "mapQuery": "Dolphin Adventure, Marina Bay, Gibraltar",
+    "links": [
+      { "label": "Dolphin Adventure", "url": "https://dolphin.gi" }
+    ]
+  },
+  {
+    "id": "atv_la_rosaleda_tour",
+    "categoryId": "ativos",
+    "city": "malaga",
+    "name": "Tour do Estádio La Rosaleda (Málaga CF)",
+    "tagline": "A Rosaleda por dentro: vestiário, tribuna e museu",
+    "description": "Visita guiada de 1h pelo estádio do Málaga CF: túnel dos jogadores, banco de reservas, vestiário, sala de imprensa, tribuna presidencial e o museu de 120 anos do clube. La Rosaleda recebeu partidas da Copa do Mundo de 1982 e viu jogar Pelé, Di Stéfano e Cruyff. Encaixa numa manhã antes do calor apertar.",
+    "whatToDo": [
+      "Compre o tour online (evita fila; ingresso retirado 5 min antes na bilheteria)",
+      "Se der, encaixe num dia sem jogo — na semana de partida o vestiário fecha",
+      "Combine com o passeio no Muelle Uno (10 min de metrô) para o resto da manhã"
+    ],
+    "kingTip": "É um tour de time de 2ª divisão, não Real Madrid — vá pela história de 82 e pela paixão local, não esperando cristais.",
+    "priceLevel": "€16 (est.)",
+    "lat": 36.72085,
+    "lng": -4.43108,
+    "durationLabel": "1h",
+    "fit": "INDOOR",
+    "mapQuery": "Estadio La Rosaleda, Málaga",
+    "links": [
+      { "label": "Tour oficial Málaga CF", "url": "https://www.malagacf.com/en/malaga-cf-museum-tour-route" }
+    ]
+  },
+  {
+    "id": "atv_padel_marbella_ocean",
+    "categoryId": "ativos",
+    "city": "marbella",
+    "name": "Ocean Padel Marbella",
+    "tagline": "Aluguel de quadras e aulas de padel na Costa del Sol",
+    "description": "Um dos maiores clubes de padel de Marbella, com quadras cobertas e ao ar livre. Aluguel por hora, aulas particulares e clínicas em grupo com instrutores da liga espanhola. Ideal para uma manhã ou fim de tarde ativos, entre os passeios culturais.",
+    "whatToDo": [
+      "Reserve quadra de 90 min pela app (fim de tarde tem mais gente para pareamento)",
+      "Se nunca jogou padel, feche aula de 60 min — a curva é rápida",
+      "Traga tênis de padel e água; raquete pode alugar no clube"
+    ],
+    "kingTip": "Julho pede quadras cobertas ou horário depois das 19h — sol andaluz seca o jogador em 20 min de solteiras.",
+    "priceLevel": "€20–30/h quadra (est.)",
+    "lat": 36.51263,
+    "lng": -4.87441,
+    "durationLabel": "1h30",
+    "fit": "INDOOR",
+    "mapQuery": "Ocean Padel Marbella",
+    "links": [
+      { "label": "Ocean Padel", "url": "https://oceanpadel.com" }
+    ]
+  },
+  {
+    "id": "atv_e_bike_caminito",
+    "categoryId": "ativos",
+    "city": "antequera",
+    "name": "E-bike no entorno do Caminito del Rey",
+    "tagline": "Trilhas de bike elétrica pelas montanhas do Chorro",
+    "description": "Passeio guiado de meio dia com bicicleta elétrica pelos caminhos da serra que envolve o Caminito, com paradas no Embalse de Guadalhorce e nos miradores do desfiladeiro. Boa alternativa se você já fez o Caminito e quer voltar à região sem repetir o passeio.",
+    "whatToDo": [
+      "Reserve saída de 8h (calor ainda tolerável no verão andaluz)",
+      "Leve mochila d'água (3L), capacete o clube fornece",
+      "Termine com almoço na El Kiosko, a passos do lago"
+    ],
+    "kingTip": "Não precisa ser ciclista treinado — a bike elétrica faz o trabalho pesado nas subidas. Julho pede sair no máximo às 8h30.",
+    "priceLevel": "€45–65 (est.)",
+    "lat": 36.90921,
+    "lng": -4.75772,
+    "durationLabel": "4h",
+    "fit": "CLEAR_SKY",
+    "windSensitive": false,
+    "mapQuery": "El Chorro, Álora",
+    "links": [
+      { "label": "Caminito del Rey oficial", "url": "https://www.caminitodelrey.info" }
+    ]
+  },
+  {
+    "id": "atv_parapente_algarrobo",
+    "categoryId": "ativos",
+    "city": "axarquia",
+    "name": "Parapente tandem em Algarrobo",
+    "tagline": "Voo duplo com instrutor sobre a Costa del Sol",
+    "description": "Voo tandem (você preso a um instrutor federado) de 20–30 min desde o cerro Cuatro Caminos, com pouso na praia de Algarrobo Costa. Sem experiência prévia; briefing rápido, corrida de decolagem de 5 passos e depois é só planar sobre o Mediterrâneo. Foto/vídeo por câmera fixa na asa.",
+    "whatToDo": [
+      "Reserve saída de 10h (térmicas mais estáveis, menos vento)",
+      "Vá de tênis fechado, calça e óculos escuros",
+      "Peça pacote com foto/vídeo — é o único jeito de guardar a experiência"
+    ],
+    "kingTip": "Se ventar mais de 25 km/h, o voo é cancelado sem multa — não marque no mesmo dia de outro compromisso caro.",
+    "priceLevel": "€90–120 (est.)",
+    "lat": 36.77531,
+    "lng": -4.03612,
+    "durationLabel": "2h no total",
+    "fit": "CLEAR_SKY",
+    "windSensitive": true,
+    "mapQuery": "Parapente Algarrobo Costa",
+    "links": [
+      { "label": "Zero Gravity Parapente", "url": "https://www.zero-gravity.es" }
+    ]
+  }
+]
